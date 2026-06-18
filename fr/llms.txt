@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2922 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2924 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Trouver Emploi Tessin](https://frontaliereticino.ch/fr/trouver-emploi-tessin)
 
-### Blog Articles (2695 pages)
+### Blog Articles (2696 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics)
@@ -289,6 +289,7 @@
 - [Affrontements Lugano Politique Ton](https://frontaliereticino.ch/fr/articles-frontalier/affrontements-lugano-politique-ton)
 - [Affrontements Lugano Violence](https://frontaliereticino.ch/fr/articles-frontalier/affrontements-lugano-violence)
 - [Agence De Formation De Varese Demissions 2026](https://frontaliereticino.ch/fr/articles-frontalier/agence-de-formation-de-varese-demissions-2026)
+- [Agences Interim Lugano Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/agences-interim-lugano-tessin-frontalier)
 - [Agesp Dechets Premier Mai 2026](https://frontaliereticino.ch/fr/articles-frontalier/agesp-dechets-premier-mai-2026)
 - [Aggregation Basso Mendrisiotto Rizza Chiasso A Besoin De Se Critiquer](https://frontaliereticino.ch/fr/articles-frontalier/aggregation-basso-mendrisiotto-rizza-chiasso-a-besoin-de-se-critiquer)
 - [Agriculteurs Varese Defis Bureaucratie](https://frontaliereticino.ch/fr/articles-frontalier/agriculteurs-varese-defis-bureaucratie)
@@ -2905,7 +2906,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (70 pages)
+### Other Pages (71 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2920,6 +2921,7 @@
 - [Chomage Suisse Mai 2026](https://frontaliereticino.ch/fr/articles-suisse/chomage-suisse-mai-2026)
 - [Chomage Transfrontalier Suisse](https://frontaliereticino.ch/fr/articles-suisse/chomage-transfrontalier-suisse)
 - [Depense Rentement Contre L Accord Avec Rome](https://frontaliereticino.ch/fr/articles-suisse/depense-rentement-contre-l-accord-avec-rome)
+- [Frontaliers Bloquer Reduire Restitutions Rome](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-bloquer-reduire-restitutions-rome)
 - [Frontaliers Oui Definitif Travail A Distance](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-oui-definitif-travail-a-distance)
 - [Impot A La Source Frontaliers Tessin](https://frontaliereticino.ch/fr/articles-suisse/impot-a-la-source-frontaliers-tessin)
 - [Impot Source Basel](https://frontaliereticino.ch/fr/articles-suisse/impot-source-basel)
