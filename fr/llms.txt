@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2926 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2928 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2906,7 +2906,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (73 pages)
+### Other Pages (75 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2921,6 +2921,8 @@
 - [Chomage Suisse Mai 2026](https://frontaliereticino.ch/fr/articles-suisse/chomage-suisse-mai-2026)
 - [Chomage Transfrontalier Suisse](https://frontaliereticino.ch/fr/articles-suisse/chomage-transfrontalier-suisse)
 - [Depense Rentement Contre L Accord Avec Rome](https://frontaliereticino.ch/fr/articles-suisse/depense-rentement-contre-l-accord-avec-rome)
+- [Douane Gaggiolo Stabio](https://frontaliereticino.ch/fr/articles-suisse/douane-gaggiolo-stabio)
+- [Energie Nucleaire 13avs Salaires Votes](https://frontaliereticino.ch/fr/articles-suisse/energie-nucleaire-13avs-salaires-votes)
 - [Frontaliers Bloquer Reduire Restitutions Rome](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-bloquer-reduire-restitutions-rome)
 - [Frontaliers Oui Definitif Travail A Distance](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-oui-definitif-travail-a-distance)
 - [Frontiere Chiasso Suisse](https://frontaliereticino.ch/fr/articles-suisse/frontiere-chiasso-suisse)
