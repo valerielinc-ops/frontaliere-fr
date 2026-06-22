@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2933 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2935 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2906,7 +2906,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (80 pages)
+### Other Pages (82 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2936,6 +2936,8 @@
 - [Neutralisation Des Estimations 2026 Proteger Les Classes Moyennes Et Le Logement](https://frontaliereticino.ch/fr/articles-suisse/neutralisation-des-estimations-2026-proteger-les-classes-moyennes-et-le-logement)
 - [Parlement Avs Protection Adoption](https://frontaliereticino.ch/fr/articles-suisse/parlement-avs-protection-adoption)
 - [Parlement Suisse Pension Tva](https://frontaliereticino.ch/fr/articles-suisse/parlement-suisse-pension-tva)
+- [Pensions Avs A Letranger Conditions](https://frontaliereticino.ch/fr/articles-suisse/pensions-avs-a-letranger-conditions)
+- [Piero Marchesi Claudio Zali Liste Autonome](https://frontaliereticino.ch/fr/articles-suisse/piero-marchesi-claudio-zali-liste-autonome)
 - [Prelevement Suissier Avs Inps 2026 Famille Avec Enfants](https://frontaliereticino.ch/fr/articles-suisse/prelevement-suissier-avs-inps-2026-famille-avec-enfants)
 - [Prestations Lpp Suisse Imposition](https://frontaliereticino.ch/fr/articles-suisse/prestations-lpp-suisse-imposition)
 - [Primes Maladie Ticino](https://frontaliereticino.ch/fr/articles-suisse/primes-maladie-ticino)
