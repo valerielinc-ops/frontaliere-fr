@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2944 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2950 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Trouver Emploi Tessin](https://frontaliereticino.ch/fr/trouver-emploi-tessin)
 
-### Blog Articles (2699 pages)
+### Blog Articles (2701 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics)
@@ -433,6 +433,7 @@
 - [Avs 13e Parlement Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/avs-13e-parlement-frontaliers)
 - [Avs 13e Pension Conciliation Tva](https://frontaliereticino.ch/fr/articles-frontalier/avs-13e-pension-conciliation-tva)
 - [Avs 2030 Frontaliers Tessin](https://frontaliereticino.ch/fr/articles-frontalier/avs-2030-frontaliers-tessin)
+- [Avs Demain A 11 Angelo Bonelli En Direct A Adnkronos](https://frontaliereticino.ch/fr/articles-frontalier/avs-demain-a-11-angelo-bonelli-en-direct-a-adnkronos)
 - [Avs Donnees Numeriques Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/avs-donnees-numeriques-frontaliers)
 - [Azzate Koningsdag Console Pays Bas 2026](https://frontaliereticino.ch/fr/articles-frontalier/azzate-koningsdag-console-pays-bas-2026)
 - [Bagarre Lugano Pensilina Botta Blesse 2026](https://frontaliereticino.ch/fr/articles-frontalier/bagarre-lugano-pensilina-botta-blesse-2026)
@@ -2300,6 +2301,7 @@
 - [Satisfaction Des Employes Cantonaux 2026](https://frontaliereticino.ch/fr/articles-frontalier/satisfaction-des-employes-cantonaux-2026)
 - [Sbb Controleurs Bonus Amendes Tessin 2026](https://frontaliereticino.ch/fr/articles-frontalier/sbb-controleurs-bonus-amendes-tessin-2026)
 - [Scende Limite Nevicate Ticino](https://frontaliereticino.ch/fr/articles-frontalier/scende-limite-nevicate-ticino)
+- [Scoiattolo Export Usa Made Italy](https://frontaliereticino.ch/fr/articles-frontalier/scoiattolo-export-usa-made-italy)
 - [Secheresse Ete 2026 Tessin](https://frontaliereticino.ch/fr/articles-frontalier/secheresse-ete-2026-tessin)
 - [Secheresse Lombardie Reserves D Eau 2026](https://frontaliereticino.ch/fr/articles-frontalier/secheresse-lombardie-reserves-d-eau-2026)
 - [Seco Droits Secrets Washington](https://frontaliereticino.ch/fr/articles-frontalier/seco-droits-secrets-washington)
@@ -2909,7 +2911,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (88 pages)
+### Other Pages (92 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2920,6 +2922,7 @@
 - [Avs Financement 13e](https://frontaliereticino.ch/fr/articles-suisse/avs-financement-13e)
 - [Bce Taux Inflation 2023](https://frontaliereticino.ch/fr/articles-suisse/bce-taux-inflation-2023)
 - [Blocage Immigration Tessin](https://frontaliereticino.ch/fr/articles-suisse/blocage-immigration-tessin)
+- [Calcul Impots Frontaliers 20km](https://frontaliereticino.ch/fr/articles-suisse/calcul-impots-frontaliers-20km)
 - [Calcul Salaire Net Frontalier Suisse](https://frontaliereticino.ch/fr/articles-suisse/calcul-salaire-net-frontalier-suisse)
 - [Chomage Suisse Mai 2026](https://frontaliereticino.ch/fr/articles-suisse/chomage-suisse-mai-2026)
 - [Chomage Transfrontalier Suisse](https://frontaliereticino.ch/fr/articles-suisse/chomage-transfrontalier-suisse)
@@ -2929,6 +2932,7 @@
 - [Economistes Ajustent Projections Croissance 2026](https://frontaliereticino.ch/fr/articles-suisse/economistes-ajustent-projections-croissance-2026)
 - [Emigrer Suisse Aspects Fiscaux](https://frontaliereticino.ch/fr/articles-suisse/emigrer-suisse-aspects-fiscaux)
 - [Energie Nucleaire 13avs Salaires Votes](https://frontaliereticino.ch/fr/articles-suisse/energie-nucleaire-13avs-salaires-votes)
+- [Ethos Salaires Ceo Durabilite](https://frontaliereticino.ch/fr/articles-suisse/ethos-salaires-ceo-durabilite)
 - [Financement Partiel 13e Retraite](https://frontaliereticino.ch/fr/articles-suisse/financement-partiel-13e-retraite)
 - [Frontaliers Bloquer Reduire Restitutions Rome](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-bloquer-reduire-restitutions-rome)
 - [Frontaliers Oui Definitif Travail A Distance](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-oui-definitif-travail-a-distance)
@@ -2941,6 +2945,7 @@
 - [Neutralisation Des Estimations 2026 Proteger Les Classes Moyennes Et Le Logement](https://frontaliereticino.ch/fr/articles-suisse/neutralisation-des-estimations-2026-proteger-les-classes-moyennes-et-le-logement)
 - [Options De Residence Suisse Italie 2026 Seul](https://frontaliereticino.ch/fr/articles-suisse/options-de-residence-suisse-italie-2026-seul)
 - [Parlement Avs Protection Adoption](https://frontaliereticino.ch/fr/articles-suisse/parlement-avs-protection-adoption)
+- [Parlement Suisse Lutte Accords Avs](https://frontaliereticino.ch/fr/articles-suisse/parlement-suisse-lutte-accords-avs)
 - [Parlement Suisse Pension Tva](https://frontaliereticino.ch/fr/articles-suisse/parlement-suisse-pension-tva)
 - [Pensions Avs A Letranger Conditions](https://frontaliereticino.ch/fr/articles-suisse/pensions-avs-a-letranger-conditions)
 - [Piero Marchesi Claudio Zali Liste Autonome](https://frontaliereticino.ch/fr/articles-suisse/piero-marchesi-claudio-zali-liste-autonome)
@@ -2958,6 +2963,7 @@
 - [Taxe Sante Frontaliers Retard Rome](https://frontaliereticino.ch/fr/articles-suisse/taxe-sante-frontaliers-retard-rome)
 - [Trains Arretes Stabio Gallarate Incompetence Regionale](https://frontaliereticino.ch/fr/articles-suisse/trains-arretes-stabio-gallarate-incompetence-regionale)
 - [Travail Illegal Salaire Dumping 2025 Suisse](https://frontaliereticino.ch/fr/articles-suisse/travail-illegal-salaire-dumping-2025-suisse)
+- [Travailleurs Frontaliers Donnees Erreur Systemique](https://frontaliereticino.ch/fr/articles-suisse/travailleurs-frontaliers-donnees-erreur-systemique)
 - [Trump Droits De Douane 2026](https://frontaliereticino.ch/fr/articles-suisse/trump-droits-de-douane-2026)
 - [Un Blocage De Restaurants Une Reaction Comprehensible](https://frontaliereticino.ch/fr/articles-suisse/un-blocage-de-restaurants-une-reaction-comprehensible)
 - [Votations Cantonales Juin Salaire Minimum](https://frontaliereticino.ch/fr/articles-suisse/votations-cantonales-juin-salaire-minimum)
