@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2938 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2939 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Trouver Emploi Tessin](https://frontaliereticino.ch/fr/trouver-emploi-tessin)
 
-### Blog Articles (2698 pages)
+### Blog Articles (2699 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics)
@@ -942,6 +942,7 @@
 - [Deux Ecoles Deux Mondes Un Lien](https://frontaliereticino.ch/fr/articles-frontalier/deux-ecoles-deux-mondes-un-lien)
 - [Deux Ticinois Gardes Suisses 2026](https://frontaliereticino.ch/fr/articles-frontalier/deux-ticinois-gardes-suisses-2026)
 - [Deuxieme Pilier Divise Frontalieri Ticino](https://frontaliereticino.ch/fr/articles-frontalier/deuxieme-pilier-divise-frontalieri-ticino)
+- [Deuxieme Voie Locarno Etape Atteinte](https://frontaliereticino.ch/fr/articles-frontalier/deuxieme-voie-locarno-etape-atteinte)
 - [Devaste Coira Mesolcina Soutien](https://frontaliereticino.ch/fr/articles-frontalier/devaste-coira-mesolcina-soutien)
 - [Devenir Berger Tessin](https://frontaliereticino.ch/fr/articles-frontalier/devenir-berger-tessin)
 - [Dezonamenti Ticino 2026 Confronti](https://frontaliereticino.ch/fr/articles-frontalier/dezonamenti-ticino-2026-confronti)
