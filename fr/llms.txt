@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2942 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2943 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2909,7 +2909,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (86 pages)
+### Other Pages (87 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2939,6 +2939,7 @@
 - [Initiatives Assurance Maladie 2026](https://frontaliereticino.ch/fr/articles-suisse/initiatives-assurance-maladie-2026)
 - [Naspi Chomage Frontalier Regles](https://frontaliereticino.ch/fr/articles-suisse/naspi-chomage-frontalier-regles)
 - [Neutralisation Des Estimations 2026 Proteger Les Classes Moyennes Et Le Logement](https://frontaliereticino.ch/fr/articles-suisse/neutralisation-des-estimations-2026-proteger-les-classes-moyennes-et-le-logement)
+- [Options De Residence Suisse Italie 2026 Seul](https://frontaliereticino.ch/fr/articles-suisse/options-de-residence-suisse-italie-2026-seul)
 - [Parlement Avs Protection Adoption](https://frontaliereticino.ch/fr/articles-suisse/parlement-avs-protection-adoption)
 - [Parlement Suisse Pension Tva](https://frontaliereticino.ch/fr/articles-suisse/parlement-suisse-pension-tva)
 - [Pensions Avs A Letranger Conditions](https://frontaliereticino.ch/fr/articles-suisse/pensions-avs-a-letranger-conditions)
