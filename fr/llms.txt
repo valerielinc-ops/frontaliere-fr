@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2943 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2944 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2909,7 +2909,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (87 pages)
+### Other Pages (88 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2950,6 +2950,7 @@
 - [Retraites Suisses A L Etranger](https://frontaliereticino.ch/fr/articles-suisse/retraites-suisses-a-l-etranger)
 - [Salaire Minimum Vd Oui Mais La Sixieme Canton](https://frontaliereticino.ch/fr/articles-suisse/salaire-minimum-vd-oui-mais-la-sixieme-canton)
 - [Salaires Frontaliers Centre Commercial](https://frontaliereticino.ch/fr/articles-suisse/salaires-frontaliers-centre-commercial)
+- [Secret Bancaire Suisse](https://frontaliereticino.ch/fr/articles-suisse/secret-bancaire-suisse)
 - [Sejour Etranger Eviter Lacune Avs](https://frontaliereticino.ch/fr/articles-suisse/sejour-etranger-eviter-lacune-avs)
 - [Suisses Italie Accord Fiscal](https://frontaliereticino.ch/fr/articles-suisse/suisses-italie-accord-fiscal)
 - [Taxe Reservation Cabanes Cas Suisse](https://frontaliereticino.ch/fr/articles-suisse/taxe-reservation-cabanes-cas-suisse)
