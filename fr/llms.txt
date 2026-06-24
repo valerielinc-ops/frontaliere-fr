@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2957 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2959 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2912,7 +2912,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (98 pages)
+### Other Pages (100 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2931,6 +2931,7 @@
 - [Depense Rentement Contre L Accord Avec Rome](https://frontaliereticino.ch/fr/articles-suisse/depense-rentement-contre-l-accord-avec-rome)
 - [Donnees Salariales Frontaliers Tessin](https://frontaliereticino.ch/fr/articles-suisse/donnees-salariales-frontaliers-tessin)
 - [Douane Gaggiolo Stabio](https://frontaliereticino.ch/fr/articles-suisse/douane-gaggiolo-stabio)
+- [Echange Donnees Salariales Italie](https://frontaliereticino.ch/fr/articles-suisse/echange-donnees-salariales-italie)
 - [Economistes Ajustent Projections Croissance 2026](https://frontaliereticino.ch/fr/articles-suisse/economistes-ajustent-projections-croissance-2026)
 - [Emigrer Suisse Aspects Fiscaux](https://frontaliereticino.ch/fr/articles-suisse/emigrer-suisse-aspects-fiscaux)
 - [Energie Nucleaire 13avs Salaires Votes](https://frontaliereticino.ch/fr/articles-suisse/energie-nucleaire-13avs-salaires-votes)
@@ -2972,6 +2973,7 @@
 - [Travailleurs Frontaliers Donnees Erreur Systemique](https://frontaliereticino.ch/fr/articles-suisse/travailleurs-frontaliers-donnees-erreur-systemique)
 - [Travailleurs Frontaliers Fiscalite 2026 Nouvel Accord](https://frontaliereticino.ch/fr/articles-suisse/travailleurs-frontaliers-fiscalite-2026-nouvel-accord)
 - [Trump Droits De Douane 2026](https://frontaliereticino.ch/fr/articles-suisse/trump-droits-de-douane-2026)
+- [Ubs Nouveau Modele Prevoyance Vieillesse](https://frontaliereticino.ch/fr/articles-suisse/ubs-nouveau-modele-prevoyance-vieillesse)
 - [Un Blocage De Restaurants Une Reaction Comprehensible](https://frontaliereticino.ch/fr/articles-suisse/un-blocage-de-restaurants-une-reaction-comprehensible)
 - [Votations Cantonales Juin Salaire Minimum](https://frontaliereticino.ch/fr/articles-suisse/votations-cantonales-juin-salaire-minimum)
 - [Vote Zurich Logement Abordable Assurance Maladie](https://frontaliereticino.ch/fr/articles-suisse/vote-zurich-logement-abordable-assurance-maladie)
