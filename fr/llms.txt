@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2962 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2963 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2912,7 +2912,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (103 pages)
+### Other Pages (104 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2920,6 +2920,7 @@
 - [Articles Suisse](https://frontaliereticino.ch/fr/articles-suisse)
 - [Aeroports Suisse Augmentation Passagers](https://frontaliereticino.ch/fr/articles-suisse/aeroports-suisse-augmentation-passagers)
 - [Assurance Maladie Suisse Etranger Choix](https://frontaliereticino.ch/fr/articles-suisse/assurance-maladie-suisse-etranger-choix)
+- [Augmentation Tva Armee 2024](https://frontaliereticino.ch/fr/articles-suisse/augmentation-tva-armee-2024)
 - [Avs Financement 13e](https://frontaliereticino.ch/fr/articles-suisse/avs-financement-13e)
 - [Bce Taux Inflation 2023](https://frontaliereticino.ch/fr/articles-suisse/bce-taux-inflation-2023)
 - [Blocage Immigration Tessin](https://frontaliereticino.ch/fr/articles-suisse/blocage-immigration-tessin)
