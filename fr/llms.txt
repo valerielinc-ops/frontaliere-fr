@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2956 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2957 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2912,7 +2912,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (97 pages)
+### Other Pages (98 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2936,6 +2936,7 @@
 - [Energie Nucleaire 13avs Salaires Votes](https://frontaliereticino.ch/fr/articles-suisse/energie-nucleaire-13avs-salaires-votes)
 - [Ethos Salaires Ceo Durabilite](https://frontaliereticino.ch/fr/articles-suisse/ethos-salaires-ceo-durabilite)
 - [Financement Partiel 13e Retraite](https://frontaliereticino.ch/fr/articles-suisse/financement-partiel-13e-retraite)
+- [Frontalier Italie Suisse Siege Entreprise](https://frontaliereticino.ch/fr/articles-suisse/frontalier-italie-suisse-siege-entreprise)
 - [Frontaliere Choix Suisse Travail Salaire Fiscalit C3 A9 Trafic Confrontation Ita](https://frontaliereticino.ch/fr/articles-suisse/frontaliere-choix-suisse-travail-salaire-fiscalit-c3-a9-trafic-confrontation-ita)
 - [Frontaliers Bloquer Reduire Restitutions Rome](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-bloquer-reduire-restitutions-rome)
 - [Frontaliers Oui Definitif Travail A Distance](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-oui-definitif-travail-a-distance)
