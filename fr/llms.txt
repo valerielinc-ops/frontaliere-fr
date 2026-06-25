@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2969 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2970 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2912,7 +2912,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (110 pages)
+### Other Pages (111 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2933,6 +2933,7 @@
 - [Chomage Suisse Mai 2026](https://frontaliereticino.ch/fr/articles-suisse/chomage-suisse-mai-2026)
 - [Chomage Transfrontalier Suisse](https://frontaliereticino.ch/fr/articles-suisse/chomage-transfrontalier-suisse)
 - [Controles Frontieres G7 Interdictions Entree](https://frontaliereticino.ch/fr/articles-suisse/controles-frontieres-g7-interdictions-entree)
+- [Cout De La Voiture Pour Les Navetteurs Tessin](https://frontaliereticino.ch/fr/articles-suisse/cout-de-la-voiture-pour-les-navetteurs-tessin)
 - [Depense Rentement Contre L Accord Avec Rome](https://frontaliereticino.ch/fr/articles-suisse/depense-rentement-contre-l-accord-avec-rome)
 - [Donnees Impots Frontalieri Italie](https://frontaliereticino.ch/fr/articles-suisse/donnees-impots-frontalieri-italie)
 - [Donnees Salariales Frontaliers Tessin](https://frontaliereticino.ch/fr/articles-suisse/donnees-salariales-frontaliers-tessin)
