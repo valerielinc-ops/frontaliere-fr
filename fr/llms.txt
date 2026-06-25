@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2972 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2973 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Trouver Emploi Tessin](https://frontaliereticino.ch/fr/trouver-emploi-tessin)
 
-### Blog Articles (2702 pages)
+### Blog Articles (2703 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics)
@@ -446,6 +446,7 @@
 - [Balerna Centenaire Du Conseil Municipal](https://frontaliereticino.ch/fr/articles-frontalier/balerna-centenaire-du-conseil-municipal)
 - [Balerna Zone Damenagement 2026](https://frontaliereticino.ch/fr/articles-frontalier/balerna-zone-damenagement-2026)
 - [Banc Blanc Varese 2026](https://frontaliereticino.ch/fr/articles-frontalier/banc-blanc-varese-2026)
+- [Banc Etica Volunteers Livres De Sport Varesenews](https://frontaliereticino.ch/fr/articles-frontalier/banc-etica-volunteers-livres-de-sport-varesenews)
 - [Bancastato Walking Mendrisio 2026](https://frontaliereticino.ch/fr/articles-frontalier/bancastato-walking-mendrisio-2026)
 - [Bandecchi Quarts Chiasso 2026](https://frontaliereticino.ch/fr/articles-frontalier/bandecchi-quarts-chiasso-2026)
 - [Banque Grisonne Poursuite Centaines Millions](https://frontaliereticino.ch/fr/articles-frontalier/banque-grisonne-poursuite-centaines-millions)
