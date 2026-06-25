@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2979 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2980 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2915,7 +2915,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (117 pages)
+### Other Pages (118 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2935,6 +2935,7 @@
 - [Calcul Retraite Frontalier Suisse](https://frontaliereticino.ch/fr/articles-suisse/calcul-retraite-frontalier-suisse)
 - [Calcul Salaire Net Frontalier Suisse](https://frontaliereticino.ch/fr/articles-suisse/calcul-salaire-net-frontalier-suisse)
 - [Chaleur Impact Sur Trafic Ferroviaire](https://frontaliereticino.ch/fr/articles-suisse/chaleur-impact-sur-trafic-ferroviaire)
+- [Chiasso Brogeda Temps Attente Aujourdhui](https://frontaliereticino.ch/fr/articles-suisse/chiasso-brogeda-temps-attente-aujourdhui)
 - [Chomage Suisse Mai 2026](https://frontaliereticino.ch/fr/articles-suisse/chomage-suisse-mai-2026)
 - [Chomage Transfrontalier Suisse](https://frontaliereticino.ch/fr/articles-suisse/chomage-transfrontalier-suisse)
 - [Controles Frontieres G7 Interdictions Entree](https://frontaliereticino.ch/fr/articles-suisse/controles-frontieres-g7-interdictions-entree)
