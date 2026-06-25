@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2968 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2969 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2912,7 +2912,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (109 pages)
+### Other Pages (110 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2946,6 +2946,7 @@
 - [Frontalier Italie Suisse Siege Entreprise](https://frontaliereticino.ch/fr/articles-suisse/frontalier-italie-suisse-siege-entreprise)
 - [Frontaliere Choix Suisse Travail Salaire Fiscalit C3 A9 Trafic Confrontation Ita](https://frontaliereticino.ch/fr/articles-suisse/frontaliere-choix-suisse-travail-salaire-fiscalit-c3-a9-trafic-confrontation-ita)
 - [Frontaliers Bloquer Reduire Restitutions Rome](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-bloquer-reduire-restitutions-rome)
+- [Frontaliers Double Imposition Credit Dimpot](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-double-imposition-credit-dimpot)
 - [Frontaliers Oui Definitif Travail A Distance](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-oui-definitif-travail-a-distance)
 - [Frontiere Chiasso Suisse](https://frontaliereticino.ch/fr/articles-suisse/frontiere-chiasso-suisse)
 - [Impact Chaleur Chemins Ferres Suisses](https://frontaliereticino.ch/fr/articles-suisse/impact-chaleur-chemins-ferres-suisses)
