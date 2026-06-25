@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2975 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2976 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Trouver Emploi Tessin](https://frontaliereticino.ch/fr/trouver-emploi-tessin)
 
-### Blog Articles (2704 pages)
+### Blog Articles (2705 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics)
@@ -538,6 +538,7 @@
 - [Busto Arsizio Prison Denonciation Strada](https://frontaliereticino.ch/fr/articles-frontalier/busto-arsizio-prison-denonciation-strada)
 - [Byd Expansion Suisse 2026](https://frontaliereticino.ch/fr/articles-frontalier/byd-expansion-suisse-2026)
 - [Cadenazzo Coucher Soleil](https://frontaliereticino.ch/fr/articles-frontalier/cadenazzo-coucher-soleil)
+- [Caisse Maladie Neuchatel Jeunes Adultes](https://frontaliereticino.ch/fr/articles-frontalier/caisse-maladie-neuchatel-jeunes-adultes)
 - [Caisse Maladie Tessin Divisee 2026](https://frontaliereticino.ch/fr/articles-frontalier/caisse-maladie-tessin-divisee-2026)
 - [Caisses Maladie Dado Separation Dossier](https://frontaliereticino.ch/fr/articles-frontalier/caisses-maladie-dado-separation-dossier)
 - [Calcul De La Pension Pour Les Travailleurs Frontaliers Avs Italienne](https://frontaliereticino.ch/fr/articles-frontalier/calcul-de-la-pension-pour-les-travailleurs-frontaliers-avs-italienne)
