@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2965 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2967 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2912,7 +2912,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (106 pages)
+### Other Pages (108 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2927,6 +2927,7 @@
 - [Calcul Impots Frontaliers 20km](https://frontaliereticino.ch/fr/articles-suisse/calcul-impots-frontaliers-20km)
 - [Calcul Pension Frontaliers Avs Italienne](https://frontaliereticino.ch/fr/articles-suisse/calcul-pension-frontaliers-avs-italienne)
 - [Calcul Rente Lpp Ubs](https://frontaliereticino.ch/fr/articles-suisse/calcul-rente-lpp-ubs)
+- [Calcul Retraite Frontalier Suisse](https://frontaliereticino.ch/fr/articles-suisse/calcul-retraite-frontalier-suisse)
 - [Calcul Salaire Net Frontalier Suisse](https://frontaliereticino.ch/fr/articles-suisse/calcul-salaire-net-frontalier-suisse)
 - [Chaleur Impact Sur Trafic Ferroviaire](https://frontaliereticino.ch/fr/articles-suisse/chaleur-impact-sur-trafic-ferroviaire)
 - [Chomage Suisse Mai 2026](https://frontaliereticino.ch/fr/articles-suisse/chomage-suisse-mai-2026)
@@ -2951,6 +2952,7 @@
 - [Impot A La Source Frontaliers Tessin](https://frontaliereticino.ch/fr/articles-suisse/impot-a-la-source-frontaliers-tessin)
 - [Impot Source Basel](https://frontaliereticino.ch/fr/articles-suisse/impot-source-basel)
 - [Initiatives Assurance Maladie 2026](https://frontaliereticino.ch/fr/articles-suisse/initiatives-assurance-maladie-2026)
+- [Lamal Ou Cmi Frontaliers Lequel Choisir 2026](https://frontaliereticino.ch/fr/articles-suisse/lamal-ou-cmi-frontaliers-lequel-choisir-2026)
 - [Naspi Chomage Frontalier Regles](https://frontaliereticino.ch/fr/articles-suisse/naspi-chomage-frontalier-regles)
 - [Neutralisation Des Estimations 2026 Proteger Les Classes Moyennes Et Le Logement](https://frontaliereticino.ch/fr/articles-suisse/neutralisation-des-estimations-2026-proteger-les-classes-moyennes-et-le-logement)
 - [Options De Residence Suisse Italie 2026 Seul](https://frontaliereticino.ch/fr/articles-suisse/options-de-residence-suisse-italie-2026-seul)
