@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2977 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2978 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2915,7 +2915,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (115 pages)
+### Other Pages (116 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2968,6 +2968,7 @@
 - [Parlement Avs Protection Adoption](https://frontaliereticino.ch/fr/articles-suisse/parlement-avs-protection-adoption)
 - [Parlement Suisse Lutte Accords Avs](https://frontaliereticino.ch/fr/articles-suisse/parlement-suisse-lutte-accords-avs)
 - [Parlement Suisse Pension Tva](https://frontaliereticino.ch/fr/articles-suisse/parlement-suisse-pension-tva)
+- [Pemsa Lugano Marche Travail](https://frontaliereticino.ch/fr/articles-suisse/pemsa-lugano-marche-travail)
 - [Pensions Avs A Letranger Conditions](https://frontaliereticino.ch/fr/articles-suisse/pensions-avs-a-letranger-conditions)
 - [Permis G Pour Et Contre Frontaliers](https://frontaliereticino.ch/fr/articles-suisse/permis-g-pour-et-contre-frontaliers)
 - [Piero Marchesi Claudio Zali Liste Autonome](https://frontaliereticino.ch/fr/articles-suisse/piero-marchesi-claudio-zali-liste-autonome)
