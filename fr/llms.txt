@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2974 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2975 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2914,7 +2914,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (113 pages)
+### Other Pages (114 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2986,6 +2986,7 @@
 - [Travail Illegal Salaire Dumping 2025 Suisse](https://frontaliereticino.ch/fr/articles-suisse/travail-illegal-salaire-dumping-2025-suisse)
 - [Travailleurs Frontaliers Donnees Erreur Systemique](https://frontaliereticino.ch/fr/articles-suisse/travailleurs-frontaliers-donnees-erreur-systemique)
 - [Travailleurs Frontaliers Fiscalite 2026 Nouvel Accord](https://frontaliereticino.ch/fr/articles-suisse/travailleurs-frontaliers-fiscalite-2026-nouvel-accord)
+- [Troisieme Pilier Frontaliers](https://frontaliereticino.ch/fr/articles-suisse/troisieme-pilier-frontaliers)
 - [Trump Droits De Douane 2026](https://frontaliereticino.ch/fr/articles-suisse/trump-droits-de-douane-2026)
 - [Tva Hausse Decision Gouvernement Prevue](https://frontaliereticino.ch/fr/articles-suisse/tva-hausse-decision-gouvernement-prevue)
 - [Ubs Nouveau Modele Prevoyance Vieillesse](https://frontaliereticino.ch/fr/articles-suisse/ubs-nouveau-modele-prevoyance-vieillesse)
