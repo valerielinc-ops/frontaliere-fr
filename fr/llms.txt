@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2988 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2990 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2917,7 +2917,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (124 pages)
+### Other Pages (126 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2968,6 +2968,7 @@
 - [Imposition Frontaliers Au Dela 20km](https://frontaliereticino.ch/fr/articles-suisse/imposition-frontaliers-au-dela-20km)
 - [Impot A La Source Frontaliers Tessin](https://frontaliereticino.ch/fr/articles-suisse/impot-a-la-source-frontaliers-tessin)
 - [Impot Source Basel](https://frontaliereticino.ch/fr/articles-suisse/impot-source-basel)
+- [Incendie Autostrada Piotta](https://frontaliereticino.ch/fr/articles-suisse/incendie-autostrada-piotta)
 - [Initiatives Assurance Maladie 2026](https://frontaliereticino.ch/fr/articles-suisse/initiatives-assurance-maladie-2026)
 - [Lamal Ou Cmi Frontaliers Lequel Choisir 2026](https://frontaliereticino.ch/fr/articles-suisse/lamal-ou-cmi-frontaliers-lequel-choisir-2026)
 - [Naspi Chomage Frontalier Regles](https://frontaliereticino.ch/fr/articles-suisse/naspi-chomage-frontalier-regles)
@@ -3004,6 +3005,7 @@
 - [Tva Hausse Decision Gouvernement Prevue](https://frontaliereticino.ch/fr/articles-suisse/tva-hausse-decision-gouvernement-prevue)
 - [Ubs Nouveau Modele Prevoyance Vieillesse](https://frontaliereticino.ch/fr/articles-suisse/ubs-nouveau-modele-prevoyance-vieillesse)
 - [Un Blocage De Restaurants Une Reaction Comprehensible](https://frontaliereticino.ch/fr/articles-suisse/un-blocage-de-restaurants-une-reaction-comprehensible)
+- [Viareggio Catastrophe Ferroviaire Condamnations](https://frontaliereticino.ch/fr/articles-suisse/viareggio-catastrophe-ferroviaire-condamnations)
 - [Votations Cantonales Juin Salaire Minimum](https://frontaliereticino.ch/fr/articles-suisse/votations-cantonales-juin-salaire-minimum)
 - [Vote Zurich Logement Abordable Assurance Maladie](https://frontaliereticino.ch/fr/articles-suisse/vote-zurich-logement-abordable-assurance-maladie)
 - [Assistance](https://frontaliereticino.ch/fr/assistance)
