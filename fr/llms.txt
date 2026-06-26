@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2991 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2993 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Trouver Emploi Tessin](https://frontaliereticino.ch/fr/trouver-emploi-tessin)
 
-### Blog Articles (2707 pages)
+### Blog Articles (2708 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics)
@@ -2701,6 +2701,7 @@
 - [Tutor Sapiens Apprentissage De Troisieme Niveau](https://frontaliereticino.ch/fr/articles-frontalier/tutor-sapiens-apprentissage-de-troisieme-niveau)
 - [Tva Basse Suisse Image Trompeuse](https://frontaliereticino.ch/fr/articles-frontalier/tva-basse-suisse-image-trompeuse)
 - [TéLéCabine Vent Fort Accident](https://frontaliereticino.ch/fr/articles-frontalier/télécabine-vent-fort-accident)
+- [U Boldo Tribute Lucio Dalla](https://frontaliereticino.ch/fr/articles-frontalier/u-boldo-tribute-lucio-dalla)
 - [Uboldo Toit Endommage Tempete 2026](https://frontaliereticino.ch/fr/articles-frontalier/uboldo-toit-endommage-tempete-2026)
 - [Ubs Benefice De Plus De 3 Milliards 2026](https://frontaliereticino.ch/fr/articles-frontalier/ubs-benefice-de-plus-de-3-milliards-2026)
 - [Ubs Credit Suisse Integration Resultats 2026](https://frontaliereticino.ch/fr/articles-frontalier/ubs-credit-suisse-integration-resultats-2026)
@@ -2917,7 +2918,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (127 pages)
+### Other Pages (128 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2937,6 +2938,7 @@
 - [Calcul Retraite Frontalier Suisse](https://frontaliereticino.ch/fr/articles-suisse/calcul-retraite-frontalier-suisse)
 - [Calcul Salaire Net Frontalier Suisse](https://frontaliereticino.ch/fr/articles-suisse/calcul-salaire-net-frontalier-suisse)
 - [Chaleur Impact Sur Trafic Ferroviaire](https://frontaliereticino.ch/fr/articles-suisse/chaleur-impact-sur-trafic-ferroviaire)
+- [Charles Iii Revenus Impots 2026](https://frontaliereticino.ch/fr/articles-suisse/charles-iii-revenus-impots-2026)
 - [Chiasso Brogeda Temps Attente Aujourdhui](https://frontaliereticino.ch/fr/articles-suisse/chiasso-brogeda-temps-attente-aujourdhui)
 - [Chomage Suisse Mai 2026](https://frontaliereticino.ch/fr/articles-suisse/chomage-suisse-mai-2026)
 - [Chomage Transfrontalier Suisse](https://frontaliereticino.ch/fr/articles-suisse/chomage-transfrontalier-suisse)
