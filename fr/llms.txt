@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2981 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2982 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Trouver Emploi Tessin](https://frontaliereticino.ch/fr/trouver-emploi-tessin)
 
-### Blog Articles (2705 pages)
+### Blog Articles (2706 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics)
@@ -1356,6 +1356,7 @@
 - [Guerre En Iran Industrie Alimentaire Suisse](https://frontaliereticino.ch/fr/articles-frontalier/guerre-en-iran-industrie-alimentaire-suisse)
 - [Guerre En Iran Industrie Alimentaire Suisse 2026](https://frontaliereticino.ch/fr/articles-frontalier/guerre-en-iran-industrie-alimentaire-suisse-2026)
 - [Guerre Ralentit Voyages A Letranger 2026](https://frontaliereticino.ch/fr/articles-frontalier/guerre-ralentit-voyages-a-letranger-2026)
+- [Guess Stabio Merchandiser Emploi](https://frontaliereticino.ch/fr/articles-frontalier/guess-stabio-merchandiser-emploi)
 - [Guichet Emploi Varese Frontaliers Tessin](https://frontaliereticino.ch/fr/articles-frontalier/guichet-emploi-varese-frontaliers-tessin)
 - [Guide Affectueuse Separation Tessin 2026](https://frontaliereticino.ch/fr/articles-frontalier/guide-affectueuse-separation-tessin-2026)
 - [Guide Change Chf Eur Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/guide-change-chf-eur-frontalier)
