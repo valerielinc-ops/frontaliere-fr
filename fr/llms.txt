@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3000 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3002 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2921,13 +2921,14 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (132 pages)
+### Other Pages (134 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
 - [Aide Soignant Suisse](https://frontaliereticino.ch/fr/aide-soignant-suisse)
 - [Articles Suisse](https://frontaliereticino.ch/fr/articles-suisse)
 - [Aeroports Suisse Augmentation Passagers](https://frontaliereticino.ch/fr/articles-suisse/aeroports-suisse-augmentation-passagers)
+- [Allocation Chomage Frontaliers Italie](https://frontaliereticino.ch/fr/articles-suisse/allocation-chomage-frontaliers-italie)
 - [Assurance Maladie Neuchatel Jeunes 19 25](https://frontaliereticino.ch/fr/articles-suisse/assurance-maladie-neuchatel-jeunes-19-25)
 - [Assurance Maladie Suisse Etranger Choix](https://frontaliereticino.ch/fr/articles-suisse/assurance-maladie-suisse-etranger-choix)
 - [Augmentation Couts Logement Mobilite Suisse](https://frontaliereticino.ch/fr/articles-suisse/augmentation-couts-logement-mobilite-suisse)
@@ -2959,6 +2960,7 @@
 - [Economistes Ajustent Projections Croissance 2026](https://frontaliereticino.ch/fr/articles-suisse/economistes-ajustent-projections-croissance-2026)
 - [Emigrer Suisse Aspects Fiscaux](https://frontaliereticino.ch/fr/articles-suisse/emigrer-suisse-aspects-fiscaux)
 - [Energie Nucleaire 13avs Salaires Votes](https://frontaliereticino.ch/fr/articles-suisse/energie-nucleaire-13avs-salaires-votes)
+- [Erreurs Pension Frontaliers 2026](https://frontaliereticino.ch/fr/articles-suisse/erreurs-pension-frontaliers-2026)
 - [Ethos Salaires Ceo Durabilite](https://frontaliereticino.ch/fr/articles-suisse/ethos-salaires-ceo-durabilite)
 - [Facteur Suisse Licencie Apres 42 Ans Berne N Intervient Pas](https://frontaliereticino.ch/fr/articles-suisse/facteur-suisse-licencie-apres-42-ans-berne-n-intervient-pas)
 - [Financement Partiel 13e Retraite](https://frontaliereticino.ch/fr/articles-suisse/financement-partiel-13e-retraite)
