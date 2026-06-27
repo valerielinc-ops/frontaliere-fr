@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3006 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3008 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2921,7 +2921,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (138 pages)
+### Other Pages (140 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2934,6 +2934,7 @@
 - [Assurance Maladie Suisse Etranger Choix](https://frontaliereticino.ch/fr/articles-suisse/assurance-maladie-suisse-etranger-choix)
 - [Augmentation Couts Logement Mobilite Suisse](https://frontaliereticino.ch/fr/articles-suisse/augmentation-couts-logement-mobilite-suisse)
 - [Augmentation Tva Armee 2024](https://frontaliereticino.ch/fr/articles-suisse/augmentation-tva-armee-2024)
+- [Avantages Fonctionnalites Troisieme Pilier](https://frontaliereticino.ch/fr/articles-suisse/avantages-fonctionnalites-troisieme-pilier)
 - [Avs Financement 13e](https://frontaliereticino.ch/fr/articles-suisse/avs-financement-13e)
 - [Bce Taux Inflation 2023](https://frontaliereticino.ch/fr/articles-suisse/bce-taux-inflation-2023)
 - [Blocage Immigration Tessin](https://frontaliereticino.ch/fr/articles-suisse/blocage-immigration-tessin)
@@ -2966,6 +2967,7 @@
 - [Ethos Salaires Ceo Durabilite](https://frontaliereticino.ch/fr/articles-suisse/ethos-salaires-ceo-durabilite)
 - [Facteur Suisse Licencie Apres 42 Ans Berne N Intervient Pas](https://frontaliereticino.ch/fr/articles-suisse/facteur-suisse-licencie-apres-42-ans-berne-n-intervient-pas)
 - [Financement Partiel 13e Retraite](https://frontaliereticino.ch/fr/articles-suisse/financement-partiel-13e-retraite)
+- [Frontalier Assurance Auto Suisse Italie](https://frontaliereticino.ch/fr/articles-suisse/frontalier-assurance-auto-suisse-italie)
 - [Frontalier Italie Suisse Siege Entreprise](https://frontaliereticino.ch/fr/articles-suisse/frontalier-italie-suisse-siege-entreprise)
 - [Frontaliere Choix Suisse Travail Salaire Fiscalit C3 A9 Trafic Confrontation Ita](https://frontaliereticino.ch/fr/articles-suisse/frontaliere-choix-suisse-travail-salaire-fiscalit-c3-a9-trafic-confrontation-ita)
 - [Frontaliers Bloquer Reduire Restitutions Rome](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-bloquer-reduire-restitutions-rome)
