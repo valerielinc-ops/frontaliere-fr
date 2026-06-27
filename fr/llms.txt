@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2994 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2998 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Trouver Emploi Tessin](https://frontaliereticino.ch/fr/trouver-emploi-tessin)
 
-### Blog Articles (2708 pages)
+### Blog Articles (2711 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics)
@@ -273,6 +273,7 @@
 - [Acheter Maison Italie Frontiere Tessin](https://frontaliereticino.ch/fr/articles-frontalier/acheter-maison-italie-frontiere-tessin)
 - [Acinque Lance Plan Parentalite](https://frontaliereticino.ch/fr/articles-frontalier/acinque-lance-plan-parentalite)
 - [Acquarossa Nouveau Pole Sanitaire Trolleybus 2026](https://frontaliereticino.ch/fr/articles-frontalier/acquarossa-nouveau-pole-sanitaire-trolleybus-2026)
+- [Acquisition Cargotrailers Lonate Pozzolo](https://frontaliereticino.ch/fr/articles-frontalier/acquisition-cargotrailers-lonate-pozzolo)
 - [Activistes Flotille Interroges En Israel](https://frontaliereticino.ch/fr/articles-frontalier/activistes-flotille-interroges-en-israel)
 - [Adam Walder Titre National Under 14](https://frontaliereticino.ch/fr/articles-frontalier/adam-walder-titre-national-under-14)
 - [Adieu Alex Zanardi 2001 Accident Changement De Vie](https://frontaliereticino.ch/fr/articles-frontalier/adieu-alex-zanardi-2001-accident-changement-de-vie)
@@ -1009,6 +1010,7 @@
 - [Ecart Salarial Tessin Frontaliers 2026](https://frontaliereticino.ch/fr/articles-frontalier/ecart-salarial-tessin-frontaliers-2026)
 - [Echange Donnees Police Suisse Impact Tessin](https://frontaliereticino.ch/fr/articles-frontalier/echange-donnees-police-suisse-impact-tessin)
 - [Echange Euro Franc Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/echange-euro-franc-frontalier)
+- [Echange International Croix Rouge Varese](https://frontaliereticino.ch/fr/articles-frontalier/echange-international-croix-rouge-varese)
 - [Echecs Photovoltaiques Clients Tessin](https://frontaliereticino.ch/fr/articles-frontalier/echecs-photovoltaiques-clients-tessin)
 - [Ecole Autrichienne Bitcoin Lugano 2026](https://frontaliereticino.ch/fr/articles-frontalier/ecole-autrichienne-bitcoin-lugano-2026)
 - [Ecole Como Fermeture Socco](https://frontaliereticino.ch/fr/articles-frontalier/ecole-como-fermeture-socco)
@@ -1803,6 +1805,7 @@
 - [Mobilisation Depot Mecaniciens Chiasso](https://frontaliereticino.ch/fr/articles-frontalier/mobilisation-depot-mecaniciens-chiasso)
 - [Mobilite Durable Villes Vivables 2026](https://frontaliereticino.ch/fr/articles-frontalier/mobilite-durable-villes-vivables-2026)
 - [Mobilite Personnel Infirmier Tessin](https://frontaliereticino.ch/fr/articles-frontalier/mobilite-personnel-infirmier-tessin)
+- [Mobilite Quotidienne Varese Donnees Enquete](https://frontaliereticino.ch/fr/articles-frontalier/mobilite-quotidienne-varese-donnees-enquete)
 - [Mobilite Ticino Italie](https://frontaliereticino.ch/fr/articles-frontalier/mobilite-ticino-italie)
 - [Mobilite Transfrontaliere Trains Autobus](https://frontaliereticino.ch/fr/articles-frontalier/mobilite-transfrontaliere-trains-autobus)
 - [Mode Durable Bellinzone 9 Mai](https://frontaliereticino.ch/fr/articles-frontalier/mode-durable-bellinzone-9-mai)
@@ -2918,7 +2921,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (129 pages)
+### Other Pages (130 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2999,6 +3002,7 @@
 - [Taxe Sante Frontalier Syndicats Attaque](https://frontaliereticino.ch/fr/articles-suisse/taxe-sante-frontalier-syndicats-attaque)
 - [Taxe Sante Frontaliers Retard Rome](https://frontaliereticino.ch/fr/articles-suisse/taxe-sante-frontaliers-retard-rome)
 - [Teletravail Frontaliers Jours 2026](https://frontaliereticino.ch/fr/articles-suisse/teletravail-frontaliers-jours-2026)
+- [Ticino Ecart Salaire Frontalieri](https://frontaliereticino.ch/fr/articles-suisse/ticino-ecart-salaire-frontalieri)
 - [Trafic Ferroviaire Suspendu Allemagne Panne Technique](https://frontaliereticino.ch/fr/articles-suisse/trafic-ferroviaire-suspendu-allemagne-panne-technique)
 - [Trains Arretes Stabio Gallarate Incompetence Regionale](https://frontaliereticino.ch/fr/articles-suisse/trains-arretes-stabio-gallarate-incompetence-regionale)
 - [Travail Illegal Salaire Dumping 2025 Suisse](https://frontaliereticino.ch/fr/articles-suisse/travail-illegal-salaire-dumping-2025-suisse)
