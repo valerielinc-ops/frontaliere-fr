@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3005 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3006 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2921,7 +2921,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (137 pages)
+### Other Pages (138 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2929,6 +2929,7 @@
 - [Articles Suisse](https://frontaliereticino.ch/fr/articles-suisse)
 - [Aeroports Suisse Augmentation Passagers](https://frontaliereticino.ch/fr/articles-suisse/aeroports-suisse-augmentation-passagers)
 - [Allocation Chomage Frontaliers Italie](https://frontaliereticino.ch/fr/articles-suisse/allocation-chomage-frontaliers-italie)
+- [Assurance Maladie Famille Frontalier](https://frontaliereticino.ch/fr/articles-suisse/assurance-maladie-famille-frontalier)
 - [Assurance Maladie Neuchatel Jeunes 19 25](https://frontaliereticino.ch/fr/articles-suisse/assurance-maladie-neuchatel-jeunes-19-25)
 - [Assurance Maladie Suisse Etranger Choix](https://frontaliereticino.ch/fr/articles-suisse/assurance-maladie-suisse-etranger-choix)
 - [Augmentation Couts Logement Mobilite Suisse](https://frontaliereticino.ch/fr/articles-suisse/augmentation-couts-logement-mobilite-suisse)
