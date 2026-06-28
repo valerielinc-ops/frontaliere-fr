@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3017 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3018 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2922,7 +2922,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (148 pages)
+### Other Pages (149 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -3025,6 +3025,7 @@
 - [Trafic Ferroviaire Suspendu Allemagne Panne Technique](https://frontaliereticino.ch/fr/articles-suisse/trafic-ferroviaire-suspendu-allemagne-panne-technique)
 - [Trains Arretes Stabio Gallarate Incompetence Regionale](https://frontaliereticino.ch/fr/articles-suisse/trains-arretes-stabio-gallarate-incompetence-regionale)
 - [Travail Illegal Salaire Dumping 2025 Suisse](https://frontaliereticino.ch/fr/articles-suisse/travail-illegal-salaire-dumping-2025-suisse)
+- [Travailler Educateur Enfance Tessin Salaire Exigences](https://frontaliereticino.ch/fr/articles-suisse/travailler-educateur-enfance-tessin-salaire-exigences)
 - [Travailleurs Frontaliers Donnees Erreur Systemique](https://frontaliereticino.ch/fr/articles-suisse/travailleurs-frontaliers-donnees-erreur-systemique)
 - [Travailleurs Frontaliers Fiscalite 2026 Nouvel Accord](https://frontaliereticino.ch/fr/articles-suisse/travailleurs-frontaliers-fiscalite-2026-nouvel-accord)
 - [Troisieme Pilier Frontaliers](https://frontaliereticino.ch/fr/articles-suisse/troisieme-pilier-frontaliers)
