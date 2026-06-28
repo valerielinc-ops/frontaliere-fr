@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3014 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3016 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2921,7 +2921,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (146 pages)
+### Other Pages (148 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2934,6 +2934,7 @@
 - [Assurance Maladie Suisse Etranger Choix](https://frontaliereticino.ch/fr/articles-suisse/assurance-maladie-suisse-etranger-choix)
 - [Augmentation Couts Logement Mobilite Suisse](https://frontaliereticino.ch/fr/articles-suisse/augmentation-couts-logement-mobilite-suisse)
 - [Augmentation Tva Armee 2024](https://frontaliereticino.ch/fr/articles-suisse/augmentation-tva-armee-2024)
+- [Autorisation De Sejour B Impot A La Source 2026](https://frontaliereticino.ch/fr/articles-suisse/autorisation-de-sejour-b-impot-a-la-source-2026)
 - [Avantages Fonctionnalites Troisieme Pilier](https://frontaliereticino.ch/fr/articles-suisse/avantages-fonctionnalites-troisieme-pilier)
 - [Avs Financement 13e](https://frontaliereticino.ch/fr/articles-suisse/avs-financement-13e)
 - [Bce Taux Inflation 2023](https://frontaliereticino.ch/fr/articles-suisse/bce-taux-inflation-2023)
@@ -3006,6 +3007,7 @@
 - [Prelevement Suissier Avs Inps 2026 Famille Avec Enfants](https://frontaliereticino.ch/fr/articles-suisse/prelevement-suissier-avs-inps-2026-famille-avec-enfants)
 - [Prestations Lpp Suisse Imposition](https://frontaliereticino.ch/fr/articles-suisse/prestations-lpp-suisse-imposition)
 - [Primes Maladie Ticino](https://frontaliereticino.ch/fr/articles-suisse/primes-maladie-ticino)
+- [Quellensteuer Tarifs Suisse 2026](https://frontaliereticino.ch/fr/articles-suisse/quellensteuer-tarifs-suisse-2026)
 - [Remboursements Fiscaux Pour Travailleurs Frontaliers Comment Ils Fonctionnent](https://frontaliereticino.ch/fr/articles-suisse/remboursements-fiscaux-pour-travailleurs-frontaliers-comment-ils-fonctionnent)
 - [Reprise Traffic Ferroviaire Allemagne](https://frontaliereticino.ch/fr/articles-suisse/reprise-traffic-ferroviaire-allemagne)
 - [Retraites Suisses A L Etranger](https://frontaliereticino.ch/fr/articles-suisse/retraites-suisses-a-l-etranger)
