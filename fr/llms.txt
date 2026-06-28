@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3012 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3013 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2921,7 +2921,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (144 pages)
+### Other Pages (145 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2951,6 +2951,7 @@
 - [Controles Frontieres G7 Interdictions Entree](https://frontaliereticino.ch/fr/articles-suisse/controles-frontieres-g7-interdictions-entree)
 - [Cout De La Voiture Pour Les Navetteurs Tessin](https://frontaliereticino.ch/fr/articles-suisse/cout-de-la-voiture-pour-les-navetteurs-tessin)
 - [Declaration Revenus Frontalieri 730 Guide](https://frontaliereticino.ch/fr/articles-suisse/declaration-revenus-frontalieri-730-guide)
+- [Demande Permis G Etape Par Etape](https://frontaliereticino.ch/fr/articles-suisse/demande-permis-g-etape-par-etape)
 - [Depense Rentement Contre L Accord Avec Rome](https://frontaliereticino.ch/fr/articles-suisse/depense-rentement-contre-l-accord-avec-rome)
 - [Deutsche Bahn Suspension Trafic Ferroviaire](https://frontaliereticino.ch/fr/articles-suisse/deutsche-bahn-suspension-trafic-ferroviaire)
 - [Deuxieme Pilier Lpp Frontalier Prelevement](https://frontaliereticino.ch/fr/articles-suisse/deuxieme-pilier-lpp-frontalier-prelevement)
