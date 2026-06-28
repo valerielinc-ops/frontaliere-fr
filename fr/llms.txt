@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3016 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3017 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Trouver Emploi Tessin](https://frontaliereticino.ch/fr/trouver-emploi-tessin)
 
-### Blog Articles (2711 pages)
+### Blog Articles (2712 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics)
@@ -563,6 +563,7 @@
 - [Campione Italia Sortie Faillite Financiere Nouvelles Embauches](https://frontaliereticino.ch/fr/articles-frontalier/campione-italia-sortie-faillite-financiere-nouvelles-embauches)
 - [Candidat Medecin Eoc Bellinzona](https://frontaliereticino.ch/fr/articles-frontalier/candidat-medecin-eoc-bellinzona)
 - [Candidature Melenchon Presidentielle 2027](https://frontaliereticino.ch/fr/articles-frontalier/candidature-melenchon-presidentielle-2027)
+- [Canicule Tessin Suisse](https://frontaliereticino.ch/fr/articles-frontalier/canicule-tessin-suisse)
 - [Cannabis Medical Remboursement Caisse Maladie Tessin](https://frontaliereticino.ch/fr/articles-frontalier/cannabis-medical-remboursement-caisse-maladie-tessin)
 - [Cantello Peduncle Gaggiolo 2026](https://frontaliereticino.ch/fr/articles-frontalier/cantello-peduncle-gaggiolo-2026)
 - [Cantieri Traffico A9 Ticino](https://frontaliereticino.ch/fr/articles-frontalier/cantieri-traffico-a9-ticino)
