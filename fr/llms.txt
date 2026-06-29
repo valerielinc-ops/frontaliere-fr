@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3040 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3042 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2937,7 +2937,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (156 pages)
+### Other Pages (158 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2956,6 +2956,7 @@
 - [Bce Taux Inflation 2023](https://frontaliereticino.ch/fr/articles-suisse/bce-taux-inflation-2023)
 - [Blocage Immigration Tessin](https://frontaliereticino.ch/fr/articles-suisse/blocage-immigration-tessin)
 - [Calcul Impots Frontaliers 20km](https://frontaliereticino.ch/fr/articles-suisse/calcul-impots-frontaliers-20km)
+- [Calcul Impots Frontaliers Plus 20km](https://frontaliereticino.ch/fr/articles-suisse/calcul-impots-frontaliers-plus-20km)
 - [Calcul Pension Frontaliers Avs Italienne](https://frontaliereticino.ch/fr/articles-suisse/calcul-pension-frontaliers-avs-italienne)
 - [Calcul Rente Lpp Ubs](https://frontaliereticino.ch/fr/articles-suisse/calcul-rente-lpp-ubs)
 - [Calcul Retraite Frontalier Suisse](https://frontaliereticino.ch/fr/articles-suisse/calcul-retraite-frontalier-suisse)
@@ -2973,6 +2974,7 @@
 - [Deutsche Bahn Suspension Trafic Ferroviaire](https://frontaliereticino.ch/fr/articles-suisse/deutsche-bahn-suspension-trafic-ferroviaire)
 - [Deuxieme Pilier Lpp Frontalier Prelevement](https://frontaliereticino.ch/fr/articles-suisse/deuxieme-pilier-lpp-frontalier-prelevement)
 - [Donnees Impots Frontalieri Italie](https://frontaliereticino.ch/fr/articles-suisse/donnees-impots-frontalieri-italie)
+- [Donnees Salaire Frontaliers Privacy 2024](https://frontaliereticino.ch/fr/articles-suisse/donnees-salaire-frontaliers-privacy-2024)
 - [Donnees Salariales Frontaliers Tessin](https://frontaliereticino.ch/fr/articles-suisse/donnees-salariales-frontaliers-tessin)
 - [Douane Gaggiolo Stabio](https://frontaliereticino.ch/fr/articles-suisse/douane-gaggiolo-stabio)
 - [Droit Forfaitaire Commerce Electronique](https://frontaliereticino.ch/fr/articles-suisse/droit-forfaitaire-commerce-electronique)
