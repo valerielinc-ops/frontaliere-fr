@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3038 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3040 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -1596,6 +1596,7 @@
 - [La Valeur Du Voisin Cycle De Rencontres Sur Leconomie De Proximite](https://frontaliereticino.ch/fr/articles-frontalier/la-valeur-du-voisin-cycle-de-rencontres-sur-leconomie-de-proximite)
 - [Lac De Come Cout Bus Ticino Gazole](https://frontaliereticino.ch/fr/articles-frontalier/lac-de-come-cout-bus-ticino-gazole)
 - [Lac De Come Monte San Primo 5 Millions](https://frontaliereticino.ch/fr/articles-frontalier/lac-de-come-monte-san-primo-5-millions)
+- [Lac De Lugano Suisse Prix Carburant](https://frontaliereticino.ch/fr/articles-frontalier/lac-de-lugano-suisse-prix-carburant)
 - [Lac Maggiore Acces Toute L Annee](https://frontaliereticino.ch/fr/articles-frontalier/lac-maggiore-acces-toute-l-annee)
 - [Lac Majeur 135 Metres Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/lac-majeur-135-metres-frontaliers)
 - [Lac Majeur Augmentation 2026](https://frontaliereticino.ch/fr/articles-frontalier/lac-majeur-augmentation-2026)
@@ -2108,6 +2109,7 @@
 - [Primes Pas Au Dela De 10 Pour Cent](https://frontaliereticino.ch/fr/articles-frontalier/primes-pas-au-dela-de-10-pour-cent)
 - [Prisons Tessin Surpeuplees 2026](https://frontaliereticino.ch/fr/articles-frontalier/prisons-tessin-surpeuplees-2026)
 - [Prix Carburant Tessin Hausse](https://frontaliereticino.ch/fr/articles-frontalier/prix-carburant-tessin-hausse)
+- [Prix Carburants Tessin 2026](https://frontaliereticino.ch/fr/articles-frontalier/prix-carburants-tessin-2026)
 - [Prix Carburants Tpl Tessin 2026](https://frontaliereticino.ch/fr/articles-frontalier/prix-carburants-tpl-tessin-2026)
 - [Prix Essence Suisse Record 2026](https://frontaliereticino.ch/fr/articles-frontalier/prix-essence-suisse-record-2026)
 - [Prix Essence Tessin](https://frontaliereticino.ch/fr/articles-frontalier/prix-essence-tessin)
@@ -2369,9 +2371,6 @@
 - [Siviero Reelu Basket Suisse](https://frontaliereticino.ch/fr/articles-frontalier/siviero-reelu-basket-suisse)
 - [Slowup Fermetures Routes Transports Publics 2026 Bellinzone](https://frontaliereticino.ch/fr/articles-frontalier/slowup-fermetures-routes-transports-publics-2026-bellinzone)
 - [Slowup Ticino 2026 Journee Sans Voiture](https://frontaliereticino.ch/fr/articles-frontalier/slowup-ticino-2026-journee-sans-voiture)
-- [Slug FrançAis](https://frontaliereticino.ch/fr/articles-frontalier/slug-français)
-- [Slug Lac De Lugano Suisse Prix Carburant](https://frontaliereticino.ch/fr/articles-frontalier/slug-lac-de-lugano-suisse-prix-carburant)
-- [Slug San Gottardo 2026](https://frontaliereticino.ch/fr/articles-frontalier/slug-san-gottardo-2026)
 - [Smartphones Dans Les Ecoles Et Nouvelles Directives](https://frontaliereticino.ch/fr/articles-frontalier/smartphones-dans-les-ecoles-et-nouvelles-directives)
 - [Smood Cesse Activites Tessin Impact Emploi Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/smood-cesse-activites-tessin-impact-emploi-frontaliers)
 - [Smuggling De Mozzarella Recherche](https://frontaliereticino.ch/fr/articles-frontalier/smuggling-de-mozzarella-recherche)
@@ -2615,6 +2614,7 @@
 - [Trafic De Migrants Entre Varese Et Le Ticino](https://frontaliereticino.ch/fr/articles-frontalier/trafic-de-migrants-entre-varese-et-le-ticino)
 - [Trafic Etre Humains Douane Tresa Impact Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/trafic-etre-humains-douane-tresa-impact-frontalier)
 - [Trafic Lourd A2 Tessin](https://frontaliereticino.ch/fr/articles-frontalier/trafic-lourd-a2-tessin)
+- [Trafic Saint Gothard 2026](https://frontaliereticino.ch/fr/articles-frontalier/trafic-saint-gothard-2026)
 - [Tragedia Stazione Bellinzona Frontalieri](https://frontaliereticino.ch/fr/articles-frontalier/tragedia-stazione-bellinzona-frontalieri)
 - [Tragedie Bellinzona Electrocution 2026](https://frontaliereticino.ch/fr/articles-frontalier/tragedie-bellinzona-electrocution-2026)
 - [Tragedie Braunwald Randonneur Disparu](https://frontaliereticino.ch/fr/articles-frontalier/tragedie-braunwald-randonneur-disparu)
@@ -2937,7 +2937,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (154 pages)
+### Other Pages (156 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2995,9 +2995,11 @@
 - [Frontaliers Chf Eur Change Guide](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-chf-eur-change-guide)
 - [Frontaliers Double Imposition Credit Dimpot](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-double-imposition-credit-dimpot)
 - [Frontaliers Fiscalite 2026 Nouvel Accord](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-fiscalite-2026-nouvel-accord)
+- [Frontaliers Impots 2026](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-impots-2026)
 - [Frontaliers Oui Definitif Travail A Distance](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-oui-definitif-travail-a-distance)
 - [Frontiere Chiasso Suisse](https://frontaliereticino.ch/fr/articles-suisse/frontiere-chiasso-suisse)
 - [Giro Trois Pays Fermetures Routes 2026](https://frontaliereticino.ch/fr/articles-suisse/giro-trois-pays-fermetures-routes-2026)
+- [Grenzgaenger Suisse Impots 2026](https://frontaliereticino.ch/fr/articles-suisse/grenzgaenger-suisse-impots-2026)
 - [Grisons Modele Bale Trafic](https://frontaliereticino.ch/fr/articles-suisse/grisons-modele-bale-trafic)
 - [Hopital Fribourg Emploi Infirmiere](https://frontaliereticino.ch/fr/articles-suisse/hopital-fribourg-emploi-infirmiere)
 - [Impact Chaleur Chemins Ferres Suisses](https://frontaliereticino.ch/fr/articles-suisse/impact-chaleur-chemins-ferres-suisses)
