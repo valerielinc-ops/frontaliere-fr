@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3018 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3019 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2922,7 +2922,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (149 pages)
+### Other Pages (150 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2974,6 +2974,7 @@
 - [Frontalier Assurance Auto Suisse Italie](https://frontaliereticino.ch/fr/articles-suisse/frontalier-assurance-auto-suisse-italie)
 - [Frontalier Italie Suisse Siege Entreprise](https://frontaliereticino.ch/fr/articles-suisse/frontalier-italie-suisse-siege-entreprise)
 - [Frontaliere Choix Suisse Travail Salaire Fiscalit C3 A9 Trafic Confrontation Ita](https://frontaliereticino.ch/fr/articles-suisse/frontaliere-choix-suisse-travail-salaire-fiscalit-c3-a9-trafic-confrontation-ita)
+- [Frontaliere Detrazioni Fiscali Italia 2026](https://frontaliereticino.ch/fr/articles-suisse/frontaliere-detrazioni-fiscali-italia-2026)
 - [Frontaliers Bloquer Reduire Restitutions Rome](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-bloquer-reduire-restitutions-rome)
 - [Frontaliers Change Euro Franc](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-change-euro-franc)
 - [Frontaliers Chf Eur Change Guide](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-chf-eur-change-guide)
