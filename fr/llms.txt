@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3036 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3037 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Trouver Emploi Tessin](https://frontaliereticino.ch/fr/trouver-emploi-tessin)
 
-### Blog Articles (2726 pages)
+### Blog Articles (2727 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics)
@@ -1538,6 +1538,7 @@
 - [Intervention Police Lugano Spray Poivre](https://frontaliereticino.ch/fr/articles-frontalier/intervention-police-lugano-spray-poivre)
 - [Intervention Policiere Massive Lugano](https://frontaliereticino.ch/fr/articles-frontalier/intervention-policiere-massive-lugano)
 - [Intervention Rega Monte Boglia](https://frontaliereticino.ch/fr/articles-frontalier/intervention-rega-monte-boglia)
+- [Intesa Mps Opas Actions Especes](https://frontaliereticino.ch/fr/articles-frontalier/intesa-mps-opas-actions-especes)
 - [Intesa Sanpaolo Recompense 10 Entreprises Gagnantes](https://frontaliereticino.ch/fr/articles-frontalier/intesa-sanpaolo-recompense-10-entreprises-gagnantes)
 - [Investissement Lombardie Mode Tessin Next Fashion](https://frontaliereticino.ch/fr/articles-frontalier/investissement-lombardie-mode-tessin-next-fashion)
 - [Investissement Piscine Chiasso](https://frontaliereticino.ch/fr/articles-frontalier/investissement-piscine-chiasso)
