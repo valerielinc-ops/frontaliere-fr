@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3047 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3048 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2940,7 +2940,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (160 pages)
+### Other Pages (161 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2970,6 +2970,7 @@
 - [Chomage Suisse Mai 2026](https://frontaliereticino.ch/fr/articles-suisse/chomage-suisse-mai-2026)
 - [Chomage Transfrontalier Suisse](https://frontaliereticino.ch/fr/articles-suisse/chomage-transfrontalier-suisse)
 - [Controles Frontieres G7 Interdictions Entree](https://frontaliereticino.ch/fr/articles-suisse/controles-frontieres-g7-interdictions-entree)
+- [Cote Obscur Eldorado Suisse Frontaliers Francais](https://frontaliereticino.ch/fr/articles-suisse/cote-obscur-eldorado-suisse-frontaliers-francais)
 - [Cout De La Voiture Pour Les Navetteurs Tessin](https://frontaliereticino.ch/fr/articles-suisse/cout-de-la-voiture-pour-les-navetteurs-tessin)
 - [Declaration Revenus Frontalieri 730 Guide](https://frontaliereticino.ch/fr/articles-suisse/declaration-revenus-frontalieri-730-guide)
 - [Demande Permis G Etape Par Etape](https://frontaliereticino.ch/fr/articles-suisse/demande-permis-g-etape-par-etape)
