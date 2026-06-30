@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3042 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3043 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Trouver Emploi Tessin](https://frontaliereticino.ch/fr/trouver-emploi-tessin)
 
-### Blog Articles (2727 pages)
+### Blog Articles (2728 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics)
@@ -452,6 +452,7 @@
 - [Banc Blanc Varese 2026](https://frontaliereticino.ch/fr/articles-frontalier/banc-blanc-varese-2026)
 - [Banc Etica Volunteers Livres De Sport Varesenews](https://frontaliereticino.ch/fr/articles-frontalier/banc-etica-volunteers-livres-de-sport-varesenews)
 - [Bancastato Walking Mendrisio 2026](https://frontaliereticino.ch/fr/articles-frontalier/bancastato-walking-mendrisio-2026)
+- [Bancomat Proces Varesenews 2023](https://frontaliereticino.ch/fr/articles-frontalier/bancomat-proces-varesenews-2023)
 - [Bandecchi Quarts Chiasso 2026](https://frontaliereticino.ch/fr/articles-frontalier/bandecchi-quarts-chiasso-2026)
 - [Banque Grisonne Poursuite Centaines Millions](https://frontaliereticino.ch/fr/articles-frontalier/banque-grisonne-poursuite-centaines-millions)
 - [Banque Italienne Varese 10 Ans Apres](https://frontaliereticino.ch/fr/articles-frontalier/banque-italienne-varese-10-ans-apres)
@@ -3033,9 +3034,9 @@
 - [Prestations Lpp Suisse Imposition](https://frontaliereticino.ch/fr/articles-suisse/prestations-lpp-suisse-imposition)
 - [Primes Maladie Ticino](https://frontaliereticino.ch/fr/articles-suisse/primes-maladie-ticino)
 - [Quellensteuer Tarifs Suisse 2026](https://frontaliereticino.ch/fr/articles-suisse/quellensteuer-tarifs-suisse-2026)
+- [Remboursements Fiscaux Pour Travailleurs Frontaliers Comment Ils Fonctionnent](https://frontaliereticino.ch/fr/articles-suisse/remboursements-fiscaux-pour-travailleurs-frontaliers-comment-ils-fonctionnent)
 - [Reprise Traffic Ferroviaire Allemagne](https://frontaliereticino.ch/fr/articles-suisse/reprise-traffic-ferroviaire-allemagne)
 - [Retraites Suisses A L Etranger](https://frontaliereticino.ch/fr/articles-suisse/retraites-suisses-a-l-etranger)
-- [Ristournes Fiscales Frontaliers](https://frontaliereticino.ch/fr/articles-suisse/ristournes-fiscales-frontaliers)
 - [Salaire Minimum Vd Oui Mais La Sixieme Canton](https://frontaliereticino.ch/fr/articles-suisse/salaire-minimum-vd-oui-mais-la-sixieme-canton)
 - [Salaires Frontaliers Centre Commercial](https://frontaliereticino.ch/fr/articles-suisse/salaires-frontaliers-centre-commercial)
 - [Secret Bancaire Suisse](https://frontaliereticino.ch/fr/articles-suisse/secret-bancaire-suisse)
