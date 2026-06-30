@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3046 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3047 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Trouver Emploi Tessin](https://frontaliereticino.ch/fr/trouver-emploi-tessin)
 
-### Blog Articles (2729 pages)
+### Blog Articles (2730 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics)
@@ -1279,6 +1279,7 @@
 - [Frontaliers Salaires Egalite Richete 2026](https://frontaliereticino.ch/fr/articles-frontalier/frontaliers-salaires-egalite-richete-2026)
 - [Frontaliers Salaires Tessin Controverse Croissante](https://frontaliereticino.ch/fr/articles-frontalier/frontaliers-salaires-tessin-controverse-croissante)
 - [Frontaliers Salaires Tessin Debat Un Cercle Vicieux](https://frontaliereticino.ch/fr/articles-frontalier/frontaliers-salaires-tessin-debat-un-cercle-vicieux)
+- [Frontaliers Siege Employeur Hors Zone Frontaliere](https://frontaliereticino.ch/fr/articles-frontalier/frontaliers-siege-employeur-hors-zone-frontaliere)
 - [Frontaliers Suisse Donnees Ust 2025](https://frontaliereticino.ch/fr/articles-frontalier/frontaliers-suisse-donnees-ust-2025)
 - [Frontaliers Taxe Sante Conflit](https://frontaliereticino.ch/fr/articles-frontalier/frontaliers-taxe-sante-conflit)
 - [Frontaliers Tessin Cotisations Assurance Maladie](https://frontaliereticino.ch/fr/articles-frontalier/frontaliers-tessin-cotisations-assurance-maladie)
