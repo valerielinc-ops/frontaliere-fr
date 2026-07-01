@@ -8,7 +8,7 @@
 - **Name**: Frontaliere Ticino
 - **Language**: French (this file) — also available in Italian (primary), English, German
 - **Type**: Free web application, no registration required
-- **Last Updated**: June 2026
+- **Last Updated**: July 2026
 - **Audience**: Travailleurs frontaliers francophones faisant la navette entre l'Italie et la Suisse (Tessin, Grisons, Valais)
 - **Content Authority**: Original, factual content based on official Swiss and Italian tax regulations, BFS/UST statistics, and UFSP/BAG health insurance data
 
@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3050 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3051 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2940,7 +2940,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (163 pages)
+### Other Pages (164 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2981,6 +2981,7 @@
 - [Donnees Salaire Frontaliers Privacy 2024](https://frontaliereticino.ch/fr/articles-suisse/donnees-salaire-frontaliers-privacy-2024)
 - [Donnees Salariales Frontaliers Tessin](https://frontaliereticino.ch/fr/articles-suisse/donnees-salariales-frontaliers-tessin)
 - [Douane Brogeda Delais Attente](https://frontaliereticino.ch/fr/articles-suisse/douane-brogeda-delais-attente)
+- [Douane Chiasso Brogeda Trafic 2024](https://frontaliereticino.ch/fr/articles-suisse/douane-chiasso-brogeda-trafic-2024)
 - [Douane Gaggiolo Stabio](https://frontaliereticino.ch/fr/articles-suisse/douane-gaggiolo-stabio)
 - [Droit Forfaitaire Commerce Electronique](https://frontaliereticino.ch/fr/articles-suisse/droit-forfaitaire-commerce-electronique)
 - [Echange Donnees Salariales Italie](https://frontaliereticino.ch/fr/articles-suisse/echange-donnees-salariales-italie)
