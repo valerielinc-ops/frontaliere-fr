@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3055 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3056 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2940,7 +2940,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (168 pages)
+### Other Pages (169 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2948,6 +2948,7 @@
 - [Articles Suisse](https://frontaliereticino.ch/fr/articles-suisse)
 - [Aeroports Suisse Augmentation Passagers](https://frontaliereticino.ch/fr/articles-suisse/aeroports-suisse-augmentation-passagers)
 - [Allocation Chomage Frontaliers Italie](https://frontaliereticino.ch/fr/articles-suisse/allocation-chomage-frontaliers-italie)
+- [Application Des Accords Sur Les Frontaliers Suisse](https://frontaliereticino.ch/fr/articles-suisse/application-des-accords-sur-les-frontaliers-suisse)
 - [Assurance Maladie Famille Frontalier](https://frontaliereticino.ch/fr/articles-suisse/assurance-maladie-famille-frontalier)
 - [Assurance Maladie Neuchatel Jeunes 19 25](https://frontaliereticino.ch/fr/articles-suisse/assurance-maladie-neuchatel-jeunes-19-25)
 - [Assurance Maladie Suisse Etranger Choix](https://frontaliereticino.ch/fr/articles-suisse/assurance-maladie-suisse-etranger-choix)
