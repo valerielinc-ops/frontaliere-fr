@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3056 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3057 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2940,7 +2940,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (169 pages)
+### Other Pages (170 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -3078,6 +3078,7 @@
 - [Laura Bianchi](https://frontaliereticino.ch/fr/auteurs/laura-bianchi)
 - [Marco Ferrari](https://frontaliereticino.ch/fr/auteurs/marco-ferrari)
 - [Redazione](https://frontaliereticino.ch/fr/auteurs/redazione)
+- [Samuele Valente](https://frontaliereticino.ch/fr/auteurs/samuele-valente)
 - [Bienvenue](https://frontaliereticino.ch/fr/bienvenue)
 - [Bonjour Frontalier](https://frontaliereticino.ch/fr/bonjour-frontalier)
 - [Calculateur Treizieme Salaire](https://frontaliereticino.ch/fr/calculateur-treizieme-salaire)
