@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3066 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3067 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Trouver Emploi Tessin](https://frontaliereticino.ch/fr/trouver-emploi-tessin)
 
-### Blog Articles (2732 pages)
+### Blog Articles (2733 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics)
@@ -509,6 +509,7 @@
 - [Blocage Chinois Acquisition Manus Implications](https://frontaliereticino.ch/fr/articles-frontalier/blocage-chinois-acquisition-manus-implications)
 - [Blocage Des Virements Tessin Frontaliers 2026](https://frontaliereticino.ch/fr/articles-frontalier/blocage-des-virements-tessin-frontaliers-2026)
 - [Blocage Remboursement Impots Tessin Politique 2026](https://frontaliereticino.ch/fr/articles-frontalier/blocage-remboursement-impots-tessin-politique-2026)
+- [Blocage Remboursement Tessin Lombardie](https://frontaliereticino.ch/fr/articles-frontalier/blocage-remboursement-tessin-lombardie)
 - [Blocage Restitution Tessin Italie 2026](https://frontaliereticino.ch/fr/articles-frontalier/blocage-restitution-tessin-italie-2026)
 - [Blocage Ristournes Entreprises Tessin Alarme Baisse Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/blocage-ristournes-entreprises-tessin-alarme-baisse-frontaliers)
 - [Blocages Des Ristournes Berne Italie](https://frontaliereticino.ch/fr/articles-frontalier/blocages-des-ristournes-berne-italie)
