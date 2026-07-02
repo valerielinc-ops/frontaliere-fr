@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3062 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3063 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2940,7 +2940,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (175 pages)
+### Other Pages (176 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -3008,6 +3008,7 @@
 - [Frontaliers Fiscalite 2026 Nouvel Accord](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-fiscalite-2026-nouvel-accord)
 - [Frontaliers Impots 2026](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-impots-2026)
 - [Frontaliers Oui Definitif Travail A Distance](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-oui-definitif-travail-a-distance)
+- [Frontaliers Retraite Avs Inps 2026 Dans Un Rayon De 20km](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-retraite-avs-inps-2026-dans-un-rayon-de-20km)
 - [Frontiere Chiasso Suisse](https://frontaliereticino.ch/fr/articles-suisse/frontiere-chiasso-suisse)
 - [Giro Trois Pays Fermetures Routes 2026](https://frontaliereticino.ch/fr/articles-suisse/giro-trois-pays-fermetures-routes-2026)
 - [Grenzgaenger Suisse Impots 2026](https://frontaliereticino.ch/fr/articles-suisse/grenzgaenger-suisse-impots-2026)
