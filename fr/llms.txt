@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3063 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3066 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Trouver Emploi Tessin](https://frontaliereticino.ch/fr/trouver-emploi-tessin)
 
-### Blog Articles (2730 pages)
+### Blog Articles (2732 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics)
@@ -2454,6 +2454,7 @@
 - [Suisse Independance Energetique Importations 2026](https://frontaliereticino.ch/fr/articles-frontalier/suisse-independance-energetique-importations-2026)
 - [Suisse Instructions 2026](https://frontaliereticino.ch/fr/articles-frontalier/suisse-instructions-2026)
 - [Suisse Instructions Pour Travailleurs Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/suisse-instructions-pour-travailleurs-frontaliers)
+- [Suisse Italie Frontaliers Berne Deplore L Arret Du Canton Mais Veut Une Solution](https://frontaliereticino.ch/fr/articles-frontalier/suisse-italie-frontaliers-berne-deplore-l-arret-du-canton-mais-veut-une-solution)
 - [Suisse Italie Nouvelle Phase Relations](https://frontaliereticino.ch/fr/articles-frontalier/suisse-italie-nouvelle-phase-relations)
 - [Suisse Italie Pasta 2026](https://frontaliereticino.ch/fr/articles-frontalier/suisse-italie-pasta-2026)
 - [Suisse Menace Hybride Russe 2026](https://frontaliereticino.ch/fr/articles-frontalier/suisse-menace-hybride-russe-2026)
@@ -2661,6 +2662,7 @@
 - [Travailleurs Frontaliers Motion Sirica Tessin 2024](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-motion-sirica-tessin-2024)
 - [Travailleurs Frontaliers Pension Avs Inps 2026 Erreurs Courantes](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-pension-avs-inps-2026-erreurs-courantes)
 - [Travailleurs Frontaliers Residence Italie Suisse 2026](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-residence-italie-suisse-2026)
+- [Travailleurs Frontaliers Ristorni Pellicini Table De Travail](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-ristorni-pellicini-table-de-travail)
 - [Travailleurs Frontaliers Strategie De Change Chf Eur 2026 Simulation Pratique](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-strategie-de-change-chf-eur-2026-simulation-pratique)
 - [Travailleurs Frontaliers Teletrravail 2026](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-teletrravail-2026)
 - [Travailleurs Frontaliers Tessin](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-tessin)
@@ -2940,7 +2942,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (176 pages)
+### Other Pages (177 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -3024,6 +3026,7 @@
 - [Impot Source Tessin Calculateur](https://frontaliereticino.ch/fr/articles-suisse/impot-source-tessin-calculateur)
 - [Incendie Autostrada Piotta](https://frontaliereticino.ch/fr/articles-suisse/incendie-autostrada-piotta)
 - [Indemnisations Pandemie Entreprises Suisses](https://frontaliereticino.ch/fr/articles-suisse/indemnisations-pandemie-entreprises-suisses)
+- [Indemnites Frontaliers Bloquees Alfieri Pd](https://frontaliereticino.ch/fr/articles-suisse/indemnites-frontaliers-bloquees-alfieri-pd)
 - [Initiatives Assurance Maladie 2026](https://frontaliereticino.ch/fr/articles-suisse/initiatives-assurance-maladie-2026)
 - [Journees De Soleure Finances 2026](https://frontaliereticino.ch/fr/articles-suisse/journees-de-soleure-finances-2026)
 - [Lamal Ou Cmi Frontaliers Lequel Choisir 2026](https://frontaliereticino.ch/fr/articles-suisse/lamal-ou-cmi-frontaliers-lequel-choisir-2026)
