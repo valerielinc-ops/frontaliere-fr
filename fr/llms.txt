@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3067 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3070 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Trouver Emploi Tessin](https://frontaliereticino.ch/fr/trouver-emploi-tessin)
 
-### Blog Articles (2733 pages)
+### Blog Articles (2736 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics)
@@ -511,6 +511,7 @@
 - [Blocage Remboursement Impots Tessin Politique 2026](https://frontaliereticino.ch/fr/articles-frontalier/blocage-remboursement-impots-tessin-politique-2026)
 - [Blocage Remboursement Tessin Lombardie](https://frontaliereticino.ch/fr/articles-frontalier/blocage-remboursement-tessin-lombardie)
 - [Blocage Restitution Tessin Italie 2026](https://frontaliereticino.ch/fr/articles-frontalier/blocage-restitution-tessin-italie-2026)
+- [Blocage Ristorni Ticino Reaction Pd](https://frontaliereticino.ch/fr/articles-frontalier/blocage-ristorni-ticino-reaction-pd)
 - [Blocage Ristournes Entreprises Tessin Alarme Baisse Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/blocage-ristournes-entreprises-tessin-alarme-baisse-frontaliers)
 - [Blocages Des Ristournes Berne Italie](https://frontaliereticino.ch/fr/articles-frontalier/blocages-des-ristournes-berne-italie)
 - [Bns Baisse Profit 2025 Impact Tessin](https://frontaliereticino.ch/fr/articles-frontalier/bns-baisse-profit-2025-impact-tessin)
@@ -2239,6 +2240,7 @@
 - [Retour Lent A2 Travailleurs Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/retour-lent-a2-travailleurs-frontaliers)
 - [Retour Pentecote Trafic Tessin 2026](https://frontaliereticino.ch/fr/articles-frontalier/retour-pentecote-trafic-tessin-2026)
 - [Retour Sur L A2 Embouteillage 30 Avril 2026](https://frontaliereticino.ch/fr/articles-frontalier/retour-sur-l-a2-embouteillage-30-avril-2026)
+- [Retours Frontaliers Bloques Reina](https://frontaliereticino.ch/fr/articles-frontalier/retours-frontaliers-bloques-reina)
 - [Retours Impots Frontaliers Reaction Lombardie Taxe Sante](https://frontaliereticino.ch/fr/articles-frontalier/retours-impots-frontaliers-reaction-lombardie-taxe-sante)
 - [Retrait Deuxieme Pilier Travailleurs Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/retrait-deuxieme-pilier-travailleurs-frontaliers)
 - [Retraites Travail Suisse 2026](https://frontaliereticino.ch/fr/articles-frontalier/retraites-travail-suisse-2026)
@@ -2659,6 +2661,7 @@
 - [Travailleurs Frontaliers Contribution Sante 2026](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-contribution-sante-2026)
 - [Travailleurs Frontaliers Deductions Fiscales Italie 2026](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-deductions-fiscales-italie-2026)
 - [Travailleurs Frontaliers Garde Enfants Suisse](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-garde-enfants-suisse)
+- [Travailleurs Frontaliers Italiens Plainte Oil Discrimination](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-italiens-plainte-oil-discrimination)
 - [Travailleurs Frontaliers Lac Leman](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-lac-leman)
 - [Travailleurs Frontaliers Motion Sirica Tessin 2024](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-motion-sirica-tessin-2024)
 - [Travailleurs Frontaliers Pension Avs Inps 2026 Erreurs Courantes](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-pension-avs-inps-2026-erreurs-courantes)
