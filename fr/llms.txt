@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3060 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3061 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2940,7 +2940,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (173 pages)
+### Other Pages (174 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -3056,6 +3056,7 @@
 - [Sejour Etranger Eviter Lacune Avs](https://frontaliereticino.ch/fr/articles-suisse/sejour-etranger-eviter-lacune-avs)
 - [Stabio Douane Suisse](https://frontaliereticino.ch/fr/articles-suisse/stabio-douane-suisse)
 - [Stop Ristorni Frontiera](https://frontaliereticino.ch/fr/articles-suisse/stop-ristorni-frontiera)
+- [Strategies Change Chf Eur 2026 Famille Enfants](https://frontaliereticino.ch/fr/articles-suisse/strategies-change-chf-eur-2026-famille-enfants)
 - [Suisses Italie Accord Fiscal](https://frontaliereticino.ch/fr/articles-suisse/suisses-italie-accord-fiscal)
 - [Taxe Reservation Cabanes Cas Suisse](https://frontaliereticino.ch/fr/articles-suisse/taxe-reservation-cabanes-cas-suisse)
 - [Taxe Sante Frontalier Syndicats Attaque](https://frontaliereticino.ch/fr/articles-suisse/taxe-sante-frontalier-syndicats-attaque)
