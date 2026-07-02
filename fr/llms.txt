@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3070 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3074 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Trouver Emploi Tessin](https://frontaliereticino.ch/fr/trouver-emploi-tessin)
 
-### Blog Articles (2736 pages)
+### Blog Articles (2738 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics)
@@ -437,6 +437,7 @@
 - [Avs 13e Parlement Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/avs-13e-parlement-frontaliers)
 - [Avs 13e Pension Conciliation Tva](https://frontaliereticino.ch/fr/articles-frontalier/avs-13e-pension-conciliation-tva)
 - [Avs 2030 Frontaliers Tessin](https://frontaliereticino.ch/fr/articles-frontalier/avs-2030-frontaliers-tessin)
+- [Avs Ai Perspectives Financieres Se Detiorent](https://frontaliereticino.ch/fr/articles-frontalier/avs-ai-perspectives-financieres-se-detiorent)
 - [Avs Demain A 11 Angelo Bonelli En Direct A Adnkronos](https://frontaliereticino.ch/fr/articles-frontalier/avs-demain-a-11-angelo-bonelli-en-direct-a-adnkronos)
 - [Avs Donnees Numeriques Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/avs-donnees-numeriques-frontaliers)
 - [Azzate Koningsdag Console Pays Bas 2026](https://frontaliereticino.ch/fr/articles-frontalier/azzate-koningsdag-console-pays-bas-2026)
@@ -2571,6 +2572,7 @@
 - [Thun Champion 2026](https://frontaliereticino.ch/fr/articles-frontalier/thun-champion-2026)
 - [Thun Championnat De Football 2026 Fete Thun](https://frontaliereticino.ch/fr/articles-frontalier/thun-championnat-de-football-2026-fete-thun)
 - [Thun Gagne Football Programmation](https://frontaliereticino.ch/fr/articles-frontalier/thun-gagne-football-programmation)
+- [Ticin Ristournes Lombardie Solution](https://frontaliereticino.ch/fr/articles-frontalier/ticin-ristournes-lombardie-solution)
 - [Ticinese Dirige Afro Pfingsten](https://frontaliereticino.ch/fr/articles-frontalier/ticinese-dirige-afro-pfingsten)
 - [Ticino 61 Millions Initiatives Assurance Maladie Consequences](https://frontaliereticino.ch/fr/articles-frontalier/ticino-61-millions-initiatives-assurance-maladie-consequences)
 - [Ticino Atteinte Par Les Cameras De Vitesse 2026](https://frontaliereticino.ch/fr/articles-frontalier/ticino-atteinte-par-les-cameras-de-vitesse-2026)
@@ -2946,7 +2948,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier)
 
-### Other Pages (177 pages)
+### Other Pages (179 pages)
 
 - [Fr](https://frontaliereticino.ch/fr)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos)
@@ -2962,6 +2964,7 @@
 - [Augmentation Tva Armee 2024](https://frontaliereticino.ch/fr/articles-suisse/augmentation-tva-armee-2024)
 - [Autorisation De Sejour B Impot A La Source 2026](https://frontaliereticino.ch/fr/articles-suisse/autorisation-de-sejour-b-impot-a-la-source-2026)
 - [Avantages Fonctionnalites Troisieme Pilier](https://frontaliereticino.ch/fr/articles-suisse/avantages-fonctionnalites-troisieme-pilier)
+- [Avs Ai Perspectives Financieres](https://frontaliereticino.ch/fr/articles-suisse/avs-ai-perspectives-financieres)
 - [Avs Financement 13e](https://frontaliereticino.ch/fr/articles-suisse/avs-financement-13e)
 - [Bce Taux Inflation 2023](https://frontaliereticino.ch/fr/articles-suisse/bce-taux-inflation-2023)
 - [Blocage Des Restaurations Tessin Decision Parti Radical Liberal](https://frontaliereticino.ch/fr/articles-suisse/blocage-des-restaurations-tessin-decision-parti-radical-liberal)
@@ -3014,6 +3017,7 @@
 - [Frontaliers Fiscalite 2026 Nouvel Accord](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-fiscalite-2026-nouvel-accord)
 - [Frontaliers Impots 2026](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-impots-2026)
 - [Frontaliers Oui Definitif Travail A Distance](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-oui-definitif-travail-a-distance)
+- [Frontaliers Planification Retraite Anticipee 2026 Plus 20km](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-planification-retraite-anticipee-2026-plus-20km)
 - [Frontaliers Retraite Avs Inps 2026 Dans Un Rayon De 20km](https://frontaliereticino.ch/fr/articles-suisse/frontaliers-retraite-avs-inps-2026-dans-un-rayon-de-20km)
 - [Frontiere Chiasso Suisse](https://frontaliereticino.ch/fr/articles-suisse/frontiere-chiasso-suisse)
 - [Giro Trois Pays Fermetures Routes 2026](https://frontaliereticino.ch/fr/articles-suisse/giro-trois-pays-fermetures-routes-2026)
