@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 4841 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 4842 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -3989,7 +3989,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (905 pages)
+### Other Pages (906 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -4894,5 +4894,6 @@
 - [Travail Tessin Physiotherapeute](https://frontaliereticino.ch/fr/travail-tessin-physiotherapeute/)
 - [Travail Tessin Psychologue](https://frontaliereticino.ch/fr/travail-tessin-psychologue/)
 - [Travail Tessin Sage Femme](https://frontaliereticino.ch/fr/travail-tessin-sage-femme/)
+- [Travail Tessin Serveur](https://frontaliereticino.ch/fr/travail-tessin-serveur/)
 - [Travail Tessin Soudeur](https://frontaliereticino.ch/fr/travail-tessin-soudeur/)
 - [Trouver Emploi Tessin](https://frontaliereticino.ch/fr/trouver-emploi-tessin/)
