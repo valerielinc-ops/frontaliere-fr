@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 4840 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 4841 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3223 pages)
+### Blog Articles (3224 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1126,6 +1126,7 @@
 - [Budget Varese 2026 Surplus Record](https://frontaliereticino.ch/fr/articles-frontalier/budget-varese-2026-surplus-record/)
 - [Buffet Camedo Evenements Tessin](https://frontaliereticino.ch/fr/articles-frontalier/buffet-camedo-evenements-tessin/)
 - [Bulle Immobiliere Tessin 2026](https://frontaliereticino.ch/fr/articles-frontalier/bulle-immobiliere-tessin-2026/)
+- [Bulletin Frontalier 2026 08 08](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-frontalier-2026-08-08/)
 - [Bureau Energetique Verbano 2026](https://frontaliereticino.ch/fr/articles-frontalier/bureau-energetique-verbano-2026/)
 - [Bureau Frontalier Varese](https://frontaliereticino.ch/fr/articles-frontalier/bureau-frontalier-varese/)
 - [Bureau Open Space Stress Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/bureau-open-space-stress-frontaliers/)
