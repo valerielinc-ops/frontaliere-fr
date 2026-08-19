@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5561 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5564 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3450 pages)
+### Blog Articles (3452 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -4074,6 +4074,7 @@
 - [Vivre A Luino Travailler Au Ticino Guide Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-luino-travailler-au-ticino-guide-frontalier/)
 - [Vivre A Maccagno Travailler Au Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-maccagno-travailler-au-tessin/)
 - [Vivre A Maslianico Travailler Au Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-maslianico-travailler-au-tessin/)
+- [Vivre A Moltrasio Travailler Au Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-moltrasio-travailler-au-tessin/)
 - [Vivre A Ollomont Travailler En Valais Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-ollomont-travailler-en-valais-frontalier/)
 - [Vivre A Piuro Travailler Dans Les Grisons](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-piuro-travailler-dans-les-grisons/)
 - [Vivre A Porlezza Et Travailler En Ticino En Tant Que Travailleur Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-porlezza-et-travailler-en-ticino-en-tant-que-travailleur-frontalier/)
@@ -4093,6 +4094,7 @@
 - [Vivre Aosta Travailler Valais Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-aosta-travailler-valais-frontalier/)
 - [Vivre Au Coeur De Bellinzona](https://frontaliereticino.ch/fr/articles-frontalier/vivre-au-coeur-de-bellinzona/)
 - [Vivre Bizzarone Travailler Ticino](https://frontaliereticino.ch/fr/articles-frontalier/vivre-bizzarone-travailler-ticino/)
+- [Vivre Brezzo Bedero Travailler Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-brezzo-bedero-travailler-tessin/)
 - [Vivre Campodolcino Travailler Grigioni En Tant Que Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-campodolcino-travailler-grigioni-en-tant-que-frontalier/)
 - [Vivre Chiuro Travailler Grigioni Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/vivre-chiuro-travailler-grigioni-frontaliers/)
 - [Vivre Come Travailler Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-come-travailler-tessin-frontalier/)
@@ -4215,7 +4217,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (1399 pages)
+### Other Pages (1400 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -4532,6 +4534,7 @@
 - [Droits Parentaux Frontaliers](https://frontaliereticino.ch/fr/articles-suisse/droits-parentaux-frontaliers/)
 - [Droits Travailleurs Chaud Ete](https://frontaliereticino.ch/fr/articles-suisse/droits-travailleurs-chaud-ete/)
 - [Dsm Firmenich Supprime 1000 Emplois Suisse](https://frontaliereticino.ch/fr/articles-suisse/dsm-firmenich-supprime-1000-emplois-suisse/)
+- [Easygov Pme Suisse](https://frontaliereticino.ch/fr/articles-suisse/easygov-pme-suisse/)
 - [Easyjet Apollon Acquisition](https://frontaliereticino.ch/fr/articles-suisse/easyjet-apollon-acquisition/)
 - [Echange Donnees Salariales Italie](https://frontaliereticino.ch/fr/articles-suisse/echange-donnees-salariales-italie/)
 - [Echange Donnees Salariales Italie Suisse](https://frontaliereticino.ch/fr/articles-suisse/echange-donnees-salariales-italie-suisse/)
