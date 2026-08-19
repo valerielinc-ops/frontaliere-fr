@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5574 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5582 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3460 pages)
+### Blog Articles (3464 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1902,6 +1902,7 @@
 - [Fermetures Nocturnes Autoroute](https://frontaliereticino.ch/fr/articles-frontalier/fermetures-nocturnes-autoroute/)
 - [Fermé Val Bedretto](https://frontaliereticino.ch/fr/articles-frontalier/fermé-val-bedretto/)
 - [Ferrara M5s Beko Cassinetta Verification](https://frontaliereticino.ch/fr/articles-frontalier/ferrara-m5s-beko-cassinetta-verification/)
+- [Ferrera Varese Frontalier Tessin](https://frontaliereticino.ch/fr/articles-frontalier/ferrera-varese-frontalier-tessin/)
 - [Festival Camions Restaurants Locarno 2026](https://frontaliereticino.ch/fr/articles-frontalier/festival-camions-restaurants-locarno-2026/)
 - [Festival De Film De Locarno Frontaliers Du Tessin](https://frontaliereticino.ch/fr/articles-frontalier/festival-de-film-de-locarno-frontaliers-du-tessin/)
 - [Festival De La Merveille Laveno Luino 2026](https://frontaliereticino.ch/fr/articles-frontalier/festival-de-la-merveille-laveno-luino-2026/)
@@ -3576,6 +3577,7 @@
 - [Page 8](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/page-8/)
 - [Page 9](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/page-9/)
 - [Sante Assurance Maladie](https://frontaliereticino.ch/fr/articles-frontalier/sujets/sante-assurance-maladie/)
+- [Page 10](https://frontaliereticino.ch/fr/articles-frontalier/sujets/sante-assurance-maladie/page-10/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-frontalier/sujets/sante-assurance-maladie/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/sante-assurance-maladie/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/sante-assurance-maladie/page-4/)
@@ -4107,11 +4109,13 @@
 - [Vivre Crevoladossola Travailler Ticino Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-crevoladossola-travailler-ticino-frontalier/)
 - [Vivre Dongo Travailler Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-dongo-travailler-tessin-frontalier/)
 - [Vivre Dumenza Travailler Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-dumenza-travailler-tessin/)
+- [Vivre En Centro Valle Intelvi Travailler En Suisse En Tant Que Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-en-centro-valle-intelvi-travailler-en-suisse-en-tant-que-frontalier/)
 - [Vivre En Lovero Travailler En Grigioni De L Italie](https://frontaliereticino.ch/fr/articles-frontalier/vivre-en-lovero-travailler-en-grigioni-de-l-italie/)
 - [Vivre En Valtelline Travailler En Grisons Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-en-valtelline-travailler-en-grisons-frontalier/)
 - [Vivre Faloppio Travailler En Suisse Comme Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-faloppio-travailler-en-suisse-comme-frontalier/)
 - [Vivre Gignod Travailler Valais Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-gignod-travailler-valais-frontalier/)
 - [Vivre La Thuile Travailler Le Valais](https://frontaliereticino.ch/fr/articles-frontalier/vivre-la-thuile-travailler-le-valais/)
+- [Vivre Laglio Travailler Ticino Frontieres](https://frontaliereticino.ch/fr/articles-frontalier/vivre-laglio-travailler-ticino-frontieres/)
 - [Vivre Lavena Ponte Tresa Travailler Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-lavena-ponte-tresa-travailler-tessin/)
 - [Vivre Livigno Travailler Grigioni Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/vivre-livigno-travailler-grigioni-frontaliers/)
 - [Vivre Oggebbio Travailler Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-oggebbio-travailler-tessin/)
@@ -4225,7 +4229,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (1402 pages)
+### Other Pages (1406 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -4784,9 +4788,11 @@
 - [Incendie Monte Gambarogno](https://frontaliereticino.ch/fr/articles-suisse/incendie-monte-gambarogno/)
 - [Incendie Nouveau Logement Rental Cantons](https://frontaliereticino.ch/fr/articles-suisse/incendie-nouveau-logement-rental-cantons/)
 - [Indemnisations Pandemie Entreprises Suisses](https://frontaliereticino.ch/fr/articles-suisse/indemnisations-pandemie-entreprises-suisses/)
+- [Indemnite Maladie Systeme Suffisant](https://frontaliereticino.ch/fr/articles-suisse/indemnite-maladie-systeme-suffisant/)
 - [Indemnites De Chomage Suisse Pour Frontalier](https://frontaliereticino.ch/fr/articles-suisse/indemnites-de-chomage-suisse-pour-frontalier/)
 - [Indemnites Frontaliers Bloquees Alfieri Pd](https://frontaliereticino.ch/fr/articles-suisse/indemnites-frontaliers-bloquees-alfieri-pd/)
 - [Independance Suisse Securite](https://frontaliereticino.ch/fr/articles-suisse/independance-suisse-securite/)
+- [Industrie Construction Croissance Q2](https://frontaliereticino.ch/fr/articles-suisse/industrie-construction-croissance-q2/)
 - [Industrie Pharmaceutique Suisse Donnees](https://frontaliereticino.ch/fr/articles-suisse/industrie-pharmaceutique-suisse-donnees/)
 - [Infantino Fifa Lamour Licencie](https://frontaliereticino.ch/fr/articles-suisse/infantino-fifa-lamour-licencie/)
 - [Infirmiere Frontalier Basel](https://frontaliereticino.ch/fr/articles-suisse/infirmiere-frontalier-basel/)
@@ -4808,6 +4814,7 @@
 - [Intelligence Chiens Chats Recherche](https://frontaliereticino.ch/fr/articles-suisse/intelligence-chiens-chats-recherche/)
 - [Intentions Embauche Suisse Manpower](https://frontaliereticino.ch/fr/articles-suisse/intentions-embauche-suisse-manpower/)
 - [Investissement Immobilier Frontalier Suisse](https://frontaliereticino.ch/fr/articles-suisse/investissement-immobilier-frontalier-suisse/)
+- [Investissements Defense Aerienne Suisse](https://frontaliereticino.ch/fr/articles-suisse/investissements-defense-aerienne-suisse/)
 - [Investissements Electricite Suisse](https://frontaliereticino.ch/fr/articles-suisse/investissements-electricite-suisse/)
 - [Investissements Startup Suisse Reduction](https://frontaliereticino.ch/fr/articles-suisse/investissements-startup-suisse-reduction/)
 - [Italie Reprend L Expulsion Des Demandeurs D Asile](https://frontaliereticino.ch/fr/articles-suisse/italie-reprend-l-expulsion-des-demandeurs-d-asile/)
@@ -4886,6 +4893,7 @@
 - [Mercato Affitti Canton Berna](https://frontaliereticino.ch/fr/articles-suisse/mercato-affitti-canton-berna/)
 - [Migros Operateur Conquiert Suisse Coop](https://frontaliereticino.ch/fr/articles-suisse/migros-operateur-conquiert-suisse-coop/)
 - [Migros Supermarche 24 Heures Herisau](https://frontaliereticino.ch/fr/articles-suisse/migros-supermarche-24-heures-herisau/)
+- [Migros Trois Departs Direction](https://frontaliereticino.ch/fr/articles-suisse/migros-trois-departs-direction/)
 - [Millionnaires Revenu Suisse 2022](https://frontaliereticino.ch/fr/articles-suisse/millionnaires-revenu-suisse-2022/)
 - [Mise A Jour De Laccord De Libre Echange Suisse Uk](https://frontaliereticino.ch/fr/articles-suisse/mise-a-jour-de-laccord-de-libre-echange-suisse-uk/)
 - [Mises A Jour Bureau Poste Chiasso](https://frontaliereticino.ch/fr/articles-suisse/mises-a-jour-bureau-poste-chiasso/)
