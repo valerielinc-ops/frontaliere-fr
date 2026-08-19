@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5564 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5570 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3452 pages)
+### Blog Articles (3458 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1159,6 +1159,7 @@
 - [Bulletin Frontalier 2026 08 16](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-frontalier-2026-08-16/)
 - [Bulletin Frontalier 2026 08 17](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-frontalier-2026-08-17/)
 - [Bulletin Frontalier 2026 08 18](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-frontalier-2026-08-18/)
+- [Bulletin Frontalier 2026 08 19](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-frontalier-2026-08-19/)
 - [Bureau Douanier Unique Mendrisio Sopraceneri](https://frontaliereticino.ch/fr/articles-frontalier/bureau-douanier-unique-mendrisio-sopraceneri/)
 - [Bureau Energetique Verbano 2026](https://frontaliereticino.ch/fr/articles-frontalier/bureau-energetique-verbano-2026/)
 - [Bureau Frontalier Varese](https://frontaliereticino.ch/fr/articles-frontalier/bureau-frontalier-varese/)
@@ -2621,6 +2622,7 @@
 - [Maladies Renales Campagne Cl3ar Milan](https://frontaliereticino.ch/fr/articles-frontalier/maladies-renales-campagne-cl3ar-milan/)
 - [Malcantone Fai Di Primavera 2026 Fr](https://frontaliereticino.ch/fr/articles-frontalier/malcantone-fai-di-primavera-2026-fr/)
 - [Malnate Comites De Quartier Budget Participatif](https://frontaliereticino.ch/fr/articles-frontalier/malnate-comites-de-quartier-budget-participatif/)
+- [Malnate Travail Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/malnate-travail-tessin-frontalier/)
 - [Malpensa Bruit Casorate Sempione 2026](https://frontaliereticino.ch/fr/articles-frontalier/malpensa-bruit-casorate-sempione-2026/)
 - [Malpensa Carburant Risque Frontaliers 2026](https://frontaliereticino.ch/fr/articles-frontalier/malpensa-carburant-risque-frontaliers-2026/)
 - [Malpensa M5s Contre Le Deplacement Damazon](https://frontaliereticino.ch/fr/articles-frontalier/malpensa-m5s-contre-le-deplacement-damazon/)
@@ -3281,6 +3283,8 @@
 - [Samantha Bourgoin Apisuisse 2026](https://frontaliereticino.ch/fr/articles-frontalier/samantha-bourgoin-apisuisse-2026/)
 - [Samarate Departs Frontaliers 2026](https://frontaliereticino.ch/fr/articles-frontalier/samarate-departs-frontaliers-2026/)
 - [Samira De Stefano Demi Finale Chiasso](https://frontaliereticino.ch/fr/articles-frontalier/samira-de-stefano-demi-finale-chiasso/)
+- [San Fermo Della Battaglia Travailleur Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/san-fermo-della-battaglia-travailleur-frontalier/)
+- [San Fermo Travailler Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/san-fermo-travailler-tessin-frontalier/)
 - [San Gallo Gagne Thun Fete Retardee](https://frontaliereticino.ch/fr/articles-frontalier/san-gallo-gagne-thun-fete-retardee/)
 - [San Gottardo Code Vendredi Saint](https://frontaliereticino.ch/fr/articles-frontalier/san-gottardo-code-vendredi-saint/)
 - [San Gottardo Second Tunnel Diaframme Tombe](https://frontaliereticino.ch/fr/articles-frontalier/san-gottardo-second-tunnel-diaframme-tombe/)
@@ -3561,6 +3565,7 @@
 - [Page 2](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/page-4/)
+- [Page 5](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/page-5/)
 - [Salaires](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/page-3/)
@@ -4099,6 +4104,7 @@
 - [Vivre Chiuro Travailler Grigioni Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/vivre-chiuro-travailler-grigioni-frontaliers/)
 - [Vivre Come Travailler Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-come-travailler-tessin-frontalier/)
 - [Vivre Crevoladossola Travailler Ticino Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-crevoladossola-travailler-ticino-frontalier/)
+- [Vivre Dongo Travailler Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-dongo-travailler-tessin-frontalier/)
 - [Vivre Dumenza Travailler Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-dumenza-travailler-tessin/)
 - [Vivre En Lovero Travailler En Grigioni De L Italie](https://frontaliereticino.ch/fr/articles-frontalier/vivre-en-lovero-travailler-en-grigioni-de-l-italie/)
 - [Vivre En Valtelline Travailler En Grisons Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-en-valtelline-travailler-en-grisons-frontalier/)
