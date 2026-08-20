@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5702 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5707 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3522 pages)
+### Blog Articles (3524 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -3594,7 +3594,6 @@
 - [Permis G](https://frontaliereticino.ch/fr/articles-frontalier/sujets/permis-g/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-frontalier/sujets/permis-g/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/permis-g/page-3/)
-- [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/permis-g/page-4/)
 - [Retraites Avs Lpp](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/page-3/)
@@ -3636,6 +3635,7 @@
 - [Page 6](https://frontaliereticino.ch/fr/articles-frontalier/sujets/transports-et-trafic/page-6/)
 - [Page 7](https://frontaliereticino.ch/fr/articles-frontalier/sujets/transports-et-trafic/page-7/)
 - [Page 8](https://frontaliereticino.ch/fr/articles-frontalier/sujets/transports-et-trafic/page-8/)
+- [Page 9](https://frontaliereticino.ch/fr/articles-frontalier/sujets/transports-et-trafic/page-9/)
 - [Travail Et Emploi](https://frontaliereticino.ch/fr/articles-frontalier/sujets/travail-et-emploi/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-frontalier/sujets/travail-et-emploi/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/travail-et-emploi/page-3/)
@@ -4148,6 +4148,7 @@
 - [Vivre Bizzarone Travailler Ticino](https://frontaliereticino.ch/fr/articles-frontalier/vivre-bizzarone-travailler-ticino/)
 - [Vivre Brezzo Bedero Travailler Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-brezzo-bedero-travailler-tessin/)
 - [Vivre Brissago Valtravaglia Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-brissago-valtravaglia-tessin/)
+- [Vivre Caglio Travailler Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-caglio-travailler-tessin-frontalier/)
 - [Vivre Campodolcino Travailler Grigioni En Tant Que Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-campodolcino-travailler-grigioni-en-tant-que-frontalier/)
 - [Vivre Capiago Intimiano Travailler Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-capiago-intimiano-travailler-tessin/)
 - [Vivre Castello Cabiaglio Travailler Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-castello-cabiaglio-travailler-tessin-frontalier/)
@@ -4168,6 +4169,7 @@
 - [Vivre La Thuile Travailler Le Valais](https://frontaliereticino.ch/fr/articles-frontalier/vivre-la-thuile-travailler-le-valais/)
 - [Vivre Laglio Travailler Ticino Frontieres](https://frontaliereticino.ch/fr/articles-frontalier/vivre-laglio-travailler-ticino-frontieres/)
 - [Vivre Lavena Ponte Tresa Travailler Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-lavena-ponte-tresa-travailler-tessin/)
+- [Vivre Limido Comasco En Tant Que Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-limido-comasco-en-tant-que-frontalier/)
 - [Vivre Livigno Travailler Grigioni Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/vivre-livigno-travailler-grigioni-frontaliers/)
 - [Vivre Lurago Marinone Travailler Ticino Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-lurago-marinone-travailler-ticino-frontalier/)
 - [Vivre Lurate Caccivio Travailler Tessin Frontiere](https://frontaliereticino.ch/fr/articles-frontalier/vivre-lurate-caccivio-travailler-tessin-frontiere/)
@@ -4287,7 +4289,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (1468 pages)
+### Other Pages (1471 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -4357,6 +4359,7 @@
 - [Apprentissage Formation Professionnelle Bale Campagne](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-formation-professionnelle-bale-campagne/)
 - [Apprentissage Formation Professionnelle Berne](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-formation-professionnelle-berne/)
 - [Apprentissage Formation Professionnelle Canton Berne](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-formation-professionnelle-canton-berne/)
+- [Apprentissage Formation Professionnelle Schaffhouse](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-formation-professionnelle-schaffhouse/)
 - [Apprentissage Formation Professionnelle Zurich](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-formation-professionnelle-zurich/)
 - [Apprentissage Glaris](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-glaris/)
 - [Apprentissage Lucerne](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-lucerne/)
@@ -5303,6 +5306,7 @@
 - [Suisse Baisse Immigration Emigration 2026](https://frontaliereticino.ch/fr/articles-suisse/suisse-baisse-immigration-emigration-2026/)
 - [Suisse Ceuta Melilla Controles Frontieres](https://frontaliereticino.ch/fr/articles-suisse/suisse-ceuta-melilla-controles-frontieres/)
 - [Suisse Chine Accord Libre Echange](https://frontaliereticino.ch/fr/articles-suisse/suisse-chine-accord-libre-echange/)
+- [Suisse Chine Export Droits](https://frontaliereticino.ch/fr/articles-suisse/suisse-chine-export-droits/)
 - [Suisse Chomage Frontaliers Motion Quadri](https://frontaliereticino.ch/fr/articles-suisse/suisse-chomage-frontaliers-motion-quadri/)
 - [Suisse Chomage Frontaliers Ue](https://frontaliereticino.ch/fr/articles-suisse/suisse-chomage-frontaliers-ue/)
 - [Suisse Ees Ralentit Controles](https://frontaliereticino.ch/fr/articles-suisse/suisse-ees-ralentit-controles/)
@@ -5486,6 +5490,7 @@
 - [Troisieme Pilier 3a Suisse Avantages 2026 Canton Saint Gall](https://frontaliereticino.ch/fr/articles-suisse/troisieme-pilier-3a-suisse-avantages-2026-canton-saint-gall/)
 - [Troisieme Pilier Frontaliers](https://frontaliereticino.ch/fr/articles-suisse/troisieme-pilier-frontaliers/)
 - [Trottinette Casque Obligatoire](https://frontaliereticino.ch/fr/articles-suisse/trottinette-casque-obligatoire/)
+- [Trottinette Casque Securite](https://frontaliereticino.ch/fr/articles-suisse/trottinette-casque-securite/)
 - [Trump Droits De Douane 2026](https://frontaliereticino.ch/fr/articles-suisse/trump-droits-de-douane-2026/)
 - [Trump Senat Americain Heure Ete](https://frontaliereticino.ch/fr/articles-suisse/trump-senat-americain-heure-ete/)
 - [Tva Hausse Decision Gouvernement Prevue](https://frontaliereticino.ch/fr/articles-suisse/tva-hausse-decision-gouvernement-prevue/)
