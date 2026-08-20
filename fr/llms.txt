@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5707 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5715 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3524 pages)
+### Blog Articles (3528 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -801,6 +801,7 @@
 - [Accident Rampe A9 Chiasso 2026](https://frontaliereticino.ch/fr/articles-frontalier/accident-rampe-a9-chiasso-2026/)
 - [Accident Riazzino Cycliste Condamnation](https://frontaliereticino.ch/fr/articles-frontalier/accident-riazzino-cycliste-condamnation/)
 - [Accident Route Du Lac Varese](https://frontaliereticino.ch/fr/articles-frontalier/accident-route-du-lac-varese/)
+- [Accident Route Frontalier Cantello](https://frontaliereticino.ch/fr/articles-frontalier/accident-route-frontalier-cantello/)
 - [Accident Routier Cittiglio Laveno](https://frontaliereticino.ch/fr/articles-frontalier/accident-routier-cittiglio-laveno/)
 - [Accident Routier Regina Blesses](https://frontaliereticino.ch/fr/articles-frontalier/accident-routier-regina-blesses/)
 - [Accident Trajet Frontiere Assurance Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/accident-trajet-frontiere-assurance-frontalier/)
@@ -1980,6 +1981,7 @@
 - [Football Dnb Bellinzona Dernier Appel](https://frontaliereticino.ch/fr/articles-frontalier/football-dnb-bellinzona-dernier-appel/)
 - [Forets Immergees Lac De Come Lac De Lugano](https://frontaliereticino.ch/fr/articles-frontalier/forets-immergees-lac-de-come-lac-de-lugano/)
 - [Foreuse San Gottardo Zone De Faille](https://frontaliereticino.ch/fr/articles-frontalier/foreuse-san-gottardo-zone-de-faille/)
+- [Formation Au Dela 20km Requalification](https://frontaliereticino.ch/fr/articles-frontalier/formation-au-dela-20km-requalification/)
 - [Formation Ferrero Ministere 2026](https://frontaliereticino.ch/fr/articles-frontalier/formation-ferrero-ministere-2026/)
 - [Formation Tourisme Lugano](https://frontaliereticino.ch/fr/articles-frontalier/formation-tourisme-lugano/)
 - [Formule 1 Reprend Amid Risks Controverses](https://frontaliereticino.ch/fr/articles-frontalier/formule-1-reprend-amid-risks-controverses/)
@@ -3594,6 +3596,7 @@
 - [Permis G](https://frontaliereticino.ch/fr/articles-frontalier/sujets/permis-g/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-frontalier/sujets/permis-g/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/permis-g/page-3/)
+- [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/permis-g/page-4/)
 - [Retraites Avs Lpp](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/page-3/)
@@ -4174,6 +4177,7 @@
 - [Vivre Lurago Marinone Travailler Ticino Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-lurago-marinone-travailler-ticino-frontalier/)
 - [Vivre Lurate Caccivio Travailler Tessin Frontiere](https://frontaliereticino.ch/fr/articles-frontalier/vivre-lurate-caccivio-travailler-tessin-frontiere/)
 - [Vivre Masciago Primo Travailler Ticino](https://frontaliereticino.ch/fr/articles-frontalier/vivre-masciago-primo-travailler-ticino/)
+- [Vivre Morazzone Travailler Ticino Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-morazzone-travailler-ticino-frontalier/)
 - [Vivre Oggebbio Travailler Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-oggebbio-travailler-tessin/)
 - [Vivre Oyace Travailler Valais Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-oyace-travailler-valais-frontalier/)
 - [Vivre Plus Longtemps Ticino](https://frontaliereticino.ch/fr/articles-frontalier/vivre-plus-longtemps-ticino/)
@@ -4289,7 +4293,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (1471 pages)
+### Other Pages (1475 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -4312,8 +4316,10 @@
 - [Acheter Maison Canton Berne Prix Hypotheque](https://frontaliereticino.ch/fr/articles-suisse/acheter-maison-canton-berne-prix-hypotheque/)
 - [Acheter Maison Canton De Zurich Prix Et Hypotheque](https://frontaliereticino.ch/fr/articles-suisse/acheter-maison-canton-de-zurich-prix-et-hypotheque/)
 - [Acheter Maison Canton Obvaldo](https://frontaliereticino.ch/fr/articles-suisse/acheter-maison-canton-obvaldo/)
+- [Acheter Maison Canton Schaffhouse Hypotheque](https://frontaliereticino.ch/fr/articles-suisse/acheter-maison-canton-schaffhouse-hypotheque/)
 - [Acheter Maison Canton Schwyz](https://frontaliereticino.ch/fr/articles-suisse/acheter-maison-canton-schwyz/)
 - [Acheter Maison Fribourg](https://frontaliereticino.ch/fr/articles-suisse/acheter-maison-fribourg/)
+- [Acheter Maison Schaffhouse Hypotheque](https://frontaliereticino.ch/fr/articles-suisse/acheter-maison-schaffhouse-hypotheque/)
 - [Acheter Maison Suisse Requisites Hypotheque](https://frontaliereticino.ch/fr/articles-suisse/acheter-maison-suisse-requisites-hypotheque/)
 - [Acheter Maison Uri Prix Hypothecaire](https://frontaliereticino.ch/fr/articles-suisse/acheter-maison-uri-prix-hypothecaire/)
 - [Acheter Une Maison A Soleure](https://frontaliereticino.ch/fr/articles-suisse/acheter-une-maison-a-soleure/)
@@ -4577,6 +4583,7 @@
 - [Creer Entreprise Canton De Zurich](https://frontaliereticino.ch/fr/articles-suisse/creer-entreprise-canton-de-zurich/)
 - [Crise Hormuz Impact Economie Suisse](https://frontaliereticino.ch/fr/articles-suisse/crise-hormuz-impact-economie-suisse/)
 - [Croissance Export Suisse](https://frontaliereticino.ch/fr/articles-suisse/croissance-export-suisse/)
+- [Croix Rouge Action Legale Abus Nom](https://frontaliereticino.ch/fr/articles-suisse/croix-rouge-action-legale-abus-nom/)
 - [Culture Et Divertissement Ticino 2026](https://frontaliereticino.ch/fr/articles-suisse/culture-et-divertissement-ticino-2026/)
 - [Cyber Attaque Iwb Bale](https://frontaliereticino.ch/fr/articles-suisse/cyber-attaque-iwb-bale/)
 - [Cycliste Gravement Blesse Apres Une Chute](https://frontaliereticino.ch/fr/articles-suisse/cycliste-gravement-blesse-apres-une-chute/)
@@ -4945,6 +4952,7 @@
 - [Location Suisse Marche 2026 Canton San Gallo](https://frontaliereticino.ch/fr/articles-suisse/location-suisse-marche-2026-canton-san-gallo/)
 - [Locations Basel Ville](https://frontaliereticino.ch/fr/articles-suisse/locations-basel-ville/)
 - [Locations Obvaldo Cantons Moyennes Droits](https://frontaliereticino.ch/fr/articles-suisse/locations-obvaldo-cantons-moyennes-droits/)
+- [Locations Schaffhouse Garantie Denonciation Conciliation](https://frontaliereticino.ch/fr/articles-suisse/locations-schaffhouse-garantie-denonciation-conciliation/)
 - [Locations Tessin Marque Proprietaires](https://frontaliereticino.ch/fr/articles-suisse/locations-tessin-marque-proprietaires/)
 - [Locations Zug Revenus Cantonaux](https://frontaliereticino.ch/fr/articles-suisse/locations-zug-revenus-cantonaux/)
 - [Logement Dans Le Canton De Schwyz](https://frontaliereticino.ch/fr/articles-suisse/logement-dans-le-canton-de-schwyz/)
