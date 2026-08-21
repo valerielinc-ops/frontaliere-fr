@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5795 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5800 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3568 pages)
+### Blog Articles (3570 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1093,6 +1093,7 @@
 - [Berset Soutient Reynard Apres La Tragedie De Crans Montana](https://frontaliereticino.ch/fr/articles-frontalier/berset-soutient-reynard-apres-la-tragedie-de-crans-montana/)
 - [Besnate Pont Ferroviaire Accident](https://frontaliereticino.ch/fr/articles-frontalier/besnate-pont-ferroviaire-accident/)
 - [Besoin Plus D Aide Pour Travaux De Commission](https://frontaliereticino.ch/fr/articles-frontalier/besoin-plus-d-aide-pour-travaux-de-commission/)
+- [Beura Cardezza Frontalier Ticino](https://frontaliereticino.ch/fr/articles-frontalier/beura-cardezza-frontalier-ticino/)
 - [Beurre Suisse Exportations Pertes](https://frontaliereticino.ch/fr/articles-frontalier/beurre-suisse-exportations-pertes/)
 - [Bianconeri Jeu Court 2026](https://frontaliereticino.ch/fr/articles-frontalier/bianconeri-jeu-court-2026/)
 - [Biandronno Rencontre Astuti Licata 2026](https://frontaliereticino.ch/fr/articles-frontalier/biandronno-rencontre-astuti-licata-2026/)
@@ -3903,6 +3904,7 @@
 - [Travailleurs Autonomes Stables Bas 2025](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-autonomes-stables-bas-2025/)
 - [Travailleurs Frontaliers Arrestation Maggia Arnaque](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-arrestation-maggia-arnaque/)
 - [Travailleurs Frontaliers Assurance Accidents Lainf 2026 Plus De 20 Km](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-assurance-accidents-lainf-2026-plus-de-20-km/)
+- [Travailleurs Frontaliers Baisse Q2 2026](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-baisse-q2-2026/)
 - [Travailleurs Frontaliers Chomage Pays De Travail](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-chomage-pays-de-travail/)
 - [Travailleurs Frontaliers Chomage Suisse 2026](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-chomage-suisse-2026/)
 - [Travailleurs Frontaliers Contribution Sante 2026](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-contribution-sante-2026/)
@@ -4333,7 +4335,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (1515 pages)
+### Other Pages (1518 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -4628,6 +4630,7 @@
 - [Cout Vie Suisse 2026](https://frontaliereticino.ch/fr/articles-suisse/cout-vie-suisse-2026/)
 - [Couts Blocage Transferts Asile](https://frontaliereticino.ch/fr/articles-suisse/couts-blocage-transferts-asile/)
 - [Couts Creche Garde Enfants Canton Berne](https://frontaliereticino.ch/fr/articles-suisse/couts-creche-garde-enfants-canton-berne/)
+- [Couts De Soins Psychiatriques Suisse 2024](https://frontaliereticino.ch/fr/articles-suisse/couts-de-soins-psychiatriques-suisse-2024/)
 - [Creche Et Custodia Des Enfants Au Canton De Glarona](https://frontaliereticino.ch/fr/articles-suisse/creche-et-custodia-des-enfants-au-canton-de-glarona/)
 - [Creche Soleure Couts](https://frontaliereticino.ch/fr/articles-suisse/creche-soleure-couts/)
 - [Credit Dimpot Frontalier 2026](https://frontaliereticino.ch/fr/articles-suisse/credit-dimpot-frontalier-2026/)
@@ -5032,6 +5035,7 @@
 - [Maccabi Lugano Manifestation](https://frontaliereticino.ch/fr/articles-suisse/maccabi-lugano-manifestation/)
 - [Maison A Glaris Prix Fonds Et Durabilite Du Pret](https://frontaliereticino.ch/fr/articles-suisse/maison-a-glaris-prix-fonds-et-durabilite-du-pret/)
 - [Mammut Changement Proprietaire Chinois](https://frontaliereticino.ch/fr/articles-suisse/mammut-changement-proprietaire-chinois/)
+- [Managers Caisses Maladie Commission](https://frontaliereticino.ch/fr/articles-suisse/managers-caisses-maladie-commission/)
 - [Manque De Biere](https://frontaliereticino.ch/fr/articles-suisse/manque-de-biere/)
 - [Marche Des Location Canton Fribourg](https://frontaliereticino.ch/fr/articles-suisse/marche-des-location-canton-fribourg/)
 - [Marche Du Location Canton De Lucerne](https://frontaliereticino.ch/fr/articles-suisse/marche-du-location-canton-de-lucerne/)
@@ -5625,6 +5629,7 @@
 - [Zone 30 Kmh Intervention Conseil Federal](https://frontaliereticino.ch/fr/articles-suisse/zone-30-kmh-intervention-conseil-federal/)
 - [Zurich Amende Train Corruption](https://frontaliereticino.ch/fr/articles-suisse/zurich-amende-train-corruption/)
 - [Zurich Licenciements Finma Prevoyance](https://frontaliereticino.ch/fr/articles-suisse/zurich-licenciements-finma-prevoyance/)
+- [Zurich Location Cautionnement Contestation Procedures](https://frontaliereticino.ch/fr/articles-suisse/zurich-location-cautionnement-contestation-procedures/)
 - [Zurich Procedure Finma Licenciements](https://frontaliereticino.ch/fr/articles-suisse/zurich-procedure-finma-licenciements/)
 - [Assistance](https://frontaliereticino.ch/fr/assistance/)
 - [Laura Bianchi](https://frontaliereticino.ch/fr/auteurs/laura-bianchi/)
