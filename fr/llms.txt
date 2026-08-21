@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5767 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5775 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3554 pages)
+### Blog Articles (3557 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -4177,7 +4177,9 @@
 - [Vivre Cermenate Travailler Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-cermenate-travailler-tessin-frontalier/)
 - [Vivre Chiuro Travailler Grigioni Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/vivre-chiuro-travailler-grigioni-frontaliers/)
 - [Vivre Colonno Travailler Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-colonno-travailler-tessin-frontalier/)
+- [Vivre Colverde Travailler Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-colverde-travailler-tessin-frontalier/)
 - [Vivre Come Travailler Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-come-travailler-tessin-frontalier/)
+- [Vivre Cremia Travailler Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-cremia-travailler-tessin-frontalier/)
 - [Vivre Crevoladossola Travailler Ticino Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-crevoladossola-travailler-ticino-frontalier/)
 - [Vivre Dongo Travailler Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-dongo-travailler-tessin-frontalier/)
 - [Vivre Dumenza Travailler Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-dumenza-travailler-tessin/)
@@ -4185,6 +4187,7 @@
 - [Vivre En Lovero Travailler En Grigioni De L Italie](https://frontaliereticino.ch/fr/articles-frontalier/vivre-en-lovero-travailler-en-grigioni-de-l-italie/)
 - [Vivre En Valtelline Travailler En Grisons Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-en-valtelline-travailler-en-grisons-frontalier/)
 - [Vivre Erba Travailler Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-erba-travailler-tessin-frontalier/)
+- [Vivre Fagnano Olona Travailler Ticino](https://frontaliereticino.ch/fr/articles-frontalier/vivre-fagnano-olona-travailler-ticino/)
 - [Vivre Faloppio Travailler En Suisse Comme Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-faloppio-travailler-en-suisse-comme-frontalier/)
 - [Vivre Galliate Travailler Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-galliate-travailler-tessin-frontalier/)
 - [Vivre Gavirate Travailler Ticino](https://frontaliereticino.ch/fr/articles-frontalier/vivre-gavirate-travailler-ticino/)
@@ -4319,7 +4322,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (1501 pages)
+### Other Pages (1506 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -4367,6 +4370,7 @@
 - [Allocation Familiale Canton De Zurich](https://frontaliereticino.ch/fr/articles-suisse/allocation-familiale-canton-de-zurich/)
 - [Allocation Natality Canton Fribourg](https://frontaliereticino.ch/fr/articles-suisse/allocation-natality-canton-fribourg/)
 - [Allocations Familiales Appenzell Rhodes Exterieures](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-appenzell-rhodes-exterieures/)
+- [Allocations Familiales Appenzell Rhodes Interieures Demande](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-appenzell-rhodes-interieures-demande/)
 - [Allocations Familiales Bale Campagne](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-bale-campagne/)
 - [Allocations Familiales Canton De Berner](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-canton-de-berner/)
 - [Allocations Familiales Canton De Glarona](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-canton-de-glarona/)
@@ -4440,6 +4444,7 @@
 - [Auto Marche De Nouveau Pas Dekliniert Suisse Les People Preferent Les Emplois](https://frontaliereticino.ch/fr/articles-suisse/auto-marche-de-nouveau-pas-dekliniert-suisse-les-people-preferent-les-emplois/)
 - [Autorisation De Sejour B Impot A La Source 2026](https://frontaliereticino.ch/fr/articles-suisse/autorisation-de-sejour-b-impot-a-la-source-2026/)
 - [Avantages Fonctionnalites Troisieme Pilier](https://frontaliereticino.ch/fr/articles-suisse/avantages-fonctionnalites-troisieme-pilier/)
+- [Avis Gouvernement Infrastructure Ferroviaire](https://frontaliereticino.ch/fr/articles-suisse/avis-gouvernement-infrastructure-ferroviaire/)
 - [Avs Ai Perspectives Financieres](https://frontaliereticino.ch/fr/articles-suisse/avs-ai-perspectives-financieres/)
 - [Avs Dans Le Canton D Obwald La Caisse De Compensation](https://frontaliereticino.ch/fr/articles-suisse/avs-dans-le-canton-d-obwald-la-caisse-de-compensation/)
 - [Avs Et Benefices Complementaires Cantone Berna Fonds De Compensation](https://frontaliereticino.ch/fr/articles-suisse/avs-et-benefices-complementaires-cantone-berna-fonds-de-compensation/)
@@ -4479,6 +4484,7 @@
 - [Borse Di Studio Canton Nidvaldo Fr](https://frontaliereticino.ch/fr/articles-suisse/borse-di-studio-canton-nidvaldo-fr/)
 - [Bourse Canton Uri](https://frontaliereticino.ch/fr/articles-suisse/bourse-canton-uri/)
 - [Bourse Lucerne](https://frontaliereticino.ch/fr/articles-suisse/bourse-lucerne/)
+- [Bourses Appenzell Rhodes Interieures](https://frontaliereticino.ch/fr/articles-suisse/bourses-appenzell-rhodes-interieures/)
 - [Bourses Canton Obwald Exigences Et Montants](https://frontaliereticino.ch/fr/articles-suisse/bourses-canton-obwald-exigences-et-montants/)
 - [Bourses Cantonales Nidwald Exigences Et Montants](https://frontaliereticino.ch/fr/articles-suisse/bourses-cantonales-nidwald-exigences-et-montants/)
 - [Bourses D Etudes Basel Ville](https://frontaliereticino.ch/fr/articles-suisse/bourses-d-etudes-basel-ville/)
@@ -5261,6 +5267,7 @@
 - [Representant Commercial Des Etats Unis Elogie Investissements Suisse](https://frontaliereticino.ch/fr/articles-suisse/representant-commercial-des-etats-unis-elogie-investissements-suisse/)
 - [Reprise Financiere Hopitaux Grisons](https://frontaliereticino.ch/fr/articles-suisse/reprise-financiere-hopitaux-grisons/)
 - [Reprise Traffic Ferroviaire Allemagne](https://frontaliereticino.ch/fr/articles-suisse/reprise-traffic-ferroviaire-allemagne/)
+- [Requerants D Asile Mesures Severes](https://frontaliereticino.ch/fr/articles-suisse/requerants-d-asile-mesures-severes/)
 - [Resea Drogue Locaux](https://frontaliereticino.ch/fr/articles-suisse/resea-drogue-locaux/)
 - [Resultats Matchs Coupe Suisse](https://frontaliereticino.ch/fr/articles-suisse/resultats-matchs-coupe-suisse/)
 - [Retour A L Ecole La Chaleur Tient Bon](https://frontaliereticino.ch/fr/articles-suisse/retour-a-l-ecole-la-chaleur-tient-bon/)
@@ -5355,6 +5362,7 @@
 - [Soudeur Frontalier Ticino Guide](https://frontaliereticino.ch/fr/articles-suisse/soudeur-frontalier-ticino-guide/)
 - [Soudurier Frontalier Tessin Salaire Exigences](https://frontaliereticino.ch/fr/articles-suisse/soudurier-frontalier-tessin-salaire-exigences/)
 - [Stabio Douane Suisse](https://frontaliereticino.ch/fr/articles-suisse/stabio-douane-suisse/)
+- [Stadler Rail Fribourg 117 Millions](https://frontaliereticino.ch/fr/articles-suisse/stadler-rail-fribourg-117-millions/)
 - [Stage Formation Professionnelle Bale Ville](https://frontaliereticino.ch/fr/articles-suisse/stage-formation-professionnelle-bale-ville/)
 - [Statent 2024 Emploi Suisse](https://frontaliereticino.ch/fr/articles-suisse/statent-2024-emploi-suisse/)
 - [Statistique En Matiere D Asile Juillet 2026](https://frontaliereticino.ch/fr/articles-suisse/statistique-en-matiere-d-asile-juillet-2026/)
@@ -5404,6 +5412,7 @@
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/impots/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-suisse/sujets/impots/page-4/)
 - [Page 5](https://frontaliereticino.ch/fr/articles-suisse/sujets/impots/page-5/)
+- [Page 6](https://frontaliereticino.ch/fr/articles-suisse/sujets/impots/page-6/)
 - [Logement Et Loyers](https://frontaliereticino.ch/fr/articles-suisse/sujets/logement-et-loyers/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/logement-et-loyers/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/logement-et-loyers/page-3/)
@@ -5814,7 +5823,6 @@
 - [Travail Tessin Employe](https://frontaliereticino.ch/fr/travail-tessin-employe/)
 - [Travail Tessin Infirmier](https://frontaliereticino.ch/fr/travail-tessin-infirmier/)
 - [Travail Tessin Ingenieur](https://frontaliereticino.ch/fr/travail-tessin-ingenieur/)
-- [Travail Tessin Macon](https://frontaliereticino.ch/fr/travail-tessin-macon/)
 - [Travail Tessin Ouvrier](https://frontaliereticino.ch/fr/travail-tessin-ouvrier/)
 - [Travail Tessin Physiotherapeute](https://frontaliereticino.ch/fr/travail-tessin-physiotherapeute/)
 - [Travail Tessin Psychologue](https://frontaliereticino.ch/fr/travail-tessin-psychologue/)
