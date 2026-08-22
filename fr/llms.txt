@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5809 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5815 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3575 pages)
+### Blog Articles (3577 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -3542,7 +3542,6 @@
 - [Suisses Shopping Como 700 Millions](https://frontaliereticino.ch/fr/articles-frontalier/suisses-shopping-como-700-millions/)
 - [Sujets](https://frontaliereticino.ch/fr/articles-frontalier/sujets/)
 - [Accords Et Politique](https://frontaliereticino.ch/fr/articles-frontalier/sujets/accords-et-politique/)
-- [Page 10](https://frontaliereticino.ch/fr/articles-frontalier/sujets/accords-et-politique/page-10/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-frontalier/sujets/accords-et-politique/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/accords-et-politique/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/accords-et-politique/page-4/)
@@ -3615,6 +3614,7 @@
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/page-4/)
 - [Page 5](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/page-5/)
+- [Page 6](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/page-6/)
 - [Salaires](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/)
 - [Page 10](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/page-10/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/page-2/)
@@ -4146,6 +4146,7 @@
 - [Vivre A Maccagno Travailler Au Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-maccagno-travailler-au-tessin/)
 - [Vivre A Maslianico Travailler Au Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-maslianico-travailler-au-tessin/)
 - [Vivre A Moltrasio Travailler Au Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-moltrasio-travailler-au-tessin/)
+- [Vivre A Monno Travailler Aux Grisons](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-monno-travailler-aux-grisons/)
 - [Vivre A Mozzate Travailler Au Ticino Comme Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-mozzate-travailler-au-ticino-comme-frontalier/)
 - [Vivre A Ollomont Travailler En Valais Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-ollomont-travailler-en-valais-frontalier/)
 - [Vivre A Oltrona Di San Mamette Et Travailler En Ticino En Qualite De Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-oltrona-di-san-mamette-et-travailler-en-ticino-en-qualite-de-frontalier/)
@@ -4234,6 +4235,7 @@
 - [Vivre Santa Maria Maggiore Frontalier Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-santa-maria-maggiore-frontalier-tessin/)
 - [Vivre Solbiate Arno Travailler En Suisse](https://frontaliereticino.ch/fr/articles-frontalier/vivre-solbiate-arno-travailler-en-suisse/)
 - [Vivre Sormano Travailler Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-sormano-travailler-tessin-frontalier/)
+- [Vivre Spriana Grisons Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-spriana-grisons-frontalier/)
 - [Vivre Suisse Vs Italie Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-suisse-vs-italie-frontalier/)
 - [Vivre Tovo Di Sant Agata Travailler Grisons](https://frontaliereticino.ch/fr/articles-frontalier/vivre-tovo-di-sant-agata-travailler-grisons/)
 - [Vivre Trasquera Travailler Ticin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-trasquera-travailler-ticin/)
@@ -4340,7 +4342,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (1522 pages)
+### Other Pages (1526 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -5230,9 +5232,11 @@
 - [Prelevement Suissier Avs Inps 2026 Famille Avec Enfants](https://frontaliereticino.ch/fr/articles-suisse/prelevement-suissier-avs-inps-2026-famille-avec-enfants/)
 - [Premi Cassa Malati Canton De Zoug Riduzione Premi](https://frontaliereticino.ch/fr/articles-suisse/premi-cassa-malati-canton-de-zoug-riduzione-premi/)
 - [Premi Cassa Malati Lamal 2026 Canton Basilea](https://frontaliereticino.ch/fr/articles-suisse/premi-cassa-malati-lamal-2026-canton-basilea/)
+- [Premier Pilier Zurich Minimum Vital](https://frontaliereticino.ch/fr/articles-suisse/premier-pilier-zurich-minimum-vital/)
 - [Premieres De Securite Sociale Par Canton](https://frontaliereticino.ch/fr/articles-suisse/premieres-de-securite-sociale-par-canton/)
 - [Premieres Maladie Obligatoire Canton Fribourg](https://frontaliereticino.ch/fr/articles-suisse/premieres-maladie-obligatoire-canton-fribourg/)
 - [Premies Des Assurances Maladie Lamal 2026 Canton Zurich](https://frontaliereticino.ch/fr/articles-suisse/premies-des-assurances-maladie-lamal-2026-canton-zurich/)
+- [Prestations Complementaires Zurich Minimum Vital](https://frontaliereticino.ch/fr/articles-suisse/prestations-complementaires-zurich-minimum-vital/)
 - [Prestations Lpp Suisse Imposition](https://frontaliereticino.ch/fr/articles-suisse/prestations-lpp-suisse-imposition/)
 - [Pret Frontaliers Suisse Requis Procedure](https://frontaliereticino.ch/fr/articles-suisse/pret-frontaliers-suisse-requis-procedure/)
 - [Pret Immobilier Frontaliers Achat Italie](https://frontaliereticino.ch/fr/articles-suisse/pret-immobilier-frontaliers-achat-italie/)
@@ -5443,6 +5447,7 @@
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/impots/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-suisse/sujets/impots/page-4/)
 - [Page 5](https://frontaliereticino.ch/fr/articles-suisse/sujets/impots/page-5/)
+- [Page 6](https://frontaliereticino.ch/fr/articles-suisse/sujets/impots/page-6/)
 - [Logement Et Loyers](https://frontaliereticino.ch/fr/articles-suisse/sujets/logement-et-loyers/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/logement-et-loyers/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/logement-et-loyers/page-3/)
@@ -5857,6 +5862,7 @@
 - [Travail Tessin Employe](https://frontaliereticino.ch/fr/travail-tessin-employe/)
 - [Travail Tessin Infirmier](https://frontaliereticino.ch/fr/travail-tessin-infirmier/)
 - [Travail Tessin Ingenieur](https://frontaliereticino.ch/fr/travail-tessin-ingenieur/)
+- [Travail Tessin Macon](https://frontaliereticino.ch/fr/travail-tessin-macon/)
 - [Travail Tessin Ouvrier](https://frontaliereticino.ch/fr/travail-tessin-ouvrier/)
 - [Travail Tessin Physiotherapeute](https://frontaliereticino.ch/fr/travail-tessin-physiotherapeute/)
 - [Travail Tessin Psychologue](https://frontaliereticino.ch/fr/travail-tessin-psychologue/)
