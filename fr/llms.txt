@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5872 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5879 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3604 pages)
+### Blog Articles (3607 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1433,6 +1433,7 @@
 - [Como Voyage Dans Le Temps 2026](https://frontaliereticino.ch/fr/articles-frontalier/como-voyage-dans-le-temps-2026/)
 - [Comparaison Assurances Auto](https://frontaliereticino.ch/fr/articles-frontalier/comparaison-assurances-auto/)
 - [Comparaison Carburants Tessin 2024](https://frontaliereticino.ch/fr/articles-frontalier/comparaison-carburants-tessin-2024/)
+- [Comparaison Courses Alimentaires Frontalier Ticino](https://frontaliereticino.ch/fr/articles-frontalier/comparaison-courses-alimentaires-frontalier-ticino/)
 - [Compensation Financiere Pour Frontalier Suisse Travaillant En Italie](https://frontaliereticino.ch/fr/articles-frontalier/compensation-financiere-pour-frontalier-suisse-travaillant-en-italie/)
 - [Competences Techniques Recherchees Frontalier Tessin](https://frontaliereticino.ch/fr/articles-frontalier/competences-techniques-recherchees-frontalier-tessin/)
 - [Compromis Salaire Minimum Conditions Tessin](https://frontaliereticino.ch/fr/articles-frontalier/compromis-salaire-minimum-conditions-tessin/)
@@ -1537,6 +1538,7 @@
 - [Cours De Voile Pour Adultes Luino Avav 2026](https://frontaliereticino.ch/fr/articles-frontalier/cours-de-voile-pour-adultes-luino-avav-2026/)
 - [Cours Gratuits Varese Social 2026](https://frontaliereticino.ch/fr/articles-frontalier/cours-gratuits-varese-social-2026/)
 - [Cours Varese Parler En Public 2026](https://frontaliereticino.ch/fr/articles-frontalier/cours-varese-parler-en-public-2026/)
+- [Courses Alimentaires Frontaliers 2024](https://frontaliereticino.ch/fr/articles-frontalier/courses-alimentaires-frontaliers-2024/)
 - [Cout De La Discrimination Au Tessin](https://frontaliereticino.ch/fr/articles-frontalier/cout-de-la-discrimination-au-tessin/)
 - [Cout De La Vie Lugano Frontaliere 2026](https://frontaliereticino.ch/fr/articles-frontalier/cout-de-la-vie-lugano-frontaliere-2026/)
 - [Cout De La Vie Suisse Classement Communes Cheres Economiques](https://frontaliereticino.ch/fr/articles-frontalier/cout-de-la-vie-suisse-classement-communes-cheres-economiques/)
@@ -2920,6 +2922,7 @@
 - [Ouzbekistan Or Gaz Tessin Implications](https://frontaliereticino.ch/fr/articles-frontalier/ouzbekistan-or-gaz-tessin-implications/)
 - [Ozone Ticin Qualite Air](https://frontaliereticino.ch/fr/articles-frontalier/ozone-ticin-qualite-air/)
 - [Pagaie Internationales Grisons Tessin 2026](https://frontaliereticino.ch/fr/articles-frontalier/pagaie-internationales-grisons-tessin-2026/)
+- [Paiement Amende Routiere Suisse Resident Italien](https://frontaliereticino.ch/fr/articles-frontalier/paiement-amende-routiere-suisse-resident-italien/)
 - [Palacinema Locarno Urgent 2026](https://frontaliereticino.ch/fr/articles-frontalier/palacinema-locarno-urgent-2026/)
 - [Palaraiffeisen Porte Ouvertes Lugano 2026](https://frontaliereticino.ch/fr/articles-frontalier/palaraiffeisen-porte-ouvertes-lugano-2026/)
 - [Palestine Locarno Territoire Entreprises Genocide](https://frontaliereticino.ch/fr/articles-frontalier/palestine-locarno-territoire-entreprises-genocide/)
@@ -4369,7 +4372,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (1556 pages)
+### Other Pages (1560 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -4729,6 +4732,7 @@
 - [Douane Gaggiolo Stabio](https://frontaliereticino.ch/fr/articles-suisse/douane-gaggiolo-stabio/)
 - [Droit Bail Conciliation Tessin](https://frontaliereticino.ch/fr/articles-suisse/droit-bail-conciliation-tessin/)
 - [Droit Bail Regles Suisse](https://frontaliereticino.ch/fr/articles-suisse/droit-bail-regles-suisse/)
+- [Droit Du Logement Canton Uri](https://frontaliereticino.ch/fr/articles-suisse/droit-du-logement-canton-uri/)
 - [Droit Forfaitaire Commerce Electronique](https://frontaliereticino.ch/fr/articles-suisse/droit-forfaitaire-commerce-electronique/)
 - [Droit Locatif Suisse Procedures Cautionnement](https://frontaliereticino.ch/fr/articles-suisse/droit-locatif-suisse-procedures-cautionnement/)
 - [Droit Successoral Dons Canton Svitto](https://frontaliereticino.ch/fr/articles-suisse/droit-successoral-dons-canton-svitto/)
@@ -4946,6 +4950,7 @@
 - [Guide Declaration Impots Suisse](https://frontaliereticino.ch/fr/articles-suisse/guide-declaration-impots-suisse/)
 - [Guide Feuille Paie Suisse 2026](https://frontaliereticino.ch/fr/articles-suisse/guide-feuille-paie-suisse-2026/)
 - [Guide Frontalier Chauffeur Poids Lourds Ticino](https://frontaliereticino.ch/fr/articles-suisse/guide-frontalier-chauffeur-poids-lourds-ticino/)
+- [Guide Location Uri Droits Locataires](https://frontaliereticino.ch/fr/articles-suisse/guide-location-uri-droits-locataires/)
 - [Guide Pratique Declaration Fiscale Suisse 2026 Canton De Lucerne](https://frontaliereticino.ch/fr/articles-suisse/guide-pratique-declaration-fiscale-suisse-2026-canton-de-lucerne/)
 - [Haute Sensibilite Travail Stress](https://frontaliereticino.ch/fr/articles-suisse/haute-sensibilite-travail-stress/)
 - [Hautes Quantites Dechangees Pour L Echange Suisse](https://frontaliereticino.ch/fr/articles-suisse/hautes-quantites-dechangees-pour-l-echange-suisse/)
@@ -4982,6 +4987,7 @@
 - [Impot Source Basel](https://frontaliereticino.ch/fr/articles-suisse/impot-source-basel/)
 - [Impot Source Tessin Calculateur](https://frontaliereticino.ch/fr/articles-suisse/impot-source-tessin-calculateur/)
 - [Impot Succession Donation Berne Taux](https://frontaliereticino.ch/fr/articles-suisse/impot-succession-donation-berne-taux/)
+- [Impot Succession Donation Lucerne Guide](https://frontaliereticino.ch/fr/articles-suisse/impot-succession-donation-lucerne-guide/)
 - [Impots Canton De Basel Ville Imposition](https://frontaliereticino.ch/fr/articles-suisse/impots-canton-de-basel-ville-imposition/)
 - [Impots Cantonaux Appenzell Rhodes Internes](https://frontaliereticino.ch/fr/articles-suisse/impots-cantonaux-appenzell-rhodes-internes/)
 - [Impots Cantonaux Bernais Impots Surtaxes Berechnung](https://frontaliereticino.ch/fr/articles-suisse/impots-cantonaux-bernais-impots-surtaxes-berechnung/)
@@ -5062,6 +5068,7 @@
 - [Location Glarus 2026](https://frontaliereticino.ch/fr/articles-suisse/location-glarus-2026/)
 - [Location Sociale De Voitures Pour Frontaliers 2026](https://frontaliereticino.ch/fr/articles-suisse/location-sociale-de-voitures-pour-frontaliers-2026/)
 - [Location Suisse Marche 2026 Canton San Gallo](https://frontaliereticino.ch/fr/articles-suisse/location-suisse-marche-2026-canton-san-gallo/)
+- [Location Uri Droit Locataire Depot Garantie](https://frontaliereticino.ch/fr/articles-suisse/location-uri-droit-locataire-depot-garantie/)
 - [Locations Basel Ville](https://frontaliereticino.ch/fr/articles-suisse/locations-basel-ville/)
 - [Locations Obvaldo Cantons Moyennes Droits](https://frontaliereticino.ch/fr/articles-suisse/locations-obvaldo-cantons-moyennes-droits/)
 - [Locations Schaffhouse Garantie Denonciation Conciliation](https://frontaliereticino.ch/fr/articles-suisse/locations-schaffhouse-garantie-denonciation-conciliation/)
