@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5879 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5883 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3607 pages)
+### Blog Articles (3609 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -805,6 +805,7 @@
 - [Accident Routier Cittiglio Laveno](https://frontaliereticino.ch/fr/articles-frontalier/accident-routier-cittiglio-laveno/)
 - [Accident Routier Regina Blesses](https://frontaliereticino.ch/fr/articles-frontalier/accident-routier-regina-blesses/)
 - [Accident Trajet Frontiere Assurance Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/accident-trajet-frontiere-assurance-frontalier/)
+- [Accident Trajet Travail Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/accident-trajet-travail-frontalier/)
 - [Accident Travail Miglieglia](https://frontaliereticino.ch/fr/articles-frontalier/accident-travail-miglieglia/)
 - [Accident Travail Vallemaggia Piano Peccia](https://frontaliereticino.ch/fr/articles-frontalier/accident-travail-vallemaggia-piano-peccia/)
 - [Accident Trottinette Lugano 2026](https://frontaliereticino.ch/fr/articles-frontalier/accident-trottinette-lugano-2026/)
@@ -904,6 +905,7 @@
 - [Ambassadeur Italien Retour Berne](https://frontaliereticino.ch/fr/articles-frontalier/ambassadeur-italien-retour-berne/)
 - [Ambrogio Castiglioni Nouveau President Digital Industries World](https://frontaliereticino.ch/fr/articles-frontalier/ambrogio-castiglioni-nouveau-president-digital-industries-world/)
 - [Ambulance Espagne Gagne 2300 Euro](https://frontaliereticino.ch/fr/articles-frontalier/ambulance-espagne-gagne-2300-euro/)
+- [Amende Circulation Notification Resident Italien](https://frontaliereticino.ch/fr/articles-frontalier/amende-circulation-notification-resident-italien/)
 - [Amendes De Circulation Suisses Paiement Par Les Frontaliers Italiens](https://frontaliereticino.ch/fr/articles-frontalier/amendes-de-circulation-suisses-paiement-par-les-frontaliers-italiens/)
 - [Amendes De Traffic Suisse](https://frontaliereticino.ch/fr/articles-frontalier/amendes-de-traffic-suisse/)
 - [Amendes Pour Le Vapotage Dans Les Gares Du Tessin 2026](https://frontaliereticino.ch/fr/articles-frontalier/amendes-pour-le-vapotage-dans-les-gares-du-tessin-2026/)
@@ -2506,6 +2508,7 @@
 - [Ladies Run Lugano Fermetures De Routes 2026](https://frontaliereticino.ch/fr/articles-frontalier/ladies-run-lugano-fermetures-de-routes-2026/)
 - [Lago Segrino Camper 2026](https://frontaliereticino.ch/fr/articles-frontalier/lago-segrino-camper-2026/)
 - [Lainf 2026 Frontalier Simulation Pratique](https://frontaliereticino.ch/fr/articles-frontalier/lainf-2026-frontalier-simulation-pratique/)
+- [Lainf Accident Travail Trajet Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/lainf-accident-travail-trajet-frontalier/)
 - [Laivin Festival Cassano Valcuvia 2026](https://frontaliereticino.ch/fr/articles-frontalier/laivin-festival-cassano-valcuvia-2026/)
 - [Lamal Cmi Frontalieri Conviene 2026](https://frontaliereticino.ch/fr/articles-frontalier/lamal-cmi-frontalieri-conviene-2026/)
 - [Lamal Low Cost Premiers 2026](https://frontaliereticino.ch/fr/articles-frontalier/lamal-low-cost-premiers-2026/)
@@ -3601,7 +3604,6 @@
 - [Page 23](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-23/)
 - [Page 24](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-24/)
 - [Page 25](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-25/)
-- [Page 26](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-26/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-4/)
 - [Page 5](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-5/)
@@ -4372,7 +4374,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (1560 pages)
+### Other Pages (1562 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -5037,6 +5039,7 @@
 - [Job Sharing Suisse](https://frontaliereticino.ch/fr/articles-suisse/job-sharing-suisse/)
 - [Journees De Soleure Finances 2026](https://frontaliereticino.ch/fr/articles-suisse/journees-de-soleure-finances-2026/)
 - [Journees Suisses De Statistiques 2026](https://frontaliereticino.ch/fr/articles-suisse/journees-suisses-de-statistiques-2026/)
+- [Keller Sutter Ministres Finances Pays Germanophones](https://frontaliereticino.ch/fr/articles-suisse/keller-sutter-ministres-finances-pays-germanophones/)
 - [Keller Sutter Stabilite Finances Saines](https://frontaliereticino.ch/fr/articles-suisse/keller-sutter-stabilite-finances-saines/)
 - [L Avenir Du Travail](https://frontaliereticino.ch/fr/articles-suisse/l-avenir-du-travail/)
 - [L Excuse De Pfister Aux Eglises Chretiennes Suisses](https://frontaliereticino.ch/fr/articles-suisse/l-excuse-de-pfister-aux-eglises-chretiennes-suisses/)
@@ -5331,6 +5334,7 @@
 - [Quadro Rw 2026 Qui Declare Le Compte Suisse](https://frontaliereticino.ch/fr/articles-suisse/quadro-rw-2026-qui-declare-le-compte-suisse/)
 - [Quellensteuer Tarife 2026](https://frontaliereticino.ch/fr/articles-suisse/quellensteuer-tarife-2026/)
 - [Quellensteuer Tarifs Suisse 2026](https://frontaliereticino.ch/fr/articles-suisse/quellensteuer-tarifs-suisse-2026/)
+- [Radiologues Primes Augmentations 2027](https://frontaliereticino.ch/fr/articles-suisse/radiologues-primes-augmentations-2027/)
 - [Ralentissement Bourse Suisse Juillet](https://frontaliereticino.ch/fr/articles-suisse/ralentissement-bourse-suisse-juillet/)
 - [Ralentissement Demographie 2025 Suisse](https://frontaliereticino.ch/fr/articles-suisse/ralentissement-demographie-2025-suisse/)
 - [Ramaggedon Penurie Puces Memoire](https://frontaliereticino.ch/fr/articles-suisse/ramaggedon-penurie-puces-memoire/)
