@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6695 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6703 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3875 pages)
+### Blog Articles (3878 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1463,6 +1463,7 @@
 - [Como Cantu Creativity Week 2026](https://frontaliereticino.ch/fr/articles-frontalier/como-cantu-creativity-week-2026/)
 - [Como Crise Logement Appartements Vacants](https://frontaliereticino.ch/fr/articles-frontalier/como-crise-logement-appartements-vacants/)
 - [Como Etudiants Police On Road 2026](https://frontaliereticino.ch/fr/articles-frontalier/como-etudiants-police-on-road-2026/)
+- [Como Export Suisse 2026](https://frontaliereticino.ch/fr/articles-frontalier/como-export-suisse-2026/)
 - [Como Fete Du Travail Droits Salaires](https://frontaliereticino.ch/fr/articles-frontalier/como-fete-du-travail-droits-salaires/)
 - [Como Frazione Tavernola Banditi Assaltano Gioielleria E Si Dileguano](https://frontaliereticino.ch/fr/articles-frontalier/como-frazione-tavernola-banditi-assaltano-gioielleria-e-si-dileguano/)
 - [Como Gera Lario Natation Record](https://frontaliereticino.ch/fr/articles-frontalier/como-gera-lario-natation-record/)
@@ -2307,6 +2308,7 @@
 - [Greve De La Faim Timoc Terrain Conteste](https://frontaliereticino.ch/fr/articles-frontalier/greve-de-la-faim-timoc-terrain-conteste/)
 - [Greve Des Trains En Italie Tilo](https://frontaliereticino.ch/fr/articles-frontalier/greve-des-trains-en-italie-tilo/)
 - [Greve Easyjet Malpensa 11 Mai 2026](https://frontaliereticino.ch/fr/articles-frontalier/greve-easyjet-malpensa-11-mai-2026/)
+- [Greve En Italie Les Trains Tilo S Arretent A La Frontiere Septembre 2026](https://frontaliereticino.ch/fr/articles-frontalier/greve-en-italie-les-trains-tilo-s-arretent-a-la-frontiere-septembre-2026/)
 - [Greve Tilo Italie 2026](https://frontaliereticino.ch/fr/articles-frontalier/greve-tilo-italie-2026/)
 - [Greve Tilo Italie Perturbations Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/greve-tilo-italie-perturbations-frontaliers/)
 - [Greve Tilo Mai 2025](https://frontaliereticino.ch/fr/articles-frontalier/greve-tilo-mai-2025/)
@@ -3754,6 +3756,8 @@
 - [Page 20](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-20/)
 - [Page 21](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-21/)
 - [Page 22](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-22/)
+- [Page 23](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-23/)
+- [Page 24](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-24/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-4/)
 - [Page 5](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-5/)
@@ -3819,8 +3823,6 @@
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/travail-et-emploi/page-4/)
 - [Page 5](https://frontaliereticino.ch/fr/articles-frontalier/sujets/travail-et-emploi/page-5/)
 - [Page 6](https://frontaliereticino.ch/fr/articles-frontalier/sujets/travail-et-emploi/page-6/)
-- [Page 7](https://frontaliereticino.ch/fr/articles-frontalier/sujets/travail-et-emploi/page-7/)
-- [Page 8](https://frontaliereticino.ch/fr/articles-frontalier/sujets/travail-et-emploi/page-8/)
 - [Sun Valley Festival Malvaglia 2026](https://frontaliereticino.ch/fr/articles-frontalier/sun-valley-festival-malvaglia-2026/)
 - [Sunrise Integre Hbb Ssr 2026](https://frontaliereticino.ch/fr/articles-frontalier/sunrise-integre-hbb-ssr-2026/)
 - [Supermarche Tessin 2026](https://frontaliereticino.ch/fr/articles-frontalier/supermarche-tessin-2026/)
@@ -4132,6 +4134,7 @@
 - [Travaux De Nuit Via Clemente Maraini](https://frontaliereticino.ch/fr/articles-frontalier/travaux-de-nuit-via-clemente-maraini/)
 - [Travaux De Reseau Electrique Modifications Aux Traffic In Via Intra Premeno Et V](https://frontaliereticino.ch/fr/articles-frontalier/travaux-de-reseau-electrique-modifications-aux-traffic-in-via-intra-premeno-et-v/)
 - [Travaux Frontiere Traffic](https://frontaliereticino.ch/fr/articles-frontalier/travaux-frontiere-traffic/)
+- [Travaux Gare Gallarate 2026](https://frontaliereticino.ch/fr/articles-frontalier/travaux-gare-gallarate-2026/)
 - [Travaux Juin Ronchitt Molinetto Chemin](https://frontaliereticino.ch/fr/articles-frontalier/travaux-juin-ronchitt-molinetto-chemin/)
 - [Travaux Locarno Cadenazzo Ligne 2026](https://frontaliereticino.ch/fr/articles-frontalier/travaux-locarno-cadenazzo-ligne-2026/)
 - [Travaux Nuit Lugano Mars 2026 Routes Fermees](https://frontaliereticino.ch/fr/articles-frontalier/travaux-nuit-lugano-mars-2026-routes-fermees/)
@@ -4640,7 +4643,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2108 pages)
+### Other Pages (2113 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -5113,6 +5116,7 @@
 - [Creer Entreprise Schwyz Couts](https://frontaliereticino.ch/fr/articles-suisse/creer-entreprise-schwyz-couts/)
 - [Creer Entreprise Suisse Etapes Couts](https://frontaliereticino.ch/fr/articles-suisse/creer-entreprise-suisse-etapes-couts/)
 - [Creer Une Entreprise Basel Campagne Registre Du Commerce](https://frontaliereticino.ch/fr/articles-suisse/creer-une-entreprise-basel-campagne-registre-du-commerce/)
+- [Cressier Arret Carburant Approvisionnement Garanti](https://frontaliereticino.ch/fr/articles-suisse/cressier-arret-carburant-approvisionnement-garanti/)
 - [Crise Hormuz Impact Economie Suisse](https://frontaliereticino.ch/fr/articles-suisse/crise-hormuz-impact-economie-suisse/)
 - [Croissance Export Suisse](https://frontaliereticino.ch/fr/articles-suisse/croissance-export-suisse/)
 - [Croix Rouge Action Legale Abus Nom](https://frontaliereticino.ch/fr/articles-suisse/croix-rouge-action-legale-abus-nom/)
@@ -5701,6 +5705,7 @@
 - [Mirabaud Proces Corruption](https://frontaliereticino.ch/fr/articles-suisse/mirabaud-proces-corruption/)
 - [Mirabaud Proces Corruption Tribunal Federal](https://frontaliereticino.ch/fr/articles-suisse/mirabaud-proces-corruption-tribunal-federal/)
 - [Mise A Jour De Laccord De Libre Echange Suisse Uk](https://frontaliereticino.ch/fr/articles-suisse/mise-a-jour-de-laccord-de-libre-echange-suisse-uk/)
+- [Mise A Jour Directive Crs 2026](https://frontaliereticino.ch/fr/articles-suisse/mise-a-jour-directive-crs-2026/)
 - [Mises A Jour Bureau Poste Chiasso](https://frontaliereticino.ch/fr/articles-suisse/mises-a-jour-bureau-poste-chiasso/)
 - [Mission Economique Parmelin Amerique Du Nord](https://frontaliereticino.ch/fr/articles-suisse/mission-economique-parmelin-amerique-du-nord/)
 - [Mobiliare Logement Social 200m](https://frontaliereticino.ch/fr/articles-suisse/mobiliare-logement-social-200m/)
@@ -5738,6 +5743,7 @@
 - [Nidvaldo Enregistrement Entreprise Couts Guide](https://frontaliereticino.ch/fr/articles-suisse/nidvaldo-enregistrement-entreprise-couts-guide/)
 - [Nidvaldo Marche Des Louages](https://frontaliereticino.ch/fr/articles-suisse/nidvaldo-marche-des-louages/)
 - [Nidwald Achat Immobilier Hypotheque Couts](https://frontaliereticino.ch/fr/articles-suisse/nidwald-achat-immobilier-hypotheque-couts/)
+- [Nidwald Acheter Maison Couts Fiscalite](https://frontaliereticino.ch/fr/articles-suisse/nidwald-acheter-maison-couts-fiscalite/)
 - [Nidwald Immobilier Hypotheque Guide](https://frontaliereticino.ch/fr/articles-suisse/nidwald-immobilier-hypotheque-guide/)
 - [Nidwald Transports Publics Abonnements Zones](https://frontaliereticino.ch/fr/articles-suisse/nidwald-transports-publics-abonnements-zones/)
 - [Notification Fin Activite G Tessin](https://frontaliereticino.ch/fr/articles-suisse/notification-fin-activite-g-tessin/)
@@ -5917,6 +5923,8 @@
 - [Permis Lucerne Conversion Procedure](https://frontaliereticino.ch/fr/articles-suisse/permis-lucerne-conversion-procedure/)
 - [Permis Residence C Bale Ville Conditions Demande](https://frontaliereticino.ch/fr/articles-suisse/permis-residence-c-bale-ville-conditions-demande/)
 - [Permis Residence C Canton Bale Droits](https://frontaliereticino.ch/fr/articles-suisse/permis-residence-c-canton-bale-droits/)
+- [Permis Residence C Glaris Demande Guide](https://frontaliereticino.ch/fr/articles-suisse/permis-residence-c-glaris-demande-guide/)
+- [Permis Residence C Glaris Demander](https://frontaliereticino.ch/fr/articles-suisse/permis-residence-c-glaris-demander/)
 - [Permis Sejour B Appenzell Rhodes Exterieures](https://frontaliereticino.ch/fr/articles-suisse/permis-sejour-b-appenzell-rhodes-exterieures/)
 - [Permis Sejour B Argovie Exigences](https://frontaliereticino.ch/fr/articles-suisse/permis-sejour-b-argovie-exigences/)
 - [Permis Sejour B Bale Campagne Renouvellement](https://frontaliereticino.ch/fr/articles-suisse/permis-sejour-b-bale-campagne-renouvellement/)
