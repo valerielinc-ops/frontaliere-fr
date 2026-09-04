@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6703 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6712 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3878 pages)
+### Blog Articles (3881 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1736,6 +1736,7 @@
 - [Demenager A Villa Di Chiavenna Comme Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/demenager-a-villa-di-chiavenna-comme-frontalier/)
 - [Demenager Lavena Ponte Tresa Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/demenager-lavena-ponte-tresa-frontalier/)
 - [Demenager Maccagno Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/demenager-maccagno-frontalier/)
+- [Demenager Suisse Italie Guide](https://frontaliereticino.ch/fr/articles-frontalier/demenager-suisse-italie-guide/)
 - [Dengue Systeme Rapide De Detection](https://frontaliereticino.ch/fr/articles-frontalier/dengue-systeme-rapide-de-detection/)
 - [Denonciation Des Services De Securite Crans Montana 2026](https://frontaliereticino.ch/fr/articles-frontalier/denonciation-des-services-de-securite-crans-montana-2026/)
 - [Departement Securise Pasture Consentement Canton Communes](https://frontaliereticino.ch/fr/articles-frontalier/departement-securise-pasture-consentement-canton-communes/)
@@ -2363,6 +2364,7 @@
 - [Hausse Des Premiums Lamal Assureur Doit Montrer La Comptabilite](https://frontaliereticino.ch/fr/articles-frontalier/hausse-des-premiums-lamal-assureur-doit-montrer-la-comptabilite/)
 - [Hausse Du Lac Majeur De 140 Centimetres](https://frontaliereticino.ch/fr/articles-frontalier/hausse-du-lac-majeur-de-140-centimetres/)
 - [Hausse Du Niveau Du Lac Majeur Impacts Economiques](https://frontaliereticino.ch/fr/articles-frontalier/hausse-du-niveau-du-lac-majeur-impacts-economiques/)
+- [Hausse Factures Varese Travailleurs Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/hausse-factures-varese-travailleurs-frontaliers/)
 - [Hausse Fiscale Cachee Valeurs Immobilieres](https://frontaliereticino.ch/fr/articles-frontalier/hausse-fiscale-cachee-valeurs-immobilieres/)
 - [Hausse Loyers Tessin Crise 2026](https://frontaliereticino.ch/fr/articles-frontalier/hausse-loyers-tessin-crise-2026/)
 - [Hausse Prix Billets Trenord](https://frontaliereticino.ch/fr/articles-frontalier/hausse-prix-billets-trenord/)
@@ -4242,6 +4244,7 @@
 - [Varese Economie Frontalier Tessin 2026](https://frontaliereticino.ch/fr/articles-frontalier/varese-economie-frontalier-tessin-2026/)
 - [Varese Escalade Salewa Cube 2026](https://frontaliereticino.ch/fr/articles-frontalier/varese-escalade-salewa-cube-2026/)
 - [Varese Experience Dete 2026 Travailleurs Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/varese-experience-dete-2026-travailleurs-frontaliers/)
+- [Varese Export Q1 2026 Fr](https://frontaliereticino.ch/fr/articles-frontalier/varese-export-q1-2026-fr/)
 - [Varese Fogliaro Saint Joseph 2026](https://frontaliereticino.ch/fr/articles-frontalier/varese-fogliaro-saint-joseph-2026/)
 - [Varese Frioul Solidarite 2026](https://frontaliereticino.ch/fr/articles-frontalier/varese-frioul-solidarite-2026/)
 - [Varese Hopital Parcage Personnel 2026](https://frontaliereticino.ch/fr/articles-frontalier/varese-hopital-parcage-personnel-2026/)
@@ -4643,7 +4646,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2113 pages)
+### Other Pages (2119 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -4745,6 +4748,7 @@
 - [Allocations Familiales Saint Gall Demande](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-saint-gall-demande/)
 - [Allocations Familiales Schwytz Demande](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-schwytz-demande/)
 - [Allocations Familiales Uri Montants Demande](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-uri-montants-demande/)
+- [Allocations Familiales Vaud Montants Demande](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-vaud-montants-demande/)
 - [Allocations Parentales 2027](https://frontaliereticino.ch/fr/articles-suisse/allocations-parentales-2027/)
 - [Amazon Capitalisation 3000 Milliards](https://frontaliereticino.ch/fr/articles-suisse/amazon-capitalisation-3000-milliards/)
 - [Amendes Troubles Mendrisio](https://frontaliereticino.ch/fr/articles-suisse/amendes-troubles-mendrisio/)
@@ -4774,6 +4778,7 @@
 - [Apprentissage Canton Glaris](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-canton-glaris/)
 - [Apprentissage Canton Schaffhouse Contrat](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-canton-schaffhouse-contrat/)
 - [Apprentissage Canton Soletta](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-canton-soletta/)
+- [Apprentissage Canton Vaud](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-canton-vaud/)
 - [Apprentissage Contrat Schaffhouse](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-contrat-schaffhouse/)
 - [Apprentissage Et Formation Professionnelle Au Canton D Uri](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-et-formation-professionnelle-au-canton-d-uri/)
 - [Apprentissage Formation Fribourg](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-formation-fribourg/)
@@ -4784,6 +4789,7 @@
 - [Apprentissage Formation Professionnelle Canton Fribourg](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-formation-professionnelle-canton-fribourg/)
 - [Apprentissage Formation Professionnelle Canton Lucerne](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-formation-professionnelle-canton-lucerne/)
 - [Apprentissage Formation Professionnelle Canton Saint Gall](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-formation-professionnelle-canton-saint-gall/)
+- [Apprentissage Formation Professionnelle Glaris](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-formation-professionnelle-glaris/)
 - [Apprentissage Formation Professionnelle Grisons](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-formation-professionnelle-grisons/)
 - [Apprentissage Formation Professionnelle Schaffhouse](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-formation-professionnelle-schaffhouse/)
 - [Apprentissage Formation Professionnelle Zurich](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-formation-professionnelle-zurich/)
@@ -4794,6 +4800,7 @@
 - [Apprentissage Lucerne](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-lucerne/)
 - [Apprentissage Lucerne Contrat Salaire](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-lucerne-contrat-salaire/)
 - [Apprentissage Salaire Soleure Guide](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-salaire-soleure-guide/)
+- [Apprentissage Suisse Guide Pratique](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-suisse-guide-pratique/)
 - [Apprentissage Urie 2024 2025](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-urie-2024-2025/)
 - [Apprentissage Zoug](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-zoug/)
 - [Apprentissage Zurich](https://frontaliereticino.ch/fr/articles-suisse/apprentissage-zurich/)
@@ -6197,6 +6204,7 @@
 - [Slug Traffico Da Record](https://frontaliereticino.ch/fr/articles-suisse/slug-traffico-da-record/)
 - [Snl Ricorso Lago Maggiore](https://frontaliereticino.ch/fr/articles-suisse/snl-ricorso-lago-maggiore/)
 - [Societes Suisse Semestral](https://frontaliereticino.ch/fr/articles-suisse/societes-suisse-semestral/)
+- [Soldats Suisses Video Guerre](https://frontaliereticino.ch/fr/articles-suisse/soldats-suisses-video-guerre/)
 - [Soletta Contestation Loyer Droit Suisse](https://frontaliereticino.ch/fr/articles-suisse/soletta-contestation-loyer-droit-suisse/)
 - [Soletta Droit Location Locataires](https://frontaliereticino.ch/fr/articles-suisse/soletta-droit-location-locataires/)
 - [Soletta Location Droits Locataire Guide](https://frontaliereticino.ch/fr/articles-suisse/soletta-location-droits-locataire-guide/)
@@ -6508,6 +6516,7 @@
 - [Volkswagen Crise Suppressions Emplois](https://frontaliereticino.ch/fr/articles-suisse/volkswagen-crise-suppressions-emplois/)
 - [Volkswagen Fournisseurs Suisses Risques](https://frontaliereticino.ch/fr/articles-suisse/volkswagen-fournisseurs-suisses-risques/)
 - [Volkswagen Reductions Emplois 2024](https://frontaliereticino.ch/fr/articles-suisse/volkswagen-reductions-emplois-2024/)
+- [Volkswagen Supprime 50000 Emplois Dici 2030](https://frontaliereticino.ch/fr/articles-suisse/volkswagen-supprime-50000-emplois-dici-2030/)
 - [Votations Cantonales Juin Salaire Minimum](https://frontaliereticino.ch/fr/articles-suisse/votations-cantonales-juin-salaire-minimum/)
 - [Votations Federales 27 Septembre 2026](https://frontaliereticino.ch/fr/articles-suisse/votations-federales-27-septembre-2026/)
 - [Votations Federales 27 Septembre Changements Suisse](https://frontaliereticino.ch/fr/articles-suisse/votations-federales-27-septembre-changements-suisse/)
