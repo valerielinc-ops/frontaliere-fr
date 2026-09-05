@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6732 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6733 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3888 pages)
+### Blog Articles (3889 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1221,6 +1221,7 @@
 - [Calcul De La Pension Pour Les Travailleurs Frontaliers Avs Italienne](https://frontaliereticino.ch/fr/articles-frontalier/calcul-de-la-pension-pour-les-travailleurs-frontaliers-avs-italienne/)
 - [Calcul Du Salaire Net Suisse Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/calcul-du-salaire-net-suisse-frontaliers/)
 - [Calcul Impots Frontaliers 20 Km](https://frontaliereticino.ch/fr/articles-frontalier/calcul-impots-frontaliers-20-km/)
+- [Calcul Retenue Salaire Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/calcul-retenue-salaire-frontaliers/)
 - [Calcul Retraite Frontalier Avs Inps Guide Complet](https://frontaliereticino.ch/fr/articles-frontalier/calcul-retraite-frontalier-avs-inps-guide-complet/)
 - [Calculateur Impot Source Ticino 2026](https://frontaliereticino.ch/fr/articles-frontalier/calculateur-impot-source-ticino-2026/)
 - [Calculateur Salaire Construction 2026](https://frontaliereticino.ch/fr/articles-frontalier/calculateur-salaire-construction-2026/)
