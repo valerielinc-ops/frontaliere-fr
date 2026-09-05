@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6728 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6732 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3887 pages)
+### Blog Articles (3888 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -4098,6 +4098,7 @@
 - [Travailleurs Frontaliers Arrestation Maggia Arnaque](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-arrestation-maggia-arnaque/)
 - [Travailleurs Frontaliers Assurance Accidents Lainf 2026 Plus De 20 Km](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-assurance-accidents-lainf-2026-plus-de-20-km/)
 - [Travailleurs Frontaliers Baisse Q2 2026](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-baisse-q2-2026/)
+- [Travailleurs Frontaliers Calcul Fiche Paie](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-calcul-fiche-paie/)
 - [Travailleurs Frontaliers Chomage Pays De Travail](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-chomage-pays-de-travail/)
 - [Travailleurs Frontaliers Chomage Suisse 2026](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-chomage-suisse-2026/)
 - [Travailleurs Frontaliers Contribution Sante 2026](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-contribution-sante-2026/)
@@ -4652,7 +4653,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2129 pages)
+### Other Pages (2132 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -5199,6 +5200,7 @@
 - [Droit Forfaitaire Commerce Electronique](https://frontaliereticino.ch/fr/articles-suisse/droit-forfaitaire-commerce-electronique/)
 - [Droit Locatif Suisse Procedures Cautionnement](https://frontaliereticino.ch/fr/articles-suisse/droit-locatif-suisse-procedures-cautionnement/)
 - [Droit Location Appenzell Rhodes Interieures Loyers](https://frontaliereticino.ch/fr/articles-suisse/droit-location-appenzell-rhodes-interieures-loyers/)
+- [Droit Location Canton Vaud](https://frontaliereticino.ch/fr/articles-suisse/droit-location-canton-vaud/)
 - [Droit Successoral Dons Canton Svitto](https://frontaliereticino.ch/fr/articles-suisse/droit-successoral-dons-canton-svitto/)
 - [Droits Douane Usa Seco Suisse 2026](https://frontaliereticino.ch/fr/articles-suisse/droits-douane-usa-seco-suisse-2026/)
 - [Droits Douane Usa Suisse Juillet 2026](https://frontaliereticino.ch/fr/articles-suisse/droits-douane-usa-suisse-juillet-2026/)
@@ -5435,6 +5437,7 @@
 - [Garde Enfants Saint Gall Tarifs](https://frontaliereticino.ch/fr/articles-suisse/garde-enfants-saint-gall-tarifs/)
 - [Garde Enfants Saint Gall Tarifs Subventions](https://frontaliereticino.ch/fr/articles-suisse/garde-enfants-saint-gall-tarifs-subventions/)
 - [Garde Enfants Suisse Couts Aides](https://frontaliereticino.ch/fr/articles-suisse/garde-enfants-suisse-couts-aides/)
+- [Garde Enfants Zoug Tarifs Subventions](https://frontaliereticino.ch/fr/articles-suisse/garde-enfants-zoug-tarifs-subventions/)
 - [Garderie D Enfants Et Soins D Enfants A Basel Ville](https://frontaliereticino.ch/fr/articles-suisse/garderie-d-enfants-et-soins-d-enfants-a-basel-ville/)
 - [Garderie Enfants Grisons Tarifs](https://frontaliereticino.ch/fr/articles-suisse/garderie-enfants-grisons-tarifs/)
 - [Garderie Et Garde D Enfants Canton De Nidwald Couts](https://frontaliereticino.ch/fr/articles-suisse/garderie-et-garde-d-enfants-canton-de-nidwald-couts/)
@@ -5660,6 +5663,7 @@
 - [Locations Schaffhouse Garantie Denonciation Conciliation](https://frontaliereticino.ch/fr/articles-suisse/locations-schaffhouse-garantie-denonciation-conciliation/)
 - [Locations Schwyz Droit Bail](https://frontaliereticino.ch/fr/articles-suisse/locations-schwyz-droit-bail/)
 - [Locations Tessin Marque Proprietaires](https://frontaliereticino.ch/fr/articles-suisse/locations-tessin-marque-proprietaires/)
+- [Locations Vaud Depot Garantie](https://frontaliereticino.ch/fr/articles-suisse/locations-vaud-depot-garantie/)
 - [Locations Zug Revenus Cantonaux](https://frontaliereticino.ch/fr/articles-suisse/locations-zug-revenus-cantonaux/)
 - [Logement Dans Le Canton De Schwyz](https://frontaliereticino.ch/fr/articles-suisse/logement-dans-le-canton-de-schwyz/)
 - [Logitech 2026 2027](https://frontaliereticino.ch/fr/articles-suisse/logitech-2026-2027/)
