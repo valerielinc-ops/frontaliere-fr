@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6779 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6784 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3910 pages)
+### Blog Articles (3911 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -2039,6 +2039,7 @@
 - [Ffs Siemens 116 Trains De Banlieue Tessin 2026](https://frontaliereticino.ch/fr/articles-frontalier/ffs-siemens-116-trains-de-banlieue-tessin-2026/)
 - [Ffs Siemens Nouveaux Trains Tessin](https://frontaliereticino.ch/fr/articles-frontalier/ffs-siemens-nouveaux-trains-tessin/)
 - [Fiche Paie Suisse 2026 Frontaux Plus 20km](https://frontaliereticino.ch/fr/articles-frontalier/fiche-paie-suisse-2026-frontaux-plus-20km/)
+- [Figino Serenza Travailleur Frontalier Tessin](https://frontaliereticino.ch/fr/articles-frontalier/figino-serenza-travailleur-frontalier-tessin/)
 - [File Voitures Tunnel Saint Gothard](https://frontaliereticino.ch/fr/articles-frontalier/file-voitures-tunnel-saint-gothard/)
 - [Files Camions Gene Passage Brogeda](https://frontaliereticino.ch/fr/articles-frontalier/files-camions-gene-passage-brogeda/)
 - [Film Frontaliers Sabotage Varese](https://frontaliereticino.ch/fr/articles-frontalier/film-frontaliers-sabotage-varese/)
@@ -4675,7 +4676,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2157 pages)
+### Other Pages (2161 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -5466,6 +5467,7 @@
 - [Garde Enfants Saint Gall Tarifs Subventions](https://frontaliereticino.ch/fr/articles-suisse/garde-enfants-saint-gall-tarifs-subventions/)
 - [Garde Enfants Suisse Couts Aides](https://frontaliereticino.ch/fr/articles-suisse/garde-enfants-suisse-couts-aides/)
 - [Garde Enfants Zoug Tarifs Subventions](https://frontaliereticino.ch/fr/articles-suisse/garde-enfants-zoug-tarifs-subventions/)
+- [Garderie Controles Protection Enfants](https://frontaliereticino.ch/fr/articles-suisse/garderie-controles-protection-enfants/)
 - [Garderie D Enfants Et Soins D Enfants A Basel Ville](https://frontaliereticino.ch/fr/articles-suisse/garderie-d-enfants-et-soins-d-enfants-a-basel-ville/)
 - [Garderie Enfants Grisons Tarifs](https://frontaliereticino.ch/fr/articles-suisse/garderie-enfants-grisons-tarifs/)
 - [Garderie Et Garde D Enfants Canton De Nidwald Couts](https://frontaliereticino.ch/fr/articles-suisse/garderie-et-garde-d-enfants-canton-de-nidwald-couts/)
@@ -5996,10 +5998,12 @@
 - [Permis Sejour B Bale Ville](https://frontaliereticino.ch/fr/articles-suisse/permis-sejour-b-bale-ville/)
 - [Permis Sejour B Canton Saint Gall Requisits Renouvellement](https://frontaliereticino.ch/fr/articles-suisse/permis-sejour-b-canton-saint-gall-requisits-renouvellement/)
 - [Permis Sejour B Canton Uri Conditions Renouvellement](https://frontaliereticino.ch/fr/articles-suisse/permis-sejour-b-canton-uri-conditions-renouvellement/)
+- [Permis Sejour B Fribourg Renouvellement](https://frontaliereticino.ch/fr/articles-suisse/permis-sejour-b-fribourg-renouvellement/)
 - [Permis Sejour B Fribourg Renouvellement Procedure](https://frontaliereticino.ch/fr/articles-suisse/permis-sejour-b-fribourg-renouvellement-procedure/)
 - [Permis Sejour B Lucerne Renouvellement Procedure](https://frontaliereticino.ch/fr/articles-suisse/permis-sejour-b-lucerne-renouvellement-procedure/)
 - [Permis Sejour B Nidwald](https://frontaliereticino.ch/fr/articles-suisse/permis-sejour-b-nidwald/)
 - [Permis Sejour B Suisse Guide](https://frontaliereticino.ch/fr/articles-suisse/permis-sejour-b-suisse-guide/)
+- [Permis Sejour B Valais Procedures](https://frontaliereticino.ch/fr/articles-suisse/permis-sejour-b-valais-procedures/)
 - [Permis Sejour B Vaud Renouvellement](https://frontaliereticino.ch/fr/articles-suisse/permis-sejour-b-vaud-renouvellement/)
 - [Permis Sejour B Zoug Exigences Renouvellement](https://frontaliereticino.ch/fr/articles-suisse/permis-sejour-b-zoug-exigences-renouvellement/)
 - [Permis Sejour C Appenzell Rhodes Interieur](https://frontaliereticino.ch/fr/articles-suisse/permis-sejour-c-appenzell-rhodes-interieur/)
@@ -6558,6 +6562,7 @@
 - [Utiliser La Croix Suisse Sur Des Produits Importes](https://frontaliereticino.ch/fr/articles-suisse/utiliser-la-croix-suisse-sur-des-produits-importes/)
 - [V C3 A9hicule Agricole Quitte Route Enfants 9 Ans Verst](https://frontaliereticino.ch/fr/articles-suisse/v-c3-a9hicule-agricole-quitte-route-enfants-9-ans-verst/)
 - [Vaches Suisses Canicule](https://frontaliereticino.ch/fr/articles-suisse/vaches-suisses-canicule/)
+- [Valais Lamal Cotisazioni Riduzione](https://frontaliereticino.ch/fr/articles-suisse/valais-lamal-cotisazioni-riduzione/)
 - [Vendanges 2026 Suisse Qualite](https://frontaliereticino.ch/fr/articles-suisse/vendanges-2026-suisse-qualite/)
 - [Venditti Lugano Contexte National](https://frontaliereticino.ch/fr/articles-suisse/venditti-lugano-contexte-national/)
 - [Vente Achat Maison Lucerne Prix Pret Hippique](https://frontaliereticino.ch/fr/articles-suisse/vente-achat-maison-lucerne-prix-pret-hippique/)
