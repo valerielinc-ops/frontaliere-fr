@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6733 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6743 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3889 pages)
+### Blog Articles (3893 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1574,6 +1574,7 @@
 - [Coop_appelle_revenu_fromage_salmonelle](https://frontaliereticino.ch/fr/articles-frontalier/coop_appelle_revenu_fromage_salmonelle/)
 - [Cooperation Fiscale Dac9 Etape](https://frontaliereticino.ch/fr/articles-frontalier/cooperation-fiscale-dac9-etape/)
 - [Cooperation Judiciaire Suisse Italie Impact Frontaliers Tessin](https://frontaliereticino.ch/fr/articles-frontalier/cooperation-judiciaire-suisse-italie-impact-frontaliers-tessin/)
+- [Coordination Avs Inps 2026](https://frontaliereticino.ch/fr/articles-frontalier/coordination-avs-inps-2026/)
 - [Coordination Avs Inps Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/coordination-avs-inps-frontaliers/)
 - [Coordination Pension Famille Enfants 2026](https://frontaliereticino.ch/fr/articles-frontalier/coordination-pension-famille-enfants-2026/)
 - [Coordination Sanitaire Travailleurs Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/coordination-sanitaire-travailleurs-frontaliers/)
@@ -2205,6 +2206,7 @@
 - [Frontaliers Documents Obligatoires Debut Travail Suisse](https://frontaliereticino.ch/fr/articles-frontalier/frontaliers-documents-obligatoires-debut-travail-suisse/)
 - [Frontaliers Et Partenaires Sagl Nodes Fiscaux](https://frontaliereticino.ch/fr/articles-frontalier/frontaliers-et-partenaires-sagl-nodes-fiscaux/)
 - [Frontaliers Et Prestations](https://frontaliereticino.ch/fr/articles-frontalier/frontaliers-et-prestations/)
+- [Frontaliers Impot Calcul 2026](https://frontaliereticino.ch/fr/articles-frontalier/frontaliers-impot-calcul-2026/)
 - [Frontaliers Impots Single 2026](https://frontaliereticino.ch/fr/articles-frontalier/frontaliers-impots-single-2026/)
 - [Frontaliers Italiens Canton Du Tessin Recul](https://frontaliereticino.ch/fr/articles-frontalier/frontaliers-italiens-canton-du-tessin-recul/)
 - [Frontaliers Logement Zurich](https://frontaliereticino.ch/fr/articles-frontalier/frontaliers-logement-zurich/)
@@ -3283,6 +3285,7 @@
 - [Quadri Interpelle Le Conseil Federal Sur Les Frontieres Et Les Impots](https://frontaliereticino.ch/fr/articles-frontalier/quadri-interpelle-le-conseil-federal-sur-les-frontieres-et-les-impots/)
 - [Quadro Rw Dichiarazione Conto Corrente Svizzero](https://frontaliereticino.ch/fr/articles-frontalier/quadro-rw-dichiarazione-conto-corrente-svizzero/)
 - [Quai De Como Barrieres Rapinese Sertori](https://frontaliereticino.ch/fr/articles-frontalier/quai-de-como-barrieres-rapinese-sertori/)
+- [Quand Changer Euro Frontalier Single](https://frontaliereticino.ch/fr/articles-frontalier/quand-changer-euro-frontalier-single/)
 - [Quand Changer Francs Euros](https://frontaliereticino.ch/fr/articles-frontalier/quand-changer-francs-euros/)
 - [Quand Democratie Finit Tessin](https://frontaliereticino.ch/fr/articles-frontalier/quand-democratie-finit-tessin/)
 - [Quartier Gera Iragna Planification](https://frontaliereticino.ch/fr/articles-frontalier/quartier-gera-iragna-planification/)
@@ -4104,6 +4107,7 @@
 - [Travailleurs Frontaliers Chomage Suisse 2026](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-chomage-suisse-2026/)
 - [Travailleurs Frontaliers Contribution Sante 2026](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-contribution-sante-2026/)
 - [Travailleurs Frontaliers Deductions Fiscales Italie 2026](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-deductions-fiscales-italie-2026/)
+- [Travailleurs Frontaliers Fiche Paie 2026 Simulation](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-fiche-paie-2026-simulation/)
 - [Travailleurs Frontaliers Garde Enfants Suisse](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-garde-enfants-suisse/)
 - [Travailleurs Frontaliers Italiens Plainte Oil Discrimination](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-italiens-plainte-oil-discrimination/)
 - [Travailleurs Frontaliers Italiens Ticino Ressource](https://frontaliereticino.ch/fr/articles-frontalier/travailleurs-frontaliers-italiens-ticino-ressource/)
@@ -4654,7 +4658,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2132 pages)
+### Other Pages (2138 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -4672,6 +4676,7 @@
 - [Abonnements Transports Schwyz](https://frontaliereticino.ch/fr/articles-suisse/abonnements-transports-schwyz/)
 - [Abonnements Transports Uri Zones](https://frontaliereticino.ch/fr/articles-suisse/abonnements-transports-uri-zones/)
 - [Abonnements Transports Uri Zones Tarifs](https://frontaliereticino.ch/fr/articles-suisse/abonnements-transports-uri-zones-tarifs/)
+- [Abonnements Transports Vaud Zones](https://frontaliereticino.ch/fr/articles-suisse/abonnements-transports-vaud-zones/)
 - [Acces Facilite Assurance Accident 2027](https://frontaliereticino.ch/fr/articles-suisse/acces-facilite-assurance-accident-2027/)
 - [Accident Avec Un Vehicule Agricole Mort De 9 Ans](https://frontaliereticino.ch/fr/articles-suisse/accident-avec-un-vehicule-agricole-mort-de-9-ans/)
 - [Accident Moto Amlikon Bissegg 18 Ans](https://frontaliereticino.ch/fr/articles-suisse/accident-moto-amlikon-bissegg-18-ans/)
@@ -4900,6 +4905,7 @@
 - [Avs Prestations Complementaires Saint Gall Caisse](https://frontaliereticino.ch/fr/articles-suisse/avs-prestations-complementaires-saint-gall-caisse/)
 - [Avs Prestations Complementaires Schaffhouse Caisse Compensation](https://frontaliereticino.ch/fr/articles-suisse/avs-prestations-complementaires-schaffhouse-caisse-compensation/)
 - [Avs Prestations Complementaires Uri Caisse](https://frontaliereticino.ch/fr/articles-suisse/avs-prestations-complementaires-uri-caisse/)
+- [Avs Prestations Complementaires Vaud Caisse Compensation](https://frontaliereticino.ch/fr/articles-suisse/avs-prestations-complementaires-vaud-caisse-compensation/)
 - [Avs Prestations Fribourg](https://frontaliereticino.ch/fr/articles-suisse/avs-prestations-fribourg/)
 - [Avs Prestazioni Uri Caisse](https://frontaliereticino.ch/fr/articles-suisse/avs-prestazioni-uri-caisse/)
 - [Axa Manno Emplois Frontaliers](https://frontaliereticino.ch/fr/articles-suisse/axa-manno-emplois-frontaliers/)
@@ -5334,6 +5340,7 @@
 - [Fourgons Electriques Egalisation Federale](https://frontaliereticino.ch/fr/articles-suisse/fourgons-electriques-egalisation-federale/)
 - [Fourrage Secheresse Aide Federale](https://frontaliereticino.ch/fr/articles-suisse/fourrage-secheresse-aide-federale/)
 - [Frais Sanitaires Frontaliers Italie](https://frontaliereticino.ch/fr/articles-suisse/frais-sanitaires-frontaliers-italie/)
+- [Franc Euro Analyse Donnees Change](https://frontaliereticino.ch/fr/articles-suisse/franc-euro-analyse-donnees-change/)
 - [Franc Suisse Economie Bns Politique Monetaire](https://frontaliereticino.ch/fr/articles-suisse/franc-suisse-economie-bns-politique-monetaire/)
 - [Franc Suisse Euro](https://frontaliereticino.ch/fr/articles-suisse/franc-suisse-euro/)
 - [Franc Suisse Euro Minima](https://frontaliereticino.ch/fr/articles-suisse/franc-suisse-euro-minima/)
@@ -5655,6 +5662,7 @@
 - [Location Sociale De Voitures Pour Frontaliers 2026](https://frontaliereticino.ch/fr/articles-suisse/location-sociale-de-voitures-pour-frontaliers-2026/)
 - [Location Suisse Marche 2026 Canton San Gallo](https://frontaliereticino.ch/fr/articles-suisse/location-suisse-marche-2026-canton-san-gallo/)
 - [Location Uri Droit Locataire Depot Garantie](https://frontaliereticino.ch/fr/articles-suisse/location-uri-droit-locataire-depot-garantie/)
+- [Location Vaud Depot Cautionnement Resiliation](https://frontaliereticino.ch/fr/articles-suisse/location-vaud-depot-cautionnement-resiliation/)
 - [Location Zoug Depot Conteste Procedure](https://frontaliereticino.ch/fr/articles-suisse/location-zoug-depot-conteste-procedure/)
 - [Locations Basel Ville](https://frontaliereticino.ch/fr/articles-suisse/locations-basel-ville/)
 - [Locations Fribourg Contestation Loyer](https://frontaliereticino.ch/fr/articles-suisse/locations-fribourg-contestation-loyer/)
@@ -5665,6 +5673,7 @@
 - [Locations Schwyz Droit Bail](https://frontaliereticino.ch/fr/articles-suisse/locations-schwyz-droit-bail/)
 - [Locations Tessin Marque Proprietaires](https://frontaliereticino.ch/fr/articles-suisse/locations-tessin-marque-proprietaires/)
 - [Locations Vaud Depot Garantie](https://frontaliereticino.ch/fr/articles-suisse/locations-vaud-depot-garantie/)
+- [Locations Vaud Droits Locataires](https://frontaliereticino.ch/fr/articles-suisse/locations-vaud-droits-locataires/)
 - [Locations Zug Revenus Cantonaux](https://frontaliereticino.ch/fr/articles-suisse/locations-zug-revenus-cantonaux/)
 - [Logement Dans Le Canton De Schwyz](https://frontaliereticino.ch/fr/articles-suisse/logement-dans-le-canton-de-schwyz/)
 - [Logitech 2026 2027](https://frontaliereticino.ch/fr/articles-suisse/logitech-2026-2027/)
@@ -5818,6 +5827,7 @@
 - [Ouvrir Activite Saint Gall Registre Couts](https://frontaliereticino.ch/fr/articles-suisse/ouvrir-activite-saint-gall-registre-couts/)
 - [Ouvrir Activite Schwytz Couts Et Demarches](https://frontaliereticino.ch/fr/articles-suisse/ouvrir-activite-schwytz-couts-et-demarches/)
 - [Ouvrir Activite Schwyz Registre Commerce Couts](https://frontaliereticino.ch/fr/articles-suisse/ouvrir-activite-schwyz-registre-commerce-couts/)
+- [Ouvrir Activite Vaud Registre Couts](https://frontaliereticino.ch/fr/articles-suisse/ouvrir-activite-vaud-registre-couts/)
 - [Ouvrir Activite Zoug Registre Commerce](https://frontaliereticino.ch/fr/articles-suisse/ouvrir-activite-zoug-registre-commerce/)
 - [Ouvrir Compte Bancaire Suisse En Tant Que Frontalier](https://frontaliereticino.ch/fr/articles-suisse/ouvrir-compte-bancaire-suisse-en-tant-que-frontalier/)
 - [Ouvrir Compte Banque Suisse Resident](https://frontaliereticino.ch/fr/articles-suisse/ouvrir-compte-banque-suisse-resident/)
@@ -6303,7 +6313,6 @@
 - [Page 4](https://frontaliereticino.ch/fr/articles-suisse/sujets/impots/page-4/)
 - [Page 5](https://frontaliereticino.ch/fr/articles-suisse/sujets/impots/page-5/)
 - [Page 6](https://frontaliereticino.ch/fr/articles-suisse/sujets/impots/page-6/)
-- [Page 7](https://frontaliereticino.ch/fr/articles-suisse/sujets/impots/page-7/)
 - [Logement Et Loyers](https://frontaliereticino.ch/fr/articles-suisse/sujets/logement-et-loyers/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/logement-et-loyers/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/logement-et-loyers/page-3/)
@@ -6335,6 +6344,7 @@
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/sante-assurance-maladie/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-suisse/sujets/sante-assurance-maladie/page-4/)
 - [Page 5](https://frontaliereticino.ch/fr/articles-suisse/sujets/sante-assurance-maladie/page-5/)
+- [Page 6](https://frontaliereticino.ch/fr/articles-suisse/sujets/sante-assurance-maladie/page-6/)
 - [Securite Et Faits Divers](https://frontaliereticino.ch/fr/articles-suisse/sujets/securite-et-faits-divers/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/securite-et-faits-divers/page-2/)
 - [Transports Et Trafic](https://frontaliereticino.ch/fr/articles-suisse/sujets/transports-et-trafic/)
