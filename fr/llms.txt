@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6845 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6853 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3922 pages)
+### Blog Articles (3925 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1436,6 +1436,7 @@
 - [Coiffeur Frontalier Ticino](https://frontaliereticino.ch/fr/articles-frontalier/coiffeur-frontalier-ticino/)
 - [Col Du Gothard Rouvre Tot 8 Mai](https://frontaliereticino.ch/fr/articles-frontalier/col-du-gothard-rouvre-tot-8-mai/)
 - [Col San Gottardo Rouvert Ascension](https://frontaliereticino.ch/fr/articles-frontalier/col-san-gottardo-rouvert-ascension/)
+- [Colacem Durabilite 2025](https://frontaliereticino.ch/fr/articles-frontalier/colacem-durabilite-2025/)
 - [Coldiretti Brenner Made In Italy 2026](https://frontaliereticino.ch/fr/articles-frontalier/coldiretti-brenner-made-in-italy-2026/)
 - [Coldiretti Varese Alarm](https://frontaliereticino.ch/fr/articles-frontalier/coldiretti-varese-alarm/)
 - [Collaboration Transfrontaliere Italie Suisse](https://frontaliereticino.ch/fr/articles-frontalier/collaboration-transfrontaliere-italie-suisse/)
@@ -2309,6 +2310,7 @@
 - [Giro E Angera Verbania 2026](https://frontaliereticino.ch/fr/articles-frontalier/giro-e-angera-verbania-2026/)
 - [Girometta Doro Andrea Chiodi Varese 2026](https://frontaliereticino.ch/fr/articles-frontalier/girometta-doro-andrea-chiodi-varese-2026/)
 - [Giubiasco Viale Olgiati Travaux Nuit](https://frontaliereticino.ch/fr/articles-frontalier/giubiasco-viale-olgiati-travaux-nuit/)
+- [Giussano Como Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/giussano-como-tessin-frontalier/)
 - [Glaciers Suisses Frontalieri](https://frontaliereticino.ch/fr/articles-frontalier/glaciers-suisses-frontalieri/)
 - [Glarona Dimanches Sans Voiture Tessin Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/glarona-dimanches-sans-voiture-tessin-frontaliers/)
 - [Globalistes Fuite Moyen Orient Ticino](https://frontaliereticino.ch/fr/articles-frontalier/globalistes-fuite-moyen-orient-ticino/)
@@ -3788,6 +3790,7 @@
 - [Page 21](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-21/)
 - [Page 22](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-22/)
 - [Page 23](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-23/)
+- [Page 24](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-24/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-4/)
 - [Page 5](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-5/)
@@ -3801,7 +3804,6 @@
 - [Permis G](https://frontaliereticino.ch/fr/articles-frontalier/sujets/permis-g/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-frontalier/sujets/permis-g/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/permis-g/page-3/)
-- [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/permis-g/page-4/)
 - [Retraites Avs Lpp](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/page-3/)
@@ -4570,6 +4572,7 @@
 - [Vivre Sormano Travailler Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-sormano-travailler-tessin-frontalier/)
 - [Vivre Spriana Grisons Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-spriana-grisons-frontalier/)
 - [Vivre Suisse Vs Italie Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-suisse-vs-italie-frontalier/)
+- [Vivre Sumirago Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-sumirago-frontalier/)
 - [Vivre Trasquera Travailler Ticin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-trasquera-travailler-ticin/)
 - [Vivre Tubre Travailler Grisons Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-tubre-travailler-grisons-frontalier/)
 - [Vivre Valbondione Travailler Grisons Transfrontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-valbondione-travailler-grisons-transfrontalier/)
@@ -4687,7 +4690,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2211 pages)
+### Other Pages (2216 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -5142,6 +5145,7 @@
 - [Controle Residence Fiscale Preuves Numeriques](https://frontaliereticino.ch/fr/articles-suisse/controle-residence-fiscale-preuves-numeriques/)
 - [Controles Frontieres G7 Interdictions Entree](https://frontaliereticino.ch/fr/articles-suisse/controles-frontieres-g7-interdictions-entree/)
 - [Conversion Permis Conduire Schwyz](https://frontaliereticino.ch/fr/articles-suisse/conversion-permis-conduire-schwyz/)
+- [Conversion Permis Conduire Valais](https://frontaliereticino.ch/fr/articles-suisse/conversion-permis-conduire-valais/)
 - [Cooperation Police Frontieres](https://frontaliereticino.ch/fr/articles-suisse/cooperation-police-frontieres/)
 - [Cop31 Mandat Delegation Suisse Approuve](https://frontaliereticino.ch/fr/articles-suisse/cop31-mandat-delegation-suisse-approuve/)
 - [Coronavirus Frontaliers Suisse](https://frontaliereticino.ch/fr/articles-suisse/coronavirus-frontaliers-suisse/)
@@ -5214,6 +5218,7 @@
 - [Demande Permis G Etape Par Etape](https://frontaliereticino.ch/fr/articles-suisse/demande-permis-g-etape-par-etape/)
 - [Demandes Asile Moins 10000 Premier Semestre](https://frontaliereticino.ch/fr/articles-suisse/demandes-asile-moins-10000-premier-semestre/)
 - [Demarrer Activite Berne Suisse](https://frontaliereticino.ch/fr/articles-suisse/demarrer-activite-berne-suisse/)
+- [Demarrer Activite Canton Valais Registre Commerce](https://frontaliereticino.ch/fr/articles-suisse/demarrer-activite-canton-valais-registre-commerce/)
 - [Demarrer Activite Soleure Guide Complet](https://frontaliereticino.ch/fr/articles-suisse/demarrer-activite-soleure-guide-complet/)
 - [Demarrer Activite Thurgovie Registre Commerce](https://frontaliereticino.ch/fr/articles-suisse/demarrer-activite-thurgovie-registre-commerce/)
 - [Demarrer Entreprise Berne Enregistrement](https://frontaliereticino.ch/fr/articles-suisse/demarrer-entreprise-berne-enregistrement/)
@@ -5614,6 +5619,7 @@
 - [Impot Succession Donation Canton Vaud](https://frontaliereticino.ch/fr/articles-suisse/impot-succession-donation-canton-vaud/)
 - [Impot Succession Donation Lucerne Guide](https://frontaliereticino.ch/fr/articles-suisse/impot-succession-donation-lucerne-guide/)
 - [Impot Succession Donation Uri Guide](https://frontaliereticino.ch/fr/articles-suisse/impot-succession-donation-uri-guide/)
+- [Impot Succession Donations Canton Valais Taux](https://frontaliereticino.ch/fr/articles-suisse/impot-succession-donations-canton-valais-taux/)
 - [Impot Succession Et Donation Bale Ville](https://frontaliereticino.ch/fr/articles-suisse/impot-succession-et-donation-bale-ville/)
 - [Impot Succession Saint Gall Tarifs Exemptions](https://frontaliereticino.ch/fr/articles-suisse/impot-succession-saint-gall-tarifs-exemptions/)
 - [Impot Succession Zurich Taux](https://frontaliereticino.ch/fr/articles-suisse/impot-succession-zurich-taux/)
@@ -6441,6 +6447,7 @@
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/sante-assurance-maladie/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-suisse/sujets/sante-assurance-maladie/page-4/)
 - [Page 5](https://frontaliereticino.ch/fr/articles-suisse/sujets/sante-assurance-maladie/page-5/)
+- [Page 6](https://frontaliereticino.ch/fr/articles-suisse/sujets/sante-assurance-maladie/page-6/)
 - [Securite Et Faits Divers](https://frontaliereticino.ch/fr/articles-suisse/sujets/securite-et-faits-divers/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/securite-et-faits-divers/page-2/)
 - [Transports Et Trafic](https://frontaliereticino.ch/fr/articles-suisse/sujets/transports-et-trafic/)
@@ -6551,6 +6558,7 @@
 - [Transports Exceptionnels Standards Federaux](https://frontaliereticino.ch/fr/articles-suisse/transports-exceptionnels-standards-federaux/)
 - [Transports Publics Canton De Soleure Abonnements](https://frontaliereticino.ch/fr/articles-suisse/transports-publics-canton-de-soleure-abonnements/)
 - [Transports Publics Obligation De Accepter Des Billets De Banque](https://frontaliereticino.ch/fr/articles-suisse/transports-publics-obligation-de-accepter-des-billets-de-banque/)
+- [Transports Publics Valais Guide](https://frontaliereticino.ch/fr/articles-suisse/transports-publics-valais-guide/)
 - [Transports Publics Zoug Abonnements](https://frontaliereticino.ch/fr/articles-suisse/transports-publics-zoug-abonnements/)
 - [Transports Publiques Canton De Berne Abonnements](https://frontaliereticino.ch/fr/articles-suisse/transports-publiques-canton-de-berne-abonnements/)
 - [Travail A Distance Transfrontalier Regles](https://frontaliereticino.ch/fr/articles-suisse/travail-a-distance-transfrontalier-regles/)
