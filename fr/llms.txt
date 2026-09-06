@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6795 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6803 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -4676,7 +4676,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2172 pages)
+### Other Pages (2180 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -4771,6 +4771,7 @@
 - [Allocations Familiales Canton De Berner](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-canton-de-berner/)
 - [Allocations Familiales Canton De Glarona](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-canton-de-glarona/)
 - [Allocations Familiales Canton De Schaffhouse Montants Et Demande](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-canton-de-schaffhouse-montants-et-demande/)
+- [Allocations Familiales Canton Valais](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-canton-valais/)
 - [Allocations Familiales Canton Zugo](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-canton-zugo/)
 - [Allocations Familiales Dans Le Canton De Glaris Montants Et Demande](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-dans-le-canton-de-glaris-montants-et-demande/)
 - [Allocations Familiales Dans Le Canton De Lucerne Montants Et Demande](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-dans-le-canton-de-lucerne-montants-et-demande/)
@@ -5101,6 +5102,7 @@
 - [Concours Publics Tessin Suisse](https://frontaliereticino.ch/fr/articles-suisse/concours-publics-tessin-suisse/)
 - [Conducteurs Machines Locarno](https://frontaliereticino.ch/fr/articles-suisse/conducteurs-machines-locarno/)
 - [Conference Osce Berne](https://frontaliereticino.ch/fr/articles-suisse/conference-osce-berne/)
+- [Conference Osce Berne 2026](https://frontaliereticino.ch/fr/articles-suisse/conference-osce-berne-2026/)
 - [Conge Parental Frontaliers](https://frontaliereticino.ch/fr/articles-suisse/conge-parental-frontaliers/)
 - [Conge Parental Suisse Duree Indemnite](https://frontaliereticino.ch/fr/articles-suisse/conge-parental-suisse-duree-indemnite/)
 - [Conseil Federal Consultation Agriculture 2030](https://frontaliereticino.ch/fr/articles-suisse/conseil-federal-consultation-agriculture-2030/)
@@ -5789,6 +5791,7 @@
 - [Naturalisation Bale Ville Conditions](https://frontaliereticino.ch/fr/articles-suisse/naturalisation-bale-ville-conditions/)
 - [Naturalisation Canton Basilea Campagna](https://frontaliereticino.ch/fr/articles-suisse/naturalisation-canton-basilea-campagna/)
 - [Naturalisation Canton De Berne Requisits Procedure](https://frontaliereticino.ch/fr/articles-suisse/naturalisation-canton-de-berne-requisits-procedure/)
+- [Naturalisation Canton De Soletta Requis Et Procedure](https://frontaliereticino.ch/fr/articles-suisse/naturalisation-canton-de-soletta-requis-et-procedure/)
 - [Naturalisation Canton Obwald Guide](https://frontaliereticino.ch/fr/articles-suisse/naturalisation-canton-obwald-guide/)
 - [Naturalisation Canton Schaffhouse Requis Exigences Procedure](https://frontaliereticino.ch/fr/articles-suisse/naturalisation-canton-schaffhouse-requis-exigences-procedure/)
 - [Naturalisation Canton Suisse Requisits Et Procedure](https://frontaliereticino.ch/fr/articles-suisse/naturalisation-canton-suisse-requisits-et-procedure/)
@@ -5838,6 +5841,7 @@
 - [On Trimestre Record](https://frontaliereticino.ch/fr/articles-suisse/on-trimestre-record/)
 - [Onu Sanctions Sesam 2026](https://frontaliereticino.ch/fr/articles-suisse/onu-sanctions-sesam-2026/)
 - [Operateur De Grue Frontal Ticino](https://frontaliereticino.ch/fr/articles-suisse/operateur-de-grue-frontal-ticino/)
+- [Operation Police Goldach](https://frontaliereticino.ch/fr/articles-suisse/operation-police-goldach/)
 - [Opinions Tram Train Lugano](https://frontaliereticino.ch/fr/articles-suisse/opinions-tram-train-lugano/)
 - [Opportunites Carriere Rsi Suisse](https://frontaliereticino.ch/fr/articles-suisse/opportunites-carriere-rsi-suisse/)
 - [Opportunites Emploi Administration Tessin](https://frontaliereticino.ch/fr/articles-suisse/opportunites-emploi-administration-tessin/)
@@ -5916,6 +5920,7 @@
 - [Permis B Nidwald Procedure Renouvellement](https://frontaliereticino.ch/fr/articles-suisse/permis-b-nidwald-procedure-renouvellement/)
 - [Permis B Zoug Guide Pratique](https://frontaliereticino.ch/fr/articles-suisse/permis-b-zoug-guide-pratique/)
 - [Permis C Lucerne Guide](https://frontaliereticino.ch/fr/articles-suisse/permis-c-lucerne-guide/)
+- [Permis C Residence Canton Valais Conditions Demande](https://frontaliereticino.ch/fr/articles-suisse/permis-c-residence-canton-valais-conditions-demande/)
 - [Permis Conduire Bale Ville Conversion](https://frontaliereticino.ch/fr/articles-suisse/permis-conduire-bale-ville-conversion/)
 - [Permis Conduire Berne Conversion](https://frontaliereticino.ch/fr/articles-suisse/permis-conduire-berne-conversion/)
 - [Permis Conduire Saint Gall Conversion](https://frontaliereticino.ch/fr/articles-suisse/permis-conduire-saint-gall-conversion/)
@@ -5932,6 +5937,7 @@
 - [Permis De Conduire En Uri Conversion Et Examens](https://frontaliereticino.ch/fr/articles-suisse/permis-de-conduire-en-uri-conversion-et-examens/)
 - [Permis De Conduire Fribourg Conversion Et Examen](https://frontaliereticino.ch/fr/articles-suisse/permis-de-conduire-fribourg-conversion-et-examen/)
 - [Permis De Conduire Obwald Conversion](https://frontaliereticino.ch/fr/articles-suisse/permis-de-conduire-obwald-conversion/)
+- [Permis De Courte Duree Canton Valais](https://frontaliereticino.ch/fr/articles-suisse/permis-de-courte-duree-canton-valais/)
 - [Permis De Courte Duree L Lucerne](https://frontaliereticino.ch/fr/articles-suisse/permis-de-courte-duree-l-lucerne/)
 - [Permis De Domicile C Canton De Glarus Exigences Et Demande](https://frontaliereticino.ch/fr/articles-suisse/permis-de-domicile-c-canton-de-glarus-exigences-et-demande/)
 - [Permis De Domicile C Zurich](https://frontaliereticino.ch/fr/articles-suisse/permis-de-domicile-c-zurich/)
@@ -6338,6 +6344,7 @@
 - [Page 5](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-5/)
 - [Page 6](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-6/)
 - [Page 7](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-7/)
+- [Page 8](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-8/)
 - [Energie Et Carburants](https://frontaliereticino.ch/fr/articles-suisse/sujets/energie-et-carburants/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/energie-et-carburants/page-2/)
 - [Famille Et Ecole](https://frontaliereticino.ch/fr/articles-suisse/sujets/famille-et-ecole/)
@@ -6347,6 +6354,7 @@
 - [Page 5](https://frontaliereticino.ch/fr/articles-suisse/sujets/famille-et-ecole/page-5/)
 - [Page 6](https://frontaliereticino.ch/fr/articles-suisse/sujets/famille-et-ecole/page-6/)
 - [Page 7](https://frontaliereticino.ch/fr/articles-suisse/sujets/famille-et-ecole/page-7/)
+- [Page 8](https://frontaliereticino.ch/fr/articles-suisse/sujets/famille-et-ecole/page-8/)
 - [Franc Et Prix](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-3/)
