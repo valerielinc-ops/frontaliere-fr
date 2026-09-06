@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6858 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6865 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3926 pages)
+### Blog Articles (3928 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1959,6 +1959,7 @@
 - [Examen CompléMentaire Passarelle](https://frontaliereticino.ch/fr/articles-frontalier/examen-complémentaire-passarelle/)
 - [Exces De Zones Constructibles Leventina 2026](https://frontaliereticino.ch/fr/articles-frontalier/exces-de-zones-constructibles-leventina-2026/)
 - [Excursion Coeur Soncino Point Saronno](https://frontaliereticino.ch/fr/articles-frontalier/excursion-coeur-soncino-point-saronno/)
+- [Exercice Sauvetage Tunnel Monte Ceneri](https://frontaliereticino.ch/fr/articles-frontalier/exercice-sauvetage-tunnel-monte-ceneri/)
 - [Expansion San Gottardo Parc Eolien](https://frontaliereticino.ch/fr/articles-frontalier/expansion-san-gottardo-parc-eolien/)
 - [Expat Tessin Empeche Arnaque Pirate](https://frontaliereticino.ch/fr/articles-frontalier/expat-tessin-empeche-arnaque-pirate/)
 - [Exploitation Livreurs Ticino 2026](https://frontaliereticino.ch/fr/articles-frontalier/exploitation-livreurs-ticino-2026/)
@@ -3791,6 +3792,7 @@
 - [Page 21](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-21/)
 - [Page 22](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-22/)
 - [Page 23](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-23/)
+- [Page 24](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-24/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-4/)
 - [Page 5](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-5/)
@@ -4691,7 +4693,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2220 pages)
+### Other Pages (2225 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -4726,6 +4728,7 @@
 - [Achat Maison Canton Glaris](https://frontaliereticino.ch/fr/articles-suisse/achat-maison-canton-glaris/)
 - [Achat Maison Svitto Hypotheque Fonds Propres](https://frontaliereticino.ch/fr/articles-suisse/achat-maison-svitto-hypotheque-fonds-propres/)
 - [Achat Maison Zurich Hypotheque](https://frontaliereticino.ch/fr/articles-suisse/achat-maison-zurich-hypotheque/)
+- [Achat Maison Zurich Prix Hypotheque](https://frontaliereticino.ch/fr/articles-suisse/achat-maison-zurich-prix-hypotheque/)
 - [Acheter Maison Appenzell Externes Hypotheques Taxes](https://frontaliereticino.ch/fr/articles-suisse/acheter-maison-appenzell-externes-hypotheques-taxes/)
 - [Acheter Maison Appenzell Rhodes Interieures](https://frontaliereticino.ch/fr/articles-suisse/acheter-maison-appenzell-rhodes-interieures/)
 - [Acheter Maison Appenzell Rhodes Interieures Prix Hypotheque](https://frontaliereticino.ch/fr/articles-suisse/acheter-maison-appenzell-rhodes-interieures-prix-hypotheque/)
@@ -4973,6 +4976,7 @@
 - [Bcg Resultat Semestriel Record](https://frontaliereticino.ch/fr/articles-suisse/bcg-resultat-semestriel-record/)
 - [Bell Bellinzona Aziendale 2026 Fr](https://frontaliereticino.ch/fr/articles-suisse/bell-bellinzona-aziendale-2026-fr/)
 - [Beloved Aide Victimes Crans Montana](https://frontaliereticino.ch/fr/articles-suisse/beloved-aide-victimes-crans-montana/)
+- [Beloved Soixante Dix Demandes](https://frontaliereticino.ch/fr/articles-suisse/beloved-soixante-dix-demandes/)
 - [Benzina Prix Ont Increases Lugano](https://frontaliereticino.ch/fr/articles-suisse/benzina-prix-ont-increases-lugano/)
 - [Bern Ne Veut Pas Creer De Tensions Avec Litalie](https://frontaliereticino.ch/fr/articles-suisse/bern-ne-veut-pas-creer-de-tensions-avec-litalie/)
 - [Berne Demande Permis Sejour B](https://frontaliereticino.ch/fr/articles-suisse/berne-demande-permis-sejour-b/)
@@ -5582,6 +5586,7 @@
 - [Hopital Grisons Extension 500m](https://frontaliereticino.ch/fr/articles-suisse/hopital-grisons-extension-500m/)
 - [Hopitaux Suisses Pulizia Mieux](https://frontaliereticino.ch/fr/articles-suisse/hopitaux-suisses-pulizia-mieux/)
 - [Hotel Flaz Pontresina 2028](https://frontaliereticino.ch/fr/articles-suisse/hotel-flaz-pontresina-2028/)
+- [Hotel Lenzerheide Hacker Avertissement](https://frontaliereticino.ch/fr/articles-suisse/hotel-lenzerheide-hacker-avertissement/)
 - [Hotel Suisse Pirate](https://frontaliereticino.ch/fr/articles-suisse/hotel-suisse-pirate/)
 - [Hoval Tessin Opportunites Emploi](https://frontaliereticino.ch/fr/articles-suisse/hoval-tessin-opportunites-emploi/)
 - [Hyper Amortissement Transition 5 0 Confirmation](https://frontaliereticino.ch/fr/articles-suisse/hyper-amortissement-transition-5-0-confirmation/)
@@ -5734,6 +5739,7 @@
 - [Location Bale Campagne Loyer Droit Bail](https://frontaliereticino.ch/fr/articles-suisse/location-bale-campagne-loyer-droit-bail/)
 - [Location Fribourg Guide Locataires](https://frontaliereticino.ch/fr/articles-suisse/location-fribourg-guide-locataires/)
 - [Location Glarus 2026](https://frontaliereticino.ch/fr/articles-suisse/location-glarus-2026/)
+- [Location Schaffhouse Depot Litige](https://frontaliereticino.ch/fr/articles-suisse/location-schaffhouse-depot-litige/)
 - [Location Sociale De Voitures Pour Frontaliers 2026](https://frontaliereticino.ch/fr/articles-suisse/location-sociale-de-voitures-pour-frontaliers-2026/)
 - [Location Suisse Marche 2026 Canton San Gallo](https://frontaliereticino.ch/fr/articles-suisse/location-suisse-marche-2026-canton-san-gallo/)
 - [Location Uri Droit Locataire Depot Garantie](https://frontaliereticino.ch/fr/articles-suisse/location-uri-droit-locataire-depot-garantie/)
@@ -6191,6 +6197,7 @@
 - [Reduction Loyer Taux Hypothecaires](https://frontaliereticino.ch/fr/articles-suisse/reduction-loyer-taux-hypothecaires/)
 - [Reduire Trafic Transports Publics](https://frontaliereticino.ch/fr/articles-suisse/reduire-trafic-transports-publics/)
 - [Referendum Salaire Minimum Suisse](https://frontaliereticino.ch/fr/articles-suisse/referendum-salaire-minimum-suisse/)
+- [Reflexion Neutralite Suisse Delbiaggio](https://frontaliereticino.ch/fr/articles-suisse/reflexion-neutralite-suisse-delbiaggio/)
 - [Regime Furfettari Italien Vertraeglichkeit Revenu Suisse](https://frontaliereticino.ch/fr/articles-suisse/regime-furfettari-italien-vertraeglichkeit-revenu-suisse/)
 - [Region De Lombardie Fiduciaire](https://frontaliereticino.ch/fr/articles-suisse/region-de-lombardie-fiduciaire/)
 - [Rejet Guichet Chomeurs Coldrerio](https://frontaliereticino.ch/fr/articles-suisse/rejet-guichet-chomeurs-coldrerio/)
@@ -6274,6 +6281,8 @@
 - [Sante Sexuelle Tesin](https://frontaliereticino.ch/fr/articles-suisse/sante-sexuelle-tesin/)
 - [Schaffhouse Impot Succession Donation Taux](https://frontaliereticino.ch/fr/articles-suisse/schaffhouse-impot-succession-donation-taux/)
 - [Schaffhouse Locations Droits Locataires](https://frontaliereticino.ch/fr/articles-suisse/schaffhouse-locations-droits-locataires/)
+- [Schaffhouse Loyer Locaction Guide](https://frontaliereticino.ch/fr/articles-suisse/schaffhouse-loyer-locaction-guide/)
+- [Schaffhouse Loyers Depot Garantie](https://frontaliereticino.ch/fr/articles-suisse/schaffhouse-loyers-depot-garantie/)
 - [Schaffhouse Marche Locatif](https://frontaliereticino.ch/fr/articles-suisse/schaffhouse-marche-locatif/)
 - [Schaffhouse Permis De Sejour Categorie B](https://frontaliereticino.ch/fr/articles-suisse/schaffhouse-permis-de-sejour-categorie-b/)
 - [Schaffhouse Transports Publics Abonnements Zones](https://frontaliereticino.ch/fr/articles-suisse/schaffhouse-transports-publics-abonnements-zones/)
@@ -6407,7 +6416,6 @@
 - [Page 5](https://frontaliereticino.ch/fr/articles-suisse/sujets/famille-et-ecole/page-5/)
 - [Page 6](https://frontaliereticino.ch/fr/articles-suisse/sujets/famille-et-ecole/page-6/)
 - [Page 7](https://frontaliereticino.ch/fr/articles-suisse/sujets/famille-et-ecole/page-7/)
-- [Page 8](https://frontaliereticino.ch/fr/articles-suisse/sujets/famille-et-ecole/page-8/)
 - [Franc Et Prix](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-3/)
@@ -6452,7 +6460,6 @@
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/sante-assurance-maladie/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-suisse/sujets/sante-assurance-maladie/page-4/)
 - [Page 5](https://frontaliereticino.ch/fr/articles-suisse/sujets/sante-assurance-maladie/page-5/)
-- [Page 6](https://frontaliereticino.ch/fr/articles-suisse/sujets/sante-assurance-maladie/page-6/)
 - [Securite Et Faits Divers](https://frontaliereticino.ch/fr/articles-suisse/sujets/securite-et-faits-divers/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/securite-et-faits-divers/page-2/)
 - [Transports Et Trafic](https://frontaliereticino.ch/fr/articles-suisse/sujets/transports-et-trafic/)
