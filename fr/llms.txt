@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6853 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6858 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3925 pages)
+### Blog Articles (3926 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -2285,6 +2285,7 @@
 - [Garde Medicale Somma Lombardo Lonate Pozzolo](https://frontaliereticino.ch/fr/articles-frontalier/garde-medicale-somma-lombardo-lonate-pozzolo/)
 - [Garde Suisse Serment Vatican 2026](https://frontaliereticino.ch/fr/articles-frontalier/garde-suisse-serment-vatican-2026/)
 - [Gardes Suisses 2025 Intense](https://frontaliereticino.ch/fr/articles-frontalier/gardes-suisses-2025-intense/)
+- [Garzeno Tessin Travail Frontalier Guide](https://frontaliereticino.ch/fr/articles-frontalier/garzeno-tessin-travail-frontalier-guide/)
 - [Gaspi Alimentaire Jeunes Reseaux Sociaux](https://frontaliereticino.ch/fr/articles-frontalier/gaspi-alimentaire-jeunes-reseaux-sociaux/)
 - [Gastrobellinzona Andrea Giuliani](https://frontaliereticino.ch/fr/articles-frontalier/gastrobellinzona-andrea-giuliani/)
 - [Gauche Alliance Varese Pacte 2027](https://frontaliereticino.ch/fr/articles-frontalier/gauche-alliance-varese-pacte-2027/)
@@ -3790,7 +3791,6 @@
 - [Page 21](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-21/)
 - [Page 22](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-22/)
 - [Page 23](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-23/)
-- [Page 24](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-24/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-4/)
 - [Page 5](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-5/)
@@ -4404,6 +4404,7 @@
 - [Vivre A Oltrona Di San Mamette Et Travailler En Ticino En Qualite De Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-oltrona-di-san-mamette-et-travailler-en-ticino-en-qualite-de-frontalier/)
 - [Vivre A Orsenigo Le Quotidien D Un Frontalier Au Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-orsenigo-le-quotidien-d-un-frontalier-au-tessin/)
 - [Vivre A Peglione Travailler En Ticino En Tant Que Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-peglione-travailler-en-ticino-en-tant-que-frontalier/)
+- [Vivre A Pianello Del Lario Travailler Dans Le Tessin En Tant Que Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-pianello-del-lario-travailler-dans-le-tessin-en-tant-que-frontalier/)
 - [Vivre A Piuro Travailler Dans Les Grisons](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-piuro-travailler-dans-les-grisons/)
 - [Vivre A Pollein Travailler En Valais Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-pollein-travailler-en-valais-frontalier/)
 - [Vivre A Ponte Lambro Et Travailler Dans Le Tessin En Tant Que Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-ponte-lambro-et-travailler-dans-le-tessin-en-tant-que-frontalier/)
@@ -4690,7 +4691,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2216 pages)
+### Other Pages (2220 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -5573,6 +5574,7 @@
 - [Haute Sensibilite Travail Stress](https://frontaliereticino.ch/fr/articles-suisse/haute-sensibilite-travail-stress/)
 - [Hautes Quantites Dechangees Pour L Echange Suisse](https://frontaliereticino.ch/fr/articles-suisse/hautes-quantites-dechangees-pour-l-echange-suisse/)
 - [Helvetia Baloise Suppressions Emplois Suisse 2028](https://frontaliereticino.ch/fr/articles-suisse/helvetia-baloise-suppressions-emplois-suisse-2028/)
+- [Heritage Donations Valais Guide](https://frontaliereticino.ch/fr/articles-suisse/heritage-donations-valais-guide/)
 - [Histoire De La Securite Sociale Reprise](https://frontaliereticino.ch/fr/articles-suisse/histoire-de-la-securite-sociale-reprise/)
 - [Histoire Surveillance Bancaire Suisse](https://frontaliereticino.ch/fr/articles-suisse/histoire-surveillance-bancaire-suisse/)
 - [Holcim Acquiert Fermacell](https://frontaliereticino.ch/fr/articles-suisse/holcim-acquiert-fermacell/)
@@ -5622,6 +5624,7 @@
 - [Impot Succession Donations Canton Valais Taux](https://frontaliereticino.ch/fr/articles-suisse/impot-succession-donations-canton-valais-taux/)
 - [Impot Succession Et Donation Bale Ville](https://frontaliereticino.ch/fr/articles-suisse/impot-succession-et-donation-bale-ville/)
 - [Impot Succession Saint Gall Tarifs Exemptions](https://frontaliereticino.ch/fr/articles-suisse/impot-succession-saint-gall-tarifs-exemptions/)
+- [Impot Succession Valais Declaration](https://frontaliereticino.ch/fr/articles-suisse/impot-succession-valais-declaration/)
 - [Impot Succession Zurich Taux](https://frontaliereticino.ch/fr/articles-suisse/impot-succession-zurich-taux/)
 - [Impots Canton Bale Campagne Taux Deductions](https://frontaliereticino.ch/fr/articles-suisse/impots-canton-bale-campagne-taux-deductions/)
 - [Impots Canton De Basel Ville Imposition](https://frontaliereticino.ch/fr/articles-suisse/impots-canton-de-basel-ville-imposition/)
@@ -6353,6 +6356,7 @@
 - [Statistique En Matiere D Asile Juillet 2026](https://frontaliereticino.ch/fr/articles-suisse/statistique-en-matiere-d-asile-juillet-2026/)
 - [Stop Ristorni Frontiera](https://frontaliereticino.ch/fr/articles-suisse/stop-ristorni-frontiera/)
 - [Strategies Change Chf Eur 2026 Famille Enfants](https://frontaliereticino.ch/fr/articles-suisse/strategies-change-chf-eur-2026-famille-enfants/)
+- [Succession Donation Valais Guide](https://frontaliereticino.ch/fr/articles-suisse/succession-donation-valais-guide/)
 - [Succession Donation Zurich Guide](https://frontaliereticino.ch/fr/articles-suisse/succession-donation-zurich-guide/)
 - [Succession Heritage Frontalier Compte Suisse](https://frontaliereticino.ch/fr/articles-suisse/succession-heritage-frontalier-compte-suisse/)
 - [Suisse Baisse Immigration Emigration 2026](https://frontaliereticino.ch/fr/articles-suisse/suisse-baisse-immigration-emigration-2026/)
@@ -6367,6 +6371,7 @@
 - [Suisse Eu Accord Conseil Federal](https://frontaliereticino.ch/fr/articles-suisse/suisse-eu-accord-conseil-federal/)
 - [Suisse Inflation Bns Taux](https://frontaliereticino.ch/fr/articles-suisse/suisse-inflation-bns-taux/)
 - [Suisse Italie Rencontre Fiscale Rome](https://frontaliereticino.ch/fr/articles-suisse/suisse-italie-rencontre-fiscale-rome/)
+- [Suisse Monde Multipolaire](https://frontaliereticino.ch/fr/articles-suisse/suisse-monde-multipolaire/)
 - [Suisse Neutralite Oui](https://frontaliereticino.ch/fr/articles-suisse/suisse-neutralite-oui/)
 - [Suisse Neutralite Vote Septembre Amato](https://frontaliereticino.ch/fr/articles-suisse/suisse-neutralite-vote-septembre-amato/)
 - [Suisse Perd Attractivite Multinationales](https://frontaliereticino.ch/fr/articles-suisse/suisse-perd-attractivite-multinationales/)
