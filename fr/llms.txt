@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7083 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7084 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -4743,7 +4743,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2393 pages)
+### Other Pages (2394 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -6551,6 +6551,7 @@
 - [Startup Uri Registre Commerce](https://frontaliereticino.ch/fr/articles-suisse/startup-uri-registre-commerce/)
 - [Statent 2024 Emploi Suisse](https://frontaliereticino.ch/fr/articles-suisse/statent-2024-emploi-suisse/)
 - [Statistique En Matiere D Asile Juillet 2026](https://frontaliereticino.ch/fr/articles-suisse/statistique-en-matiere-d-asile-juillet-2026/)
+- [Stefan Leist Directeur Adjoint Aff 2026](https://frontaliereticino.ch/fr/articles-suisse/stefan-leist-directeur-adjoint-aff-2026/)
 - [Stop Ristorni Frontiera](https://frontaliereticino.ch/fr/articles-suisse/stop-ristorni-frontiera/)
 - [Strategies Change Chf Eur 2026 Famille Enfants](https://frontaliereticino.ch/fr/articles-suisse/strategies-change-chf-eur-2026-famille-enfants/)
 - [Succession Donation Valais Guide](https://frontaliereticino.ch/fr/articles-suisse/succession-donation-valais-guide/)
