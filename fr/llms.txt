@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7066 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7076 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3976 pages)
+### Blog Articles (3977 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -2238,6 +2238,7 @@
 - [Frontaliers Cu 2026 Teletravail 45 Jours Regles Definitives](https://frontaliereticino.ch/fr/articles-frontalier/frontaliers-cu-2026-teletravail-45-jours-regles-definitives/)
 - [Frontaliers Diminuent Ticino](https://frontaliereticino.ch/fr/articles-frontalier/frontaliers-diminuent-ticino/)
 - [Frontaliers Documents Obligatoires Debut Travail Suisse](https://frontaliereticino.ch/fr/articles-frontalier/frontaliers-documents-obligatoires-debut-travail-suisse/)
+- [Frontaliers Embauches Lugano Interrogation](https://frontaliereticino.ch/fr/articles-frontalier/frontaliers-embauches-lugano-interrogation/)
 - [Frontaliers Et Partenaires Sagl Nodes Fiscaux](https://frontaliereticino.ch/fr/articles-frontalier/frontaliers-et-partenaires-sagl-nodes-fiscaux/)
 - [Frontaliers Et Prestations](https://frontaliereticino.ch/fr/articles-frontalier/frontaliers-et-prestations/)
 - [Frontaliers Impot Calcul 2026](https://frontaliereticino.ch/fr/articles-frontalier/frontaliers-impot-calcul-2026/)
@@ -4741,7 +4742,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2378 pages)
+### Other Pages (2387 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -4829,6 +4830,7 @@
 - [Activite Zoug Inscription Cotisations Obligations](https://frontaliereticino.ch/fr/articles-suisse/activite-zoug-inscription-cotisations-obligations/)
 - [Aeroport De Zurich Juillet 2026](https://frontaliereticino.ch/fr/articles-suisse/aeroport-de-zurich-juillet-2026/)
 - [Aeroport Geneve Moteur 3 3 Milliards](https://frontaliereticino.ch/fr/articles-suisse/aeroport-geneve-moteur-3-3-milliards/)
+- [Aeroport Zurich Navettes Autonomes](https://frontaliereticino.ch/fr/articles-suisse/aeroport-zurich-navettes-autonomes/)
 - [Aeroports Suisse Augmentation Passagers](https://frontaliereticino.ch/fr/articles-suisse/aeroports-suisse-augmentation-passagers/)
 - [Affaire Udc Argovie](https://frontaliereticino.ch/fr/articles-suisse/affaire-udc-argovie/)
 - [Agefi Changement Direction Nouveaux Partenaires](https://frontaliereticino.ch/fr/articles-suisse/agefi-changement-direction-nouveaux-partenaires/)
@@ -4854,6 +4856,7 @@
 - [Allocations Familiales Canton De Glarona](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-canton-de-glarona/)
 - [Allocations Familiales Canton De Schaffhouse Montants Et Demande](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-canton-de-schaffhouse-montants-et-demande/)
 - [Allocations Familiales Canton Geneve](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-canton-geneve/)
+- [Allocations Familiales Canton Schwyz Demande](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-canton-schwyz-demande/)
 - [Allocations Familiales Canton Valais](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-canton-valais/)
 - [Allocations Familiales Canton Zugo](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-canton-zugo/)
 - [Allocations Familiales Dans Le Canton De Glaris Montants Et Demande](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-dans-le-canton-de-glaris-montants-et-demande/)
@@ -4864,6 +4867,7 @@
 - [Allocations Familiales Obvaldo](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-obvaldo/)
 - [Allocations Familiales Saint Gall Demande](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-saint-gall-demande/)
 - [Allocations Familiales Schwytz Demande](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-schwytz-demande/)
+- [Allocations Familiales Schwyz Guide](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-schwyz-guide/)
 - [Allocations Familiales Uri Montants Demande](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-uri-montants-demande/)
 - [Allocations Familiales Valais Montants](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-valais-montants/)
 - [Allocations Familiales Vaud Montants Demande](https://frontaliereticino.ch/fr/articles-suisse/allocations-familiales-vaud-montants-demande/)
@@ -5402,6 +5406,7 @@
 - [Electricite Gaz Moins Cher 2027](https://frontaliereticino.ch/fr/articles-suisse/electricite-gaz-moins-cher-2027/)
 - [Elisabeth Baume Schneider Protection Chimique](https://frontaliereticino.ch/fr/articles-suisse/elisabeth-baume-schneider-protection-chimique/)
 - [Elvis Presley Pere Biologique](https://frontaliereticino.ch/fr/articles-suisse/elvis-presley-pere-biologique/)
+- [Embargo Or Soudan Suisse 2026](https://frontaliereticino.ch/fr/articles-suisse/embargo-or-soudan-suisse-2026/)
 - [Emigration De Suisse Obligations Fiscales Apres Le Depart](https://frontaliereticino.ch/fr/articles-suisse/emigration-de-suisse-obligations-fiscales-apres-le-depart/)
 - [Emigrer Suisse Aspects Fiscaux](https://frontaliereticino.ch/fr/articles-suisse/emigrer-suisse-aspects-fiscaux/)
 - [Emission Emprunts Federaux 2026](https://frontaliereticino.ch/fr/articles-suisse/emission-emprunts-federaux-2026/)
@@ -5683,6 +5688,7 @@
 - [Guide Pratique Declaration Fiscale Suisse 2026 Canton De Lucerne](https://frontaliereticino.ch/fr/articles-suisse/guide-pratique-declaration-fiscale-suisse-2026-canton-de-lucerne/)
 - [Hausse Des Prix A La Consommation En Aout 2026](https://frontaliereticino.ch/fr/articles-suisse/hausse-des-prix-a-la-consommation-en-aout-2026/)
 - [Hausse Des Prix Du Fioul De Chauffage Due Au Conflit Usa Iran](https://frontaliereticino.ch/fr/articles-suisse/hausse-des-prix-du-fioul-de-chauffage-due-au-conflit-usa-iran/)
+- [Haut Debit Conseil Federal 2030](https://frontaliereticino.ch/fr/articles-suisse/haut-debit-conseil-federal-2030/)
 - [Haut Debit Zones Rurales Suisse](https://frontaliereticino.ch/fr/articles-suisse/haut-debit-zones-rurales-suisse/)
 - [Haute Sensibilite Travail Stress](https://frontaliereticino.ch/fr/articles-suisse/haute-sensibilite-travail-stress/)
 - [Hautes Quantites Dechangees Pour L Echange Suisse](https://frontaliereticino.ch/fr/articles-suisse/hautes-quantites-dechangees-pour-l-echange-suisse/)
@@ -6043,6 +6049,7 @@
 - [Opportunites Carriere Rsi Suisse](https://frontaliereticino.ch/fr/articles-suisse/opportunites-carriere-rsi-suisse/)
 - [Opportunites Emploi Administration Tessin](https://frontaliereticino.ch/fr/articles-suisse/opportunites-emploi-administration-tessin/)
 - [Opportunites Emploi Federale](https://frontaliereticino.ch/fr/articles-suisse/opportunites-emploi-federale/)
+- [Opportunites Emploi Seco](https://frontaliereticino.ch/fr/articles-suisse/opportunites-emploi-seco/)
 - [Options De Residence Suisse Italie 2026 Seul](https://frontaliereticino.ch/fr/articles-suisse/options-de-residence-suisse-italie-2026-seul/)
 - [Ordonnance Iran Formulaires Aout](https://frontaliereticino.ch/fr/articles-suisse/ordonnance-iran-formulaires-aout/)
 - [Ordonnances Transports Consultation Publique Videosurveillance](https://frontaliereticino.ch/fr/articles-suisse/ordonnances-transports-consultation-publique-videosurveillance/)
@@ -6387,6 +6394,7 @@
 - [Retour Suisse Chomage Guide](https://frontaliereticino.ch/fr/articles-suisse/retour-suisse-chomage-guide/)
 - [Retrait Du Deuxieme Pilier Lpp Travailleur Frontalier](https://frontaliereticino.ch/fr/articles-suisse/retrait-du-deuxieme-pilier-lpp-travailleur-frontalier/)
 - [Retraite Anticipe Frontaliers 2026](https://frontaliereticino.ch/fr/articles-suisse/retraite-anticipe-frontaliers-2026/)
+- [Retraite Aout Rendements Positifs](https://frontaliereticino.ch/fr/articles-suisse/retraite-aout-rendements-positifs/)
 - [Retraites Suisses A L Etranger](https://frontaliereticino.ch/fr/articles-suisse/retraites-suisses-a-l-etranger/)
 - [Reunion Sbt Finances Environnement](https://frontaliereticino.ch/fr/articles-suisse/reunion-sbt-finances-environnement/)
 - [Revenu Citoyennete Enquete Suisse](https://frontaliereticino.ch/fr/articles-suisse/revenu-citoyennete-enquete-suisse/)
@@ -6554,6 +6562,7 @@
 - [Suisse Ees Ralentit Controles](https://frontaliereticino.ch/fr/articles-suisse/suisse-ees-ralentit-controles/)
 - [Suisse Etats Unis Droits Forced Labor](https://frontaliereticino.ch/fr/articles-suisse/suisse-etats-unis-droits-forced-labor/)
 - [Suisse Eu Accord Conseil Federal](https://frontaliereticino.ch/fr/articles-suisse/suisse-eu-accord-conseil-federal/)
+- [Suisse Guide Ouvrir Entreprise Frais](https://frontaliereticino.ch/fr/articles-suisse/suisse-guide-ouvrir-entreprise-frais/)
 - [Suisse Inflation Bns Taux](https://frontaliereticino.ch/fr/articles-suisse/suisse-inflation-bns-taux/)
 - [Suisse Italie Rencontre Fiscale Rome](https://frontaliereticino.ch/fr/articles-suisse/suisse-italie-rencontre-fiscale-rome/)
 - [Suisse Monde Multipolaire](https://frontaliereticino.ch/fr/articles-suisse/suisse-monde-multipolaire/)
@@ -6880,6 +6889,7 @@
 - [Votes Federaux Suisse Fonctionnent](https://frontaliereticino.ch/fr/articles-suisse/votes-federaux-suisse-fonctionnent/)
 - [Votre Loyer Ne Baisse Pas Automatiquement](https://frontaliereticino.ch/fr/articles-suisse/votre-loyer-ne-baisse-pas-automatiquement/)
 - [Voyages Et Consommation Sans Compromis](https://frontaliereticino.ch/fr/articles-suisse/voyages-et-consommation-sans-compromis/)
+- [Yumo Plateforme Jeunes Finance](https://frontaliereticino.ch/fr/articles-suisse/yumo-plateforme-jeunes-finance/)
 - [Zali Et Les Pressions Pour Un Embauche](https://frontaliereticino.ch/fr/articles-suisse/zali-et-les-pressions-pour-un-embauche/)
 - [Zimmer Biomet Suisse Unia](https://frontaliereticino.ch/fr/articles-suisse/zimmer-biomet-suisse-unia/)
 - [Zimmer Biomet Suppressions Emplois](https://frontaliereticino.ch/fr/articles-suisse/zimmer-biomet-suppressions-emplois/)
