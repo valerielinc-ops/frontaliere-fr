@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7082 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7083 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -4743,7 +4743,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2392 pages)
+### Other Pages (2393 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -5467,6 +5467,7 @@
 - [Exportations Suisses Juillet 2026](https://frontaliereticino.ch/fr/articles-suisse/exportations-suisses-juillet-2026/)
 - [Exposition Mc 27 Lugano 2026](https://frontaliereticino.ch/fr/articles-suisse/exposition-mc-27-lugano-2026/)
 - [Expositions Nationales Message 2026](https://frontaliereticino.ch/fr/articles-suisse/expositions-nationales-message-2026/)
+- [F 35 Amherd Prescription Responsabilite](https://frontaliereticino.ch/fr/articles-suisse/f-35-amherd-prescription-responsabilite/)
 - [F35 Chasseurs Commission Amherd](https://frontaliereticino.ch/fr/articles-suisse/f35-chasseurs-commission-amherd/)
 - [F35a Aucun Prix Fixe Convenu](https://frontaliereticino.ch/fr/articles-suisse/f35a-aucun-prix-fixe-convenu/)
 - [Facteur Suisse Licencie Apres 42 Ans Berne N Intervient Pas](https://frontaliereticino.ch/fr/articles-suisse/facteur-suisse-licencie-apres-42-ans-berne-n-intervient-pas/)
