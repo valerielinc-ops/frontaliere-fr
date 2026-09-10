@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7084 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7085 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3978 pages)
+### Blog Articles (3979 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1218,6 +1218,7 @@
 - [Bulletin Frontalier 2026 09 06](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-frontalier-2026-09-06/)
 - [Bulletin Frontalier 2026 09 07](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-frontalier-2026-09-07/)
 - [Bulletin Frontalier 2026 09 08](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-frontalier-2026-09-08/)
+- [Bulletin Frontalier 2026 09 10](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-frontalier-2026-09-10/)
 - [Bulletin Salaire Frontalier Net 2026](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-salaire-frontalier-net-2026/)
 - [Bulletin Salaire Suisse Frontalier 20km](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-salaire-suisse-frontalier-20km/)
 - [Bureau Douanier Unique Mendrisio Sopraceneri](https://frontaliereticino.ch/fr/articles-frontalier/bureau-douanier-unique-mendrisio-sopraceneri/)
