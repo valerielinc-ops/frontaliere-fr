@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7076 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7082 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3977 pages)
+### Blog Articles (3978 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1319,6 +1319,7 @@
 - [Centovallina Retour A La Normale Pour Les Trains](https://frontaliereticino.ch/fr/articles-frontalier/centovallina-retour-a-la-normale-pour-les-trains/)
 - [Centrale Eolienne De San Gottardo Agrandissement](https://frontaliereticino.ch/fr/articles-frontalier/centrale-eolienne-de-san-gottardo-agrandissement/)
 - [Centrale Hydroelectrique Grono Active](https://frontaliereticino.ch/fr/articles-frontalier/centrale-hydroelectrique-grono-active/)
+- [Centrale Ritom Explosion Ligne Saint Gothard](https://frontaliereticino.ch/fr/articles-frontalier/centrale-ritom-explosion-ligne-saint-gothard/)
 - [Centre Cardio Lugano Renovation 2026](https://frontaliereticino.ch/fr/articles-frontalier/centre-cardio-lugano-renovation-2026/)
 - [Centre Droit Come Elections Stands](https://frontaliereticino.ch/fr/articles-frontalier/centre-droit-come-elections-stands/)
 - [Centre Me Te Cunardo Marchirolo 2026](https://frontaliereticino.ch/fr/articles-frontalier/centre-me-te-cunardo-marchirolo-2026/)
@@ -4742,7 +4743,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2387 pages)
+### Other Pages (2392 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -6297,6 +6298,7 @@
 - [Primes Assurance Maladie Fribourg 2026](https://frontaliereticino.ch/fr/articles-suisse/primes-assurance-maladie-fribourg-2026/)
 - [Primes Assurance Maladie Fribourg Subventions](https://frontaliereticino.ch/fr/articles-suisse/primes-assurance-maladie-fribourg-subventions/)
 - [Primes Assurance Maladie Grisons](https://frontaliereticino.ch/fr/articles-suisse/primes-assurance-maladie-grisons/)
+- [Primes Assurance Maladie Saint Gall Reduction](https://frontaliereticino.ch/fr/articles-suisse/primes-assurance-maladie-saint-gall-reduction/)
 - [Primes Assurance Maladie Schaffhouse](https://frontaliereticino.ch/fr/articles-suisse/primes-assurance-maladie-schaffhouse/)
 - [Primes Assurance Maladie Schwytz](https://frontaliereticino.ch/fr/articles-suisse/primes-assurance-maladie-schwytz/)
 - [Primes Assurance Maladie Schwytz Reduction](https://frontaliereticino.ch/fr/articles-suisse/primes-assurance-maladie-schwytz-reduction/)
@@ -6379,6 +6381,7 @@
 - [Renovation Logements Co2 Berne](https://frontaliereticino.ch/fr/articles-suisse/renovation-logements-co2-berne/)
 - [Rente Avs Critique Eichenberger](https://frontaliereticino.ch/fr/articles-suisse/rente-avs-critique-eichenberger/)
 - [Rentes Avs A L Etranger](https://frontaliereticino.ch/fr/articles-suisse/rentes-avs-a-l-etranger/)
+- [Reorganisation Commissions Extraparliamentaires](https://frontaliereticino.ch/fr/articles-suisse/reorganisation-commissions-extraparliamentaires/)
 - [Reorganisation Des Aides Aux Entreprises](https://frontaliereticino.ch/fr/articles-suisse/reorganisation-des-aides-aux-entreprises/)
 - [Reorganisation Vw Impact Suisse](https://frontaliereticino.ch/fr/articles-suisse/reorganisation-vw-impact-suisse/)
 - [Representant Commercial Des Etats Unis Elogie Investissements Suisse](https://frontaliereticino.ch/fr/articles-suisse/representant-commercial-des-etats-unis-elogie-investissements-suisse/)
@@ -6443,6 +6446,7 @@
 - [Salaires Marche Travail Soletta Secteurs](https://frontaliereticino.ch/fr/articles-suisse/salaires-marche-travail-soletta-secteurs/)
 - [Salaires Marche Travail Soleure Formation](https://frontaliereticino.ch/fr/articles-suisse/salaires-marche-travail-soleure-formation/)
 - [Salaires Marche Travail Suisse Secteurs](https://frontaliereticino.ch/fr/articles-suisse/salaires-marche-travail-suisse-secteurs/)
+- [Salaires Marche Travail Turgovia Secteurs Niveaux](https://frontaliereticino.ch/fr/articles-suisse/salaires-marche-travail-turgovia-secteurs-niveaux/)
 - [Salaires Moyens Zurich 2026 Comparaison](https://frontaliereticino.ch/fr/articles-suisse/salaires-moyens-zurich-2026-comparaison/)
 - [Salaires Radiologues Bonus Suisse](https://frontaliereticino.ch/fr/articles-suisse/salaires-radiologues-bonus-suisse/)
 - [Salaires Suisse Secteurs Formation Conventions](https://frontaliereticino.ch/fr/articles-suisse/salaires-suisse-secteurs-formation-conventions/)
@@ -6559,6 +6563,7 @@
 - [Suisse Chomage Frontaliers Motion Quadri](https://frontaliereticino.ch/fr/articles-suisse/suisse-chomage-frontaliers-motion-quadri/)
 - [Suisse Chomage Frontaliers Ue](https://frontaliereticino.ch/fr/articles-suisse/suisse-chomage-frontaliers-ue/)
 - [Suisse Cible Moscou Defence](https://frontaliereticino.ch/fr/articles-suisse/suisse-cible-moscou-defence/)
+- [Suisse Corruption Restitution Banques](https://frontaliereticino.ch/fr/articles-suisse/suisse-corruption-restitution-banques/)
 - [Suisse Ees Ralentit Controles](https://frontaliereticino.ch/fr/articles-suisse/suisse-ees-ralentit-controles/)
 - [Suisse Etats Unis Droits Forced Labor](https://frontaliereticino.ch/fr/articles-suisse/suisse-etats-unis-droits-forced-labor/)
 - [Suisse Eu Accord Conseil Federal](https://frontaliereticino.ch/fr/articles-suisse/suisse-eu-accord-conseil-federal/)
@@ -7113,6 +7118,7 @@
 - [Transports](https://frontaliereticino.ch/fr/transports/)
 - [Travail A Lugano](https://frontaliereticino.ch/fr/travail-a-lugano/)
 - [Travail Frontalier](https://frontaliereticino.ch/fr/travail-frontalier/)
+- [Travail Tessin Architecte](https://frontaliereticino.ch/fr/travail-tessin-architecte/)
 - [Travail Tessin Assistant Soins](https://frontaliereticino.ch/fr/travail-tessin-assistant-soins/)
 - [Travail Tessin Boucher](https://frontaliereticino.ch/fr/travail-tessin-boucher/)
 - [Travail Tessin Chauffeur](https://frontaliereticino.ch/fr/travail-tessin-chauffeur/)
