@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7097 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7098 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3983 pages)
+### Blog Articles (3984 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -2934,6 +2934,7 @@
 - [Modifications Connexions Tilo S50 Varese Gallarate Malpen 2026](https://frontaliereticino.ch/fr/articles-frontalier/modifications-connexions-tilo-s50-varese-gallarate-malpen-2026/)
 - [Modifications Horaire Train Tilo](https://frontaliereticino.ch/fr/articles-frontalier/modifications-horaire-train-tilo/)
 - [Modifications Reglement Incendie Tessin 2026](https://frontaliereticino.ch/fr/articles-frontalier/modifications-reglement-incendie-tessin-2026/)
+- [Modifications Tilo Bus A La Place Du S10 Chiasso Melide](https://frontaliereticino.ch/fr/articles-frontalier/modifications-tilo-bus-a-la-place-du-s10-chiasso-melide/)
 - [Modifications Tilo S50 Varese Malpensa](https://frontaliereticino.ch/fr/articles-frontalier/modifications-tilo-s50-varese-malpensa/)
 - [Modifications Trafic Tilo Gallarate Juillet](https://frontaliereticino.ch/fr/articles-frontalier/modifications-trafic-tilo-gallarate-juillet/)
 - [Moinsfrontalierestessinocalolievelie](https://frontaliereticino.ch/fr/articles-frontalier/moinsfrontalierestessinocalolievelie/)
