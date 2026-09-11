@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7086 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7095 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3980 pages)
+### Blog Articles (3982 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -2078,6 +2078,7 @@
 - [Financement Statut S Pension Avs](https://frontaliereticino.ch/fr/articles-frontalier/financement-statut-s-pension-avs/)
 - [Finances 2025 Tessin Fragile](https://frontaliereticino.ch/fr/articles-frontalier/finances-2025-tessin-fragile/)
 - [Finances Publiques Tessin 2026 Inquietudes](https://frontaliereticino.ch/fr/articles-frontalier/finances-publiques-tessin-2026-inquietudes/)
+- [Fino Mornasco Frontalier Tessin](https://frontaliereticino.ch/fr/articles-frontalier/fino-mornasco-frontalier-tessin/)
 - [Fiorenzo Dado Le Sue Tre P E Gli Statali Nella Morsa Politica](https://frontaliereticino.ch/fr/articles-frontalier/fiorenzo-dado-le-sue-tre-p-e-gli-statali-nella-morsa-politica/)
 - [Fiscalite Individuelle Travail Femmes](https://frontaliereticino.ch/fr/articles-frontalier/fiscalite-individuelle-travail-femmes/)
 - [Fitness Ticino Record 2026](https://frontaliereticino.ch/fr/articles-frontalier/fitness-ticino-record-2026/)
@@ -3826,7 +3827,6 @@
 - [Page 21](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-21/)
 - [Page 22](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-22/)
 - [Page 23](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-23/)
-- [Page 24](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-24/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-4/)
 - [Page 5](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-5/)
@@ -3880,6 +3880,7 @@
 - [Page 8](https://frontaliereticino.ch/fr/articles-frontalier/sujets/securite-et-faits-divers/page-8/)
 - [Page 9](https://frontaliereticino.ch/fr/articles-frontalier/sujets/securite-et-faits-divers/page-9/)
 - [Transports Et Trafic](https://frontaliereticino.ch/fr/articles-frontalier/sujets/transports-et-trafic/)
+- [Page 10](https://frontaliereticino.ch/fr/articles-frontalier/sujets/transports-et-trafic/page-10/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-frontalier/sujets/transports-et-trafic/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/transports-et-trafic/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/transports-et-trafic/page-4/)
@@ -4226,6 +4227,7 @@
 - [Treizieme Avs Solution Mixte Etats](https://frontaliereticino.ch/fr/articles-frontalier/treizieme-avs-solution-mixte-etats/)
 - [Treizieme Rente Avs Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/treizieme-rente-avs-frontaliers/)
 - [Tremblement De Terre Saint Gall 2026](https://frontaliereticino.ch/fr/articles-frontalier/tremblement-de-terre-saint-gall-2026/)
+- [Trenord Como Milan Trains Supplementaires 2025](https://frontaliereticino.ch/fr/articles-frontalier/trenord-como-milan-trains-supplementaires-2025/)
 - [Trenord Hausse 388 Lignes Tessin](https://frontaliereticino.ch/fr/articles-frontalier/trenord-hausse-388-lignes-tessin/)
 - [Trenord Indemnisation Navetteurs Como 2026](https://frontaliereticino.ch/fr/articles-frontalier/trenord-indemnisation-navetteurs-como-2026/)
 - [Trenord Pannes 2026](https://frontaliereticino.ch/fr/articles-frontalier/trenord-pannes-2026/)
@@ -4745,7 +4747,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2394 pages)
+### Other Pages (2401 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -5212,6 +5214,7 @@
 - [Comment Trouver Apprentissage Grisons](https://frontaliereticino.ch/fr/articles-suisse/comment-trouver-apprentissage-grisons/)
 - [Commission Cst Couverture Banques Suisses](https://frontaliereticino.ch/fr/articles-suisse/commission-cst-couverture-banques-suisses/)
 - [Commission Lpp Taux Minimum 2027](https://frontaliereticino.ch/fr/articles-suisse/commission-lpp-taux-minimum-2027/)
+- [Commission Ue Approuve Accords Suisse](https://frontaliereticino.ch/fr/articles-suisse/commission-ue-approuve-accords-suisse/)
 - [Commissione Propone 500 Milioni Munizioni](https://frontaliereticino.ch/fr/articles-suisse/commissione-propone-500-milioni-munizioni/)
 - [Commissions Twint Petits Commercants](https://frontaliereticino.ch/fr/articles-suisse/commissions-twint-petits-commercants/)
 - [Comparaison De L Impot Cantonal En Suisse](https://frontaliereticino.ch/fr/articles-suisse/comparaison-de-l-impot-cantonal-en-suisse/)
@@ -5761,6 +5764,7 @@
 - [Impots Cantonaux Argovie Taux Deductions](https://frontaliereticino.ch/fr/articles-suisse/impots-cantonaux-argovie-taux-deductions/)
 - [Impots Cantonaux Bernais Impots Surtaxes Berechnung](https://frontaliereticino.ch/fr/articles-suisse/impots-cantonaux-bernais-impots-surtaxes-berechnung/)
 - [Impots Cantonaux Canton Lucerne Baremes](https://frontaliereticino.ch/fr/articles-suisse/impots-cantonaux-canton-lucerne-baremes/)
+- [Impots Cantonaux Jura Taux Deductions](https://frontaliereticino.ch/fr/articles-suisse/impots-cantonaux-jura-taux-deductions/)
 - [Impots Cantonaux Obvaldo Taux Deductions](https://frontaliereticino.ch/fr/articles-suisse/impots-cantonaux-obvaldo-taux-deductions/)
 - [Impots Cantonaux Saint Gall Taux Deductions](https://frontaliereticino.ch/fr/articles-suisse/impots-cantonaux-saint-gall-taux-deductions/)
 - [Impots Cantonaux Suisse Taux Deductions](https://frontaliereticino.ch/fr/articles-suisse/impots-cantonaux-suisse-taux-deductions/)
@@ -5813,6 +5817,7 @@
 - [Intervention Police Goldach Ecole](https://frontaliereticino.ch/fr/articles-suisse/intervention-police-goldach-ecole/)
 - [Investissement Immobilier Berne Suisse](https://frontaliereticino.ch/fr/articles-suisse/investissement-immobilier-berne-suisse/)
 - [Investissement Immobilier Frontalier Suisse](https://frontaliereticino.ch/fr/articles-suisse/investissement-immobilier-frontalier-suisse/)
+- [Investissement Suisse Usa Lonza](https://frontaliereticino.ch/fr/articles-suisse/investissement-suisse-usa-lonza/)
 - [Investissements Defense Aerienne Suisse](https://frontaliereticino.ch/fr/articles-suisse/investissements-defense-aerienne-suisse/)
 - [Investissements Electricite Suisse](https://frontaliereticino.ch/fr/articles-suisse/investissements-electricite-suisse/)
 - [Investissements Startup Suisse Reduction](https://frontaliereticino.ch/fr/articles-suisse/investissements-startup-suisse-reduction/)
@@ -6131,6 +6136,7 @@
 - [Permesso L Lucerne Validite Et Prorogation](https://frontaliereticino.ch/fr/articles-suisse/permesso-l-lucerne-validite-et-prorogation/)
 - [Permesso L Objectif Obwalden](https://frontaliereticino.ch/fr/articles-suisse/permesso-l-objectif-obwalden/)
 - [Permis B Berne Conditions Renouvellement](https://frontaliereticino.ch/fr/articles-suisse/permis-b-berne-conditions-renouvellement/)
+- [Permis B Jura Exigences Renouvellement](https://frontaliereticino.ch/fr/articles-suisse/permis-b-jura-exigences-renouvellement/)
 - [Permis B Nidwald Procedure Renouvellement](https://frontaliereticino.ch/fr/articles-suisse/permis-b-nidwald-procedure-renouvellement/)
 - [Permis B Zoug Guide Pratique](https://frontaliereticino.ch/fr/articles-suisse/permis-b-zoug-guide-pratique/)
 - [Permis C Canton Geneve Conditions](https://frontaliereticino.ch/fr/articles-suisse/permis-c-canton-geneve-conditions/)
@@ -6183,6 +6189,7 @@
 - [Permis De Sejour C Uri Exigences Et Demande](https://frontaliereticino.ch/fr/articles-suisse/permis-de-sejour-c-uri-exigences-et-demande/)
 - [Permis De Sejour L Lucerne Apres Un An](https://frontaliereticino.ch/fr/articles-suisse/permis-de-sejour-l-lucerne-apres-un-an/)
 - [Permis De Sejour Suisse](https://frontaliereticino.ch/fr/articles-suisse/permis-de-sejour-suisse/)
+- [Permis Dimora B Jura](https://frontaliereticino.ch/fr/articles-suisse/permis-dimora-b-jura/)
 - [Permis Domicile C Appenzell Rhodes Exte Conditions Demande](https://frontaliereticino.ch/fr/articles-suisse/permis-domicile-c-appenzell-rhodes-exte-conditions-demande/)
 - [Permis Domicile C Appenzell Rhodes Intrieures Demande](https://frontaliereticino.ch/fr/articles-suisse/permis-domicile-c-appenzell-rhodes-intrieures-demande/)
 - [Permis Domicile C Canton Saint Gall Exigences](https://frontaliereticino.ch/fr/articles-suisse/permis-domicile-c-canton-saint-gall-exigences/)
@@ -6298,6 +6305,7 @@
 - [Primes Assurance Maladie Canton Argovie Reduction](https://frontaliereticino.ch/fr/articles-suisse/primes-assurance-maladie-canton-argovie-reduction/)
 - [Primes Assurance Maladie Canton Berne Subventions](https://frontaliereticino.ch/fr/articles-suisse/primes-assurance-maladie-canton-berne-subventions/)
 - [Primes Assurance Maladie Canton De Bourbourg](https://frontaliereticino.ch/fr/articles-suisse/primes-assurance-maladie-canton-de-bourbourg/)
+- [Primes Assurance Maladie Canton Jura Reductions](https://frontaliereticino.ch/fr/articles-suisse/primes-assurance-maladie-canton-jura-reductions/)
 - [Primes Assurance Maladie Fribourg 2026](https://frontaliereticino.ch/fr/articles-suisse/primes-assurance-maladie-fribourg-2026/)
 - [Primes Assurance Maladie Fribourg Subventions](https://frontaliereticino.ch/fr/articles-suisse/primes-assurance-maladie-fribourg-subventions/)
 - [Primes Assurance Maladie Grisons](https://frontaliereticino.ch/fr/articles-suisse/primes-assurance-maladie-grisons/)
@@ -6602,6 +6610,7 @@
 - [Page 6](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-6/)
 - [Page 7](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-7/)
 - [Page 8](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-8/)
+- [Page 9](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-9/)
 - [Energie Et Carburants](https://frontaliereticino.ch/fr/articles-suisse/sujets/energie-et-carburants/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/energie-et-carburants/page-2/)
 - [Famille Et Ecole](https://frontaliereticino.ch/fr/articles-suisse/sujets/famille-et-ecole/)
