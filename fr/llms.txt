@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7098 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7100 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3984 pages)
+### Blog Articles (3985 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1050,6 +1050,7 @@
 - [Avs 13e Parlement Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/avs-13e-parlement-frontaliers/)
 - [Avs 13e Pension Conciliation Tva](https://frontaliereticino.ch/fr/articles-frontalier/avs-13e-pension-conciliation-tva/)
 - [Avs 2030 Frontaliers Tessin](https://frontaliereticino.ch/fr/articles-frontalier/avs-2030-frontaliers-tessin/)
+- [Avs 2030 Reforme Pension](https://frontaliereticino.ch/fr/articles-frontalier/avs-2030-reforme-pension/)
 - [Avs Age Retraite Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/avs-age-retraite-frontaliers/)
 - [Avs Ai Difficultes Financieres](https://frontaliereticino.ch/fr/articles-frontalier/avs-ai-difficultes-financieres/)
 - [Avs Ai Perspectives Financieres Se Detiorent](https://frontaliereticino.ch/fr/articles-frontalier/avs-ai-perspectives-financieres-se-detiorent/)
@@ -4749,7 +4750,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2402 pages)
+### Other Pages (2403 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -4951,6 +4952,7 @@
 - [Armee Suisse Rapport Mesures Violence](https://frontaliereticino.ch/fr/articles-suisse/armee-suisse-rapport-mesures-violence/)
 - [Asb Banques Suisses Croissance 2026](https://frontaliereticino.ch/fr/articles-suisse/asb-banques-suisses-croissance-2026/)
 - [Ascenseurs Steinach Travail Suisse](https://frontaliereticino.ch/fr/articles-suisse/ascenseurs-steinach-travail-suisse/)
+- [Asib Demandes Salaires Banques](https://frontaliereticino.ch/fr/articles-suisse/asib-demandes-salaires-banques/)
 - [Asib Reglementation Ubs Soutien](https://frontaliereticino.ch/fr/articles-suisse/asib-reglementation-ubs-soutien/)
 - [Asile Crimes Prisons Maghreb](https://frontaliereticino.ch/fr/articles-suisse/asile-crimes-prisons-maghreb/)
 - [Asile Maghreb Crimes 80 Pour Cent](https://frontaliereticino.ch/fr/articles-suisse/asile-maghreb-crimes-80-pour-cent/)
