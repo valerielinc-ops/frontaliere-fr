@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7118 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7121 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (3993 pages)
+### Blog Articles (3995 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1221,6 +1221,7 @@
 - [Bulletin Frontalier 2026 09 08](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-frontalier-2026-09-08/)
 - [Bulletin Frontalier 2026 09 10](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-frontalier-2026-09-10/)
 - [Bulletin Frontalier 2026 09 11](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-frontalier-2026-09-11/)
+- [Bulletin Frontalier 2026 09 12](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-frontalier-2026-09-12/)
 - [Bulletin Salaire Frontalier Net 2026](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-salaire-frontalier-net-2026/)
 - [Bulletin Salaire Suisse Frontalier 20km](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-salaire-suisse-frontalier-20km/)
 - [Bureau Douanier Unique Mendrisio Sopraceneri](https://frontaliereticino.ch/fr/articles-frontalier/bureau-douanier-unique-mendrisio-sopraceneri/)
@@ -1957,6 +1958,7 @@
 - [Esprit Varesini Valico Pizzelle Taxe](https://frontaliereticino.ch/fr/articles-frontalier/esprit-varesini-valico-pizzelle-taxe/)
 - [Essence 19 Euro 5 Mai 2026](https://frontaliereticino.ch/fr/articles-frontalier/essence-19-euro-5-mai-2026/)
 - [Essence Avantageuse Tessin](https://frontaliereticino.ch/fr/articles-frontalier/essence-avantageuse-tessin/)
+- [Essence Reserves Suisse Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/essence-reserves-suisse-frontaliers/)
 - [Essence Ticino Rabaissement](https://frontaliereticino.ch/fr/articles-frontalier/essence-ticino-rabaissement/)
 - [Estival Jazz Lugano Change Formule 2026](https://frontaliereticino.ch/fr/articles-frontalier/estival-jazz-lugano-change-formule-2026/)
 - [Estival Jazz Lugano Paiement 2024](https://frontaliereticino.ch/fr/articles-frontalier/estival-jazz-lugano-paiement-2024/)
@@ -4758,7 +4760,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2413 pages)
+### Other Pages (2414 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -6009,6 +6011,7 @@
 - [Naturalisation Canton De Berne Requisits Procedure](https://frontaliereticino.ch/fr/articles-suisse/naturalisation-canton-de-berne-requisits-procedure/)
 - [Naturalisation Canton De Soletta Requis Et Procedure](https://frontaliereticino.ch/fr/articles-suisse/naturalisation-canton-de-soletta-requis-et-procedure/)
 - [Naturalisation Canton Obwald Guide](https://frontaliereticino.ch/fr/articles-suisse/naturalisation-canton-obwald-guide/)
+- [Naturalisation Canton Saint Gallie Procedure](https://frontaliereticino.ch/fr/articles-suisse/naturalisation-canton-saint-gallie-procedure/)
 - [Naturalisation Canton Schaffhouse Requis Exigences Procedure](https://frontaliereticino.ch/fr/articles-suisse/naturalisation-canton-schaffhouse-requis-exigences-procedure/)
 - [Naturalisation Canton Suisse Requisits Et Procedure](https://frontaliereticino.ch/fr/articles-suisse/naturalisation-canton-suisse-requisits-et-procedure/)
 - [Naturalisation Canton Uri Exigences Et Procedure](https://frontaliereticino.ch/fr/articles-suisse/naturalisation-canton-uri-exigences-et-procedure/)
@@ -7006,6 +7009,7 @@
 - [Ristorazione](https://frontaliereticino.ch/fr/marche-travail-tessin/secteur/ristorazione/)
 - [Sanita](https://frontaliereticino.ch/fr/marche-travail-tessin/secteur/sanita/)
 - [Vendite](https://frontaliereticino.ch/fr/marche-travail-tessin/secteur/vendite/)
+- [Semaine 25 2026](https://frontaliereticino.ch/fr/marche-travail-tessin/semaine-25-2026/)
 - [Semaine 26 2026](https://frontaliereticino.ch/fr/marche-travail-tessin/semaine-26-2026/)
 - [Semaine 27 2026](https://frontaliereticino.ch/fr/marche-travail-tessin/semaine-27-2026/)
 - [Semaine 28 2026](https://frontaliereticino.ch/fr/marche-travail-tessin/semaine-28-2026/)
@@ -7017,7 +7021,6 @@
 - [Semaine 34 2026](https://frontaliereticino.ch/fr/marche-travail-tessin/semaine-34-2026/)
 - [Semaine 35 2026](https://frontaliereticino.ch/fr/marche-travail-tessin/semaine-35-2026/)
 - [Semaine 36 2026](https://frontaliereticino.ch/fr/marche-travail-tessin/semaine-36-2026/)
-- [Semaine 37 2026](https://frontaliereticino.ch/fr/marche-travail-tessin/semaine-37-2026/)
 - [Methodologie](https://frontaliereticino.ch/fr/methodologie/)
 - [Nouvelle Loi Frontaliers 2026](https://frontaliereticino.ch/fr/nouvelle-loi-frontaliers-2026/)
 - [Outil De La Semaine](https://frontaliereticino.ch/fr/outil-de-la-semaine/)
