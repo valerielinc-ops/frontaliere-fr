@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7137 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7147 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (4002 pages)
+### Blog Articles (4007 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -2499,6 +2499,7 @@
 - [Inarzo Festa Oasi Palude Brabbia 2026](https://frontaliereticino.ch/fr/articles-frontalier/inarzo-festa-oasi-palude-brabbia-2026/)
 - [Inarzo Travail Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/inarzo-travail-tessin-frontalier/)
 - [Inauguration Ail Arena Lugano Jours Portes Ouvertes 30 31 Mai](https://frontaliereticino.ch/fr/articles-frontalier/inauguration-ail-arena-lugano-jours-portes-ouvertes-30-31-mai/)
+- [Inauguration Campus Smart Valley Daverio](https://frontaliereticino.ch/fr/articles-frontalier/inauguration-campus-smart-valley-daverio/)
 - [Inauguration Campus Smartt Valley](https://frontaliereticino.ch/fr/articles-frontalier/inauguration-campus-smartt-valley/)
 - [Inauguration Du Parchetto Biumo Via Arconati](https://frontaliereticino.ch/fr/articles-frontalier/inauguration-du-parchetto-biumo-via-arconati/)
 - [Inauguration Parc Biumo 2026](https://frontaliereticino.ch/fr/articles-frontalier/inauguration-parc-biumo-2026/)
@@ -3576,6 +3577,7 @@
 - [Saronno Bar Permis Suspendu Apres Une Bagarre](https://frontaliereticino.ch/fr/articles-frontalier/saronno-bar-permis-suspendu-apres-une-bagarre/)
 - [Saronno Supermarche Evacue](https://frontaliereticino.ch/fr/articles-frontalier/saronno-supermarche-evacue/)
 - [Satisfaction Des Employes Cantonaux 2026](https://frontaliereticino.ch/fr/articles-frontalier/satisfaction-des-employes-cantonaux-2026/)
+- [Savoie Candidat Avec Avanti Ticino E Lavoro](https://frontaliereticino.ch/fr/articles-frontalier/savoie-candidat-avec-avanti-ticino-e-lavoro/)
 - [Sbb Controleurs Bonus Amendes Tessin 2026](https://frontaliereticino.ch/fr/articles-frontalier/sbb-controleurs-bonus-amendes-tessin-2026/)
 - [Scende Limite Nevicate Ticino](https://frontaliereticino.ch/fr/articles-frontalier/scende-limite-nevicate-ticino/)
 - [Schilpario Frontalier Grisons Guide](https://frontaliereticino.ch/fr/articles-frontalier/schilpario-frontalier-grisons-guide/)
@@ -3696,6 +3698,7 @@
 - [Spring Pride Saronno 2026](https://frontaliereticino.ch/fr/articles-frontalier/spring-pride-saronno-2026/)
 - [Ssn Accessible Travailleurs Frontaliers Tessin 2026](https://frontaliereticino.ch/fr/articles-frontalier/ssn-accessible-travailleurs-frontaliers-tessin-2026/)
 - [St Moritz Logements Abordables 2026](https://frontaliereticino.ch/fr/articles-frontalier/st-moritz-logements-abordables-2026/)
+- [Stadler Rail Investissements Kazakhstan](https://frontaliereticino.ch/fr/articles-frontalier/stadler-rail-investissements-kazakhstan/)
 - [Stage Toxique Architectes Tessin Enquete](https://frontaliereticino.ch/fr/articles-frontalier/stage-toxique-architectes-tessin-enquete/)
 - [Stagflation Entreprises Varese 2026](https://frontaliereticino.ch/fr/articles-frontalier/stagflation-entreprises-varese-2026/)
 - [Stalking Loi 2026 Tessin](https://frontaliereticino.ch/fr/articles-frontalier/stalking-loi-2026-tessin/)
@@ -3784,7 +3787,6 @@
 - [Sujets](https://frontaliereticino.ch/fr/articles-frontalier/sujets/)
 - [Accords Et Politique](https://frontaliereticino.ch/fr/articles-frontalier/sujets/accords-et-politique/)
 - [Page 10](https://frontaliereticino.ch/fr/articles-frontalier/sujets/accords-et-politique/page-10/)
-- [Page 11](https://frontaliereticino.ch/fr/articles-frontalier/sujets/accords-et-politique/page-11/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-frontalier/sujets/accords-et-politique/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/accords-et-politique/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/accords-et-politique/page-4/)
@@ -3843,6 +3845,7 @@
 - [Page 21](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-21/)
 - [Page 22](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-22/)
 - [Page 23](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-23/)
+- [Page 24](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-24/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-4/)
 - [Page 5](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-5/)
@@ -3866,6 +3869,7 @@
 - [Salaires](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/)
 - [Page 10](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/page-10/)
 - [Page 11](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/page-11/)
+- [Page 12](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/page-12/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/page-4/)
@@ -4388,6 +4392,7 @@
 - [Vente Aux Encheres Villa Geno Como 400 Mille Euro](https://frontaliereticino.ch/fr/articles-frontalier/vente-aux-encheres-villa-geno-como-400-mille-euro/)
 - [Ventes De Voitures Tessin 2026 Stables Electriques](https://frontaliereticino.ch/fr/articles-frontalier/ventes-de-voitures-tessin-2026-stables-electriques/)
 - [Verbania Immigrant Illegal Expulsion 2026](https://frontaliereticino.ch/fr/articles-frontalier/verbania-immigrant-illegal-expulsion-2026/)
+- [Verbania Travaux Pont San Giovanni](https://frontaliereticino.ch/fr/articles-frontalier/verbania-travaux-pont-san-giovanni/)
 - [Vergiate Color Run 2026 Non Competitif](https://frontaliereticino.ch/fr/articles-frontalier/vergiate-color-run-2026-non-competitif/)
 - [Vergiate Suspension Travaux Passerelle](https://frontaliereticino.ch/fr/articles-frontalier/vergiate-suspension-travaux-passerelle/)
 - [Verites Immobilieres Ticino](https://frontaliereticino.ch/fr/articles-frontalier/verites-immobilieres-ticino/)
@@ -4767,7 +4772,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2423 pages)
+### Other Pages (2428 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -5327,6 +5332,7 @@
 - [Croix Rouge Action Legale Abus Nom](https://frontaliereticino.ch/fr/articles-suisse/croix-rouge-action-legale-abus-nom/)
 - [Culture Et Divertissement Ticino 2026](https://frontaliereticino.ch/fr/articles-suisse/culture-et-divertissement-ticino-2026/)
 - [Cyber Attaque Iwb Bale](https://frontaliereticino.ch/fr/articles-suisse/cyber-attaque-iwb-bale/)
+- [Cyberattaque Salt Donnees Clients](https://frontaliereticino.ch/fr/articles-suisse/cyberattaque-salt-donnees-clients/)
 - [Cybersecurite Maison Centre De Donnees](https://frontaliereticino.ch/fr/articles-suisse/cybersecurite-maison-centre-de-donnees/)
 - [Cycliste Gravement Blesse Apres Une Chute](https://frontaliereticino.ch/fr/articles-suisse/cycliste-gravement-blesse-apres-une-chute/)
 - [D C3 A9s C3 A9quilibre Payments Suisse En Chute](https://frontaliereticino.ch/fr/articles-suisse/d-c3-a9s-c3-a9quilibre-payments-suisse-en-chute/)
@@ -5503,6 +5509,7 @@
 - [F 35 Amherd Prescription Responsabilite](https://frontaliereticino.ch/fr/articles-suisse/f-35-amherd-prescription-responsabilite/)
 - [F35 Chasseurs Commission Amherd](https://frontaliereticino.ch/fr/articles-suisse/f35-chasseurs-commission-amherd/)
 - [F35a Aucun Prix Fixe Convenu](https://frontaliereticino.ch/fr/articles-suisse/f35a-aucun-prix-fixe-convenu/)
+- [F35a Prix Incertain Politique](https://frontaliereticino.ch/fr/articles-suisse/f35a-prix-incertain-politique/)
 - [Facteur Suisse Licencie Apres 42 Ans Berne N Intervient Pas](https://frontaliereticino.ch/fr/articles-suisse/facteur-suisse-licencie-apres-42-ans-berne-n-intervient-pas/)
 - [Facturation Medecins Specialistes Suisse](https://frontaliereticino.ch/fr/articles-suisse/facturation-medecins-specialistes-suisse/)
 - [Factures Electricite 26 Centimes 2027](https://frontaliereticino.ch/fr/articles-suisse/factures-electricite-26-centimes-2027/)
@@ -5739,6 +5746,7 @@
 - [Hopital Grisons Extension 500m](https://frontaliereticino.ch/fr/articles-suisse/hopital-grisons-extension-500m/)
 - [Hopitaux Suisses Infirmieres Fuite Annee](https://frontaliereticino.ch/fr/articles-suisse/hopitaux-suisses-infirmieres-fuite-annee/)
 - [Hopitaux Suisses Pulizia Mieux](https://frontaliereticino.ch/fr/articles-suisse/hopitaux-suisses-pulizia-mieux/)
+- [Hormuz Petrole 200 Dollars](https://frontaliereticino.ch/fr/articles-suisse/hormuz-petrole-200-dollars/)
 - [Hotel Flaz Pontresina 2028](https://frontaliereticino.ch/fr/articles-suisse/hotel-flaz-pontresina-2028/)
 - [Hotel Lenzerheide Hacker Avertissement](https://frontaliereticino.ch/fr/articles-suisse/hotel-lenzerheide-hacker-avertissement/)
 - [Hotel Suisse Pirate](https://frontaliereticino.ch/fr/articles-suisse/hotel-suisse-pirate/)
@@ -5897,6 +5905,7 @@
 - [Les Suisses Economisent Plus Que Jamais](https://frontaliereticino.ch/fr/articles-suisse/les-suisses-economisent-plus-que-jamais/)
 - [Lex Netflix Cinema Suisse 2025](https://frontaliereticino.ch/fr/articles-suisse/lex-netflix-cinema-suisse-2025/)
 - [Libre Circulation Marche Travail 2026](https://frontaliereticino.ch/fr/articles-suisse/libre-circulation-marche-travail-2026/)
+- [Licenciement Crans Montana Falsification](https://frontaliereticino.ch/fr/articles-suisse/licenciement-crans-montana-falsification/)
 - [Lidl Biasca Suisse](https://frontaliereticino.ch/fr/articles-suisse/lidl-biasca-suisse/)
 - [Lidl Suisse Travailler Avec Nous](https://frontaliereticino.ch/fr/articles-suisse/lidl-suisse-travailler-avec-nous/)
 - [Lindustrieaudiovisuelleestenpression](https://frontaliereticino.ch/fr/articles-suisse/lindustrieaudiovisuelleestenpression/)
@@ -6148,6 +6157,7 @@
 - [Parlement Suisse Voile Interdiction](https://frontaliereticino.ch/fr/articles-suisse/parlement-suisse-voile-interdiction/)
 - [Parmelin Agriculture Secheresse](https://frontaliereticino.ch/fr/articles-suisse/parmelin-agriculture-secheresse/)
 - [Parmelin Secheresse Prets Agricoles 2025](https://frontaliereticino.ch/fr/articles-suisse/parmelin-secheresse-prets-agricoles-2025/)
+- [Parmelin Tag Der Wirtschaft Fr](https://frontaliereticino.ch/fr/articles-suisse/parmelin-tag-der-wirtschaft-fr/)
 - [Partners Group Achete Aroma Zone](https://frontaliereticino.ch/fr/articles-suisse/partners-group-achete-aroma-zone/)
 - [Pas De Prolongation Garanties Etat Entreprises Electriques](https://frontaliereticino.ch/fr/articles-suisse/pas-de-prolongation-garanties-etat-entreprises-electriques/)
 - [Patto Diritti Economici Sociali E Culturali Sviluppi Svizzera](https://frontaliereticino.ch/fr/articles-suisse/patto-diritti-economici-sociali-e-culturali-sviluppi-svizzera/)
@@ -6456,6 +6466,7 @@
 - [Rhin Secheresse Economie Suisse](https://frontaliereticino.ch/fr/articles-suisse/rhin-secheresse-economie-suisse/)
 - [Rhin Secheresse Suisse Logistique](https://frontaliereticino.ch/fr/articles-suisse/rhin-secheresse-suisse-logistique/)
 - [Risque De Bulle Immobiliere Suisse 2026](https://frontaliereticino.ch/fr/articles-suisse/risque-de-bulle-immobiliere-suisse-2026/)
+- [Risque Petrole Hormuz Suisse](https://frontaliereticino.ch/fr/articles-suisse/risque-petrole-hormuz-suisse/)
 - [Roche Acquiert Les Droits A Un Traitement Experimental Contre Lobesite](https://frontaliereticino.ch/fr/articles-suisse/roche-acquiert-les-droits-a-un-traitement-experimental-contre-lobesite/)
 - [Roger Federer Fortune On Bourse](https://frontaliereticino.ch/fr/articles-suisse/roger-federer-fortune-on-bourse/)
 - [Rosti Defend Politique Climatique Federale](https://frontaliereticino.ch/fr/articles-suisse/rosti-defend-politique-climatique-federale/)
@@ -6715,7 +6726,6 @@
 - [Transports Et Trafic](https://frontaliereticino.ch/fr/articles-suisse/sujets/transports-et-trafic/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/transports-et-trafic/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/transports-et-trafic/page-3/)
-- [Page 4](https://frontaliereticino.ch/fr/articles-suisse/sujets/transports-et-trafic/page-4/)
 - [Travail Et Emploi](https://frontaliereticino.ch/fr/articles-suisse/sujets/travail-et-emploi/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/travail-et-emploi/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/travail-et-emploi/page-3/)
