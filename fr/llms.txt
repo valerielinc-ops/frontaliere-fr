@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7156 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7166 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Secteurs](https://frontaliereticino.ch/fr/trouver-emploi-tessin/secteurs/)
 - [Tous](https://frontaliereticino.ch/fr/trouver-emploi-tessin/tous/)
 
-### Blog Articles (4011 pages)
+### Blog Articles (4015 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1269,6 +1269,7 @@
 - [Canicule Tessin Suisse](https://frontaliereticino.ch/fr/articles-frontalier/canicule-tessin-suisse/)
 - [Canicule Travail Tessin Litige](https://frontaliereticino.ch/fr/articles-frontalier/canicule-travail-tessin-litige/)
 - [Cannabis Medical Remboursement Caisse Maladie Tessin](https://frontaliereticino.ch/fr/articles-frontalier/cannabis-medical-remboursement-caisse-maladie-tessin/)
+- [Cannabis Therapeutica Ticino Proposta](https://frontaliereticino.ch/fr/articles-frontalier/cannabis-therapeutica-ticino-proposta/)
 - [Cantello Peduncle Gaggiolo 2026](https://frontaliereticino.ch/fr/articles-frontalier/cantello-peduncle-gaggiolo-2026/)
 - [Cantello Rio Des Gioghi Sentier Reouverture](https://frontaliereticino.ch/fr/articles-frontalier/cantello-rio-des-gioghi-sentier-reouverture/)
 - [Cantieri Traffico A9 Ticino](https://frontaliereticino.ch/fr/articles-frontalier/cantieri-traffico-a9-ticino/)
@@ -1689,6 +1690,7 @@
 - [Credit Impot Frontaliers 2026 Guide](https://frontaliereticino.ch/fr/articles-frontalier/credit-impot-frontaliers-2026-guide/)
 - [Crevettes Tournoi Madrid 2026](https://frontaliereticino.ch/fr/articles-frontalier/crevettes-tournoi-madrid-2026/)
 - [Criminalite Organisee Suisse 2026](https://frontaliereticino.ch/fr/articles-frontalier/criminalite-organisee-suisse-2026/)
+- [Crise Bally Caslano Licenciements](https://frontaliereticino.ch/fr/articles-frontalier/crise-bally-caslano-licenciements/)
 - [Crise Du Logement Como Analyse](https://frontaliereticino.ch/fr/articles-frontalier/crise-du-logement-como-analyse/)
 - [Crise Du Logement Tessin Classe Moyenne](https://frontaliereticino.ch/fr/articles-frontalier/crise-du-logement-tessin-classe-moyenne/)
 - [Crise Golfe Carburants Logistique Tessin](https://frontaliereticino.ch/fr/articles-frontalier/crise-golfe-carburants-logistique-tessin/)
@@ -4531,6 +4533,7 @@
 - [Vivre Bionaz Travailler Valais Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-bionaz-travailler-valais-frontalier/)
 - [Vivre Bizzarone Travailler Ticino](https://frontaliereticino.ch/fr/articles-frontalier/vivre-bizzarone-travailler-ticino/)
 - [Vivre Borgomezzavalle Travailler Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-borgomezzavalle-travailler-tessin/)
+- [Vivre Brenta Travailler Tesin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-brenta-travailler-tesin-frontalier/)
 - [Vivre Brezzo Bedero Travailler Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-brezzo-bedero-travailler-tessin/)
 - [Vivre Brissago Valtravaglia Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-brissago-valtravaglia-tessin/)
 - [Vivre Caglio Travailler Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-caglio-travailler-tessin-frontalier/)
@@ -4667,6 +4670,7 @@
 - [Vivre Veduggio Travailleur Frontalier Ticino](https://frontaliereticino.ch/fr/articles-frontalier/vivre-veduggio-travailleur-frontalier-ticino/)
 - [Vivre Veleso Travailler Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-veleso-travailler-tessin/)
 - [Vivre Venegono Superiore Travailler Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-venegono-superiore-travailler-tessin-frontalier/)
+- [Vivre Veniano Travailler Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-veniano-travailler-tessin-frontalier/)
 - [Vivre Verbania Travailler Tessin Frontaliere](https://frontaliereticino.ch/fr/articles-frontalier/vivre-verbania-travailler-tessin-frontaliere/)
 - [Vivre Vergiate Travailler Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-vergiate-travailler-tessin-frontalier/)
 - [Vivre Verrayes Travailler Valais Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-verrayes-travailler-valais-frontalier/)
@@ -4776,7 +4780,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2433 pages)
+### Other Pages (2439 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -5266,6 +5270,7 @@
 - [Conge Parental Frontaliers](https://frontaliereticino.ch/fr/articles-suisse/conge-parental-frontaliers/)
 - [Conge Parental Suisse Duree Indemnite](https://frontaliereticino.ch/fr/articles-suisse/conge-parental-suisse-duree-indemnite/)
 - [Conseil Federal Consultation Agriculture 2030](https://frontaliereticino.ch/fr/articles-suisse/conseil-federal-consultation-agriculture-2030/)
+- [Conseil Federal Decisions 2026](https://frontaliereticino.ch/fr/articles-suisse/conseil-federal-decisions-2026/)
 - [Conseil Federal Neutralite](https://frontaliereticino.ch/fr/articles-suisse/conseil-federal-neutralite/)
 - [Conseil Federal Nomme Walser](https://frontaliereticino.ch/fr/articles-suisse/conseil-federal-nomme-walser/)
 - [Conseil Federal Paquet De Mesures](https://frontaliereticino.ch/fr/articles-suisse/conseil-federal-paquet-de-mesures/)
@@ -5881,6 +5886,7 @@
 - [Kerosene Synthetique Suisse Aviation](https://frontaliereticino.ch/fr/articles-suisse/kerosene-synthetique-suisse-aviation/)
 - [Kremlin Vote Neutralite Suisse](https://frontaliereticino.ch/fr/articles-suisse/kremlin-vote-neutralite-suisse/)
 - [L Avenir Du Travail](https://frontaliereticino.ch/fr/articles-suisse/l-avenir-du-travail/)
+- [L Essence Coute Aujourd Hui Moins Cher Que Dans Les Annees 80](https://frontaliereticino.ch/fr/articles-suisse/l-essence-coute-aujourd-hui-moins-cher-que-dans-les-annees-80/)
 - [L Excuse De Pfister Aux Eglises Chretiennes Suisses](https://frontaliereticino.ch/fr/articles-suisse/l-excuse-de-pfister-aux-eglises-chretiennes-suisses/)
 - [L Initiative Sur La Neutralite Un Texte Pro Poutine Qui Nuit A La Suisse](https://frontaliereticino.ch/fr/articles-suisse/l-initiative-sur-la-neutralite-un-texte-pro-poutine-qui-nuit-a-la-suisse/)
 - [La Finance Suisse Sous Examen Pour Son Impact Sur Le Climat](https://frontaliereticino.ch/fr/articles-suisse/la-finance-suisse-sous-examen-pour-son-impact-sur-le-climat/)
@@ -5889,6 +5895,7 @@
 - [La Secheresse Grimpe Au Degre 2 A Breggia](https://frontaliereticino.ch/fr/articles-suisse/la-secheresse-grimpe-au-degre-2-a-breggia/)
 - [La Suisse Envoie Un Signal En Faveur De L Europe Et De L Economie](https://frontaliereticino.ch/fr/articles-suisse/la-suisse-envoie-un-signal-en-faveur-de-l-europe-et-de-l-economie/)
 - [Lacunes Cotisations Avs Zurich](https://frontaliereticino.ch/fr/articles-suisse/lacunes-cotisations-avs-zurich/)
+- [Lait Et Agriculture Suisse Etude](https://frontaliereticino.ch/fr/articles-suisse/lait-et-agriculture-suisse-etude/)
 - [Lait Pommes De Terre Chers Canicule Suisse](https://frontaliereticino.ch/fr/articles-suisse/lait-pommes-de-terre-chers-canicule-suisse/)
 - [Lam Glaris Subside Cotisations](https://frontaliereticino.ch/fr/articles-suisse/lam-glaris-subside-cotisations/)
 - [Lamal 2026 Canton De Bourges](https://frontaliereticino.ch/fr/articles-suisse/lamal-2026-canton-de-bourges/)
@@ -5905,6 +5912,7 @@
 - [Le Marche Locatif Du Canton De Soleure Prix Moyens Et Droits Du Locataire](https://frontaliereticino.ch/fr/articles-suisse/le-marche-locatif-du-canton-de-soleure-prix-moyens-et-droits-du-locataire/)
 - [Le Permis De Domicile C Dans Le Canton D Obwald](https://frontaliereticino.ch/fr/articles-suisse/le-permis-de-domicile-c-dans-le-canton-d-obwald/)
 - [Le Permis L De Duree Courte Dans Le Canton Uri](https://frontaliereticino.ch/fr/articles-suisse/le-permis-l-de-duree-courte-dans-le-canton-uri/)
+- [Le Ps Demande Une Enquete Sur Les F35](https://frontaliereticino.ch/fr/articles-suisse/le-ps-demande-une-enquete-sur-les-f35/)
 - [Leclanche Difficultes Financieres Rapport 2025](https://frontaliereticino.ch/fr/articles-suisse/leclanche-difficultes-financieres-rapport-2025/)
 - [Legumes Texture Viande Recherche Eth](https://frontaliereticino.ch/fr/articles-suisse/legumes-texture-viande-recherche-eth/)
 - [Les Rebates Sur Medicaments Ne Sont Pas Retenus](https://frontaliereticino.ch/fr/articles-suisse/les-rebates-sur-medicaments-ne-sont-pas-retenus/)
@@ -6048,6 +6056,7 @@
 - [Naturalisation Fribourg Conditions Procedure](https://frontaliereticino.ch/fr/articles-suisse/naturalisation-fribourg-conditions-procedure/)
 - [Naturalisation Grisons Exigences Procedure](https://frontaliereticino.ch/fr/articles-suisse/naturalisation-grisons-exigences-procedure/)
 - [Naturalisation Lucerne Procedure](https://frontaliereticino.ch/fr/articles-suisse/naturalisation-lucerne-procedure/)
+- [Naturalisation Nidwald Procedure](https://frontaliereticino.ch/fr/articles-suisse/naturalisation-nidwald-procedure/)
 - [Naturalisation Ordinaire Lucerne](https://frontaliereticino.ch/fr/articles-suisse/naturalisation-ordinaire-lucerne/)
 - [Naturalisation Ordinaire Lucerne Guide](https://frontaliereticino.ch/fr/articles-suisse/naturalisation-ordinaire-lucerne-guide/)
 - [Naturalisation Thurgovie Conditions Procedure](https://frontaliereticino.ch/fr/articles-suisse/naturalisation-thurgovie-conditions-procedure/)
@@ -6194,6 +6203,7 @@
 - [Permis C Canton Uri Demande](https://frontaliereticino.ch/fr/articles-suisse/permis-c-canton-uri-demande/)
 - [Permis C Lucerne Conditions Demande](https://frontaliereticino.ch/fr/articles-suisse/permis-c-lucerne-conditions-demande/)
 - [Permis C Lucerne Guide](https://frontaliereticino.ch/fr/articles-suisse/permis-c-lucerne-guide/)
+- [Permis C Nidwald Conditions](https://frontaliereticino.ch/fr/articles-suisse/permis-c-nidwald-conditions/)
 - [Permis C Residence Canton Valais Conditions Demande](https://frontaliereticino.ch/fr/articles-suisse/permis-c-residence-canton-valais-conditions-demande/)
 - [Permis Conduire Appenzell Externe Conversion](https://frontaliereticino.ch/fr/articles-suisse/permis-conduire-appenzell-externe-conversion/)
 - [Permis Conduire Bale Ville Conversion](https://frontaliereticino.ch/fr/articles-suisse/permis-conduire-bale-ville-conversion/)
