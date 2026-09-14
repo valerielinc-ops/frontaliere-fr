@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7196 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7198 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -4807,7 +4807,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2442 pages)
+### Other Pages (2444 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -5406,6 +5406,7 @@
 - [Depot Caution Resiliation Location Appenzell](https://frontaliereticino.ch/fr/articles-suisse/depot-caution-resiliation-location-appenzell/)
 - [Depot Garantie Argovia Location](https://frontaliereticino.ch/fr/articles-suisse/depot-garantie-argovia-location/)
 - [Dessinateur Technique Frontaliere Salaire Ticino](https://frontaliereticino.ch/fr/articles-suisse/dessinateur-technique-frontaliere-salaire-ticino/)
+- [Detention 48 Heures Manifestations](https://frontaliereticino.ch/fr/articles-suisse/detention-48-heures-manifestations/)
 - [Deutsche Bahn Suspension Trafic Ferroviaire](https://frontaliereticino.ch/fr/articles-suisse/deutsche-bahn-suspension-trafic-ferroviaire/)
 - [Deux Non Initiatives Septembre](https://frontaliereticino.ch/fr/articles-suisse/deux-non-initiatives-septembre/)
 - [Deuxieme Colonne Lpp Suisse Guide 2026 Canton Saint Gall](https://frontaliereticino.ch/fr/articles-suisse/deuxieme-colonne-lpp-suisse-guide-2026-canton-saint-gall/)
@@ -6875,6 +6876,7 @@
 - [Trajets Ecole Dangereux](https://frontaliereticino.ch/fr/articles-suisse/trajets-ecole-dangereux/)
 - [Tram Train Contrat Attribue](https://frontaliereticino.ch/fr/articles-suisse/tram-train-contrat-attribue/)
 - [Transition Energetique Suisse Ses 2025](https://frontaliereticino.ch/fr/articles-suisse/transition-energetique-suisse-ses-2025/)
+- [Transpa Reg Quadri Report Octobre](https://frontaliereticino.ch/fr/articles-suisse/transpa-reg-quadri-report-octobre/)
 - [Transparence Factures Hospitalieres Suisse](https://frontaliereticino.ch/fr/articles-suisse/transparence-factures-hospitalieres-suisse/)
 - [Transport En Commun Glauis](https://frontaliereticino.ch/fr/articles-suisse/transport-en-commun-glauis/)
 - [Transport En Commun Suisse Abonnements Rabais](https://frontaliereticino.ch/fr/articles-suisse/transport-en-commun-suisse-abonnements-rabais/)
