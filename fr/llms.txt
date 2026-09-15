@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7198 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7207 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -741,7 +741,7 @@
 - [Page Index 8](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-9/)
 
-### Blog Articles (4018 pages)
+### Blog Articles (4020 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -3322,6 +3322,7 @@
 - [Prevention Des Addictions Tessin 2026](https://frontaliereticino.ch/fr/articles-frontalier/prevention-des-addictions-tessin-2026/)
 - [Prevention Violence Domestique Saint Gall 2026](https://frontaliereticino.ch/fr/articles-frontalier/prevention-violence-domestique-saint-gall-2026/)
 - [Prime De Securite 2026 Frontaliers Tessin](https://frontaliereticino.ch/fr/articles-frontalier/prime-de-securite-2026-frontaliers-tessin/)
+- [Primes Assurance Maladie 2027 Ticino](https://frontaliereticino.ch/fr/articles-frontalier/primes-assurance-maladie-2027-ticino/)
 - [Primes Dassurance Maladie Tessin 2026](https://frontaliereticino.ch/fr/articles-frontalier/primes-dassurance-maladie-tessin-2026/)
 - [Primes Pas Au Dela De 10 Pour Cent](https://frontaliereticino.ch/fr/articles-frontalier/primes-pas-au-dela-de-10-pour-cent/)
 - [Prisons Tessin Surpeuplees 2026](https://frontaliereticino.ch/fr/articles-frontalier/prisons-tessin-surpeuplees-2026/)
@@ -3573,6 +3574,7 @@
 - [Salaire Travailleur Frontalier Suisse Italien](https://frontaliereticino.ch/fr/articles-frontalier/salaire-travailleur-frontalier-suisse-italien/)
 - [Salaire Trustes Frontaliers Tessin](https://frontaliereticino.ch/fr/articles-frontalier/salaire-trustes-frontaliers-tessin/)
 - [Salaires Bas Risque Pauvreté](https://frontaliereticino.ch/fr/articles-frontalier/salaires-bas-risque-pauvreté/)
+- [Salaires Como Lombardie 2024](https://frontaliereticino.ch/fr/articles-frontalier/salaires-como-lombardie-2024/)
 - [Salaires Difficiles Negociations](https://frontaliereticino.ch/fr/articles-frontalier/salaires-difficiles-negociations/)
 - [Salaires Managers Energie Tessin](https://frontaliereticino.ch/fr/articles-frontalier/salaires-managers-energie-tessin/)
 - [Salaires Specialistes Suisse 2024](https://frontaliereticino.ch/fr/articles-frontalier/salaires-specialistes-suisse-2024/)
@@ -4807,7 +4809,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2444 pages)
+### Other Pages (2451 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -5304,6 +5306,7 @@
 - [Conseil Federal Refus Initiative Place Financiere](https://frontaliereticino.ch/fr/articles-suisse/conseil-federal-refus-initiative-place-financiere/)
 - [Conseil Federal Rejeter Initiative Neutralite](https://frontaliereticino.ch/fr/articles-suisse/conseil-federal-rejeter-initiative-neutralite/)
 - [Conseil Federal Ruag Mro](https://frontaliereticino.ch/fr/articles-suisse/conseil-federal-ruag-mro/)
+- [Conseil National Dossier Sante Electronique](https://frontaliereticino.ch/fr/articles-suisse/conseil-national-dossier-sante-electronique/)
 - [Construction Croissance Premier Semestre](https://frontaliereticino.ch/fr/articles-suisse/construction-croissance-premier-semestre/)
 - [Consultation Conception Energie Eolienne](https://frontaliereticino.ch/fr/articles-suisse/consultation-conception-energie-eolienne/)
 - [Consultation Politique Agricole 2030](https://frontaliereticino.ch/fr/articles-suisse/consultation-politique-agricole-2030/)
@@ -5430,6 +5433,7 @@
 - [Donnees Impots Frontalieri Italie](https://frontaliereticino.ch/fr/articles-suisse/donnees-impots-frontalieri-italie/)
 - [Donnees Salaire Frontaliers Privacy 2024](https://frontaliereticino.ch/fr/articles-suisse/donnees-salaire-frontaliers-privacy-2024/)
 - [Donnees Salariales Frontaliers Tessin](https://frontaliereticino.ch/fr/articles-suisse/donnees-salariales-frontaliers-tessin/)
+- [Dossier Sante Mercosur Parlement](https://frontaliereticino.ch/fr/articles-suisse/dossier-sante-mercosur-parlement/)
 - [Douane Brogeda Delais Attente](https://frontaliereticino.ch/fr/articles-suisse/douane-brogeda-delais-attente/)
 - [Douane Chiasso Brogeda Trafic 2024](https://frontaliereticino.ch/fr/articles-suisse/douane-chiasso-brogeda-trafic-2024/)
 - [Douane Gaggiolo Stabio](https://frontaliereticino.ch/fr/articles-suisse/douane-gaggiolo-stabio/)
@@ -5768,6 +5772,7 @@
 - [Guide Lamal 2026 Canton Vaud](https://frontaliereticino.ch/fr/articles-suisse/guide-lamal-2026-canton-vaud/)
 - [Guide Location Uri Droits Locataires](https://frontaliereticino.ch/fr/articles-suisse/guide-location-uri-droits-locataires/)
 - [Guide Ouvrir Entreprise Saint Gall Impots Procedures](https://frontaliereticino.ch/fr/articles-suisse/guide-ouvrir-entreprise-saint-gall-impots-procedures/)
+- [Guide Pharmacies Garde Tessin](https://frontaliereticino.ch/fr/articles-suisse/guide-pharmacies-garde-tessin/)
 - [Guide Pratique Declaration Fiscale Suisse 2026 Canton De Lucerne](https://frontaliereticino.ch/fr/articles-suisse/guide-pratique-declaration-fiscale-suisse-2026-canton-de-lucerne/)
 - [Hausse Des Prix A La Consommation En Aout 2026](https://frontaliereticino.ch/fr/articles-suisse/hausse-des-prix-a-la-consommation-en-aout-2026/)
 - [Hausse Des Prix Du Fioul De Chauffage Due Au Conflit Usa Iran](https://frontaliereticino.ch/fr/articles-suisse/hausse-des-prix-du-fioul-de-chauffage-due-au-conflit-usa-iran/)
@@ -6194,6 +6199,7 @@
 - [Paiements Hors Ligne Magasins Suisses](https://frontaliereticino.ch/fr/articles-suisse/paiements-hors-ligne-magasins-suisses/)
 - [Paiements Sans Connexion Cartes 2026](https://frontaliereticino.ch/fr/articles-suisse/paiements-sans-connexion-cartes-2026/)
 - [Parahotellerie Progression Trimestre 2026](https://frontaliereticino.ch/fr/articles-suisse/parahotellerie-progression-trimestre-2026/)
+- [Parce Que Les Taux D Interet En Suisse Restent Bas](https://frontaliereticino.ch/fr/articles-suisse/parce-que-les-taux-d-interet-en-suisse-restent-bas/)
 - [Parlement Avs Protection Adoption](https://frontaliereticino.ch/fr/articles-suisse/parlement-avs-protection-adoption/)
 - [Parlement Suisse Lutte Accords Avs](https://frontaliereticino.ch/fr/articles-suisse/parlement-suisse-lutte-accords-avs/)
 - [Parlement Suisse Pension Tva](https://frontaliereticino.ch/fr/articles-suisse/parlement-suisse-pension-tva/)
@@ -6345,6 +6351,8 @@
 - [Permis Travail Enseignants Frontaliers Tessin](https://frontaliereticino.ch/fr/articles-suisse/permis-travail-enseignants-frontaliers-tessin/)
 - [Petition Contre La Delocalisation Suisse](https://frontaliereticino.ch/fr/articles-suisse/petition-contre-la-delocalisation-suisse/)
 - [Petrole En Contrepartie De Milliards](https://frontaliereticino.ch/fr/articles-suisse/petrole-en-contrepartie-de-milliards/)
+- [Pharmacie Ouverte Garde Repertoire](https://frontaliereticino.ch/fr/articles-suisse/pharmacie-ouverte-garde-repertoire/)
+- [Pharmacies Frontiere Come Varese Verbano](https://frontaliereticino.ch/fr/articles-suisse/pharmacies-frontiere-come-varese-verbano/)
 - [Pib Q2 2026 Industrie Croissance Forte](https://frontaliereticino.ch/fr/articles-suisse/pib-q2-2026-industrie-croissance-forte/)
 - [Pib Suisse 2025 Croissance](https://frontaliereticino.ch/fr/articles-suisse/pib-suisse-2025-croissance/)
 - [Piero Marchesi Claudio Zali Liste Autonome](https://frontaliereticino.ch/fr/articles-suisse/piero-marchesi-claudio-zali-liste-autonome/)
@@ -6487,6 +6495,7 @@
 - [Reorganisation Commissions Extraparliamentaires](https://frontaliereticino.ch/fr/articles-suisse/reorganisation-commissions-extraparliamentaires/)
 - [Reorganisation Des Aides Aux Entreprises](https://frontaliereticino.ch/fr/articles-suisse/reorganisation-des-aides-aux-entreprises/)
 - [Reorganisation Vw Impact Suisse](https://frontaliereticino.ch/fr/articles-suisse/reorganisation-vw-impact-suisse/)
+- [Repertoire Pharmacies Tessin Contacts](https://frontaliereticino.ch/fr/articles-suisse/repertoire-pharmacies-tessin-contacts/)
 - [Representant Commercial Des Etats Unis Elogie Investissements Suisse](https://frontaliereticino.ch/fr/articles-suisse/representant-commercial-des-etats-unis-elogie-investissements-suisse/)
 - [Reprise Financiere Hopitaux Grisons](https://frontaliereticino.ch/fr/articles-suisse/reprise-financiere-hopitaux-grisons/)
 - [Reprise Traffic Ferroviaire Allemagne](https://frontaliereticino.ch/fr/articles-suisse/reprise-traffic-ferroviaire-allemagne/)
