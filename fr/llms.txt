@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7210 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7213 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -741,7 +741,7 @@
 - [Page Index 8](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-9/)
 
-### Blog Articles (4021 pages)
+### Blog Articles (4022 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1248,6 +1248,7 @@
 - [Bulletin Frontalier 2026 09 12](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-frontalier-2026-09-12/)
 - [Bulletin Frontalier 2026 09 13](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-frontalier-2026-09-13/)
 - [Bulletin Frontalier 2026 09 14](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-frontalier-2026-09-14/)
+- [Bulletin Frontalier 2026 09 15](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-frontalier-2026-09-15/)
 - [Bulletin Salaire Frontalier Net 2026](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-salaire-frontalier-net-2026/)
 - [Bulletin Salaire Suisse Frontalier 20km](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-salaire-suisse-frontalier-20km/)
 - [Bureau Douanier Unique Mendrisio Sopraceneri](https://frontaliereticino.ch/fr/articles-frontalier/bureau-douanier-unique-mendrisio-sopraceneri/)
@@ -4810,7 +4811,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2453 pages)
+### Other Pages (2455 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -5587,6 +5588,7 @@
 - [Fonds Frontaliers Varesotto 14 Millions Euros](https://frontaliereticino.ch/fr/articles-suisse/fonds-frontaliers-varesotto-14-millions-euros/)
 - [Fonds Secheresse Forets Agriculture](https://frontaliereticino.ch/fr/articles-suisse/fonds-secheresse-forets-agriculture/)
 - [Forfait Maladie Reduit Bale Ville](https://frontaliereticino.ch/fr/articles-suisse/forfait-maladie-reduit-bale-ville/)
+- [Formation Adultes Revenu Suisse](https://frontaliereticino.ch/fr/articles-suisse/formation-adultes-revenu-suisse/)
 - [Formation Entreprise Prioritaire](https://frontaliereticino.ch/fr/articles-suisse/formation-entreprise-prioritaire/)
 - [Formation Musicale Cotisations 2026](https://frontaliereticino.ch/fr/articles-suisse/formation-musicale-cotisations-2026/)
 - [Formation Professionnelle Apprentissage Canton Uri](https://frontaliereticino.ch/fr/articles-suisse/formation-professionnelle-apprentissage-canton-uri/)
@@ -6791,6 +6793,7 @@
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/travail-et-emploi/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-suisse/sujets/travail-et-emploi/page-4/)
 - [Page 5](https://frontaliereticino.ch/fr/articles-suisse/sujets/travail-et-emploi/page-5/)
+- [Page 6](https://frontaliereticino.ch/fr/articles-suisse/sujets/travail-et-emploi/page-6/)
 - [Sulla Disoccupazione Dei Frontalieri Si Apre Un Nuovo Fronte Con Bruxelles](https://frontaliereticino.ch/fr/articles-suisse/sulla-disoccupazione-dei-frontalieri-si-apre-un-nuovo-fronte-con-bruxelles/)
 - [Sulzer Premier Semestre 2026](https://frontaliereticino.ch/fr/articles-suisse/sulzer-premier-semestre-2026/)
 - [Sulzer Restructuration Chemtech](https://frontaliereticino.ch/fr/articles-suisse/sulzer-restructuration-chemtech/)
