@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7309 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7314 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -731,7 +731,7 @@
 - [Page Index 7](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-8/)
 
-### Blog Articles (4061 pages)
+### Blog Articles (4064 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -3907,6 +3907,7 @@
 - [Page 24](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-24/)
 - [Page 25](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-25/)
 - [Page 26](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-26/)
+- [Page 27](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-27/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-4/)
 - [Page 5](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-5/)
@@ -4498,6 +4499,7 @@
 - [Vivre A Biandronno Travailler En Tessin Comme Travailleur Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-biandronno-travailler-en-tessin-comme-travailleur-frontalier/)
 - [Vivre A Bisuschio Travailler En Ticino](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-bisuschio-travailler-en-ticino/)
 - [Vivre A Bosisio Parini Et Travailler En Ticino En Tant Que Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-bosisio-parini-et-travailler-en-ticino-en-tant-que-frontalier/)
+- [Vivre A Bregnano Travailler Au Ticino Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-bregnano-travailler-au-ticino-frontalier/)
 - [Vivre A Brinzio Travailler Au Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-brinzio-travailler-au-tessin/)
 - [Vivre A Buguggiate Travailler En Tessin Comme Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-buguggiate-travailler-en-tessin-comme-frontalier/)
 - [Vivre A Cadegliano Viconago Travailler Au Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-a-cadegliano-viconago-travailler-au-tessin/)
@@ -4612,6 +4614,7 @@
 - [Vivre Cassina Rizzardi Travailler Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vivre-cassina-rizzardi-travailler-tessin/)
 - [Vivre Castello Cabiaglio Travailler Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-castello-cabiaglio-travailler-tessin-frontalier/)
 - [Vivre Castelnuovo Bozzente Travailler Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-castelnuovo-bozzente-travailler-tessin-frontalier/)
+- [Vivre Castiglione Olona Travailler Ticino Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-castiglione-olona-travailler-ticino-frontalier/)
 - [Vivre Castione Andevenno Travailler Grisons](https://frontaliereticino.ch/fr/articles-frontalier/vivre-castione-andevenno-travailler-grisons/)
 - [Vivre Cavaria Travailler Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-cavaria-travailler-tessin-frontalier/)
 - [Vivre Cazzago Brabbia Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vivre-cazzago-brabbia-frontalier/)
@@ -4840,7 +4843,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2522 pages)
+### Other Pages (2524 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -6308,6 +6311,7 @@
 - [Permis B Zoug Guide Pratique](https://frontaliereticino.ch/fr/articles-suisse/permis-b-zoug-guide-pratique/)
 - [Permis C Canton Geneve Conditions](https://frontaliereticino.ch/fr/articles-suisse/permis-c-canton-geneve-conditions/)
 - [Permis C Canton Uri Demande](https://frontaliereticino.ch/fr/articles-suisse/permis-c-canton-uri-demande/)
+- [Permis C Fribourg Conditions Demande](https://frontaliereticino.ch/fr/articles-suisse/permis-c-fribourg-conditions-demande/)
 - [Permis C Glarona Conditions](https://frontaliereticino.ch/fr/articles-suisse/permis-c-glarona-conditions/)
 - [Permis C Lucerne Conditions Demande](https://frontaliereticino.ch/fr/articles-suisse/permis-c-lucerne-conditions-demande/)
 - [Permis C Lucerne Guide](https://frontaliereticino.ch/fr/articles-suisse/permis-c-lucerne-guide/)
@@ -6411,6 +6415,7 @@
 - [Permis Sejour B Bale Campagne Renouvellement](https://frontaliereticino.ch/fr/articles-suisse/permis-sejour-b-bale-campagne-renouvellement/)
 - [Permis Sejour B Bale Renouvellement](https://frontaliereticino.ch/fr/articles-suisse/permis-sejour-b-bale-renouvellement/)
 - [Permis Sejour B Bale Ville](https://frontaliereticino.ch/fr/articles-suisse/permis-sejour-b-bale-ville/)
+- [Permis Sejour B Canton Fribourg Exigences Renouvellement](https://frontaliereticino.ch/fr/articles-suisse/permis-sejour-b-canton-fribourg-exigences-renouvellement/)
 - [Permis Sejour B Canton Saint Gall Requisits Renouvellement](https://frontaliereticino.ch/fr/articles-suisse/permis-sejour-b-canton-saint-gall-requisits-renouvellement/)
 - [Permis Sejour B Canton Uri Conditions Renouvellement](https://frontaliereticino.ch/fr/articles-suisse/permis-sejour-b-canton-uri-conditions-renouvellement/)
 - [Permis Sejour B Fribourg Renouvellement](https://frontaliereticino.ch/fr/articles-suisse/permis-sejour-b-fribourg-renouvellement/)
