@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7307 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7309 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -4840,7 +4840,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2520 pages)
+### Other Pages (2522 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -7126,6 +7126,7 @@
 - [Zimmer Biomet Suppressions Emplois](https://frontaliereticino.ch/fr/articles-suisse/zimmer-biomet-suppressions-emplois/)
 - [Zone 30 Kmh Intervention Conseil Federal](https://frontaliereticino.ch/fr/articles-suisse/zone-30-kmh-intervention-conseil-federal/)
 - [Zug Location Depot Procedure](https://frontaliereticino.ch/fr/articles-suisse/zug-location-depot-procedure/)
+- [Zug Permis Conduite Conversion Examens](https://frontaliereticino.ch/fr/articles-suisse/zug-permis-conduite-conversion-examens/)
 - [Zugo Reduction Primes Maladie](https://frontaliereticino.ch/fr/articles-suisse/zugo-reduction-primes-maladie/)
 - [Zugo Salaires Marche Travail Guide](https://frontaliereticino.ch/fr/articles-suisse/zugo-salaires-marche-travail-guide/)
 - [Zurich Amende Train Corruption](https://frontaliereticino.ch/fr/articles-suisse/zurich-amende-train-corruption/)
@@ -7358,6 +7359,7 @@
 - [Travail Tessin Macon](https://frontaliereticino.ch/fr/travail-tessin-macon/)
 - [Travail Tessin Ouvrier](https://frontaliereticino.ch/fr/travail-tessin-ouvrier/)
 - [Travail Tessin Physiotherapeute](https://frontaliereticino.ch/fr/travail-tessin-physiotherapeute/)
+- [Travail Tessin Psychologue](https://frontaliereticino.ch/fr/travail-tessin-psychologue/)
 - [Travail Tessin Sage Femme](https://frontaliereticino.ch/fr/travail-tessin-sage-femme/)
 - [Travail Tessin Serveur](https://frontaliereticino.ch/fr/travail-tessin-serveur/)
 - [Travail Tessin Soudeur](https://frontaliereticino.ch/fr/travail-tessin-soudeur/)
