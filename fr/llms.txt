@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7314 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7323 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -731,7 +731,7 @@
 - [Page Index 7](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-8/)
 
-### Blog Articles (4064 pages)
+### Blog Articles (4068 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1309,6 +1309,7 @@
 - [Carburant Frontiaire Suisse Aout 2026](https://frontaliereticino.ch/fr/articles-frontalier/carburant-frontiaire-suisse-aout-2026/)
 - [Carburant Tessin Guerre 2026](https://frontaliereticino.ch/fr/articles-frontalier/carburant-tessin-guerre-2026/)
 - [Carburant Tessin Moyen Orient](https://frontaliereticino.ch/fr/articles-frontalier/carburant-tessin-moyen-orient/)
+- [Carburants Prix Taxes Ticino](https://frontaliereticino.ch/fr/articles-frontalier/carburants-prix-taxes-ticino/)
 - [Cardada Cimetta Reouvre Aux Bikers 2024](https://frontaliereticino.ch/fr/articles-frontalier/cardada-cimetta-reouvre-aux-bikers-2024/)
 - [Cardano Semaine Ecologique Raee 2026](https://frontaliereticino.ch/fr/articles-frontalier/cardano-semaine-ecologique-raee-2026/)
 - [Carences Douanes Securite Tessin](https://frontaliereticino.ch/fr/articles-frontalier/carences-douanes-securite-tessin/)
@@ -1523,6 +1524,7 @@
 - [Como Bar Dispute Juridique Decision Tar](https://frontaliereticino.ch/fr/articles-frontalier/como-bar-dispute-juridique-decision-tar/)
 - [Como Cantu Creativity Week 2026](https://frontaliereticino.ch/fr/articles-frontalier/como-cantu-creativity-week-2026/)
 - [Como Chantier Voies Ztl](https://frontaliereticino.ch/fr/articles-frontalier/como-chantier-voies-ztl/)
+- [Como Cours Pharmacie Suisse](https://frontaliereticino.ch/fr/articles-frontalier/como-cours-pharmacie-suisse/)
 - [Como Crise Logement Appartements Vacants](https://frontaliereticino.ch/fr/articles-frontalier/como-crise-logement-appartements-vacants/)
 - [Como Etudiants Police On Road 2026](https://frontaliereticino.ch/fr/articles-frontalier/como-etudiants-police-on-road-2026/)
 - [Como Export Suisse 2026](https://frontaliereticino.ch/fr/articles-frontalier/como-export-suisse-2026/)
@@ -2095,6 +2097,7 @@
 - [Fete Fraise Camorino Charitable](https://frontaliereticino.ch/fr/articles-frontalier/fete-fraise-camorino-charitable/)
 - [Feu De Circulation Paradiso Melide 2026](https://frontaliereticino.ch/fr/articles-frontalier/feu-de-circulation-paradiso-melide-2026/)
 - [Feuille De Route Violence Domestique Bilan Positif](https://frontaliereticino.ch/fr/articles-frontalier/feuille-de-route-violence-domestique-bilan-positif/)
+- [Feux Cadenazzo Trafic](https://frontaliereticino.ch/fr/articles-frontalier/feux-cadenazzo-trafic/)
 - [Feux De Circulation Intelligents Cadenazzo Quartino](https://frontaliereticino.ch/fr/articles-frontalier/feux-de-circulation-intelligents-cadenazzo-quartino/)
 - [Ffs 2027 Ticino](https://frontaliereticino.ch/fr/articles-frontalier/ffs-2027-ticino/)
 - [Ffs Ascension Pentecote 2026](https://frontaliereticino.ch/fr/articles-frontalier/ffs-ascension-pentecote-2026/)
@@ -3979,6 +3982,7 @@
 - [Page 7](https://frontaliereticino.ch/fr/articles-frontalier/sujets/travail-et-emploi/page-7/)
 - [Sun Valley Festival Malvaglia 2026](https://frontaliereticino.ch/fr/articles-frontalier/sun-valley-festival-malvaglia-2026/)
 - [Sunrise Integre Hbb Ssr 2026](https://frontaliereticino.ch/fr/articles-frontalier/sunrise-integre-hbb-ssr-2026/)
+- [Sunrise Suppression Postes Restructuration](https://frontaliereticino.ch/fr/articles-frontalier/sunrise-suppression-postes-restructuration/)
 - [Supermarche Tessin 2026](https://frontaliereticino.ch/fr/articles-frontalier/supermarche-tessin-2026/)
 - [Supsi 20 Nouveaux Professeurs 2026](https://frontaliereticino.ch/fr/articles-frontalier/supsi-20-nouveaux-professeurs-2026/)
 - [Supsi Bachelor Durabilite 2027](https://frontaliereticino.ch/fr/articles-frontalier/supsi-bachelor-durabilite-2027/)
@@ -4843,7 +4847,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2524 pages)
+### Other Pages (2529 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -4865,6 +4869,7 @@
 - [Abonnements Transports Uri Zones Tarifs](https://frontaliereticino.ch/fr/articles-suisse/abonnements-transports-uri-zones-tarifs/)
 - [Abonnements Transports Vaud Zones](https://frontaliereticino.ch/fr/articles-suisse/abonnements-transports-vaud-zones/)
 - [Acces Facilite Assurance Accident 2027](https://frontaliereticino.ch/fr/articles-suisse/acces-facilite-assurance-accident-2027/)
+- [Acces Numerique Donnees Avs Ai](https://frontaliereticino.ch/fr/articles-suisse/acces-numerique-donnees-avs-ai/)
 - [Accident Avec Un Vehicule Agricole Mort De 9 Ans](https://frontaliereticino.ch/fr/articles-suisse/accident-avec-un-vehicule-agricole-mort-de-9-ans/)
 - [Accident Moto Amlikon Bissegg 18 Ans](https://frontaliereticino.ch/fr/articles-suisse/accident-moto-amlikon-bissegg-18-ans/)
 - [Accident Train Mortel Berne](https://frontaliereticino.ch/fr/articles-suisse/accident-train-mortel-berne/)
@@ -5475,6 +5480,7 @@
 - [Deuxieme Pilier Lpp Suisse Guide 2026 Bern](https://frontaliereticino.ch/fr/articles-suisse/deuxieme-pilier-lpp-suisse-guide-2026-bern/)
 - [Deuxieme Pilier Lpp Suisse Guide 2026 Zurich](https://frontaliereticino.ch/fr/articles-suisse/deuxieme-pilier-lpp-suisse-guide-2026-zurich/)
 - [Developpeur Informatique Tessin Frontalier](https://frontaliereticino.ch/fr/articles-suisse/developpeur-informatique-tessin-frontalier/)
+- [Dff Progression Froide Impots 2027](https://frontaliereticino.ch/fr/articles-suisse/dff-progression-froide-impots-2027/)
 - [Diaspora Suisse Parlement](https://frontaliereticino.ch/fr/articles-suisse/diaspora-suisse-parlement/)
 - [Diesel Hausse Geopolitique Suisse](https://frontaliereticino.ch/fr/articles-suisse/diesel-hausse-geopolitique-suisse/)
 - [Diminuiscono Annunci Alloggi Frontaliere Ticino](https://frontaliereticino.ch/fr/articles-suisse/diminuiscono-annunci-alloggi-frontaliere-ticino/)
@@ -6603,6 +6609,7 @@
 - [Revenus Etrangers Controles Fiscaux Suisse](https://frontaliereticino.ch/fr/articles-suisse/revenus-etrangers-controles-fiscaux-suisse/)
 - [Revenus Gagnes A L Etranger Controles Eviter Double Imposition](https://frontaliereticino.ch/fr/articles-suisse/revenus-gagnes-a-l-etranger-controles-eviter-double-imposition/)
 - [Revision Lex Koller Immobilier](https://frontaliereticino.ch/fr/articles-suisse/revision-lex-koller-immobilier/)
+- [Revision Loi Epidemies Suisse](https://frontaliereticino.ch/fr/articles-suisse/revision-loi-epidemies-suisse/)
 - [Revolut Hacker Suisse Pec](https://frontaliereticino.ch/fr/articles-suisse/revolut-hacker-suisse-pec/)
 - [Revolut Licence Bancaire Suisse](https://frontaliereticino.ch/fr/articles-suisse/revolut-licence-bancaire-suisse/)
 - [Rhin Navigabilite Futur Alarme](https://frontaliereticino.ch/fr/articles-suisse/rhin-navigabilite-futur-alarme/)
@@ -6810,6 +6817,7 @@
 - [Page 6](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-6/)
 - [Page 7](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-7/)
 - [Page 8](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-8/)
+- [Page 9](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-9/)
 - [Energie Et Carburants](https://frontaliereticino.ch/fr/articles-suisse/sujets/energie-et-carburants/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/energie-et-carburants/page-2/)
 - [Famille Et Ecole](https://frontaliereticino.ch/fr/articles-suisse/sujets/famille-et-ecole/)
@@ -6829,6 +6837,7 @@
 - [Page 5](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-5/)
 - [Frontiere Et Douane](https://frontaliereticino.ch/fr/articles-suisse/sujets/frontiere-et-douane/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/frontiere-et-douane/page-2/)
+- [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/frontiere-et-douane/page-3/)
 - [Impots](https://frontaliereticino.ch/fr/articles-suisse/sujets/impots/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/impots/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/impots/page-3/)
