@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7327 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7330 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -731,7 +731,7 @@
 - [Page Index 7](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-8/)
 
-### Blog Articles (4072 pages)
+### Blog Articles (4074 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -2520,6 +2520,7 @@
 - [Ia Swiss Re Ameliore Productivite 80 Pourcent](https://frontaliereticino.ch/fr/articles-frontalier/ia-swiss-re-ameliore-productivite-80-pourcent/)
 - [Ile Artique Islande Italien](https://frontaliereticino.ch/fr/articles-frontalier/ile-artique-islande-italien/)
 - [Iliad Reseaux Plus Rapides](https://frontaliereticino.ch/fr/articles-frontalier/iliad-reseaux-plus-rapides/)
+- [Immatriculations Vehicules Tessin W38 2026](https://frontaliereticino.ch/fr/articles-frontalier/immatriculations-vehicules-tessin-w38-2026/)
 - [Immigration Modele Suisse 2026](https://frontaliereticino.ch/fr/articles-frontalier/immigration-modele-suisse-2026/)
 - [Immigration Suisse 60 Ans 2026](https://frontaliereticino.ch/fr/articles-frontalier/immigration-suisse-60-ans-2026/)
 - [Immigration Suisse Vieillissement 2026](https://frontaliereticino.ch/fr/articles-frontalier/immigration-suisse-vieillissement-2026/)
@@ -3914,6 +3915,7 @@
 - [Page 24](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-24/)
 - [Page 25](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-25/)
 - [Page 26](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-26/)
+- [Page 27](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-27/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-4/)
 - [Page 5](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-5/)
@@ -4851,7 +4853,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2529 pages)
+### Other Pages (2530 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -6283,6 +6285,7 @@
 - [Paiements Sans Connexion Cartes 2026](https://frontaliereticino.ch/fr/articles-suisse/paiements-sans-connexion-cartes-2026/)
 - [Paradis Trading Ressources Naturelles](https://frontaliereticino.ch/fr/articles-suisse/paradis-trading-ressources-naturelles/)
 - [Parahotellerie Progression Trimestre 2026](https://frontaliereticino.ch/fr/articles-suisse/parahotellerie-progression-trimestre-2026/)
+- [Parc Vehicules Suisse 2026](https://frontaliereticino.ch/fr/articles-suisse/parc-vehicules-suisse-2026/)
 - [Parce Que Les Taux D Interet En Suisse Restent Bas](https://frontaliereticino.ch/fr/articles-suisse/parce-que-les-taux-d-interet-en-suisse-restent-bas/)
 - [Parlement Avs Protection Adoption](https://frontaliereticino.ch/fr/articles-suisse/parlement-avs-protection-adoption/)
 - [Parlement Suisse Lutte Accords Avs](https://frontaliereticino.ch/fr/articles-suisse/parlement-suisse-lutte-accords-avs/)
