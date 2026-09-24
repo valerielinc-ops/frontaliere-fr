@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7332 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7336 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -731,7 +731,7 @@
 - [Page Index 7](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-8/)
 
-### Blog Articles (4075 pages)
+### Blog Articles (4077 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1374,6 +1374,7 @@
 - [Cervelas La Saucisse Nationale Suisse](https://frontaliereticino.ch/fr/articles-frontalier/cervelas-la-saucisse-nationale-suisse/)
 - [Cession Bper Bcc Varese 2026](https://frontaliereticino.ch/fr/articles-frontalier/cession-bper-bcc-varese-2026/)
 - [Cff Cargos Coupures Tessin Berne](https://frontaliereticino.ch/fr/articles-frontalier/cff-cargos-coupures-tessin-berne/)
+- [Cgil Regio Insubrica Reunion Novembre](https://frontaliereticino.ch/fr/articles-frontalier/cgil-regio-insubrica-reunion-novembre/)
 - [Chaleur Travail Frontalier Tessin](https://frontaliereticino.ch/fr/articles-frontalier/chaleur-travail-frontalier-tessin/)
 - [Chambre Commerce Varese 30 Ans Registre Commerce](https://frontaliereticino.ch/fr/articles-frontalier/chambre-commerce-varese-30-ans-registre-commerce/)
 - [Championnat Inter Varese 2026](https://frontaliereticino.ch/fr/articles-frontalier/championnat-inter-varese-2026/)
@@ -3214,6 +3215,7 @@
 - [Pensees Interdites Bourse Sur La Route De L Ile Des 15000 Points](https://frontaliereticino.ch/fr/articles-frontalier/pensees-interdites-bourse-sur-la-route-de-l-ile-des-15000-points/)
 - [Pension Frontaliere 2026 Planifier Avec Famille Et Enfants](https://frontaliereticino.ch/fr/articles-frontalier/pension-frontaliere-2026-planifier-avec-famille-et-enfants/)
 - [Pension Lpp Imposition Sans Intermediaire](https://frontaliereticino.ch/fr/articles-frontalier/pension-lpp-imposition-sans-intermediaire/)
+- [Pension Publique Suisse Pas D Imposition En Italie](https://frontaliereticino.ch/fr/articles-frontalier/pension-publique-suisse-pas-d-imposition-en-italie/)
 - [Pensionner En Suisse Pour Ces Qui Se Deplacent Sans Statut Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/pensionner-en-suisse-pour-ces-qui-se-deplacent-sans-statut-frontalier/)
 - [Pensions Aout 2026 Bulletin Inps](https://frontaliereticino.ch/fr/articles-frontalier/pensions-aout-2026-bulletin-inps/)
 - [Pensions Desavantage Impots Travailleurs Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/pensions-desavantage-impots-travailleurs-frontaliers/)
@@ -4854,7 +4856,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2531 pages)
+### Other Pages (2533 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -7064,6 +7066,7 @@
 - [Trottinette Casque Securite](https://frontaliereticino.ch/fr/articles-suisse/trottinette-casque-securite/)
 - [Trump Droits De Douane 2026](https://frontaliereticino.ch/fr/articles-suisse/trump-droits-de-douane-2026/)
 - [Trump Senat Americain Heure Ete](https://frontaliereticino.ch/fr/articles-suisse/trump-senat-americain-heure-ete/)
+- [Tuberculose Suisse Hausse 2025](https://frontaliereticino.ch/fr/articles-suisse/tuberculose-suisse-hausse-2025/)
 - [Tva Hausse Decision Gouvernement Prevue](https://frontaliereticino.ch/fr/articles-suisse/tva-hausse-decision-gouvernement-prevue/)
 - [Twint Debit Direct 2027](https://frontaliereticino.ch/fr/articles-suisse/twint-debit-direct-2027/)
 - [Twint Prelevement Automatique Factures](https://frontaliereticino.ch/fr/articles-suisse/twint-prelevement-automatique-factures/)
@@ -7370,6 +7373,7 @@
 - [Transports](https://frontaliereticino.ch/fr/transports/)
 - [Travail A Lugano](https://frontaliereticino.ch/fr/travail-a-lugano/)
 - [Travail Frontalier](https://frontaliereticino.ch/fr/travail-frontalier/)
+- [Travail Tessin Architecte](https://frontaliereticino.ch/fr/travail-tessin-architecte/)
 - [Travail Tessin Assistant Soins](https://frontaliereticino.ch/fr/travail-tessin-assistant-soins/)
 - [Travail Tessin Boucher](https://frontaliereticino.ch/fr/travail-tessin-boucher/)
 - [Travail Tessin Chauffeur](https://frontaliereticino.ch/fr/travail-tessin-chauffeur/)
