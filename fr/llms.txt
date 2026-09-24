@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7330 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7332 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -731,7 +731,7 @@
 - [Page Index 7](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-8/)
 
-### Blog Articles (4074 pages)
+### Blog Articles (4075 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1250,6 +1250,7 @@
 - [Bulletin Frontalier 2026 09 21](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-frontalier-2026-09-21/)
 - [Bulletin Frontalier 2026 09 22](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-frontalier-2026-09-22/)
 - [Bulletin Frontalier 2026 09 23](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-frontalier-2026-09-23/)
+- [Bulletin Frontalier 2026 09 24](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-frontalier-2026-09-24/)
 - [Bulletin Salaire Frontalier Net 2026](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-salaire-frontalier-net-2026/)
 - [Bulletin Salaire Suisse Frontalier 20km](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-salaire-suisse-frontalier-20km/)
 - [Bureau Douanier Unique Mendrisio Sopraceneri](https://frontaliereticino.ch/fr/articles-frontalier/bureau-douanier-unique-mendrisio-sopraceneri/)
@@ -1766,6 +1767,7 @@
 - [Deces Umberto Bossi Tessin Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/deces-umberto-bossi-tessin-frontaliers/)
 - [Dechets Frontaliers Cantello Amende](https://frontaliereticino.ch/fr/articles-frontalier/dechets-frontaliers-cantello-amende/)
 - [Dechets Transfrontaliers Cantello Amende](https://frontaliereticino.ch/fr/articles-frontalier/dechets-transfrontaliers-cantello-amende/)
+- [Decision Bns Taux De Change Franc Euro](https://frontaliereticino.ch/fr/articles-frontalier/decision-bns-taux-de-change-franc-euro/)
 - [Declaration Andreoli San Marino Rtv](https://frontaliereticino.ch/fr/articles-frontalier/declaration-andreoli-san-marino-rtv/)
 - [Declaration De Revenus 2026](https://frontaliereticino.ch/fr/articles-frontalier/declaration-de-revenus-2026/)
 - [Declaration Impots Digitale Tessin 26](https://frontaliereticino.ch/fr/articles-frontalier/declaration-impots-digitale-tessin-26/)
@@ -3915,7 +3917,6 @@
 - [Page 24](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-24/)
 - [Page 25](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-25/)
 - [Page 26](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-26/)
-- [Page 27](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-27/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-4/)
 - [Page 5](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-5/)
@@ -4853,7 +4854,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2530 pages)
+### Other Pages (2531 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -6288,6 +6289,7 @@
 - [Parc Vehicules Suisse 2026](https://frontaliereticino.ch/fr/articles-suisse/parc-vehicules-suisse-2026/)
 - [Parce Que Les Taux D Interet En Suisse Restent Bas](https://frontaliereticino.ch/fr/articles-suisse/parce-que-les-taux-d-interet-en-suisse-restent-bas/)
 - [Parlement Avs Protection Adoption](https://frontaliereticino.ch/fr/articles-suisse/parlement-avs-protection-adoption/)
+- [Parlement Rejette Naturalisation Apres 5 Ans](https://frontaliereticino.ch/fr/articles-suisse/parlement-rejette-naturalisation-apres-5-ans/)
 - [Parlement Suisse Lutte Accords Avs](https://frontaliereticino.ch/fr/articles-suisse/parlement-suisse-lutte-accords-avs/)
 - [Parlement Suisse Pension Tva](https://frontaliereticino.ch/fr/articles-suisse/parlement-suisse-pension-tva/)
 - [Parlement Suisse Voile Interdiction](https://frontaliereticino.ch/fr/articles-suisse/parlement-suisse-voile-interdiction/)
