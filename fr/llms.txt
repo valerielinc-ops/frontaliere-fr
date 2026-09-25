@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7336 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7346 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -731,7 +731,7 @@
 - [Page Index 7](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-8/)
 
-### Blog Articles (4077 pages)
+### Blog Articles (4080 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1202,6 +1202,7 @@
 - [Bruit Trafic Suisse 500 Morts Par An](https://frontaliereticino.ch/fr/articles-frontalier/bruit-trafic-suisse-500-morts-par-an/)
 - [Bruit Trafic Suisse Travailleurs Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/bruit-trafic-suisse-travailleurs-frontaliers/)
 - [Brusimpiano Travailler Ticino Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/brusimpiano-travailler-ticino-frontalier/)
+- [Bsn Franc Euro Change](https://frontaliereticino.ch/fr/articles-frontalier/bsn-franc-euro-change/)
 - [Budget Province De Varese 1 5 Million](https://frontaliereticino.ch/fr/articles-frontalier/budget-province-de-varese-1-5-million/)
 - [Budget Varese 2026 Surplus Record](https://frontaliereticino.ch/fr/articles-frontalier/budget-varese-2026-surplus-record/)
 - [Buffet Camedo Evenements Tessin](https://frontaliereticino.ch/fr/articles-frontalier/buffet-camedo-evenements-tessin/)
@@ -2987,6 +2988,7 @@
 - [Mise A Niveau Lignes Tilo Mendrisio Gallarate](https://frontaliereticino.ch/fr/articles-frontalier/mise-a-niveau-lignes-tilo-mendrisio-gallarate/)
 - [Mission Durgence Chiasso](https://frontaliereticino.ch/fr/articles-frontalier/mission-durgence-chiasso/)
 - [Mobilisation Depot Mecaniciens Chiasso](https://frontaliereticino.ch/fr/articles-frontalier/mobilisation-depot-mecaniciens-chiasso/)
+- [Mobilisation Ferroviaire Luino Suisse](https://frontaliereticino.ch/fr/articles-frontalier/mobilisation-ferroviaire-luino-suisse/)
 - [Mobilite Durable Villes Vivables 2026](https://frontaliereticino.ch/fr/articles-frontalier/mobilite-durable-villes-vivables-2026/)
 - [Mobilite Personnel Infirmier Tessin](https://frontaliereticino.ch/fr/articles-frontalier/mobilite-personnel-infirmier-tessin/)
 - [Mobilite Quotidienne Varese Donnees Enquete](https://frontaliereticino.ch/fr/articles-frontalier/mobilite-quotidienne-varese-donnees-enquete/)
@@ -3887,6 +3889,7 @@
 - [Page 6](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/page-6/)
 - [Page 7](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/page-7/)
 - [Page 8](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/page-8/)
+- [Page 9](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/page-9/)
 - [Frontiere Et Douane](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/)
 - [Page 10](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-10/)
 - [Page 11](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-11/)
@@ -4856,7 +4859,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2533 pages)
+### Other Pages (2540 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -5850,6 +5853,7 @@
 - [Guide Pratique Declaration Fiscale Suisse 2026 Canton De Lucerne](https://frontaliereticino.ch/fr/articles-suisse/guide-pratique-declaration-fiscale-suisse-2026-canton-de-lucerne/)
 - [Guide Recherche Emploi Argovie 2026](https://frontaliereticino.ch/fr/articles-suisse/guide-recherche-emploi-argovie-2026/)
 - [Hausse Des Prix A La Consommation En Aout 2026](https://frontaliereticino.ch/fr/articles-suisse/hausse-des-prix-a-la-consommation-en-aout-2026/)
+- [Hausse Des Prix Du Carburant Suisse](https://frontaliereticino.ch/fr/articles-suisse/hausse-des-prix-du-carburant-suisse/)
 - [Hausse Des Prix Du Fioul De Chauffage Due Au Conflit Usa Iran](https://frontaliereticino.ch/fr/articles-suisse/hausse-des-prix-du-fioul-de-chauffage-due-au-conflit-usa-iran/)
 - [Hausse Taux Hypothecaires Suisse](https://frontaliereticino.ch/fr/articles-suisse/hausse-taux-hypothecaires-suisse/)
 - [Haut Debit Conseil Federal 2030](https://frontaliereticino.ch/fr/articles-suisse/haut-debit-conseil-federal-2030/)
@@ -5999,6 +6003,7 @@
 - [L Essence Coute Aujourd Hui Moins Cher Que Dans Les Annees 80](https://frontaliereticino.ch/fr/articles-suisse/l-essence-coute-aujourd-hui-moins-cher-que-dans-les-annees-80/)
 - [L Excuse De Pfister Aux Eglises Chretiennes Suisses](https://frontaliereticino.ch/fr/articles-suisse/l-excuse-de-pfister-aux-eglises-chretiennes-suisses/)
 - [L Initiative Sur La Neutralite Un Texte Pro Poutine Qui Nuit A La Suisse](https://frontaliereticino.ch/fr/articles-suisse/l-initiative-sur-la-neutralite-un-texte-pro-poutine-qui-nuit-a-la-suisse/)
+- [La Bns Laisse Un Taux Directeur A 0 Et Releve Ses Estimations De Pib 2026](https://frontaliereticino.ch/fr/articles-suisse/la-bns-laisse-un-taux-directeur-a-0-et-releve-ses-estimations-de-pib-2026/)
 - [La Finance Suisse Sous Examen Pour Son Impact Sur Le Climat](https://frontaliereticino.ch/fr/articles-suisse/la-finance-suisse-sous-examen-pour-son-impact-sur-le-climat/)
 - [La Ia Changera Le Travail Mais Pas Les Personnes](https://frontaliereticino.ch/fr/articles-suisse/la-ia-changera-le-travail-mais-pas-les-personnes/)
 - [La Secheresse Affecte Les Cours D Eau Suisse](https://frontaliereticino.ch/fr/articles-suisse/la-secheresse-affecte-les-cours-d-eau-suisse/)
@@ -6082,6 +6087,7 @@
 - [Luna Wedler Golden Eye Award Zurich](https://frontaliereticino.ch/fr/articles-suisse/luna-wedler-golden-eye-award-zurich/)
 - [Lutte Contre Travail Noir Consultation](https://frontaliereticino.ch/fr/articles-suisse/lutte-contre-travail-noir-consultation/)
 - [Maccabi Lugano Manifestation](https://frontaliereticino.ch/fr/articles-suisse/maccabi-lugano-manifestation/)
+- [Made In Europe Suisse](https://frontaliereticino.ch/fr/articles-suisse/made-in-europe-suisse/)
 - [Maison A Glaris Prix Fonds Et Durabilite Du Pret](https://frontaliereticino.ch/fr/articles-suisse/maison-a-glaris-prix-fonds-et-durabilite-du-pret/)
 - [Maison Nidwald Hypotheque Pratique](https://frontaliereticino.ch/fr/articles-suisse/maison-nidwald-hypotheque-pratique/)
 - [Maison Sangallo Hypotheque Capital Propre](https://frontaliereticino.ch/fr/articles-suisse/maison-sangallo-hypotheque-capital-propre/)
@@ -6150,6 +6156,7 @@
 - [Modification Loi Banques 2026](https://frontaliereticino.ch/fr/articles-suisse/modification-loi-banques-2026/)
 - [Monde Voitures Gris Impression Couleur](https://frontaliereticino.ch/fr/articles-suisse/monde-voitures-gris-impression-couleur/)
 - [Mortalite Cycliste En Suisse](https://frontaliereticino.ch/fr/articles-suisse/mortalite-cycliste-en-suisse/)
+- [Motion Etats Les Organisateurs Paient Les Frais De Securite](https://frontaliereticino.ch/fr/articles-suisse/motion-etats-les-organisateurs-paient-les-frais-de-securite/)
 - [Mps Sisa Frais Universite](https://frontaliereticino.ch/fr/articles-suisse/mps-sisa-frais-universite/)
 - [N Ud Dechange Travaux Settembre](https://frontaliereticino.ch/fr/articles-suisse/n-ud-dechange-travaux-settembre/)
 - [Naissance Enfant Frontalier 2026](https://frontaliereticino.ch/fr/articles-suisse/naissance-enfant-frontalier-2026/)
@@ -6996,6 +7003,7 @@
 - [Tomates Economiques Espagnols Une Ere A La Fin](https://frontaliereticino.ch/fr/articles-suisse/tomates-economiques-espagnols-une-ere-a-la-fin/)
 - [Too Big To Fail Conseil Des Etats](https://frontaliereticino.ch/fr/articles-suisse/too-big-to-fail-conseil-des-etats/)
 - [Totalisation Contributions Avs Inps Guide](https://frontaliereticino.ch/fr/articles-suisse/totalisation-contributions-avs-inps-guide/)
+- [Tourisme Suisse Aout Visiteurs Etrangers](https://frontaliereticino.ch/fr/articles-suisse/tourisme-suisse-aout-visiteurs-etrangers/)
 - [Tourisme Suisse Ete Normalisation](https://frontaliereticino.ch/fr/articles-suisse/tourisme-suisse-ete-normalisation/)
 - [Tous](https://frontaliereticino.ch/fr/articles-suisse/tous/)
 - [Tpl 2025 Nombres Record](https://frontaliereticino.ch/fr/articles-suisse/tpl-2025-nombres-record/)
@@ -7048,6 +7056,7 @@
 - [Travailleurs Frontaliers Ticino Donnees T1 2026](https://frontaliereticino.ch/fr/articles-suisse/travailleurs-frontaliers-ticino-donnees-t1-2026/)
 - [Travailleurs Frontieres Chomage Reforme Bruxelles](https://frontaliereticino.ch/fr/articles-suisse/travailleurs-frontieres-chomage-reforme-bruxelles/)
 - [Travailleurs Saisonniers Tourisme Logement](https://frontaliereticino.ch/fr/articles-suisse/travailleurs-saisonniers-tourisme-logement/)
+- [Travailleurs Temporaires Intemperies](https://frontaliereticino.ch/fr/articles-suisse/travailleurs-temporaires-intemperies/)
 - [Travailsuisse Salaire 2026](https://frontaliereticino.ch/fr/articles-suisse/travailsuisse-salaire-2026/)
 - [Travaux Ffs Ete Tessin](https://frontaliereticino.ch/fr/articles-suisse/travaux-ffs-ete-tessin/)
 - [Travaux Tilo Quels Changements](https://frontaliereticino.ch/fr/articles-suisse/travaux-tilo-quels-changements/)
@@ -7071,6 +7080,7 @@
 - [Twint Debit Direct 2027](https://frontaliereticino.ch/fr/articles-suisse/twint-debit-direct-2027/)
 - [Twint Prelevement Automatique Factures](https://frontaliereticino.ch/fr/articles-suisse/twint-prelevement-automatique-factures/)
 - [Twint Virement Direct](https://frontaliereticino.ch/fr/articles-suisse/twint-virement-direct/)
+- [Ubs Capital 90 Bns](https://frontaliereticino.ch/fr/articles-suisse/ubs-capital-90-bns/)
 - [Ubs Exigences Capitales](https://frontaliereticino.ch/fr/articles-suisse/ubs-exigences-capitales/)
 - [Ubs Normes Bancaires Compromis](https://frontaliereticino.ch/fr/articles-suisse/ubs-normes-bancaires-compromis/)
 - [Ubs Nouveau Modele Prevoyance Vieillesse](https://frontaliereticino.ch/fr/articles-suisse/ubs-nouveau-modele-prevoyance-vieillesse/)
