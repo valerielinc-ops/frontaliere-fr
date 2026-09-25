@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7346 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7351 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -731,7 +731,7 @@
 - [Page Index 7](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-8/)
 
-### Blog Articles (4080 pages)
+### Blog Articles (4083 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1174,6 +1174,7 @@
 - [Blues To Bop Lugano Visite](https://frontaliereticino.ch/fr/articles-frontalier/blues-to-bop-lugano-visite/)
 - [Bns Baisse Profit 2025 Impact Tessin](https://frontaliereticino.ch/fr/articles-frontalier/bns-baisse-profit-2025-impact-tessin/)
 - [Bns Benefice 2025 Ticino](https://frontaliereticino.ch/fr/articles-frontalier/bns-benefice-2025-ticino/)
+- [Bns Decision Taux Inchange 2026](https://frontaliereticino.ch/fr/articles-frontalier/bns-decision-taux-inchange-2026/)
 - [Bns Dit Non Au Franc Digital](https://frontaliereticino.ch/fr/articles-frontalier/bns-dit-non-au-franc-digital/)
 - [Boites Lettres Centralisees Personnes Agees Syndicats](https://frontaliereticino.ch/fr/articles-frontalier/boites-lettres-centralisees-personnes-agees-syndicats/)
 - [Bonnie Tyler Dans Le Coma 2026](https://frontaliereticino.ch/fr/articles-frontalier/bonnie-tyler-dans-le-coma-2026/)
@@ -2395,6 +2396,7 @@
 - [Golasecca Randonnee Exploration 2026](https://frontaliereticino.ch/fr/articles-frontalier/golasecca-randonnee-exploration-2026/)
 - [Goldbach Group Reorganisation Licenciements](https://frontaliereticino.ch/fr/articles-frontalier/goldbach-group-reorganisation-licenciements/)
 - [Gordola Santa Maria Recours 2026](https://frontaliereticino.ch/fr/articles-frontalier/gordola-santa-maria-recours-2026/)
+- [Gornate Olona Guide Fiscal](https://frontaliereticino.ch/fr/articles-frontalier/gornate-olona-guide-fiscal/)
 - [Gottard Rouvre Le 8 Mai 2026](https://frontaliereticino.ch/fr/articles-frontalier/gottard-rouvre-le-8-mai-2026/)
 - [Gouvernance Participative Ssn 2026](https://frontaliereticino.ch/fr/articles-frontalier/gouvernance-participative-ssn-2026/)
 - [Gouvernement Rejette Initiative Frontieres](https://frontaliereticino.ch/fr/articles-frontalier/gouvernement-rejette-initiative-frontieres/)
@@ -3889,7 +3891,6 @@
 - [Page 6](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/page-6/)
 - [Page 7](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/page-7/)
 - [Page 8](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/page-8/)
-- [Page 9](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/page-9/)
 - [Frontiere Et Douane](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/)
 - [Page 10](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-10/)
 - [Page 11](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-11/)
@@ -3942,6 +3943,7 @@
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/page-4/)
 - [Page 5](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/page-5/)
 - [Page 6](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/page-6/)
+- [Page 7](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/page-7/)
 - [Salaires](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/)
 - [Page 10](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/page-10/)
 - [Page 11](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/page-11/)
@@ -3991,6 +3993,7 @@
 - [Page 5](https://frontaliereticino.ch/fr/articles-frontalier/sujets/travail-et-emploi/page-5/)
 - [Page 6](https://frontaliereticino.ch/fr/articles-frontalier/sujets/travail-et-emploi/page-6/)
 - [Page 7](https://frontaliereticino.ch/fr/articles-frontalier/sujets/travail-et-emploi/page-7/)
+- [Page 8](https://frontaliereticino.ch/fr/articles-frontalier/sujets/travail-et-emploi/page-8/)
 - [Sun Valley Festival Malvaglia 2026](https://frontaliereticino.ch/fr/articles-frontalier/sun-valley-festival-malvaglia-2026/)
 - [Sunrise Integre Hbb Ssr 2026](https://frontaliereticino.ch/fr/articles-frontalier/sunrise-integre-hbb-ssr-2026/)
 - [Sunrise Suppression Postes Restructuration](https://frontaliereticino.ch/fr/articles-frontalier/sunrise-suppression-postes-restructuration/)
@@ -4859,7 +4862,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2540 pages)
+### Other Pages (2542 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -5356,6 +5359,7 @@
 - [Confederation Conserve Les Territoires De Thun Pour La Defense](https://frontaliereticino.ch/fr/articles-suisse/confederation-conserve-les-territoires-de-thun-pour-la-defense/)
 - [Conference Osce Berne](https://frontaliereticino.ch/fr/articles-suisse/conference-osce-berne/)
 - [Conference Osce Berne 2026](https://frontaliereticino.ch/fr/articles-suisse/conference-osce-berne-2026/)
+- [Conference Protection Population Berne](https://frontaliereticino.ch/fr/articles-suisse/conference-protection-population-berne/)
 - [Conge Parental Frontaliers](https://frontaliereticino.ch/fr/articles-suisse/conge-parental-frontaliers/)
 - [Conge Parental Suisse Duree Indemnite](https://frontaliereticino.ch/fr/articles-suisse/conge-parental-suisse-duree-indemnite/)
 - [Conseil Etats Lex Ubs At1](https://frontaliereticino.ch/fr/articles-suisse/conseil-etats-lex-ubs-at1/)
@@ -5643,6 +5647,7 @@
 - [Fides 26 Police Armee Berne](https://frontaliereticino.ch/fr/articles-suisse/fides-26-police-armee-berne/)
 - [Fiduciaire Frontalier Ticino Requisits Salaire](https://frontaliereticino.ch/fr/articles-suisse/fiduciaire-frontalier-ticino-requisits-salaire/)
 - [Fielmann Interlaken Emploi Suisse](https://frontaliereticino.ch/fr/articles-suisse/fielmann-interlaken-emploi-suisse/)
+- [Fin Vaccination Lumpy Skin Disease](https://frontaliereticino.ch/fr/articles-suisse/fin-vaccination-lumpy-skin-disease/)
 - [Financement Maison Femmes Grisons](https://frontaliereticino.ch/fr/articles-suisse/financement-maison-femmes-grisons/)
 - [Financement Partiel 13e Retraite](https://frontaliereticino.ch/fr/articles-suisse/financement-partiel-13e-retraite/)
 - [Financement Partis Ps 2025](https://frontaliereticino.ch/fr/articles-suisse/financement-partis-ps-2025/)
@@ -6799,6 +6804,7 @@
 - [Suisse Chomage Frontaliers Ue](https://frontaliereticino.ch/fr/articles-suisse/suisse-chomage-frontaliers-ue/)
 - [Suisse Cible Moscou Defence](https://frontaliereticino.ch/fr/articles-suisse/suisse-cible-moscou-defence/)
 - [Suisse Corruption Restitution Banques](https://frontaliereticino.ch/fr/articles-suisse/suisse-corruption-restitution-banques/)
+- [Suisse Deux Initiatives 2026](https://frontaliereticino.ch/fr/articles-suisse/suisse-deux-initiatives-2026/)
 - [Suisse Ees Ralentit Controles](https://frontaliereticino.ch/fr/articles-suisse/suisse-ees-ralentit-controles/)
 - [Suisse Etats Unis Droits Forced Labor](https://frontaliereticino.ch/fr/articles-suisse/suisse-etats-unis-droits-forced-labor/)
 - [Suisse Eu Accord Conseil Federal](https://frontaliereticino.ch/fr/articles-suisse/suisse-eu-accord-conseil-federal/)
@@ -6888,7 +6894,6 @@
 - [Salaires](https://frontaliereticino.ch/fr/articles-suisse/sujets/salaires/)
 - [Page 10](https://frontaliereticino.ch/fr/articles-suisse/sujets/salaires/page-10/)
 - [Page 11](https://frontaliereticino.ch/fr/articles-suisse/sujets/salaires/page-11/)
-- [Page 12](https://frontaliereticino.ch/fr/articles-suisse/sujets/salaires/page-12/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/salaires/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/salaires/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-suisse/sujets/salaires/page-4/)
