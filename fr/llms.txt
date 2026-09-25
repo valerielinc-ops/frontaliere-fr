@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7351 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7352 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -4862,7 +4862,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2542 pages)
+### Other Pages (2543 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -6796,6 +6796,7 @@
 - [Succession Donation Zurich Guide](https://frontaliereticino.ch/fr/articles-suisse/succession-donation-zurich-guide/)
 - [Succession Heritage Frontalier Compte Suisse](https://frontaliereticino.ch/fr/articles-suisse/succession-heritage-frontalier-compte-suisse/)
 - [Suisse Baisse Immigration Emigration 2026](https://frontaliereticino.ch/fr/articles-suisse/suisse-baisse-immigration-emigration-2026/)
+- [Suisse Canicule Dommages Economiques 2026](https://frontaliereticino.ch/fr/articles-suisse/suisse-canicule-dommages-economiques-2026/)
 - [Suisse Ceuta Melilla Controles Frontieres](https://frontaliereticino.ch/fr/articles-suisse/suisse-ceuta-melilla-controles-frontieres/)
 - [Suisse Chine Accord Libre Echange](https://frontaliereticino.ch/fr/articles-suisse/suisse-chine-accord-libre-echange/)
 - [Suisse Chine Accord Tarifaire](https://frontaliereticino.ch/fr/articles-suisse/suisse-chine-accord-tarifaire/)
