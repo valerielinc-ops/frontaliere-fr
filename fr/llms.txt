@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7364 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7371 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -731,7 +731,7 @@
 - [Page Index 7](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-8/)
 
-### Blog Articles (4091 pages)
+### Blog Articles (4095 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -2074,6 +2074,7 @@
 - [Fermeture Nocturne A9 Lomazzo Chiasso](https://frontaliereticino.ch/fr/articles-frontalier/fermeture-nocturne-a9-lomazzo-chiasso/)
 - [Fermeture Plateforme Post Sanela Tessin](https://frontaliereticino.ch/fr/articles-frontalier/fermeture-plateforme-post-sanela-tessin/)
 - [Fermeture Pont Fer Sesto Calende Juillet](https://frontaliereticino.ch/fr/articles-frontalier/fermeture-pont-fer-sesto-calende-juillet/)
+- [Fermeture Route Gazzada Varese](https://frontaliereticino.ch/fr/articles-frontalier/fermeture-route-gazzada-varese/)
 - [Fermeture Route Neggia Fosano](https://frontaliereticino.ch/fr/articles-frontalier/fermeture-route-neggia-fosano/)
 - [Fermetures A8 Gallarate Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/fermetures-a8-gallarate-frontaliers/)
 - [Fermetures A9 Transports Speciaux Como Chiasso](https://frontaliereticino.ch/fr/articles-frontalier/fermetures-a9-transports-speciaux-como-chiasso/)
@@ -2085,6 +2086,7 @@
 - [Fermetures De Routes Tessin 2026](https://frontaliereticino.ch/fr/articles-frontalier/fermetures-de-routes-tessin-2026/)
 - [Fermetures Hopital Circolo Varese 2026](https://frontaliereticino.ch/fr/articles-frontalier/fermetures-hopital-circolo-varese-2026/)
 - [Fermetures Nocturnes A8 Dir Gallarate Gattico](https://frontaliereticino.ch/fr/articles-frontalier/fermetures-nocturnes-a8-dir-gallarate-gattico/)
+- [Fermetures Nocturnes A8 Et D08 Deviations Dans Le Varesotto A Partir Du 28](https://frontaliereticino.ch/fr/articles-frontalier/fermetures-nocturnes-a8-et-d08-deviations-dans-le-varesotto-a-partir-du-28/)
 - [Fermetures Nocturnes A9 Chiasso Como Mars Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/fermetures-nocturnes-a9-chiasso-como-mars-frontaliers/)
 - [Fermetures Nocturnes Autoroute](https://frontaliereticino.ch/fr/articles-frontalier/fermetures-nocturnes-autoroute/)
 - [Fermé Val Bedretto](https://frontaliereticino.ch/fr/articles-frontalier/fermé-val-bedretto/)
@@ -3556,6 +3558,7 @@
 - [Riverlhab Projet Transfrontalier Tessin](https://frontaliereticino.ch/fr/articles-frontalier/riverlhab-projet-transfrontalier-tessin/)
 - [Rives Libres Ascona 2026](https://frontaliereticino.ch/fr/articles-frontalier/rives-libres-ascona-2026/)
 - [Rives Libres Minusio Tenero 2026](https://frontaliereticino.ch/fr/articles-frontalier/rives-libres-minusio-tenero-2026/)
+- [Roberto Gatti Fils Dun Gol Mineur 11 Promotions](https://frontaliereticino.ch/fr/articles-frontalier/roberto-gatti-fils-dun-gol-mineur-11-promotions/)
 - [Roberto Grassi Nouveau President Liuc Castellanza](https://frontaliereticino.ch/fr/articles-frontalier/roberto-grassi-nouveau-president-liuc-castellanza/)
 - [Robots Humanoides Marathon Fascination](https://frontaliereticino.ch/fr/articles-frontalier/robots-humanoides-marathon-fascination/)
 - [Roche Medicaments Obesite Tessin 2026](https://frontaliereticino.ch/fr/articles-frontalier/roche-medicaments-obesite-tessin-2026/)
@@ -4340,6 +4343,7 @@
 - [Trenord Como Milan Trains Supplementaires 2025](https://frontaliereticino.ch/fr/articles-frontalier/trenord-como-milan-trains-supplementaires-2025/)
 - [Trenord Hausse 388 Lignes Tessin](https://frontaliereticino.ch/fr/articles-frontalier/trenord-hausse-388-lignes-tessin/)
 - [Trenord Indemnisation Navetteurs Como 2026](https://frontaliereticino.ch/fr/articles-frontalier/trenord-indemnisation-navetteurs-como-2026/)
+- [Trenord Laisse 30 Passagers A Gallarate Que La Region Intervienne](https://frontaliereticino.ch/fr/articles-frontalier/trenord-laisse-30-passagers-a-gallarate-que-la-region-intervienne/)
 - [Trenord Pannes 2026](https://frontaliereticino.ch/fr/articles-frontalier/trenord-pannes-2026/)
 - [Trenord Retards Travailleurs Frontaliers 2026](https://frontaliereticino.ch/fr/articles-frontalier/trenord-retards-travailleurs-frontaliers-2026/)
 - [Trenord Vol Cables Come Milan](https://frontaliereticino.ch/fr/articles-frontalier/trenord-vol-cables-come-milan/)
@@ -4870,7 +4874,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2547 pages)
+### Other Pages (2550 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -5696,9 +5700,11 @@
 - [Frais Sanitaires Frontaliers Italie](https://frontaliereticino.ch/fr/articles-suisse/frais-sanitaires-frontaliers-italie/)
 - [Franc Euro Analyse Donnees Change](https://frontaliereticino.ch/fr/articles-suisse/franc-euro-analyse-donnees-change/)
 - [Franc Suisse Economie Bns Politique Monetaire](https://frontaliereticino.ch/fr/articles-suisse/franc-suisse-economie-bns-politique-monetaire/)
+- [Franc Suisse En Baisse Les Signaux A Suivre Jusqu En Novembre](https://frontaliereticino.ch/fr/articles-suisse/franc-suisse-en-baisse-les-signaux-a-suivre-jusqu-en-novembre/)
 - [Franc Suisse Euro](https://frontaliereticino.ch/fr/articles-suisse/franc-suisse-euro/)
 - [Franc Suisse Euro Minima](https://frontaliereticino.ch/fr/articles-suisse/franc-suisse-euro-minima/)
 - [Franc Suisse Taux De Change](https://frontaliereticino.ch/fr/articles-suisse/franc-suisse-taux-de-change/)
+- [Francais Autonomie Cantons](https://frontaliereticino.ch/fr/articles-suisse/francais-autonomie-cantons/)
 - [Franchises Reduction Appenzell](https://frontaliereticino.ch/fr/articles-suisse/franchises-reduction-appenzell/)
 - [Franco Euro Au Minimum De L Annee](https://frontaliereticino.ch/fr/articles-suisse/franco-euro-au-minimum-de-l-annee/)
 - [Fribourg Abonnements Transports Zones Tarifs](https://frontaliereticino.ch/fr/articles-suisse/fribourg-abonnements-transports-zones-tarifs/)
@@ -6703,6 +6709,7 @@
 - [Sanctions 2026 Mise A Jour](https://frontaliereticino.ch/fr/articles-suisse/sanctions-2026-mise-a-jour/)
 - [Sanctions Onu 2026](https://frontaliereticino.ch/fr/articles-suisse/sanctions-onu-2026/)
 - [Sanctions Onu 2026 Mise A Jour](https://frontaliereticino.ch/fr/articles-suisse/sanctions-onu-2026-mise-a-jour/)
+- [Sanctions Onu Ordonnances 2026](https://frontaliereticino.ch/fr/articles-suisse/sanctions-onu-ordonnances-2026/)
 - [Sanctions Onu Sesam Mise A Jour](https://frontaliereticino.ch/fr/articles-suisse/sanctions-onu-sesam-mise-a-jour/)
 - [Sandoz Biosimilaires 2026](https://frontaliereticino.ch/fr/articles-suisse/sandoz-biosimilaires-2026/)
 - [Sante Parcs Jeux Suisses Megots Cigarettes](https://frontaliereticino.ch/fr/articles-suisse/sante-parcs-jeux-suisses-megots-cigarettes/)
