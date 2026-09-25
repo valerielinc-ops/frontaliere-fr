@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7371 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7374 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -731,7 +731,7 @@
 - [Page Index 7](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-8/)
 
-### Blog Articles (4095 pages)
+### Blog Articles (4097 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1102,6 +1102,7 @@
 - [Banques Suisses Clients Du Golfe Tessin 2026](https://frontaliereticino.ch/fr/articles-frontalier/banques-suisses-clients-du-golfe-tessin-2026/)
 - [Banques Suisses Clients Golfe](https://frontaliereticino.ch/fr/articles-frontalier/banques-suisses-clients-golfe/)
 - [Barasso Place San Martino Vert](https://frontaliereticino.ch/fr/articles-frontalier/barasso-place-san-martino-vert/)
+- [Barco Saronno Agitation Greve 2026](https://frontaliereticino.ch/fr/articles-frontalier/barco-saronno-agitation-greve-2026/)
 - [Barometre Kof Avril 2026 Perspectives Modestes](https://frontaliereticino.ch/fr/articles-frontalier/barometre-kof-avril-2026-perspectives-modestes/)
 - [Barometre Kof Reprise Economique 2026](https://frontaliereticino.ch/fr/articles-frontalier/barometre-kof-reprise-economique-2026/)
 - [Barometre Kof Reprise Modeste 2026](https://frontaliereticino.ch/fr/articles-frontalier/barometre-kof-reprise-modeste-2026/)
@@ -3901,7 +3902,6 @@
 - [Page 6](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/page-6/)
 - [Page 7](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/page-7/)
 - [Page 8](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/page-8/)
-- [Page 9](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/page-9/)
 - [Frontiere Et Douane](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/)
 - [Page 10](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-10/)
 - [Page 11](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-11/)
@@ -4156,6 +4156,7 @@
 - [Ticino Tournant Pour Apprenants](https://frontaliereticino.ch/fr/articles-frontalier/ticino-tournant-pour-apprenants/)
 - [Ticinois Et Travailleurs Frontaliers AchèTent Des Maisons Sur Le Lac Majeur Et Le Lac Ceresio](https://frontaliereticino.ch/fr/articles-frontalier/ticinois-et-travailleurs-frontaliers-achètent-des-maisons-sur-le-lac-majeur-et-le-lac-ceresio/)
 - [Ticinosentieri Nouvelles Nominations 2026](https://frontaliereticino.ch/fr/articles-frontalier/ticinosentieri-nouvelles-nominations-2026/)
+- [Ticket Salaire Achats Tessin](https://frontaliereticino.ch/fr/articles-frontalier/ticket-salaire-achats-tessin/)
 - [Ticket Ticino Reduction](https://frontaliereticino.ch/fr/articles-frontalier/ticket-ticino-reduction/)
 - [Ticosa 1000 Places De Stationnement Acinque Travailleurs Frontaliers Tessin](https://frontaliereticino.ch/fr/articles-frontalier/ticosa-1000-places-de-stationnement-acinque-travailleurs-frontaliers-tessin/)
 - [Tilo 25 Millions Passagers](https://frontaliereticino.ch/fr/articles-frontalier/tilo-25-millions-passagers/)
@@ -4802,6 +4803,7 @@
 - [Vols En Libre Service Tessin 2026](https://frontaliereticino.ch/fr/articles-frontalier/vols-en-libre-service-tessin-2026/)
 - [Vols En Serie Dans Les Voitures Luganais Arrete](https://frontaliereticino.ch/fr/articles-frontalier/vols-en-serie-dans-les-voitures-luganais-arrete/)
 - [Vols Supermarches Ponte Tresa](https://frontaliereticino.ch/fr/articles-frontalier/vols-supermarches-ponte-tresa/)
+- [Vols Voitures Luxe Tessin](https://frontaliereticino.ch/fr/articles-frontalier/vols-voitures-luxe-tessin/)
 - [Von Der Leyen Ue Energie 500 Millions Jour](https://frontaliereticino.ch/fr/articles-frontalier/von-der-leyen-ue-energie-500-millions-jour/)
 - [Votations Imposition Individuelle Tessin 2026](https://frontaliereticino.ch/fr/articles-frontalier/votations-imposition-individuelle-tessin-2026/)
 - [Votations Tessin 14 Juin 2024](https://frontaliereticino.ch/fr/articles-frontalier/votations-tessin-14-juin-2024/)
@@ -4874,7 +4876,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2550 pages)
+### Other Pages (2551 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -6816,6 +6818,7 @@
 - [Succession Donation Zurich Guide](https://frontaliereticino.ch/fr/articles-suisse/succession-donation-zurich-guide/)
 - [Succession Heritage Frontalier Compte Suisse](https://frontaliereticino.ch/fr/articles-suisse/succession-heritage-frontalier-compte-suisse/)
 - [Suisse Baisse Immigration Emigration 2026](https://frontaliereticino.ch/fr/articles-suisse/suisse-baisse-immigration-emigration-2026/)
+- [Suisse Budget Defense Tva](https://frontaliereticino.ch/fr/articles-suisse/suisse-budget-defense-tva/)
 - [Suisse Canicule Dommages Economiques 2026](https://frontaliereticino.ch/fr/articles-suisse/suisse-canicule-dommages-economiques-2026/)
 - [Suisse Ceuta Melilla Controles Frontieres](https://frontaliereticino.ch/fr/articles-suisse/suisse-ceuta-melilla-controles-frontieres/)
 - [Suisse Chine Accord Libre Echange](https://frontaliereticino.ch/fr/articles-suisse/suisse-chine-accord-libre-echange/)
