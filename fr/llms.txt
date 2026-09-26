@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7400 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7410 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -731,7 +731,7 @@
 - [Page Index 7](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-8/)
 
-### Blog Articles (4110 pages)
+### Blog Articles (4115 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1261,6 +1261,7 @@
 - [Bulletin Frontalier 2026 09 23](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-frontalier-2026-09-23/)
 - [Bulletin Frontalier 2026 09 24](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-frontalier-2026-09-24/)
 - [Bulletin Frontalier 2026 09 25](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-frontalier-2026-09-25/)
+- [Bulletin Frontalier 2026 09 26](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-frontalier-2026-09-26/)
 - [Bulletin Salaire Frontalier Net 2026](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-salaire-frontalier-net-2026/)
 - [Bulletin Salaire Suisse Frontalier 20km](https://frontaliereticino.ch/fr/articles-frontalier/bulletin-salaire-suisse-frontalier-20km/)
 - [Bureau Douanier Unique Mendrisio Sopraceneri](https://frontaliereticino.ch/fr/articles-frontalier/bureau-douanier-unique-mendrisio-sopraceneri/)
@@ -1662,6 +1663,7 @@
 - [Cornaredo Milliard Promesses Ciment](https://frontaliereticino.ch/fr/articles-frontalier/cornaredo-milliard-promesses-ciment/)
 - [Coronavirus Frontaliers Ticino Suisse](https://frontaliereticino.ch/fr/articles-frontalier/coronavirus-frontaliers-ticino-suisse/)
 - [Cotisations Sociales Bulletin](https://frontaliereticino.ch/fr/articles-frontalier/cotisations-sociales-bulletin/)
+- [Cotonificio Liuc Protagoniste D Industrial Quest 2026](https://frontaliereticino.ch/fr/articles-frontalier/cotonificio-liuc-protagoniste-d-industrial-quest-2026/)
 - [Cottarelli Lycee Manzoni Geopolitique](https://frontaliereticino.ch/fr/articles-frontalier/cottarelli-lycee-manzoni-geopolitique/)
 - [Coupe Du Monde Orienteering Locarno 2026](https://frontaliereticino.ch/fr/articles-frontalier/coupe-du-monde-orienteering-locarno-2026/)
 - [Coupes Personnel Scolaire Lombardie](https://frontaliereticino.ch/fr/articles-frontalier/coupes-personnel-scolaire-lombardie/)
@@ -2682,6 +2684,7 @@
 - [Italie Soupcon Var Minetti Quirinal](https://frontaliereticino.ch/fr/articles-frontalier/italie-soupcon-var-minetti-quirinal/)
 - [Italie Suisse Recherche 2026](https://frontaliereticino.ch/fr/articles-frontalier/italie-suisse-recherche-2026/)
 - [Italie Zone Economique Speciale](https://frontaliereticino.ch/fr/articles-frontalier/italie-zone-economique-speciale/)
+- [Iwt Pharma Inaugure Un Nouveau Batiment A Casale Litta](https://frontaliereticino.ch/fr/articles-frontalier/iwt-pharma-inaugure-un-nouveau-batiment-a-casale-litta/)
 - [Jans Udc Initiative 10 Millions](https://frontaliereticino.ch/fr/articles-frontalier/jans-udc-initiative-10-millions/)
 - [Jardin Ferroviaire Balerna 2026](https://frontaliereticino.ch/fr/articles-frontalier/jardin-ferroviaire-balerna-2026/)
 - [Jardin Therapeutique Clinique Moncucco](https://frontaliereticino.ch/fr/articles-frontalier/jardin-therapeutique-clinique-moncucco/)
@@ -3907,6 +3910,9 @@
 - [Page 8](https://frontaliereticino.ch/fr/articles-frontalier/sujets/famille-et-ecole/page-8/)
 - [Page 9](https://frontaliereticino.ch/fr/articles-frontalier/sujets/famille-et-ecole/page-9/)
 - [Franc Et Prix](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/)
+- [Page 10](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/page-10/)
+- [Page 11](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/page-11/)
+- [Page 12](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/page-12/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/page-4/)
@@ -3914,6 +3920,7 @@
 - [Page 6](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/page-6/)
 - [Page 7](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/page-7/)
 - [Page 8](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/page-8/)
+- [Page 9](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/page-9/)
 - [Frontiere Et Douane](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/)
 - [Page 10](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-10/)
 - [Page 11](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-11/)
@@ -3943,9 +3950,6 @@
 - [Page 21](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-21/)
 - [Page 22](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-22/)
 - [Page 23](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-23/)
-- [Page 24](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-24/)
-- [Page 25](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-25/)
-- [Page 26](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-26/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-4/)
 - [Page 5](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-5/)
@@ -4443,6 +4447,7 @@
 - [Vandalisme Bus Tessin Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/vandalisme-bus-tessin-frontalier/)
 - [Varese 2026 Congres Suisse Italie Fiscalite Frontaliere](https://frontaliereticino.ch/fr/articles-frontalier/varese-2026-congres-suisse-italie-fiscalite-frontaliere/)
 - [Varese Arrestation Trafiquant Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/varese-arrestation-trafiquant-frontalier/)
+- [Varese Billet A Bord Double](https://frontaliereticino.ch/fr/articles-frontalier/varese-billet-a-bord-double/)
 - [Varese Bretelle Septembre Reouverture](https://frontaliereticino.ch/fr/articles-frontalier/varese-bretelle-septembre-reouverture/)
 - [Varese Celebre San Vittore Girometta Doro 2026](https://frontaliereticino.ch/fr/articles-frontalier/varese-celebre-san-vittore-girometta-doro-2026/)
 - [Varese Chambre Commerce Emplois Frontaliers Ticino](https://frontaliereticino.ch/fr/articles-frontalier/varese-chambre-commerce-emplois-frontaliers-ticino/)
@@ -4889,7 +4894,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2564 pages)
+### Other Pages (2569 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -5225,6 +5230,7 @@
 - [Blocage Ristorni Ticino](https://frontaliereticino.ch/fr/articles-suisse/blocage-ristorni-ticino/)
 - [Bls Reduction Postes Centres Voyages](https://frontaliereticino.ch/fr/articles-suisse/bls-reduction-postes-centres-voyages/)
 - [Bns Benefice Premier Semestre 2026 Resultats](https://frontaliereticino.ch/fr/articles-suisse/bns-benefice-premier-semestre-2026-resultats/)
+- [Bns Inflation Pib Previsions 2026](https://frontaliereticino.ch/fr/articles-suisse/bns-inflation-pib-previsions-2026/)
 - [Bns Promeut Berne](https://frontaliereticino.ch/fr/articles-suisse/bns-promeut-berne/)
 - [Bns Reserves Devises Augmentation Aout](https://frontaliereticino.ch/fr/articles-suisse/bns-reserves-devises-augmentation-aout/)
 - [Bns Taux Examen Septembre](https://frontaliereticino.ch/fr/articles-suisse/bns-taux-examen-septembre/)
@@ -5639,6 +5645,7 @@
 - [Etude De L Eclipse Solaire](https://frontaliereticino.ch/fr/articles-suisse/etude-de-l-eclipse-solaire/)
 - [Etudiants Suisses Lecture Pisa 2025](https://frontaliereticino.ch/fr/articles-suisse/etudiants-suisses-lecture-pisa-2025/)
 - [Eu Surveillance Ai Acte](https://frontaliereticino.ch/fr/articles-suisse/eu-surveillance-ai-acte/)
+- [Evaluation Universitaire Intelligence Artificielle](https://frontaliereticino.ch/fr/articles-suisse/evaluation-universitaire-intelligence-artificielle/)
 - [Evolution Frontaliers Donnees Suisses](https://frontaliereticino.ch/fr/articles-suisse/evolution-frontaliers-donnees-suisses/)
 - [Excedent Federal 2026 800 Millions](https://frontaliereticino.ch/fr/articles-suisse/excedent-federal-2026-800-millions/)
 - [Exemption Totale Des Droits De Douane En Cas D Urgence](https://frontaliereticino.ch/fr/articles-suisse/exemption-totale-des-droits-de-douane-en-cas-d-urgence/)
@@ -5926,6 +5933,7 @@
 - [Immobilier Berne Hypotheque Couts](https://frontaliereticino.ch/fr/articles-suisse/immobilier-berne-hypotheque-couts/)
 - [Impact Chaleur Chemins Ferres Suisses](https://frontaliereticino.ch/fr/articles-suisse/impact-chaleur-chemins-ferres-suisses/)
 - [Impact Intelligence Artificielle Employes Telecom Syndicom Revendications](https://frontaliereticino.ch/fr/articles-suisse/impact-intelligence-artificielle-employes-telecom-syndicom-revendications/)
+- [Importation Mais Fourrager Proroga](https://frontaliereticino.ch/fr/articles-suisse/importation-mais-fourrager-proroga/)
 - [Imposition A La Source Frontaliers Tessin](https://frontaliereticino.ch/fr/articles-suisse/imposition-a-la-source-frontaliers-tessin/)
 - [Imposition Forfaitaire Tessin Recettes](https://frontaliereticino.ch/fr/articles-suisse/imposition-forfaitaire-tessin-recettes/)
 - [Imposition Frontaliers Au Dela 20km](https://frontaliereticino.ch/fr/articles-suisse/imposition-frontaliers-au-dela-20km/)
@@ -6005,6 +6013,7 @@
 - [Initiative Alimentation Non Tessin](https://frontaliereticino.ch/fr/articles-suisse/initiative-alimentation-non-tessin/)
 - [Initiative Alimentation Sure Vote](https://frontaliereticino.ch/fr/articles-suisse/initiative-alimentation-sure-vote/)
 - [Initiative Boussole Rejet Gouvernement](https://frontaliereticino.ch/fr/articles-suisse/initiative-boussole-rejet-gouvernement/)
+- [Initiative Conge Parental Quorum](https://frontaliereticino.ch/fr/articles-suisse/initiative-conge-parental-quorum/)
 - [Initiative Neutralite Suisse Paix](https://frontaliereticino.ch/fr/articles-suisse/initiative-neutralite-suisse-paix/)
 - [Initiative Protection Contre Loyers Abusifs](https://frontaliereticino.ch/fr/articles-suisse/initiative-protection-contre-loyers-abusifs/)
 - [Initiatives Assurance Maladie 2026](https://frontaliereticino.ch/fr/articles-suisse/initiatives-assurance-maladie-2026/)
@@ -6966,6 +6975,7 @@
 - [Page 4](https://frontaliereticino.ch/fr/articles-suisse/sujets/travail-et-emploi/page-4/)
 - [Page 5](https://frontaliereticino.ch/fr/articles-suisse/sujets/travail-et-emploi/page-5/)
 - [Page 6](https://frontaliereticino.ch/fr/articles-suisse/sujets/travail-et-emploi/page-6/)
+- [Page 7](https://frontaliereticino.ch/fr/articles-suisse/sujets/travail-et-emploi/page-7/)
 - [Sulla Disoccupazione Dei Frontalieri Si Apre Un Nuovo Fronte Con Bruxelles](https://frontaliereticino.ch/fr/articles-suisse/sulla-disoccupazione-dei-frontalieri-si-apre-un-nuovo-fronte-con-bruxelles/)
 - [Sulzer Premier Semestre 2026](https://frontaliereticino.ch/fr/articles-suisse/sulzer-premier-semestre-2026/)
 - [Sulzer Restructuration Chemtech](https://frontaliereticino.ch/fr/articles-suisse/sulzer-restructuration-chemtech/)
