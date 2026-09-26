@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7374 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7378 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -731,7 +731,7 @@
 - [Page Index 7](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-8/)
 
-### Blog Articles (4097 pages)
+### Blog Articles (4099 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1125,6 +1125,7 @@
 - [Bellinzona Disparition Recherches Ticino Piemonte](https://frontaliereticino.ch/fr/articles-frontalier/bellinzona-disparition-recherches-ticino-piemonte/)
 - [Bellinzona Employeur Equilibre Vie Travail](https://frontaliereticino.ch/fr/articles-frontalier/bellinzona-employeur-equilibre-vie-travail/)
 - [Bellinzona Football Licence Refuse Finances](https://frontaliereticino.ch/fr/articles-frontalier/bellinzona-football-licence-refuse-finances/)
+- [Bellinzona Forteresse Investissement Plr](https://frontaliereticino.ch/fr/articles-frontalier/bellinzona-forteresse-investissement-plr/)
 - [Bellinzona Piscine Publique Reouvre 2026](https://frontaliereticino.ch/fr/articles-frontalier/bellinzona-piscine-publique-reouvre-2026/)
 - [Bellinzona Valli Velocite Cyclisme](https://frontaliereticino.ch/fr/articles-frontalier/bellinzona-valli-velocite-cyclisme/)
 - [Bellinzona Ville Dortoir](https://frontaliereticino.ch/fr/articles-frontalier/bellinzona-ville-dortoir/)
@@ -3282,6 +3283,7 @@
 - [Pharmacien Frontalier Ticino](https://frontaliereticino.ch/fr/articles-frontalier/pharmacien-frontalier-ticino/)
 - [Philipp Plein Mendrisio Interrogation](https://frontaliereticino.ch/fr/articles-frontalier/philipp-plein-mendrisio-interrogation/)
 - [Physiotherapeute Frontalier Tessinois Salaire Requis](https://frontaliereticino.ch/fr/articles-frontalier/physiotherapeute-frontalier-tessinois-salaire-requis/)
+- [Pib Suisse 2026 Revu A La Hausse 1 7 Selon Le Kof](https://frontaliereticino.ch/fr/articles-frontalier/pib-suisse-2026-revu-a-la-hausse-1-7-selon-le-kof/)
 - [Piccaluga Udc Dialogue Ouvert](https://frontaliereticino.ch/fr/articles-frontalier/piccaluga-udc-dialogue-ouvert/)
 - [Pilule Du Lendemain Sans Consultation Nationale Dit Oui](https://frontaliereticino.ch/fr/articles-frontalier/pilule-du-lendemain-sans-consultation-nationale-dit-oui/)
 - [Pilule Du Lendemain Suisse 2026](https://frontaliereticino.ch/fr/articles-frontalier/pilule-du-lendemain-suisse-2026/)
@@ -4876,7 +4878,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2551 pages)
+### Other Pages (2553 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -5290,6 +5292,7 @@
 - [Cdf Budgets Campagnes Votation Septembre](https://frontaliereticino.ch/fr/articles-suisse/cdf-budgets-campagnes-votation-septembre/)
 - [Cdt Epaper Ios](https://frontaliereticino.ch/fr/articles-suisse/cdt-epaper-ios/)
 - [Cell Broadcast Alerte Suisse](https://frontaliereticino.ch/fr/articles-suisse/cell-broadcast-alerte-suisse/)
+- [Cembra Vontobel Siege Baden Baar](https://frontaliereticino.ch/fr/articles-suisse/cembra-vontobel-siege-baden-baar/)
 - [Centrale Nucleaire Suisse Couts 14 43 Milliards](https://frontaliereticino.ch/fr/articles-suisse/centrale-nucleaire-suisse-couts-14-43-milliards/)
 - [Centrales Nucleaires Mettent En Risque Des Milliards Demplois Zhaw](https://frontaliereticino.ch/fr/articles-suisse/centrales-nucleaires-mettent-en-risque-des-milliards-demplois-zhaw/)
 - [Centrales Nucleaires Peu De Volonte De Construire](https://frontaliereticino.ch/fr/articles-suisse/centrales-nucleaires-peu-de-volonte-de-construire/)
@@ -6054,6 +6057,7 @@
 - [Le Permis De Domicile C Dans Le Canton D Obwald](https://frontaliereticino.ch/fr/articles-suisse/le-permis-de-domicile-c-dans-le-canton-d-obwald/)
 - [Le Permis L De Duree Courte Dans Le Canton Uri](https://frontaliereticino.ch/fr/articles-suisse/le-permis-l-de-duree-courte-dans-le-canton-uri/)
 - [Le Ps Demande Une Enquete Sur Les F35](https://frontaliereticino.ch/fr/articles-suisse/le-ps-demande-une-enquete-sur-les-f35/)
+- [Le Systeme De Sante Tessinois A Besoin De Nouvelles Incitations](https://frontaliereticino.ch/fr/articles-suisse/le-systeme-de-sante-tessinois-a-besoin-de-nouvelles-incitations/)
 - [Leclanche Difficultes Financieres Rapport 2025](https://frontaliereticino.ch/fr/articles-suisse/leclanche-difficultes-financieres-rapport-2025/)
 - [Legumes Texture Viande Recherche Eth](https://frontaliereticino.ch/fr/articles-suisse/legumes-texture-viande-recherche-eth/)
 - [Les Rebates Sur Medicaments Ne Sont Pas Retenus](https://frontaliereticino.ch/fr/articles-suisse/les-rebates-sur-medicaments-ne-sont-pas-retenus/)
@@ -7263,7 +7267,6 @@
 - [Ristorazione](https://frontaliereticino.ch/fr/marche-travail-tessin/secteur/ristorazione/)
 - [Sanita](https://frontaliereticino.ch/fr/marche-travail-tessin/secteur/sanita/)
 - [Vendite](https://frontaliereticino.ch/fr/marche-travail-tessin/secteur/vendite/)
-- [Semaine 27 2026](https://frontaliereticino.ch/fr/marche-travail-tessin/semaine-27-2026/)
 - [Semaine 28 2026](https://frontaliereticino.ch/fr/marche-travail-tessin/semaine-28-2026/)
 - [Semaine 29 2026](https://frontaliereticino.ch/fr/marche-travail-tessin/semaine-29-2026/)
 - [Semaine 30 2026](https://frontaliereticino.ch/fr/marche-travail-tessin/semaine-30-2026/)
@@ -7275,6 +7278,7 @@
 - [Semaine 36 2026](https://frontaliereticino.ch/fr/marche-travail-tessin/semaine-36-2026/)
 - [Semaine 37 2026](https://frontaliereticino.ch/fr/marche-travail-tessin/semaine-37-2026/)
 - [Semaine 38 2026](https://frontaliereticino.ch/fr/marche-travail-tessin/semaine-38-2026/)
+- [Semaine 39 2026](https://frontaliereticino.ch/fr/marche-travail-tessin/semaine-39-2026/)
 - [Methodologie](https://frontaliereticino.ch/fr/methodologie/)
 - [Nouvelle Loi Frontaliers 2026](https://frontaliereticino.ch/fr/nouvelle-loi-frontaliers-2026/)
 - [Outil De La Semaine](https://frontaliereticino.ch/fr/outil-de-la-semaine/)
