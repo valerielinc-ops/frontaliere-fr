@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7385 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7391 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -731,7 +731,7 @@
 - [Page Index 7](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-8/)
 
-### Blog Articles (4102 pages)
+### Blog Articles (4105 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -799,6 +799,7 @@
 - [Accident A8 Castellanza Busto Arsizio 2026](https://frontaliereticino.ch/fr/articles-frontalier/accident-a8-castellanza-busto-arsizio-2026/)
 - [Accident A9 Turate Blesses Travailleurs Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/accident-a9-turate-blesses-travailleurs-frontaliers/)
 - [Accident Aarau 18 Ans Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/accident-aarau-18-ans-frontalier/)
+- [Accident Aerien Simule Agno](https://frontaliereticino.ch/fr/articles-frontalier/accident-aerien-simule-agno/)
 - [Accident Alpeggio Vallemaggia 2026](https://frontaliereticino.ch/fr/articles-frontalier/accident-alpeggio-vallemaggia-2026/)
 - [Accident Arogno 31 Ans Gravement Blesse](https://frontaliereticino.ch/fr/articles-frontalier/accident-arogno-31-ans-gravement-blesse/)
 - [Accident Autolaghi Femme Blessee](https://frontaliereticino.ch/fr/articles-frontalier/accident-autolaghi-femme-blessee/)
@@ -1160,6 +1161,7 @@
 - [Bilaterali Iii Double Majorite](https://frontaliereticino.ch/fr/articles-frontalier/bilaterali-iii-double-majorite/)
 - [Bilateraux Iii Parlement Ticino 2026](https://frontaliereticino.ch/fr/articles-frontalier/bilateraux-iii-parlement-ticino-2026/)
 - [Bilateraux Iii Tessin Parlement 2026](https://frontaliereticino.ch/fr/articles-frontalier/bilateraux-iii-tessin-parlement-2026/)
+- [Bilateraux Trois Premier Test](https://frontaliereticino.ch/fr/articles-frontalier/bilateraux-trois-premier-test/)
 - [Billet Trenord Whatsapp Tessin](https://frontaliereticino.ch/fr/articles-frontalier/billet-trenord-whatsapp-tessin/)
 - [Bioblitz Groane 2026 Travailleurs Transfrontaliers](https://frontaliereticino.ch/fr/articles-frontalier/bioblitz-groane-2026-travailleurs-transfrontaliers/)
 - [Blackdamp Memoire Sacrifice Emigration Lucia Tiziani](https://frontaliereticino.ch/fr/articles-frontalier/blackdamp-memoire-sacrifice-emigration-lucia-tiziani/)
@@ -1950,6 +1952,7 @@
 - [Embouteillage A2 Lugano Retards](https://frontaliereticino.ch/fr/articles-frontalier/embouteillage-a2-lugano-retards/)
 - [Embouteillage Bateaux Como 2026](https://frontaliereticino.ch/fr/articles-frontalier/embouteillage-bateaux-como-2026/)
 - [Embouteillage Tunnel Saint Gothard Lundi Paques 2026](https://frontaliereticino.ch/fr/articles-frontalier/embouteillage-tunnel-saint-gothard-lundi-paques-2026/)
+- [Embouteillages Lozza Gazzada Vedano](https://frontaliereticino.ch/fr/articles-frontalier/embouteillages-lozza-gazzada-vedano/)
 - [Emeute Lugano Le Premier Mai 2026](https://frontaliereticino.ch/fr/articles-frontalier/emeute-lugano-le-premier-mai-2026/)
 - [Emigration Caisse De Pension Economie Dimpots](https://frontaliereticino.ch/fr/articles-frontalier/emigration-caisse-de-pension-economie-dimpots/)
 - [Empathie Dans Le Travail Immobilier Tessin](https://frontaliereticino.ch/fr/articles-frontalier/empathie-dans-le-travail-immobilier-tessin/)
@@ -4881,7 +4884,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2557 pages)
+### Other Pages (2560 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -5121,6 +5124,7 @@
 - [Attaque Informatique Stadler Rail](https://frontaliereticino.ch/fr/articles-suisse/attaque-informatique-stadler-rail/)
 - [Attaque Pirate Liechtenstein Suisse](https://frontaliereticino.ch/fr/articles-suisse/attaque-pirate-liechtenstein-suisse/)
 - [Atted Numerique Ticino Cybersecurite](https://frontaliereticino.ch/fr/articles-suisse/atted-numerique-ticino-cybersecurite/)
+- [Aucun Allegement Sur Le Carburant Berne Confirme Le Plein Hors De Prix](https://frontaliereticino.ch/fr/articles-suisse/aucun-allegement-sur-le-carburant-berne-confirme-le-plein-hors-de-prix/)
 - [Aucun Effet Immediat Sur Les Allocations Frontalieres Sertori](https://frontaliereticino.ch/fr/articles-suisse/aucun-effet-immediat-sur-les-allocations-frontalieres-sertori/)
 - [Aucune Protection Syndicale Bilaterale Iii](https://frontaliereticino.ch/fr/articles-suisse/aucune-protection-syndicale-bilaterale-iii/)
 - [Augmentation Couts Logement Mobilite Suisse](https://frontaliereticino.ch/fr/articles-suisse/augmentation-couts-logement-mobilite-suisse/)
@@ -6026,6 +6030,7 @@
 - [Journee Information Obligatoire Armee Femmes](https://frontaliereticino.ch/fr/articles-suisse/journee-information-obligatoire-armee-femmes/)
 - [Journees De Soleure Finances 2026](https://frontaliereticino.ch/fr/articles-suisse/journees-de-soleure-finances-2026/)
 - [Journees Suisses De Statistiques 2026](https://frontaliereticino.ch/fr/articles-suisse/journees-suisses-de-statistiques-2026/)
+- [Keiser Arret Promotion Economique Zoug](https://frontaliereticino.ch/fr/articles-suisse/keiser-arret-promotion-economique-zoug/)
 - [Keller Sutter Ministres Finances Pays Germanophones](https://frontaliereticino.ch/fr/articles-suisse/keller-sutter-ministres-finances-pays-germanophones/)
 - [Keller Sutter Stabilite Finances Saines](https://frontaliereticino.ch/fr/articles-suisse/keller-sutter-stabilite-finances-saines/)
 - [Kerosene Synthetique Suisse Aviation](https://frontaliereticino.ch/fr/articles-suisse/kerosene-synthetique-suisse-aviation/)
@@ -6614,6 +6619,7 @@
 - [Recherche Demploi Suisse Guides 2026](https://frontaliereticino.ch/fr/articles-suisse/recherche-demploi-suisse-guides-2026/)
 - [Recherche Emploi Lidl Locarno](https://frontaliereticino.ch/fr/articles-suisse/recherche-emploi-lidl-locarno/)
 - [Recherche Emploi Suisse Guide 2026](https://frontaliereticino.ch/fr/articles-suisse/recherche-emploi-suisse-guide-2026/)
+- [Recherche Emploi Suisse Lucerne 2026](https://frontaliereticino.ch/fr/articles-suisse/recherche-emploi-suisse-lucerne-2026/)
 - [Recherche Epfl Mini Drones Ondes Sonores](https://frontaliereticino.ch/fr/articles-suisse/recherche-epfl-mini-drones-ondes-sonores/)
 - [Record De Transport Suisse 2026](https://frontaliereticino.ch/fr/articles-suisse/record-de-transport-suisse-2026/)
 - [Record Entreprises Culturelles Suisse](https://frontaliereticino.ch/fr/articles-suisse/record-entreprises-culturelles-suisse/)
@@ -6895,7 +6901,6 @@
 - [Page 5](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-5/)
 - [Frontiere Et Douane](https://frontaliereticino.ch/fr/articles-suisse/sujets/frontiere-et-douane/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/frontiere-et-douane/page-2/)
-- [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/frontiere-et-douane/page-3/)
 - [Impots](https://frontaliereticino.ch/fr/articles-suisse/sujets/impots/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/impots/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/impots/page-3/)
@@ -6927,6 +6932,7 @@
 - [Salaires](https://frontaliereticino.ch/fr/articles-suisse/sujets/salaires/)
 - [Page 10](https://frontaliereticino.ch/fr/articles-suisse/sujets/salaires/page-10/)
 - [Page 11](https://frontaliereticino.ch/fr/articles-suisse/sujets/salaires/page-11/)
+- [Page 12](https://frontaliereticino.ch/fr/articles-suisse/sujets/salaires/page-12/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/salaires/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/salaires/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-suisse/sujets/salaires/page-4/)
