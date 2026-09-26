@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7410 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7415 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -731,7 +731,7 @@
 - [Page Index 7](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-8/)
 
-### Blog Articles (4115 pages)
+### Blog Articles (4119 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1136,6 +1136,7 @@
 - [Bene Lario Frontalier Tessin](https://frontaliereticino.ch/fr/articles-frontalier/bene-lario-frontalier-tessin/)
 - [Benefices Chiffre Affaires Lppsa Gpw](https://frontaliereticino.ch/fr/articles-frontalier/benefices-chiffre-affaires-lppsa-gpw/)
 - [Bennet Recrute Personnel Varese](https://frontaliereticino.ch/fr/articles-frontalier/bennet-recrute-personnel-varese/)
+- [Bennet Tavernola Braquage Deux Arrestations](https://frontaliereticino.ch/fr/articles-frontalier/bennet-tavernola-braquage-deux-arrestations/)
 - [Bernaribadisiposizionereferendumfacultatif](https://frontaliereticino.ch/fr/articles-frontalier/bernaribadisiposizionereferendumfacultatif/)
 - [Berne Discute Approvisionnement Economique Et 13e Avs](https://frontaliereticino.ch/fr/articles-frontalier/berne-discute-approvisionnement-economique-et-13e-avs/)
 - [Berne Limite L Achat De Biens Immobiliers Par Les Etrangers 2026](https://frontaliereticino.ch/fr/articles-frontalier/berne-limite-l-achat-de-biens-immobiliers-par-les-etrangers-2026/)
@@ -2587,6 +2588,7 @@
 - [Incendie Chiasso Travailleurs Hospitalises](https://frontaliereticino.ch/fr/articles-frontalier/incendie-chiasso-travailleurs-hospitalises/)
 - [Incendie Chiasso Trente Personnes Evacuees](https://frontaliereticino.ch/fr/articles-frontalier/incendie-chiasso-trente-personnes-evacuees/)
 - [Incendie Gallarate 2026](https://frontaliereticino.ch/fr/articles-frontalier/incendie-gallarate-2026/)
+- [Incendie Hangar Turate](https://frontaliereticino.ch/fr/articles-frontalier/incendie-hangar-turate/)
 - [Incendie Langnau Deux Maisons Garage](https://frontaliereticino.ch/fr/articles-frontalier/incendie-langnau-deux-maisons-garage/)
 - [Incendie Malpensa Terminal 1 Resolu](https://frontaliereticino.ch/fr/articles-frontalier/incendie-malpensa-terminal-1-resolu/)
 - [Incendie San Fermo Battaglia 2024](https://frontaliereticino.ch/fr/articles-frontalier/incendie-san-fermo-battaglia-2024/)
@@ -2992,6 +2994,7 @@
 - [Mengele Suisse 1961 Verification](https://frontaliereticino.ch/fr/articles-frontalier/mengele-suisse-1961-verification/)
 - [Mera Longhi 130 Ans De Douceur A Varese](https://frontaliereticino.ch/fr/articles-frontalier/mera-longhi-130-ans-de-douceur-a-varese/)
 - [Meraviglia Festival Laveno Luino 2026](https://frontaliereticino.ch/fr/articles-frontalier/meraviglia-festival-laveno-luino-2026/)
+- [Merone Travail Frontalier Tessin](https://frontaliereticino.ch/fr/articles-frontalier/merone-travail-frontalier-tessin/)
 - [Mes Donnees Impots Vieux Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/mes-donnees-impots-vieux-frontaliers/)
 - [Mesenzana Travailler Tessin](https://frontaliereticino.ch/fr/articles-frontalier/mesenzana-travailler-tessin/)
 - [Meurtre Garlasco Chiara 2026](https://frontaliereticino.ch/fr/articles-frontalier/meurtre-garlasco-chiara-2026/)
@@ -3429,6 +3432,7 @@
 - [Protection Des Victimes 142 Tessin 2026](https://frontaliereticino.ch/fr/articles-frontalier/protection-des-victimes-142-tessin-2026/)
 - [Protection Frontalieres Especes Invasives Tessin](https://frontaliereticino.ch/fr/articles-frontalier/protection-frontalieres-especes-invasives-tessin/)
 - [Protection Souverainete Donnees Sanitaires](https://frontaliereticino.ch/fr/articles-frontalier/protection-souverainete-donnees-sanitaires/)
+- [Protestation Centrale Beton Intelvi](https://frontaliereticino.ch/fr/articles-frontalier/protestation-centrale-beton-intelvi/)
 - [Protestation Contre Les Couts Des Soins A Domicile](https://frontaliereticino.ch/fr/articles-frontalier/protestation-contre-les-couts-des-soins-a-domicile/)
 - [Province De Varese Investit Dans Lentretien Des Routes Et Des Espace Verts Avec ](https://frontaliereticino.ch/fr/articles-frontalier/province-de-varese-investit-dans-lentretien-des-routes-et-des-espace-verts-avec-/)
 - [PréVention Maschile Beccaria](https://frontaliereticino.ch/fr/articles-frontalier/prévention-maschile-beccaria/)
@@ -4894,7 +4898,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2569 pages)
+### Other Pages (2570 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -5520,6 +5524,7 @@
 - [Depenses Suisses Croissance Ralentit](https://frontaliereticino.ch/fr/articles-suisse/depenses-suisses-croissance-ralentit/)
 - [Depot Caution Resiliation Location Appenzell](https://frontaliereticino.ch/fr/articles-suisse/depot-caution-resiliation-location-appenzell/)
 - [Depot Garantie Argovia Location](https://frontaliereticino.ch/fr/articles-suisse/depot-garantie-argovia-location/)
+- [Dertour Suisse Vise A Depasser Le Milliard De Chiffre D Affaires](https://frontaliereticino.ch/fr/articles-suisse/dertour-suisse-vise-a-depasser-le-milliard-de-chiffre-d-affaires/)
 - [Dessinateur Technique Frontaliere Salaire Ticino](https://frontaliereticino.ch/fr/articles-suisse/dessinateur-technique-frontaliere-salaire-ticino/)
 - [Detention 48 Heures Manifestations](https://frontaliereticino.ch/fr/articles-suisse/detention-48-heures-manifestations/)
 - [Deutsche Bahn Suspension Trafic Ferroviaire](https://frontaliereticino.ch/fr/articles-suisse/deutsche-bahn-suspension-trafic-ferroviaire/)
@@ -6205,6 +6210,7 @@
 - [Mission Bepi Colombo Mercure](https://frontaliereticino.ch/fr/articles-suisse/mission-bepi-colombo-mercure/)
 - [Mission Economique Parmelin Amerique Du Nord](https://frontaliereticino.ch/fr/articles-suisse/mission-economique-parmelin-amerique-du-nord/)
 - [Mobiliare Logement Social 200m](https://frontaliereticino.ch/fr/articles-suisse/mobiliare-logement-social-200m/)
+- [Mobilisation Rapide Armee Suisse](https://frontaliereticino.ch/fr/articles-suisse/mobilisation-rapide-armee-suisse/)
 - [Mobilite Suisse Rail Route](https://frontaliereticino.ch/fr/articles-suisse/mobilite-suisse-rail-route/)
 - [Modification Des Reglementations De Liquidite](https://frontaliereticino.ch/fr/articles-suisse/modification-des-reglementations-de-liquidite/)
 - [Modification Loi Banques 2026](https://frontaliereticino.ch/fr/articles-suisse/modification-loi-banques-2026/)
@@ -6885,6 +6891,7 @@
 - [Suisse Transfert Demandeurs Asile Italie](https://frontaliereticino.ch/fr/articles-suisse/suisse-transfert-demandeurs-asile-italie/)
 - [Suisse Usam Croix Suisse Controverse](https://frontaliereticino.ch/fr/articles-suisse/suisse-usam-croix-suisse-controverse/)
 - [Suisse Vacillas Myt Disoccupation Frontaliers](https://frontaliereticino.ch/fr/articles-suisse/suisse-vacillas-myt-disoccupation-frontaliers/)
+- [Suisse Voitures Electriques Classement](https://frontaliereticino.ch/fr/articles-suisse/suisse-voitures-electriques-classement/)
 - [Suissenegece Rejette Taxes Benefices](https://frontaliereticino.ch/fr/articles-suisse/suissenegece-rejette-taxes-benefices/)
 - [Suisses Climat Consommation Sondage](https://frontaliereticino.ch/fr/articles-suisse/suisses-climat-consommation-sondage/)
 - [Suisses Demandent Mesures Climat](https://frontaliereticino.ch/fr/articles-suisse/suisses-demandent-mesures-climat/)
@@ -7449,7 +7456,6 @@
 - [Travail Frontalier](https://frontaliereticino.ch/fr/travail-frontalier/)
 - [Travail Tessin Architecte](https://frontaliereticino.ch/fr/travail-tessin-architecte/)
 - [Travail Tessin Assistant Soins](https://frontaliereticino.ch/fr/travail-tessin-assistant-soins/)
-- [Travail Tessin Boucher](https://frontaliereticino.ch/fr/travail-tessin-boucher/)
 - [Travail Tessin Chauffeur](https://frontaliereticino.ch/fr/travail-tessin-chauffeur/)
 - [Travail Tessin Comptable](https://frontaliereticino.ch/fr/travail-tessin-comptable/)
 - [Travail Tessin Cuisinier](https://frontaliereticino.ch/fr/travail-tessin-cuisinier/)
@@ -7458,7 +7464,6 @@
 - [Travail Tessin Employe](https://frontaliereticino.ch/fr/travail-tessin-employe/)
 - [Travail Tessin Infirmier](https://frontaliereticino.ch/fr/travail-tessin-infirmier/)
 - [Travail Tessin Ingenieur](https://frontaliereticino.ch/fr/travail-tessin-ingenieur/)
-- [Travail Tessin Macon](https://frontaliereticino.ch/fr/travail-tessin-macon/)
 - [Travail Tessin Ouvrier](https://frontaliereticino.ch/fr/travail-tessin-ouvrier/)
 - [Travail Tessin Physiotherapeute](https://frontaliereticino.ch/fr/travail-tessin-physiotherapeute/)
 - [Travail Tessin Sage Femme](https://frontaliereticino.ch/fr/travail-tessin-sage-femme/)
