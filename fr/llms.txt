@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7378 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7385 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -731,7 +731,7 @@
 - [Page Index 7](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-8/)
 
-### Blog Articles (4099 pages)
+### Blog Articles (4102 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1367,6 +1367,7 @@
 - [Centre Medical Bellinzona Travailleurs Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/centre-medical-bellinzona-travailleurs-frontaliers/)
 - [Centre Pasture Balerna Asile](https://frontaliereticino.ch/fr/articles-frontalier/centre-pasture-balerna-asile/)
 - [Centre Transfusion Locarno Fermeture 24 Juin](https://frontaliereticino.ch/fr/articles-frontalier/centre-transfusion-locarno-fermeture-24-juin/)
+- [Centres D Asile De Chiasso Pasture 40 Places Menacees En 2027](https://frontaliereticino.ch/fr/articles-frontalier/centres-d-asile-de-chiasso-pasture-40-places-menacees-en-2027/)
 - [Centres De Responsabilite Travailleurs Frontaliers Tessin](https://frontaliereticino.ch/fr/articles-frontalier/centres-de-responsabilite-travailleurs-frontaliers-tessin/)
 - [Centres Famille Altovaresotto 2026](https://frontaliereticino.ch/fr/articles-frontalier/centres-famille-altovaresotto-2026/)
 - [Centromedico Castello Chirurgie Ambulatoire](https://frontaliereticino.ch/fr/articles-frontalier/centromedico-castello-chirurgie-ambulatoire/)
@@ -2071,6 +2072,7 @@
 - [Fermeture Autoroute Varese 2026](https://frontaliereticino.ch/fr/articles-frontalier/fermeture-autoroute-varese-2026/)
 - [Fermeture Branche A8 A9 La Nuit Travaux Chiasso 2026](https://frontaliereticino.ch/fr/articles-frontalier/fermeture-branche-a8-a9-la-nuit-travaux-chiasso-2026/)
 - [Fermeture Bureau De Poste Val Mara](https://frontaliereticino.ch/fr/articles-frontalier/fermeture-bureau-de-poste-val-mara/)
+- [Fermeture Du Passage Superieur De Boesio Laveno Mombello 25 Septembre 2026](https://frontaliereticino.ch/fr/articles-frontalier/fermeture-du-passage-superieur-de-boesio-laveno-mombello-25-septembre-2026/)
 - [Fermeture Nocturne A8 Gallarate 29 Avril 2026](https://frontaliereticino.ch/fr/articles-frontalier/fermeture-nocturne-a8-gallarate-29-avril-2026/)
 - [Fermeture Nocturne A9 Chiasso Como Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/fermeture-nocturne-a9-chiasso-como-frontaliers/)
 - [Fermeture Nocturne A9 Lomazzo Chiasso](https://frontaliereticino.ch/fr/articles-frontalier/fermeture-nocturne-a9-lomazzo-chiasso/)
@@ -2334,6 +2336,7 @@
 - [Frontiere Fiscale Italie Suisse Tva Et Uvres D Art](https://frontaliereticino.ch/fr/articles-frontalier/frontiere-fiscale-italie-suisse-tva-et-uvres-d-art/)
 - [Frontiere Tendu Allocations Familiales](https://frontaliereticino.ch/fr/articles-frontalier/frontiere-tendu-allocations-familiales/)
 - [Frontiere Vacallo Traversees Clandestines 2026](https://frontaliereticino.ch/fr/articles-frontalier/frontiere-vacallo-traversees-clandestines-2026/)
+- [Fugitif Arrete A Como](https://frontaliereticino.ch/fr/articles-frontalier/fugitif-arrete-a-como/)
 - [Fuite Ammoniac Rapelli Stabio](https://frontaliereticino.ch/fr/articles-frontalier/fuite-ammoniac-rapelli-stabio/)
 - [Fuite Ammoniac Stabio Usine Rapelli Procedure Urgence](https://frontaliereticino.ch/fr/articles-frontalier/fuite-ammoniac-stabio-usine-rapelli-procedure-urgence/)
 - [Fuite D Ammoniac Chiasso Cause Trouvee](https://frontaliereticino.ch/fr/articles-frontalier/fuite-d-ammoniac-chiasso-cause-trouvee/)
@@ -4878,7 +4881,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (2553 pages)
+### Other Pages (2557 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -6026,6 +6029,7 @@
 - [Keller Sutter Ministres Finances Pays Germanophones](https://frontaliereticino.ch/fr/articles-suisse/keller-sutter-ministres-finances-pays-germanophones/)
 - [Keller Sutter Stabilite Finances Saines](https://frontaliereticino.ch/fr/articles-suisse/keller-sutter-stabilite-finances-saines/)
 - [Kerosene Synthetique Suisse Aviation](https://frontaliereticino.ch/fr/articles-suisse/kerosene-synthetique-suisse-aviation/)
+- [Kof Prevision Pib Suisse 2026](https://frontaliereticino.ch/fr/articles-suisse/kof-prevision-pib-suisse-2026/)
 - [Kremlin Vote Neutralite Suisse](https://frontaliereticino.ch/fr/articles-suisse/kremlin-vote-neutralite-suisse/)
 - [L Avenir Du Travail](https://frontaliereticino.ch/fr/articles-suisse/l-avenir-du-travail/)
 - [L Essence Coute Aujourd Hui Moins Cher Que Dans Les Annees 80](https://frontaliereticino.ch/fr/articles-suisse/l-essence-coute-aujourd-hui-moins-cher-que-dans-les-annees-80/)
@@ -6349,6 +6353,7 @@
 - [Penurie Logement Suisse 2026](https://frontaliereticino.ch/fr/articles-suisse/penurie-logement-suisse-2026/)
 - [Penurie Logements Suisse 2027](https://frontaliereticino.ch/fr/articles-suisse/penurie-logements-suisse-2027/)
 - [Penurie Main D Oeuvre Grisons](https://frontaliereticino.ch/fr/articles-suisse/penurie-main-d-oeuvre-grisons/)
+- [Penurie Medicaments Suisse 2026](https://frontaliereticino.ch/fr/articles-suisse/penurie-medicaments-suisse-2026/)
 - [Permesso C Zugo Conditions](https://frontaliereticino.ch/fr/articles-suisse/permesso-c-zugo-conditions/)
 - [Permesso Di Dimora B Canton Basilea Citta Fr](https://frontaliereticino.ch/fr/articles-suisse/permesso-di-dimora-b-canton-basilea-citta-fr/)
 - [Permesso Di Dimora B Canton De Soleure](https://frontaliereticino.ch/fr/articles-suisse/permesso-di-dimora-b-canton-de-soleure/)
@@ -6671,6 +6676,7 @@
 - [Rosti Defend Politique Climatique Federale](https://frontaliereticino.ch/fr/articles-suisse/rosti-defend-politique-climatique-federale/)
 - [Rosti Depot Dechets Radioactifs Compensations](https://frontaliereticino.ch/fr/articles-suisse/rosti-depot-dechets-radioactifs-compensations/)
 - [Ruag Reorganisation Suppression Postes](https://frontaliereticino.ch/fr/articles-suisse/ruag-reorganisation-suppression-postes/)
+- [Rumeurs Fusion Ubs Morgan Stanley](https://frontaliereticino.ch/fr/articles-suisse/rumeurs-fusion-ubs-morgan-stanley/)
 - [Russe A Lugano Il Faut De La Patience](https://frontaliereticino.ch/fr/articles-suisse/russe-a-lugano-il-faut-de-la-patience/)
 - [Rythmes Intenables Pression Travailleurs Logistique](https://frontaliereticino.ch/fr/articles-suisse/rythmes-intenables-pression-travailleurs-logistique/)
 - [Salaire Caissier Frontalier Ticino](https://frontaliereticino.ch/fr/articles-suisse/salaire-caissier-frontalier-ticino/)
@@ -7017,6 +7023,7 @@
 - [Temu Skv Collaboration](https://frontaliereticino.ch/fr/articles-suisse/temu-skv-collaboration/)
 - [Tendicione Arresti Veicoli 2024](https://frontaliereticino.ch/fr/articles-suisse/tendicione-arresti-veicoli-2024/)
 - [Terziario Une Bas Sinistra Pour Chiasso](https://frontaliereticino.ch/fr/articles-suisse/terziario-une-bas-sinistra-pour-chiasso/)
+- [Tessin Droite Elections Avril](https://frontaliereticino.ch/fr/articles-suisse/tessin-droite-elections-avril/)
 - [Tessin Ecole Pisa 2025 Baisse](https://frontaliereticino.ch/fr/articles-suisse/tessin-ecole-pisa-2025-baisse/)
 - [Tessin Ecole Vpod Conditions Enseignants](https://frontaliereticino.ch/fr/articles-suisse/tessin-ecole-vpod-conditions-enseignants/)
 - [Tessin Empeche Le Recouvrement De Lombardie](https://frontaliereticino.ch/fr/articles-suisse/tessin-empeche-le-recouvrement-de-lombardie/)
