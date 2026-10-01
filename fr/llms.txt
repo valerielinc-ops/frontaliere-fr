@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 19040 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 19038 pages.
 
 ### Tax & Salary Calculators (460 pages)
 
@@ -5343,7 +5343,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (13750 pages)
+### Other Pages (13748 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -7913,7 +7913,6 @@
 - [Die Schweizerische Post](https://frontaliereticino.ch/fr/aziende/die-schweizerische-post/)
 - [Donze Baume](https://frontaliereticino.ch/fr/aziende/donze-baume/)
 - [Dormakaba](https://frontaliereticino.ch/fr/aziende/dormakaba/)
-- [Duferco](https://frontaliereticino.ch/fr/aziende/duferco/)
 - [Ecole Club Migros](https://frontaliereticino.ch/fr/aziende/ecole-club-migros/)
 - [Efg International Ag](https://frontaliereticino.ch/fr/aziende/efg-international-ag/)
 - [Eisberg Ag](https://frontaliereticino.ch/fr/aziende/eisberg-ag/)
@@ -8168,7 +8167,6 @@
 - [Rehaklinik Hasliberg](https://frontaliereticino.ch/fr/aziende/rehaklinik-hasliberg/)
 - [Relewant](https://frontaliereticino.ch/fr/aziende/relewant/)
 - [Rennbahnklinik](https://frontaliereticino.ch/fr/aziende/rennbahnklinik/)
-- [Reseau Sante Balcon Du Jura Vaudois Rsbj](https://frontaliereticino.ch/fr/aziende/reseau-sante-balcon-du-jura-vaudois-rsbj/)
 - [Rfsm Reseau Fribourgeois Sante Mentale](https://frontaliereticino.ch/fr/aziende/rfsm-reseau-fribourgeois-sante-mentale/)
 - [Rheinmetall Air Defence Ag](https://frontaliereticino.ch/fr/aziende/rheinmetall-air-defence-ag/)
 - [Richemont](https://frontaliereticino.ch/fr/aziende/richemont/)
