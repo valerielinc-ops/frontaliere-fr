@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 20577 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 20580 pages.
 
 ### Tax & Salary Calculators (460 pages)
 
@@ -1101,7 +1101,7 @@
 - [Page Index 7](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-8/)
 
-### Blog Articles (4217 pages)
+### Blog Articles (4218 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -1166,6 +1166,7 @@
 - [Acces En Suisse Travailleurs Frontaliers Documents Douane](https://frontaliereticino.ch/fr/articles-frontalier/acces-en-suisse-travailleurs-frontaliers-documents-douane/)
 - [Accident A2 Debat Trafic Ticino](https://frontaliereticino.ch/fr/articles-frontalier/accident-a2-debat-trafic-ticino/)
 - [Accident A2 Lodrino Travailleurs Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/accident-a2-lodrino-travailleurs-frontaliers/)
+- [Accident A2 Mendrisio Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/accident-a2-mendrisio-frontaliers/)
 - [Accident A8 Castellanza Busto Arsizio 2026](https://frontaliereticino.ch/fr/articles-frontalier/accident-a8-castellanza-busto-arsizio-2026/)
 - [Accident A9 Turate Blesses Travailleurs Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/accident-a9-turate-blesses-travailleurs-frontaliers/)
 - [Accident Aarau 18 Ans Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/accident-aarau-18-ans-frontalier/)
@@ -4403,6 +4404,7 @@
 - [Page 22](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-22/)
 - [Page 23](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-23/)
 - [Page 24](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-24/)
+- [Page 25](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-25/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-4/)
 - [Page 5](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-5/)
@@ -4424,7 +4426,6 @@
 - [Page 5](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/page-5/)
 - [Page 6](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/page-6/)
 - [Page 7](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/page-7/)
-- [Page 8](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/page-8/)
 - [Salaires](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/)
 - [Page 10](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/page-10/)
 - [Page 11](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/page-11/)
@@ -5366,7 +5367,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (15264 pages)
+### Other Pages (15266 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -5993,6 +5994,7 @@
 - [Creer Entreprise Canton Schwyz Guide](https://frontaliereticino.ch/fr/articles-suisse/creer-entreprise-canton-schwyz-guide/)
 - [Creer Entreprise Canton Schwyz Procedures](https://frontaliereticino.ch/fr/articles-suisse/creer-entreprise-canton-schwyz-procedures/)
 - [Creer Entreprise Fribourg Registre](https://frontaliereticino.ch/fr/articles-suisse/creer-entreprise-fribourg-registre/)
+- [Creer Entreprise Grisons Couts](https://frontaliereticino.ch/fr/articles-suisse/creer-entreprise-grisons-couts/)
 - [Creer Entreprise Grisons Guide](https://frontaliereticino.ch/fr/articles-suisse/creer-entreprise-grisons-guide/)
 - [Creer Entreprise Lucerne Registre Commerce Couts](https://frontaliereticino.ch/fr/articles-suisse/creer-entreprise-lucerne-registre-commerce-couts/)
 - [Creer Entreprise Nidvaldo Frais](https://frontaliereticino.ch/fr/articles-suisse/creer-entreprise-nidvaldo-frais/)
@@ -6048,6 +6050,7 @@
 - [Demarrer Entreprise Grisons Forme Juridique](https://frontaliereticino.ch/fr/articles-suisse/demarrer-entreprise-grisons-forme-juridique/)
 - [Demarrer Entreprise Grisons Registre Commerce](https://frontaliereticino.ch/fr/articles-suisse/demarrer-entreprise-grisons-registre-commerce/)
 - [Demarrer Entreprise Schaffhouse Procedures](https://frontaliereticino.ch/fr/articles-suisse/demarrer-entreprise-schaffhouse-procedures/)
+- [Demission Guy Parmelin 2026](https://frontaliereticino.ch/fr/articles-suisse/demission-guy-parmelin-2026/)
 - [Democratie Directe Et Votes Federaux](https://frontaliereticino.ch/fr/articles-suisse/democratie-directe-et-votes-federaux/)
 - [Depense Rentement Contre L Accord Avec Rome](https://frontaliereticino.ch/fr/articles-suisse/depense-rentement-contre-l-accord-avec-rome/)
 - [Depenses Suisses Croissance Ralentit](https://frontaliereticino.ch/fr/articles-suisse/depenses-suisses-croissance-ralentit/)
@@ -7410,6 +7413,7 @@
 - [Salaires Suisse Secteurs Formation Conventions](https://frontaliereticino.ch/fr/articles-suisse/salaires-suisse-secteurs-formation-conventions/)
 - [Salaires Suisses 2026 Inflation](https://frontaliereticino.ch/fr/articles-suisse/salaires-suisses-2026-inflation/)
 - [Salaires Suisses Geneve 2026](https://frontaliereticino.ch/fr/articles-suisse/salaires-suisses-geneve-2026/)
+- [Salaires Suisses Secteurs Berne](https://frontaliereticino.ch/fr/articles-suisse/salaires-suisses-secteurs-berne/)
 - [Salaires Zoug Formation Niveaux](https://frontaliereticino.ch/fr/articles-suisse/salaires-zoug-formation-niveaux/)
 - [Salari Frontalier Suisse Ticino](https://frontaliereticino.ch/fr/articles-suisse/salari-frontalier-suisse-ticino/)
 - [Salario Medio Svizzera Professione](https://frontaliereticino.ch/fr/articles-suisse/salario-medio-svizzera-professione/)
@@ -7596,6 +7600,7 @@
 - [Page 14](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-14/)
 - [Page 15](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-15/)
 - [Page 16](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-16/)
+- [Page 17](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-17/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-4/)
@@ -7653,7 +7658,6 @@
 - [Page 6](https://frontaliereticino.ch/fr/articles-suisse/sujets/retraites-avs-lpp/page-6/)
 - [Page 7](https://frontaliereticino.ch/fr/articles-suisse/sujets/retraites-avs-lpp/page-7/)
 - [Page 8](https://frontaliereticino.ch/fr/articles-suisse/sujets/retraites-avs-lpp/page-8/)
-- [Page 9](https://frontaliereticino.ch/fr/articles-suisse/sujets/retraites-avs-lpp/page-9/)
 - [Salaires](https://frontaliereticino.ch/fr/articles-suisse/sujets/salaires/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/salaires/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/salaires/page-3/)
@@ -7682,7 +7686,6 @@
 - [Page 5](https://frontaliereticino.ch/fr/articles-suisse/sujets/travail-et-emploi/page-5/)
 - [Page 6](https://frontaliereticino.ch/fr/articles-suisse/sujets/travail-et-emploi/page-6/)
 - [Page 7](https://frontaliereticino.ch/fr/articles-suisse/sujets/travail-et-emploi/page-7/)
-- [Page 8](https://frontaliereticino.ch/fr/articles-suisse/sujets/travail-et-emploi/page-8/)
 - [Sulla Disoccupazione Dei Frontalieri Si Apre Un Nuovo Fronte Con Bruxelles](https://frontaliereticino.ch/fr/articles-suisse/sulla-disoccupazione-dei-frontalieri-si-apre-un-nuovo-fronte-con-bruxelles/)
 - [Sulzer Premier Semestre 2026](https://frontaliereticino.ch/fr/articles-suisse/sulzer-premier-semestre-2026/)
 - [Sulzer Restructuration Chemtech](https://frontaliereticino.ch/fr/articles-suisse/sulzer-restructuration-chemtech/)
