@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 20580 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 20581 pages.
 
 ### Tax & Salary Calculators (460 pages)
 
@@ -5367,7 +5367,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (15266 pages)
+### Other Pages (15267 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -8412,6 +8412,7 @@
 - [Spitalverbund Appenzell Ausserrhoden Svar](https://frontaliereticino.ch/fr/aziende/spitalverbund-appenzell-ausserrhoden-svar/)
 - [Spitalzentrum Biel Centre Hospitalier Bienne](https://frontaliereticino.ch/fr/aziende/spitalzentrum-biel-centre-hospitalier-bienne/)
 - [Spitex Basel](https://frontaliereticino.ch/fr/aziende/spitex-basel/)
+- [Spitex Zimmerberg Ag](https://frontaliereticino.ch/fr/aziende/spitex-zimmerberg-ag/)
 - [Spitex Zurich](https://frontaliereticino.ch/fr/aziende/spitex-zurich/)
 - [Srg Ssr](https://frontaliereticino.ch/fr/aziende/srg-ssr/)
 - [Sro Ag Spital Region Oberaargau](https://frontaliereticino.ch/fr/aziende/sro-ag-spital-region-oberaargau/)
