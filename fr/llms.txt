@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 20580 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 20583 pages.
 
 ### Tax & Salary Calculators (460 pages)
 
@@ -5367,7 +5367,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (15266 pages)
+### Other Pages (15269 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -8255,6 +8255,7 @@
 - [Landi Aarau West Ag](https://frontaliereticino.ch/fr/aziende/landi-aarau-west-ag/)
 - [Landi Bippgauthal Ag](https://frontaliereticino.ch/fr/aziende/landi-bippgauthal-ag/)
 - [Landi Graubunden Ag](https://frontaliereticino.ch/fr/aziende/landi-graubunden-ag/)
+- [Landi Nord Vaudois Venoge Sa](https://frontaliereticino.ch/fr/aziende/landi-nord-vaudois-venoge-sa/)
 - [Landi Reba Ag](https://frontaliereticino.ch/fr/aziende/landi-reba-ag/)
 - [Landi Schweiz Ag](https://frontaliereticino.ch/fr/aziende/landi-schweiz-ag/)
 - [Landi Sempach Emmen Genossenschaft](https://frontaliereticino.ch/fr/aziende/landi-sempach-emmen-genossenschaft/)
@@ -8314,6 +8315,7 @@
 - [Oberholzer Ag](https://frontaliereticino.ch/fr/aziende/oberholzer-ag/)
 - [Oerlikon](https://frontaliereticino.ch/fr/aziende/oerlikon/)
 - [Oetiker](https://frontaliereticino.ch/fr/aziende/oetiker/)
+- [Ok Job Sa Succursale Di Mendrisio](https://frontaliereticino.ch/fr/aziende/ok-job-sa-succursale-di-mendrisio/)
 - [Omega Sa](https://frontaliereticino.ch/fr/aziende/omega-sa/)
 - [On Running](https://frontaliereticino.ch/fr/aziende/on-running/)
 - [Orell Fussli Thalia](https://frontaliereticino.ch/fr/aziende/orell-fussli-thalia/)
@@ -8380,6 +8382,7 @@
 - [Six Group](https://frontaliereticino.ch/fr/aziende/six-group/)
 - [Skyguide](https://frontaliereticino.ch/fr/aziende/skyguide/)
 - [Smg Swiss Marketplace Group](https://frontaliereticino.ch/fr/aziende/smg-swiss-marketplace-group/)
+- [Sobi](https://frontaliereticino.ch/fr/aziende/sobi/)
 - [Societe Cooperative Migros Geneve](https://frontaliereticino.ch/fr/aziende/societe-cooperative-migros-geneve/)
 - [Societe Cooperative Migros Vaud](https://frontaliereticino.ch/fr/aziende/societe-cooperative-migros-vaud/)
 - [Sodexo Suisse Sa](https://frontaliereticino.ch/fr/aziende/sodexo-suisse-sa/)
@@ -20185,7 +20188,6 @@
 - [Ristorazione](https://frontaliereticino.ch/fr/marche-travail-tessin/secteur/ristorazione/)
 - [Sanita](https://frontaliereticino.ch/fr/marche-travail-tessin/secteur/sanita/)
 - [Vendite](https://frontaliereticino.ch/fr/marche-travail-tessin/secteur/vendite/)
-- [Semaine 28 2026](https://frontaliereticino.ch/fr/marche-travail-tessin/semaine-28-2026/)
 - [Semaine 29 2026](https://frontaliereticino.ch/fr/marche-travail-tessin/semaine-29-2026/)
 - [Semaine 30 2026](https://frontaliereticino.ch/fr/marche-travail-tessin/semaine-30-2026/)
 - [Semaine 31 2026](https://frontaliereticino.ch/fr/marche-travail-tessin/semaine-31-2026/)
@@ -20197,6 +20199,7 @@
 - [Semaine 37 2026](https://frontaliereticino.ch/fr/marche-travail-tessin/semaine-37-2026/)
 - [Semaine 38 2026](https://frontaliereticino.ch/fr/marche-travail-tessin/semaine-38-2026/)
 - [Semaine 39 2026](https://frontaliereticino.ch/fr/marche-travail-tessin/semaine-39-2026/)
+- [Semaine 40 2026](https://frontaliereticino.ch/fr/marche-travail-tessin/semaine-40-2026/)
 - [Septembre 2026](https://frontaliereticino.ch/fr/marche-travail-tessin/septembre-2026/)
 - [Methodologie](https://frontaliereticino.ch/fr/methodologie/)
 - [Nouvelle Loi Frontaliers 2026](https://frontaliereticino.ch/fr/nouvelle-loi-frontaliers-2026/)
