@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 22562 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 22560 pages.
 
 ### Tax & Salary Calculators (460 pages)
 
@@ -5416,7 +5416,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (17199 pages)
+### Other Pages (17197 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -7473,6 +7473,7 @@
 - [Reduction Debit Lac Zurich 2026](https://frontaliereticino.ch/fr/articles-suisse/reduction-debit-lac-zurich-2026/)
 - [Reduction Loyer Taux Hypothecaires](https://frontaliereticino.ch/fr/articles-suisse/reduction-loyer-taux-hypothecaires/)
 - [Reduire Trafic Transports Publics](https://frontaliereticino.ch/fr/articles-suisse/reduire-trafic-transports-publics/)
+- [Referendum Nucleaire Suisse 2027](https://frontaliereticino.ch/fr/articles-suisse/referendum-nucleaire-suisse-2027/)
 - [Referendum Salaire Minimum Suisse](https://frontaliereticino.ch/fr/articles-suisse/referendum-salaire-minimum-suisse/)
 - [Referendum Sur La Tva 2026 Hausse Pour La Treizieme Rente](https://frontaliereticino.ch/fr/articles-suisse/referendum-sur-la-tva-2026-hausse-pour-la-treizieme-rente/)
 - [Reflexion Neutralite Suisse Delbiaggio](https://frontaliereticino.ch/fr/articles-suisse/reflexion-neutralite-suisse-delbiaggio/)
@@ -11462,7 +11463,6 @@
 - [Rafael Scholten Wunderbare Kuriositaten 2026 10 22](https://frontaliereticino.ch/fr/evenements/berne/oberhofen-am-thunersee/rafael-scholten-wunderbare-kuriositaten-2026-10-22/)
 - [Ride With Us Mavericks Tribute Band 2026 10 31](https://frontaliereticino.ch/fr/evenements/berne/oberhofen-am-thunersee/ride-with-us-mavericks-tribute-band-2026-10-31/)
 - [Sanja Shane Band 2026 10 24](https://frontaliereticino.ch/fr/evenements/berne/oberhofen-am-thunersee/sanja-shane-band-2026-10-24/)
-- [Oberlangenegg](https://frontaliereticino.ch/fr/evenements/berne/oberlangenegg/)
 - [Victorinox Outdoor Sports Camp 2026 10 05](https://frontaliereticino.ch/fr/evenements/berne/oberlangenegg/victorinox-outdoor-sports-camp-2026-10-05/)
 - [Orpund](https://frontaliereticino.ch/fr/evenements/berne/orpund/)
 - [Rocknroll Tanzparty 2026 11 21](https://frontaliereticino.ch/fr/evenements/berne/orpund/rocknroll-tanzparty-2026-11-21/)
@@ -13232,7 +13232,6 @@
 - [Hallomania Chasse Aux Bonbons En Char Viticole 2026 10 24](https://frontaliereticino.ch/fr/evenements/geneve/gy/hallomania-chasse-aux-bonbons-en-char-viticole-2026-10-24/)
 - [Jussy](https://frontaliereticino.ch/fr/evenements/geneve/jussy/)
 - [Hallomania Chasse Aux Bonbons En Train Terroir 2026 10 31](https://frontaliereticino.ch/fr/evenements/geneve/jussy/hallomania-chasse-aux-bonbons-en-train-terroir-2026-10-31/)
-- [Lancy](https://frontaliereticino.ch/fr/evenements/geneve/lancy/)
 - [Le Temps Dun Trajet Se Rapprocher De Lexperience 2026 09 27](https://frontaliereticino.ch/fr/evenements/geneve/lancy/le-temps-dun-trajet-se-rapprocher-de-lexperience-2026-09-27/)
 - [Promenade Botanique A Lancy 2026 10 04](https://frontaliereticino.ch/fr/evenements/geneve/lancy/promenade-botanique-a-lancy-2026-10-04/)
 - [Rencontre Avec Des Figures Politiques Lanceennes 2026 10 09](https://frontaliereticino.ch/fr/evenements/geneve/lancy/rencontre-avec-des-figures-politiques-lanceennes-2026-10-09/)
@@ -13277,7 +13276,6 @@
 - [Nourrir Lhumanite Cest Un Metier Theatre 2027 05 19](https://frontaliereticino.ch/fr/evenements/geneve/plan-les-ouates/nourrir-lhumanite-cest-un-metier-theatre-2027-05-19/)
 - [Satigny](https://frontaliereticino.ch/fr/evenements/geneve/satigny/)
 - [Happy Dance Gala 2026 11 21](https://frontaliereticino.ch/fr/evenements/geneve/satigny/happy-dance-gala-2026-11-21/)
-- [Troinex](https://frontaliereticino.ch/fr/evenements/geneve/troinex/)
 - [Demo Crazy Night Rencontres Et Engagement Citoyen 2026 10 09](https://frontaliereticino.ch/fr/evenements/geneve/troinex/demo-crazy-night-rencontres-et-engagement-citoyen-2026-10-09/)
 - [Vernier](https://frontaliereticino.ch/fr/evenements/geneve/vernier/)
 - [Action Lumieres Vernier 2026 10 27](https://frontaliereticino.ch/fr/evenements/geneve/vernier/action-lumieres-vernier-2026-10-27/)
