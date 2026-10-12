@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 22813 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 22814 pages.
 
 ### Tax & Salary Calculators (460 pages)
 
@@ -968,7 +968,7 @@
 - [Page Index 8](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-9/)
 
-### Blog Articles (4405 pages)
+### Blog Articles (4406 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -4441,6 +4441,7 @@
 - [Page 2](https://frontaliereticino.ch/fr/articles-frontalier/sujets/permis-g/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/permis-g/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/permis-g/page-4/)
+- [Page 5](https://frontaliereticino.ch/fr/articles-frontalier/sujets/permis-g/page-5/)
 - [Retraites Avs Lpp](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/page-3/)
@@ -7813,7 +7814,6 @@
 - [Page 9](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-9/)
 - [Energie Et Carburants](https://frontaliereticino.ch/fr/articles-suisse/sujets/energie-et-carburants/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/energie-et-carburants/page-2/)
-- [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/energie-et-carburants/page-3/)
 - [Famille Et Ecole](https://frontaliereticino.ch/fr/articles-suisse/sujets/famille-et-ecole/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/famille-et-ecole/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/famille-et-ecole/page-3/)
@@ -7882,6 +7882,7 @@
 - [Page 6](https://frontaliereticino.ch/fr/articles-suisse/sujets/sante-assurance-maladie/page-6/)
 - [Page 7](https://frontaliereticino.ch/fr/articles-suisse/sujets/sante-assurance-maladie/page-7/)
 - [Page 8](https://frontaliereticino.ch/fr/articles-suisse/sujets/sante-assurance-maladie/page-8/)
+- [Page 9](https://frontaliereticino.ch/fr/articles-suisse/sujets/sante-assurance-maladie/page-9/)
 - [Securite Et Faits Divers](https://frontaliereticino.ch/fr/articles-suisse/sujets/securite-et-faits-divers/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/securite-et-faits-divers/page-2/)
 - [Transports Et Trafic](https://frontaliereticino.ch/fr/articles-suisse/sujets/transports-et-trafic/)
