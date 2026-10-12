@@ -8,7 +8,7 @@
 - **Name**: Frontaliere Ticino
 - **Language**: French (this file) — also available in Italian (primary), English, German
 - **Type**: Free web application, no registration required
-- **Index Generated**: 2026-10-11
+- **Index Generated**: 2026-10-12
 - **Audience**: Travailleurs frontaliers francophones faisant la navette entre l'Italie et la Suisse (Tessin, Grisons, Valais)
 - **Sources**: See source links and publication dates in the full reference; generating this index does not re-verify those sources.
 
@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 22814 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 22808 pages.
 
 ### Tax & Salary Calculators (460 pages)
 
@@ -968,7 +968,7 @@
 - [Page Index 8](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-9/)
 
-### Blog Articles (4406 pages)
+### Blog Articles (4407 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -4452,6 +4452,7 @@
 - [Salaires](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/)
 - [Page 10](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/page-10/)
 - [Page 11](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/page-11/)
+- [Page 12](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/page-12/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/salaires/page-4/)
@@ -5422,7 +5423,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (17445 pages)
+### Other Pages (17438 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -9569,7 +9570,6 @@
 - [Weihnachtsmarkt Oberhof 2025 11 29](https://frontaliereticino.ch/fr/evenements/argovie/oberhof/weihnachtsmarkt-oberhof-2025-11-29/)
 - [Weihnachtsmarkt Oberhof 2027 11 27](https://frontaliereticino.ch/fr/evenements/argovie/oberhof/weihnachtsmarkt-oberhof-2027-11-27/)
 - [04 10 26 Lieb Mich Nochmals Secondhand Markt Und 2026 10 04](https://frontaliereticino.ch/fr/evenements/argovie/obersiggenthal/04-10-26-lieb-mich-nochmals-secondhand-markt-und-2026-10-04/)
-- [Oeschgen](https://frontaliereticino.ch/fr/evenements/argovie/oeschgen/)
 - [Pilze Die Heimlichen Herrscher 2026 10 11](https://frontaliereticino.ch/fr/evenements/argovie/oeschgen/pilze-die-heimlichen-herrscher-2026-10-11/)
 - [Rheinfelden](https://frontaliereticino.ch/fr/evenements/argovie/rheinfelden/)
 - [Adventsfunkeln In Rheinfelden 2026 11 27](https://frontaliereticino.ch/fr/evenements/argovie/rheinfelden/adventsfunkeln-in-rheinfelden-2026-11-27/)
@@ -11252,7 +11252,6 @@
 - [Dada Ante Portas Ten Plugged 2026 11 21](https://frontaliereticino.ch/fr/evenements/berne/herzogenbuchsee/dada-ante-portas-ten-plugged-2026-11-21/)
 - [Oli Kehrli Pedro Lenz 2026 11 20](https://frontaliereticino.ch/fr/evenements/berne/herzogenbuchsee/oli-kehrli-pedro-lenz-2026-11-20/)
 - [Plattentaufe Marc Rudin Meets The Band 2026 11 06](https://frontaliereticino.ch/fr/evenements/berne/herzogenbuchsee/plattentaufe-marc-rudin-meets-the-band-2026-11-06/)
-- [Hilterfingen](https://frontaliereticino.ch/fr/evenements/berne/hilterfingen/)
 - [11 Schweizer Schlossertag Zum Thema Reisen 2026 10 04](https://frontaliereticino.ch/fr/evenements/berne/hilterfingen/11-schweizer-schlossertag-zum-thema-reisen-2026-10-04/)
 - [Klangreise Schloss Hunegg 2026 10 11](https://frontaliereticino.ch/fr/evenements/berne/hilterfingen/klangreise-schloss-hunegg-2026-10-11/)
 - [Kultur Am Thunersee Konzertreihe Port Polar 2026 10 03](https://frontaliereticino.ch/fr/evenements/berne/hilterfingen/kultur-am-thunersee-konzertreihe-port-polar-2026-10-03/)
@@ -12452,7 +12451,6 @@
 - [Breakfast Tram 2026 09 20](https://frontaliereticino.ch/fr/evenements/geneve/bellevue/breakfast-tram-2026-09-20/)
 - [Elevate 2026 10 09](https://frontaliereticino.ch/fr/evenements/geneve/bellevue/elevate-2026-10-09/)
 - [Japan Tram 2026 09 12](https://frontaliereticino.ch/fr/evenements/geneve/bellevue/japan-tram-2026-09-12/)
-- [Bernex](https://frontaliereticino.ch/fr/evenements/geneve/bernex/)
 - [Stage De Decouverte De La Teinture De La Laine 2026 10 10](https://frontaliereticino.ch/fr/evenements/geneve/bernex/stage-de-decouverte-de-la-teinture-de-la-laine-2026-10-10/)
 - [Ce Week End](https://frontaliereticino.ch/fr/evenements/geneve/ce-week-end/)
 - [Cette Semaine](https://frontaliereticino.ch/fr/evenements/geneve/cette-semaine/)
@@ -17361,7 +17359,6 @@
 - [Mattia Polli Ventanni Di Scultura 2026 10 11](https://frontaliereticino.ch/fr/evenements/tessin/brusino-arsizio/mattia-polli-ventanni-di-scultura-2026-10-11/)
 - [Cadempino](https://frontaliereticino.ch/fr/evenements/tessin/cadempino/)
 - [Amici Animali 2026 2026 10 17](https://frontaliereticino.ch/fr/evenements/tessin/cadempino/amici-animali-2026-2026-10-17/)
-- [Capriasca](https://frontaliereticino.ch/fr/evenements/tessin/capriasca/)
 - [Open Studio Capriasca 2026 10 10](https://frontaliereticino.ch/fr/evenements/tessin/capriasca/open-studio-capriasca-2026-10-10/)
 - [Open Studio Capriasca 2026 10 11](https://frontaliereticino.ch/fr/evenements/tessin/capriasca/open-studio-capriasca-2026-10-11/)
 - [Caslano](https://frontaliereticino.ch/fr/evenements/tessin/caslano/)
@@ -19571,7 +19568,6 @@
 - [Ollon](https://frontaliereticino.ch/fr/evenements/vaud/ollon/)
 - [Golden Hour Evening 2026 09 05](https://frontaliereticino.ch/fr/evenements/vaud/ollon/golden-hour-evening-2026-09-05/)
 - [Summer Biathlon By Ess Villars 2026 08 25](https://frontaliereticino.ch/fr/evenements/vaud/ollon/summer-biathlon-by-ess-villars-2026-08-25/)
-- [Ormont Dessus](https://frontaliereticino.ch/fr/evenements/vaud/ormont-dessus/)
 - [Salon Des Alpages Alpine Farmers Fair 2026 10 09](https://frontaliereticino.ch/fr/evenements/vaud/ormont-dessus/salon-des-alpages-alpine-farmers-fair-2026-10-09/)
 - [Oron](https://frontaliereticino.ch/fr/evenements/vaud/oron/)
 - [Arroganza Botanica 2026 08 29](https://frontaliereticino.ch/fr/evenements/vaud/oron/arroganza-botanica-2026-08-29/)
@@ -19759,7 +19755,6 @@
 - [Vinzel](https://frontaliereticino.ch/fr/evenements/vaud/vinzel/)
 - [Discovering The Bourru In The Vineyards La Cote 2026 11 07](https://frontaliereticino.ch/fr/evenements/vaud/vinzel/discovering-the-bourru-in-the-vineyards-la-cote-2026-11-07/)
 - [Abbavoice Konzert 2026 10 02](https://frontaliereticino.ch/fr/evenements/vaud/vufflens-le-chateau/abbavoice-konzert-2026-10-02/)
-- [Vullierens](https://frontaliereticino.ch/fr/evenements/vaud/vullierens/)
 - [Accords Divins Wine Chocolates 2026 10 03](https://frontaliereticino.ch/fr/evenements/vaud/vullierens/accords-divins-wine-chocolates-2026-10-03/)
 - [Accords Divins Wines Cheeses 2026 10 03](https://frontaliereticino.ch/fr/evenements/vaud/vullierens/accords-divins-wines-cheeses-2026-10-03/)
 - [Tavolata The Convivial Table 2026 09 20](https://frontaliereticino.ch/fr/evenements/vaud/vullierens/tavolata-the-convivial-table-2026-09-20/)
@@ -20842,7 +20837,6 @@
 - [Rund Um Benz Ein Gestalter In Kusnacht 2026 09 06](https://frontaliereticino.ch/fr/evenements/zurich/kusnacht-zh/rund-um-benz-ein-gestalter-in-kusnacht-2026-09-06/)
 - [Tiefenrausch 2026 11 15](https://frontaliereticino.ch/fr/evenements/zurich/kusnacht-zh/tiefenrausch-2026-11-15/)
 - [White Queen 2026 11 28](https://frontaliereticino.ch/fr/evenements/zurich/kusnacht-zh/white-queen-2026-11-28/)
-- [Langnau Am Albis](https://frontaliereticino.ch/fr/evenements/zurich/langnau-am-albis/)
 - [Il Caso Ha Fatto Da Regista Si Alza Il Sipario Al 2026 10 01](https://frontaliereticino.ch/fr/evenements/zurich/langnau-am-albis/il-caso-ha-fatto-da-regista-si-alza-il-sipario-al-2026-10-01/)
 - [Weiches Fell Und Scharfe Zahne 2026 09 13](https://frontaliereticino.ch/fr/evenements/zurich/langnau-am-albis/weiches-fell-und-scharfe-zahne-2026-09-13/)
 - [Lindau](https://frontaliereticino.ch/fr/evenements/zurich/lindau/)
