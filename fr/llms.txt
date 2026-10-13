@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 23007 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 23006 pages.
 
 ### Tax & Salary Calculators (460 pages)
 
@@ -4464,7 +4464,6 @@
 - [Page 10](https://frontaliereticino.ch/fr/articles-frontalier/sujets/sante-assurance-maladie/page-10/)
 - [Page 11](https://frontaliereticino.ch/fr/articles-frontalier/sujets/sante-assurance-maladie/page-11/)
 - [Page 12](https://frontaliereticino.ch/fr/articles-frontalier/sujets/sante-assurance-maladie/page-12/)
-- [Page 13](https://frontaliereticino.ch/fr/articles-frontalier/sujets/sante-assurance-maladie/page-13/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-frontalier/sujets/sante-assurance-maladie/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/sante-assurance-maladie/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/sante-assurance-maladie/page-4/)
@@ -4485,6 +4484,7 @@
 - [Page 8](https://frontaliereticino.ch/fr/articles-frontalier/sujets/securite-et-faits-divers/page-8/)
 - [Page 9](https://frontaliereticino.ch/fr/articles-frontalier/sujets/securite-et-faits-divers/page-9/)
 - [Transports Et Trafic](https://frontaliereticino.ch/fr/articles-frontalier/sujets/transports-et-trafic/)
+- [Page 10](https://frontaliereticino.ch/fr/articles-frontalier/sujets/transports-et-trafic/page-10/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-frontalier/sujets/transports-et-trafic/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/transports-et-trafic/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/transports-et-trafic/page-4/)
@@ -5422,7 +5422,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (17638 pages)
+### Other Pages (17637 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -7814,7 +7814,6 @@
 - [Page 9](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-9/)
 - [Energie Et Carburants](https://frontaliereticino.ch/fr/articles-suisse/sujets/energie-et-carburants/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/energie-et-carburants/page-2/)
-- [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/energie-et-carburants/page-3/)
 - [Famille Et Ecole](https://frontaliereticino.ch/fr/articles-suisse/sujets/famille-et-ecole/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/famille-et-ecole/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/famille-et-ecole/page-3/)
