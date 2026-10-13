@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 23006 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 23007 pages.
 
 ### Tax & Salary Calculators (460 pages)
 
@@ -5422,7 +5422,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (17637 pages)
+### Other Pages (17638 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -7814,6 +7814,7 @@
 - [Page 9](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-9/)
 - [Energie Et Carburants](https://frontaliereticino.ch/fr/articles-suisse/sujets/energie-et-carburants/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/energie-et-carburants/page-2/)
+- [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/energie-et-carburants/page-3/)
 - [Famille Et Ecole](https://frontaliereticino.ch/fr/articles-suisse/sujets/famille-et-ecole/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/famille-et-ecole/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/famille-et-ecole/page-3/)
@@ -7826,7 +7827,6 @@
 - [Franc Et Prix](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/)
 - [Page 10](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-10/)
 - [Page 11](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-11/)
-- [Page 12](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-12/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-4/)
@@ -7852,6 +7852,7 @@
 - [Page 6](https://frontaliereticino.ch/fr/articles-suisse/sujets/logement-et-loyers/page-6/)
 - [Page 7](https://frontaliereticino.ch/fr/articles-suisse/sujets/logement-et-loyers/page-7/)
 - [Page 8](https://frontaliereticino.ch/fr/articles-suisse/sujets/logement-et-loyers/page-8/)
+- [Page 9](https://frontaliereticino.ch/fr/articles-suisse/sujets/logement-et-loyers/page-9/)
 - [Permis G](https://frontaliereticino.ch/fr/articles-suisse/sujets/permis-g/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/permis-g/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/permis-g/page-3/)
@@ -8345,7 +8346,6 @@
 - [Etat De Fribourg](https://frontaliereticino.ch/fr/aziende/etat-de-fribourg/)
 - [Etat De Vaud Administration Cantonale Vaudoise](https://frontaliereticino.ch/fr/aziende/etat-de-vaud-administration-cantonale-vaudoise/)
 - [Etavis Ag](https://frontaliereticino.ch/fr/aziende/etavis-ag/)
-- [Etavis Grossenbacher Ag](https://frontaliereticino.ch/fr/aziende/etavis-grossenbacher-ag/)
 - [Etavis Jag Jakob](https://frontaliereticino.ch/fr/aziende/etavis-jag-jakob/)
 - [Etavis Kriegel Co Ag](https://frontaliereticino.ch/fr/aziende/etavis-kriegel-co-ag/)
 - [Etavis Kriegel Schaffner Ag](https://frontaliereticino.ch/fr/aziende/etavis-kriegel-schaffner-ag/)
@@ -22953,6 +22953,7 @@
 - [Travail Tessin Employe](https://frontaliereticino.ch/fr/travail-tessin-employe/)
 - [Travail Tessin Infirmier](https://frontaliereticino.ch/fr/travail-tessin-infirmier/)
 - [Travail Tessin Ingenieur](https://frontaliereticino.ch/fr/travail-tessin-ingenieur/)
+- [Travail Tessin Logopede](https://frontaliereticino.ch/fr/travail-tessin-logopede/)
 - [Travail Tessin Macon](https://frontaliereticino.ch/fr/travail-tessin-macon/)
 - [Travail Tessin Opticien Optometriste](https://frontaliereticino.ch/fr/travail-tessin-opticien-optometriste/)
 - [Travail Tessin Ouvrier](https://frontaliereticino.ch/fr/travail-tessin-ouvrier/)
