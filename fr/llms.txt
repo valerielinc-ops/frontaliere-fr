@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 23008 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 23007 pages.
 
 ### Tax & Salary Calculators (460 pages)
 
@@ -5422,7 +5422,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (17639 pages)
+### Other Pages (17638 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -8262,7 +8262,6 @@
 - [Bosch Thermotechnik Ag](https://frontaliereticino.ch/fr/aziende/bosch-thermotechnik-ag/)
 - [Bossard Group](https://frontaliereticino.ch/fr/aziende/bossard-group/)
 - [Brack Alltron Ag](https://frontaliereticino.ch/fr/aziende/brack-alltron-ag/)
-- [Brefis Personal Ag](https://frontaliereticino.ch/fr/aziende/brefis-personal-ag/)
 - [Breitling](https://frontaliereticino.ch/fr/aziende/breitling/)
 - [Bucherer](https://frontaliereticino.ch/fr/aziende/bucherer/)
 - [Buhler Group](https://frontaliereticino.ch/fr/aziende/buhler-group/)
