@@ -8,7 +8,7 @@
 - **Name**: Frontaliere Ticino
 - **Language**: French (this file) — also available in Italian (primary), English, German
 - **Type**: Free web application, no registration required
-- **Index Generated**: 2026-10-12
+- **Index Generated**: 2026-10-13
 - **Audience**: Travailleurs frontaliers francophones faisant la navette entre l'Italie et la Suisse (Tessin, Grisons, Valais)
 - **Sources**: See source links and publication dates in the full reference; generating this index does not re-verify those sources.
 
@@ -968,7 +968,7 @@
 - [Page Index 8](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-9/)
 
-### Blog Articles (4407 pages)
+### Blog Articles (4406 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -4391,7 +4391,6 @@
 - [Frontiere Et Douane](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/)
 - [Page 10](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-10/)
 - [Page 11](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-11/)
-- [Page 12](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-12/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-4/)
@@ -5423,7 +5422,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (17638 pages)
+### Other Pages (17639 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -7815,6 +7814,7 @@
 - [Page 9](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-9/)
 - [Energie Et Carburants](https://frontaliereticino.ch/fr/articles-suisse/sujets/energie-et-carburants/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/energie-et-carburants/page-2/)
+- [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/energie-et-carburants/page-3/)
 - [Famille Et Ecole](https://frontaliereticino.ch/fr/articles-suisse/sujets/famille-et-ecole/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/famille-et-ecole/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/famille-et-ecole/page-3/)
@@ -7827,6 +7827,7 @@
 - [Franc Et Prix](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/)
 - [Page 10](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-10/)
 - [Page 11](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-11/)
+- [Page 12](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-12/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-4/)
@@ -7883,7 +7884,6 @@
 - [Page 6](https://frontaliereticino.ch/fr/articles-suisse/sujets/sante-assurance-maladie/page-6/)
 - [Page 7](https://frontaliereticino.ch/fr/articles-suisse/sujets/sante-assurance-maladie/page-7/)
 - [Page 8](https://frontaliereticino.ch/fr/articles-suisse/sujets/sante-assurance-maladie/page-8/)
-- [Page 9](https://frontaliereticino.ch/fr/articles-suisse/sujets/sante-assurance-maladie/page-9/)
 - [Securite Et Faits Divers](https://frontaliereticino.ch/fr/articles-suisse/sujets/securite-et-faits-divers/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/securite-et-faits-divers/page-2/)
 - [Transports Et Trafic](https://frontaliereticino.ch/fr/articles-suisse/sujets/transports-et-trafic/)
