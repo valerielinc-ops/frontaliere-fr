@@ -968,7 +968,7 @@
 - [Page Index 8](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-9/)
 
-### Blog Articles (4407 pages)
+### Blog Articles (4408 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -4388,6 +4388,7 @@
 - [Page 6](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/page-6/)
 - [Page 7](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/page-7/)
 - [Page 8](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/page-8/)
+- [Page 9](https://frontaliereticino.ch/fr/articles-frontalier/sujets/franc-et-prix/page-9/)
 - [Frontiere Et Douane](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/)
 - [Page 10](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-10/)
 - [Page 11](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-11/)
@@ -5423,7 +5424,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (17784 pages)
+### Other Pages (17783 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -7828,6 +7829,7 @@
 - [Franc Et Prix](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/)
 - [Page 10](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-10/)
 - [Page 11](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-11/)
+- [Page 12](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-12/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-4/)
@@ -7899,7 +7901,6 @@
 - [Page 6](https://frontaliereticino.ch/fr/articles-suisse/sujets/travail-et-emploi/page-6/)
 - [Page 7](https://frontaliereticino.ch/fr/articles-suisse/sujets/travail-et-emploi/page-7/)
 - [Page 8](https://frontaliereticino.ch/fr/articles-suisse/sujets/travail-et-emploi/page-8/)
-- [Page 9](https://frontaliereticino.ch/fr/articles-suisse/sujets/travail-et-emploi/page-9/)
 - [Sulla Disoccupazione Dei Frontalieri Si Apre Un Nuovo Fronte Con Bruxelles](https://frontaliereticino.ch/fr/articles-suisse/sulla-disoccupazione-dei-frontalieri-si-apre-un-nuovo-fronte-con-bruxelles/)
 - [Sulzer Premier Semestre 2026](https://frontaliereticino.ch/fr/articles-suisse/sulzer-premier-semestre-2026/)
 - [Sulzer Restructuration Chemtech](https://frontaliereticino.ch/fr/articles-suisse/sulzer-restructuration-chemtech/)
@@ -12275,7 +12276,6 @@
 - [Fruhstucksbuffet Im Restaurant Fein Sein 2026 12 13](https://frontaliereticino.ch/fr/evenements/fribourg/plaffeien/fruhstucksbuffet-im-restaurant-fein-sein-2026-12-13/)
 - [Gefuhrte Vollmondwanderung Schwarzsee 2026 11 22](https://frontaliereticino.ch/fr/evenements/fribourg/plaffeien/gefuhrte-vollmondwanderung-schwarzsee-2026-11-22/)
 - [Hammer S Wildbuffet A Discretion Restaurant Fein 2026 10 18](https://frontaliereticino.ch/fr/evenements/fribourg/plaffeien/hammer-s-wildbuffet-a-discretion-restaurant-fein-2026-10-18/)
-- [Prez](https://frontaliereticino.ch/fr/evenements/fribourg/prez/)
 - [Vokalensemble Graindelavoix Be Josquin The Undead 2026 10 13](https://frontaliereticino.ch/fr/evenements/fribourg/prez/vokalensemble-graindelavoix-be-josquin-the-undead-2026-10-13/)
 - [Rue](https://frontaliereticino.ch/fr/evenements/fribourg/rue/)
 - [Foire Dautomne 2026 10 03](https://frontaliereticino.ch/fr/evenements/fribourg/rue/foire-dautomne-2026-10-03/)
