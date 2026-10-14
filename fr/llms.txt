@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 23154 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 23155 pages.
 
 ### Tax & Salary Calculators (460 pages)
 
@@ -5424,7 +5424,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (17783 pages)
+### Other Pages (17784 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -8208,6 +8208,7 @@
 - [Marco Ferrari](https://frontaliereticino.ch/fr/auteurs/marco-ferrari/)
 - [Redazione](https://frontaliereticino.ch/fr/auteurs/redazione/)
 - [Samuele Valente](https://frontaliereticino.ch/fr/auteurs/samuele-valente/)
+- [Automatisez votre recherche d’emploi en Suisse](https://frontaliereticino.ch/fr/automatiser-recherche-emploi-suisse/) — Automatisez votre recherche d’emploi en Suisse : nous trouvons des postes adaptés et préparons des candidatures sur mesure. Cela peut augmenter vos chances d’ob
 - [A Group](https://frontaliereticino.ch/fr/aziende/a-group/)
 - [Aarreha Schinznach](https://frontaliereticino.ch/fr/aziende/aarreha-schinznach/)
 - [Abb Svizzera Sede Ticino](https://frontaliereticino.ch/fr/aziende/abb-svizzera-sede-ticino/)
