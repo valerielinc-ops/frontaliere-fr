@@ -968,7 +968,7 @@
 - [Page Index 8](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-9/)
 
-### Blog Articles (4408 pages)
+### Blog Articles (4407 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -4392,6 +4392,7 @@
 - [Frontiere Et Douane](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/)
 - [Page 10](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-10/)
 - [Page 11](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-11/)
+- [Page 12](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-12/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/frontiere-et-douane/page-4/)
@@ -4427,8 +4428,6 @@
 - [Page 31](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-31/)
 - [Page 32](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-32/)
 - [Page 33](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-33/)
-- [Page 34](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-34/)
-- [Page 35](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-35/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-4/)
 - [Page 5](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-5/)
 - [Page 6](https://frontaliereticino.ch/fr/articles-frontalier/sujets/impots/page-6/)
@@ -5424,7 +5423,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (18484 pages)
+### Other Pages (18485 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -8305,6 +8304,7 @@
 - [Citta Di Lugano](https://frontaliereticino.ch/fr/aziende/citta-di-lugano/)
 - [Ckw](https://frontaliereticino.ch/fr/aziende/ckw/)
 - [Clienia Ag](https://frontaliereticino.ch/fr/aziende/clienia-ag/)
+- [Climeworks](https://frontaliereticino.ch/fr/aziende/climeworks/)
 - [Clinica Holistica Engiadina](https://frontaliereticino.ch/fr/aziende/clinica-holistica-engiadina/)
 - [Clinique De Genolier](https://frontaliereticino.ch/fr/aziende/clinique-de-genolier/)
 - [Clinique De La Source](https://frontaliereticino.ch/fr/aziende/clinique-de-la-source/)
