@@ -8,7 +8,7 @@
 - **Name**: Frontaliere Ticino
 - **Language**: French (this file) — also available in Italian (primary), English, German
 - **Type**: Free web application, no registration required
-- **Index Generated**: 2026-10-14
+- **Index Generated**: 2026-10-15
 - **Audience**: Travailleurs frontaliers francophones faisant la navette entre l'Italie et la Suisse (Tessin, Grisons, Valais)
 - **Sources**: See source links and publication dates in the full reference; generating this index does not re-verify those sources.
 
@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 23855 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 23852 pages.
 
 ### Tax & Salary Calculators (460 pages)
 
@@ -5423,7 +5423,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (18485 pages)
+### Other Pages (18482 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -7805,6 +7805,8 @@
 - [Page 11](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-11/)
 - [Page 12](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-12/)
 - [Page 13](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-13/)
+- [Page 14](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-14/)
+- [Page 15](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-15/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-suisse/sujets/accords-et-politique/page-4/)
@@ -7828,7 +7830,6 @@
 - [Franc Et Prix](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/)
 - [Page 10](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-10/)
 - [Page 11](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-11/)
-- [Page 12](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-12/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-4/)
@@ -7888,6 +7889,7 @@
 - [Page 6](https://frontaliereticino.ch/fr/articles-suisse/sujets/sante-assurance-maladie/page-6/)
 - [Page 7](https://frontaliereticino.ch/fr/articles-suisse/sujets/sante-assurance-maladie/page-7/)
 - [Page 8](https://frontaliereticino.ch/fr/articles-suisse/sujets/sante-assurance-maladie/page-8/)
+- [Page 9](https://frontaliereticino.ch/fr/articles-suisse/sujets/sante-assurance-maladie/page-9/)
 - [Securite Et Faits Divers](https://frontaliereticino.ch/fr/articles-suisse/sujets/securite-et-faits-divers/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/securite-et-faits-divers/page-2/)
 - [Transports Et Trafic](https://frontaliereticino.ch/fr/articles-suisse/sujets/transports-et-trafic/)
@@ -7901,8 +7903,6 @@
 - [Page 5](https://frontaliereticino.ch/fr/articles-suisse/sujets/travail-et-emploi/page-5/)
 - [Page 6](https://frontaliereticino.ch/fr/articles-suisse/sujets/travail-et-emploi/page-6/)
 - [Page 7](https://frontaliereticino.ch/fr/articles-suisse/sujets/travail-et-emploi/page-7/)
-- [Page 8](https://frontaliereticino.ch/fr/articles-suisse/sujets/travail-et-emploi/page-8/)
-- [Page 9](https://frontaliereticino.ch/fr/articles-suisse/sujets/travail-et-emploi/page-9/)
 - [Sulla Disoccupazione Dei Frontalieri Si Apre Un Nuovo Fronte Con Bruxelles](https://frontaliereticino.ch/fr/articles-suisse/sulla-disoccupazione-dei-frontalieri-si-apre-un-nuovo-fronte-con-bruxelles/)
 - [Sulzer Premier Semestre 2026](https://frontaliereticino.ch/fr/articles-suisse/sulzer-premier-semestre-2026/)
 - [Sulzer Restructuration Chemtech](https://frontaliereticino.ch/fr/articles-suisse/sulzer-restructuration-chemtech/)
@@ -8210,7 +8210,7 @@
 - [Marco Ferrari](https://frontaliereticino.ch/fr/auteurs/marco-ferrari/)
 - [Redazione](https://frontaliereticino.ch/fr/auteurs/redazione/)
 - [Samuele Valente](https://frontaliereticino.ch/fr/auteurs/samuele-valente/)
-- [Automatisez votre recherche d’emploi en Suisse](https://frontaliereticino.ch/fr/automatiser-recherche-emploi-suisse/) — Automatisez votre recherche d’emploi en Suisse : nous trouvons des postes adaptés et préparons des candidatures sur mesure. Cela peut augmenter vos chances d’ob
+- [Automatisez votre recherche d’emploi en Suisse](https://frontaliereticino.ch/fr/automatiser-recherche-emploi-suisse/) — Automatisez votre recherche d’emploi en Suisse : nous trouvons des postes adaptés et préparons des candidatures ciblées. Cela peut aider à obtenir un entretien.
 - [A Group](https://frontaliereticino.ch/fr/aziende/a-group/)
 - [Aarreha Schinznach](https://frontaliereticino.ch/fr/aziende/aarreha-schinznach/)
 - [Abb Svizzera Sede Ticino](https://frontaliereticino.ch/fr/aziende/abb-svizzera-sede-ticino/)
@@ -8453,6 +8453,7 @@
 - [Hitzberger](https://frontaliereticino.ch/fr/aziende/hitzberger/)
 - [Hoch Health Ostschweiz](https://frontaliereticino.ch/fr/aziende/hoch-health-ostschweiz/)
 - [Hochgebirgsklinik Davos](https://frontaliereticino.ch/fr/aziende/hochgebirgsklinik-davos/)
+- [Hof Weissbad Ag](https://frontaliereticino.ch/fr/aziende/hof-weissbad-ag/)
 - [Holcim Group](https://frontaliereticino.ch/fr/aziende/holcim-group/)
 - [Holmes Place](https://frontaliereticino.ch/fr/aziende/holmes-place/)
 - [Honegger Ag](https://frontaliereticino.ch/fr/aziende/honegger-ag/)
@@ -8595,7 +8596,6 @@
 - [Migros Hq Zurich](https://frontaliereticino.ch/fr/aziende/migros-hq-zurich/)
 - [Migros Industrie Ag](https://frontaliereticino.ch/fr/aziende/migros-industrie-ag/)
 - [Migros Logistics](https://frontaliereticino.ch/fr/aziende/migros-logistics/)
-- [Migros Online](https://frontaliereticino.ch/fr/aziende/migros-online/)
 - [Migros Restaurant](https://frontaliereticino.ch/fr/aziende/migros-restaurant/)
 - [Migros Take Away](https://frontaliereticino.ch/fr/aziende/migros-take-away/)
 - [Mikron Group](https://frontaliereticino.ch/fr/aziende/mikron-group/)
@@ -8603,6 +8603,7 @@
 - [Mobel Pfister Ag](https://frontaliereticino.ch/fr/aziende/mobel-pfister-ag/)
 - [Montagetechnik Berner Ag](https://frontaliereticino.ch/fr/aziende/montagetechnik-berner-ag/)
 - [Msc Group](https://frontaliereticino.ch/fr/aziende/msc-group/)
+- [Nestle](https://frontaliereticino.ch/fr/aziende/nestle/)
 - [New Yorker](https://frontaliereticino.ch/fr/aziende/new-yorker/)
 - [Nord Anglia Education Switzerland](https://frontaliereticino.ch/fr/aziende/nord-anglia-education-switzerland/)
 - [Novartis](https://frontaliereticino.ch/fr/aziende/novartis/)
@@ -8612,7 +8613,6 @@
 - [Oberholzer Ag](https://frontaliereticino.ch/fr/aziende/oberholzer-ag/)
 - [Oerlikon](https://frontaliereticino.ch/fr/aziende/oerlikon/)
 - [Oetiker](https://frontaliereticino.ch/fr/aziende/oetiker/)
-- [Ok Job Sa Succursale Di Mendrisio](https://frontaliereticino.ch/fr/aziende/ok-job-sa-succursale-di-mendrisio/)
 - [Omega Sa](https://frontaliereticino.ch/fr/aziende/omega-sa/)
 - [On Running](https://frontaliereticino.ch/fr/aziende/on-running/)
 - [Orell Fussli Thalia](https://frontaliereticino.ch/fr/aziende/orell-fussli-thalia/)
@@ -9934,7 +9934,6 @@
 - [Bach Mozart 2026 11 01](https://frontaliereticino.ch/fr/evenements/autres-cantons/autres-evenements/bach-mozart-2026-11-01/)
 - [Baiba 2026 10 24](https://frontaliereticino.ch/fr/evenements/autres-cantons/autres-evenements/baiba-2026-10-24/)
 - [Bauerliches Wohnmuseum 2026 05 31](https://frontaliereticino.ch/fr/evenements/autres-cantons/autres-evenements/bauerliches-wohnmuseum-2026-05-31/)
-- [Bedrohung Durch Drohnen Und Hybride Kriegsfuhrung 2026 10 01](https://frontaliereticino.ch/fr/evenements/autres-cantons/autres-evenements/bedrohung-durch-drohnen-und-hybride-kriegsfuhrung-2026-10-01/)
 - [Begrussungsapero Im Volksmusighus St Antonien 2026 07 05](https://frontaliereticino.ch/fr/evenements/autres-cantons/autres-evenements/begrussungsapero-im-volksmusighus-st-antonien-2026-07-05/)
 - [Ben De Hawarar 2026 10 02](https://frontaliereticino.ch/fr/evenements/autres-cantons/autres-evenements/ben-de-hawarar-2026-10-02/)
 - [Bibiza 2026 10 13](https://frontaliereticino.ch/fr/evenements/autres-cantons/autres-evenements/bibiza-2026-10-13/)
@@ -11603,7 +11602,6 @@
 - [Herbst Gartenkurs In Kaufdorf 2026 10 31](https://frontaliereticino.ch/fr/evenements/berne/kaufdorf/herbst-gartenkurs-in-kaufdorf-2026-10-31/)
 - [Kehrsatz](https://frontaliereticino.ch/fr/evenements/berne/kehrsatz/)
 - [Ensemble Orion Ariane Koch Salon Musical Et 2026 10 25](https://frontaliereticino.ch/fr/evenements/berne/kehrsatz/ensemble-orion-ariane-koch-salon-musical-et-2026-10-25/)
-- [Kiesen](https://frontaliereticino.ch/fr/evenements/berne/kiesen/)
 - [Wie Die Eiszeiten Unsere Landschaft Pragten 2026 10 14](https://frontaliereticino.ch/fr/evenements/berne/kiesen/wie-die-eiszeiten-unsere-landschaft-pragten-2026-10-14/)
 - [Koniz](https://frontaliereticino.ch/fr/evenements/berne/koniz/)
 - [Fred Wesley I Generations 2026 11 06](https://frontaliereticino.ch/fr/evenements/berne/koniz/fred-wesley-i-generations-2026-11-06/)
@@ -17868,7 +17866,6 @@
 - [Essenz Serata Sul Set A Villa Oxford 2026 10 20](https://frontaliereticino.ch/fr/evenements/tessin/acquarossa/essenz-serata-sul-set-a-villa-oxford-2026-10-20/)
 - [Festa Dautunno 2026 10 03](https://frontaliereticino.ch/fr/evenements/tessin/agno/festa-dautunno-2026-10-03/)
 - [Insubria Rowing Cup 2026 2026 10 04](https://frontaliereticino.ch/fr/evenements/tessin/agno/insubria-rowing-cup-2026-2026-10-04/)
-- [Airolo](https://frontaliereticino.ch/fr/evenements/tessin/airolo/)
 - [Eco Il Richiamo Della Montagna 2026 10 11](https://frontaliereticino.ch/fr/evenements/tessin/airolo/eco-il-richiamo-della-montagna-2026-10-11/)
 - [Un Viaggio Nel Cosmo Planetario Ad Airolo 2026 10 14](https://frontaliereticino.ch/fr/evenements/tessin/airolo/un-viaggio-nel-cosmo-planetario-ad-airolo-2026-10-14/)
 - [Ascona](https://frontaliereticino.ch/fr/evenements/tessin/ascona/)
