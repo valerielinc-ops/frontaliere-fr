@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 24435 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 24431 pages.
 
 ### Tax & Salary Calculators (460 pages)
 
@@ -5548,7 +5548,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (18940 pages)
+### Other Pages (18936 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -8071,6 +8071,7 @@
 - [Page 9](https://frontaliereticino.ch/fr/articles-suisse/sujets/franc-et-prix/page-9/)
 - [Frontiere Et Douane](https://frontaliereticino.ch/fr/articles-suisse/sujets/frontiere-et-douane/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/frontiere-et-douane/page-2/)
+- [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/frontiere-et-douane/page-3/)
 - [Impots](https://frontaliereticino.ch/fr/articles-suisse/sujets/impots/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-suisse/sujets/impots/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-suisse/sujets/impots/page-3/)
@@ -8559,7 +8560,6 @@
 - [Clienia Ag](https://frontaliereticino.ch/fr/aziende/clienia-ag/)
 - [Climeworks](https://frontaliereticino.ch/fr/aziende/climeworks/)
 - [Clinica Holistica Engiadina](https://frontaliereticino.ch/fr/aziende/clinica-holistica-engiadina/)
-- [Clinique De Genolier](https://frontaliereticino.ch/fr/aziende/clinique-de-genolier/)
 - [Clinique De La Source](https://frontaliereticino.ch/fr/aziende/clinique-de-la-source/)
 - [Clinique De Montchoisi](https://frontaliereticino.ch/fr/aziende/clinique-de-montchoisi/)
 - [Clinique Le Noirmont](https://frontaliereticino.ch/fr/aziende/clinique-le-noirmont/)
@@ -8707,7 +8707,6 @@
 - [Hitzberger](https://frontaliereticino.ch/fr/aziende/hitzberger/)
 - [Hoch Health Ostschweiz](https://frontaliereticino.ch/fr/aziende/hoch-health-ostschweiz/)
 - [Hochgebirgsklinik Davos](https://frontaliereticino.ch/fr/aziende/hochgebirgsklinik-davos/)
-- [Hof Weissbad Ag](https://frontaliereticino.ch/fr/aziende/hof-weissbad-ag/)
 - [Holcim Group](https://frontaliereticino.ch/fr/aziende/holcim-group/)
 - [Holmes Place](https://frontaliereticino.ch/fr/aziende/holmes-place/)
 - [Honegger Ag](https://frontaliereticino.ch/fr/aziende/honegger-ag/)
@@ -8861,13 +8860,11 @@
 - [Montagetechnik Berner Ag](https://frontaliereticino.ch/fr/aziende/montagetechnik-berner-ag/)
 - [Msc Group](https://frontaliereticino.ch/fr/aziende/msc-group/)
 - [Neo Pro Conseils Sa](https://frontaliereticino.ch/fr/aziende/neo-pro-conseils-sa/)
-- [Nestle](https://frontaliereticino.ch/fr/aziende/nestle/)
 - [New Yorker](https://frontaliereticino.ch/fr/aziende/new-yorker/)
 - [Nord Anglia Education Switzerland](https://frontaliereticino.ch/fr/aziende/nord-anglia-education-switzerland/)
 - [Novartis](https://frontaliereticino.ch/fr/aziende/novartis/)
 - [Novelis](https://frontaliereticino.ch/fr/aziende/novelis/)
 - [Nsn Medical Group](https://frontaliereticino.ch/fr/aziende/nsn-medical-group/)
-- [Nvidia Ufficio Zurich](https://frontaliereticino.ch/fr/aziende/nvidia-ufficio-zurich/)
 - [Oberholzer Ag](https://frontaliereticino.ch/fr/aziende/oberholzer-ag/)
 - [Octapharma](https://frontaliereticino.ch/fr/aziende/octapharma/)
 - [Oerlikon](https://frontaliereticino.ch/fr/aziende/oerlikon/)
@@ -8993,7 +8990,6 @@
 - [Spitaler Schaffhausen](https://frontaliereticino.ch/fr/aziende/spitaler-schaffhausen/)
 - [Spitalverbund Appenzell Ausserrhoden Svar](https://frontaliereticino.ch/fr/aziende/spitalverbund-appenzell-ausserrhoden-svar/)
 - [Spitalzentrum Biel Centre Hospitalier Bienne](https://frontaliereticino.ch/fr/aziende/spitalzentrum-biel-centre-hospitalier-bienne/)
-- [Spitex Bachtel Ag](https://frontaliereticino.ch/fr/aziende/spitex-bachtel-ag/)
 - [Spitex Basel](https://frontaliereticino.ch/fr/aziende/spitex-basel/)
 - [Spitex Rechtes Limmattal](https://frontaliereticino.ch/fr/aziende/spitex-rechtes-limmattal/)
 - [Spitex Zurich](https://frontaliereticino.ch/fr/aziende/spitex-zurich/)
