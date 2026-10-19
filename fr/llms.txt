@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 24998 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 25001 pages.
 
 ### Tax & Salary Calculators (460 pages)
 
@@ -5611,7 +5611,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (19440 pages)
+### Other Pages (19443 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -9239,6 +9239,9 @@
 - [Emplois Infirmiers Suisse](https://frontaliereticino.ch/fr/emplois-infirmiers-suisse/)
 - [Emplois Sante Tessin](https://frontaliereticino.ch/fr/emplois-sante-tessin/)
 - [Toutes](https://frontaliereticino.ch/fr/entreprises-qui-recrutent/toutes/)
+- [Page 2](https://frontaliereticino.ch/fr/entreprises-qui-recrutent/toutes/page-2/)
+- [Page 3](https://frontaliereticino.ch/fr/entreprises-qui-recrutent/toutes/page-3/)
+- [Page 4](https://frontaliereticino.ch/fr/entreprises-qui-recrutent/toutes/page-4/)
 - [Etat Api](https://frontaliereticino.ch/fr/etat-api/)
 - [Evenements](https://frontaliereticino.ch/fr/evenements/)
 - [Appenzell](https://frontaliereticino.ch/fr/evenements/appenzell/)
