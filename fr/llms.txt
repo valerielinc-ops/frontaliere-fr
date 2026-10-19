@@ -968,7 +968,7 @@
 - [Page Index 8](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/fr/trouver-emploi-zurich/tous/page-index-9/)
 
-### Blog Articles (4595 pages)
+### Blog Articles (4596 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -4668,6 +4668,7 @@
 - [Page 6](https://frontaliereticino.ch/fr/articles-frontalier/sujets/travail-et-emploi/page-6/)
 - [Page 7](https://frontaliereticino.ch/fr/articles-frontalier/sujets/travail-et-emploi/page-7/)
 - [Page 8](https://frontaliereticino.ch/fr/articles-frontalier/sujets/travail-et-emploi/page-8/)
+- [Page 9](https://frontaliereticino.ch/fr/articles-frontalier/sujets/travail-et-emploi/page-9/)
 - [Sun Valley Festival Malvaglia 2026](https://frontaliereticino.ch/fr/articles-frontalier/sun-valley-festival-malvaglia-2026/)
 - [Sunrise Integre Hbb Ssr 2026](https://frontaliereticino.ch/fr/articles-frontalier/sunrise-integre-hbb-ssr-2026/)
 - [Sunrise Suppression Postes Restructuration](https://frontaliereticino.ch/fr/articles-frontalier/sunrise-suppression-postes-restructuration/)
@@ -5611,7 +5612,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (19443 pages)
+### Other Pages (19442 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -8622,7 +8623,6 @@
 - [Bobst](https://frontaliereticino.ch/fr/aziende/bobst/)
 - [Bosch Thermotechnik Ag](https://frontaliereticino.ch/fr/aziende/bosch-thermotechnik-ag/)
 - [Bossard Group](https://frontaliereticino.ch/fr/aziende/bossard-group/)
-- [Botschi Ag Feuer Luft Wasser](https://frontaliereticino.ch/fr/aziende/botschi-ag-feuer-luft-wasser/)
 - [Bps Banca Popolare Di Sondrio Suisse](https://frontaliereticino.ch/fr/aziende/bps-banca-popolare-di-sondrio-suisse/)
 - [Brack Alltron Ag](https://frontaliereticino.ch/fr/aziende/brack-alltron-ag/)
 - [Breitling](https://frontaliereticino.ch/fr/aziende/breitling/)
