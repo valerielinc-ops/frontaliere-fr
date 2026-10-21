@@ -8,7 +8,7 @@
 - **Name**: Frontaliere Ticino
 - **Language**: French (this file) — also available in Italian (primary), English, German
 - **Type**: Free web application, no registration required
-- **Index Generated**: 2026-10-20
+- **Index Generated**: 2026-10-21
 - **Audience**: Travailleurs frontaliers francophones faisant la navette entre l'Italie et la Suisse (Tessin, Grisons, Valais)
 - **Sources**: See source links and publication dates in the full reference; generating this index does not re-verify those sources.
 
@@ -2400,6 +2400,7 @@
 - [Enfants Visitent Carabiniers Como 2026](https://frontaliereticino.ch/fr/articles-frontalier/enfants-visitent-carabiniers-como-2026/)
 - [Enquete Accident Cassano](https://frontaliereticino.ch/fr/articles-frontalier/enquete-accident-cassano/)
 - [Enquete Arbitres Roccchi Inter Roma](https://frontaliereticino.ch/fr/articles-frontalier/enquete-arbitres-roccchi-inter-roma/)
+- [Enquete Cisl Travailleurs Frontaliers 2026](https://frontaliereticino.ch/fr/articles-frontalier/enquete-cisl-travailleurs-frontaliers-2026/)
 - [Enquete Disparites Salariales Frontaliers](https://frontaliereticino.ch/fr/articles-frontalier/enquete-disparites-salariales-frontaliers/)
 - [Enquete Mort Pierina Buffon](https://frontaliereticino.ch/fr/articles-frontalier/enquete-mort-pierina-buffon/)
 - [Enquete Services De Securite Crans Montana 2026](https://frontaliereticino.ch/fr/articles-frontalier/enquete-services-de-securite-crans-montana-2026/)
@@ -3162,6 +3163,7 @@
 - [Interdiction Smartphone Ecole Tessin](https://frontaliereticino.ch/fr/articles-frontalier/interdiction-smartphone-ecole-tessin/)
 - [Interdiction Smartphone Ecoles Tessin 2026](https://frontaliereticino.ch/fr/articles-frontalier/interdiction-smartphone-ecoles-tessin-2026/)
 - [Internationaux Tessin 2026](https://frontaliereticino.ch/fr/articles-frontalier/internationaux-tessin-2026/)
+- [Interpellation Wicht Clause Sauvegarde Regionale](https://frontaliereticino.ch/fr/articles-frontalier/interpellation-wicht-clause-sauvegarde-regionale/)
 - [Interpharma Clausola Mfn Difficulte](https://frontaliereticino.ch/fr/articles-frontalier/interpharma-clausola-mfn-difficulte/)
 - [Interpretation Releve Bancaire 2026](https://frontaliereticino.ch/fr/articles-frontalier/interpretation-releve-bancaire-2026/)
 - [Interroll Acquiert Royal Apollo Group](https://frontaliereticino.ch/fr/articles-frontalier/interroll-acquiert-royal-apollo-group/)
@@ -4552,7 +4554,6 @@
 - [Famille Et Ecole](https://frontaliereticino.ch/fr/articles-frontalier/sujets/famille-et-ecole/)
 - [Page 10](https://frontaliereticino.ch/fr/articles-frontalier/sujets/famille-et-ecole/page-10/)
 - [Page 11](https://frontaliereticino.ch/fr/articles-frontalier/sujets/famille-et-ecole/page-11/)
-- [Page 12](https://frontaliereticino.ch/fr/articles-frontalier/sujets/famille-et-ecole/page-12/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-frontalier/sujets/famille-et-ecole/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/famille-et-ecole/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/famille-et-ecole/page-4/)
@@ -4624,7 +4625,6 @@
 - [Page 2](https://frontaliereticino.ch/fr/articles-frontalier/sujets/permis-g/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/permis-g/page-3/)
 - [Page 4](https://frontaliereticino.ch/fr/articles-frontalier/sujets/permis-g/page-4/)
-- [Page 5](https://frontaliereticino.ch/fr/articles-frontalier/sujets/permis-g/page-5/)
 - [Retraites Avs Lpp](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/)
 - [Page 2](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/page-2/)
 - [Page 3](https://frontaliereticino.ch/fr/articles-frontalier/sujets/retraites-avs-lpp/page-3/)
@@ -6175,6 +6175,7 @@
 - [Chute Chomage Suisse Deuxieme Trimestre 2026](https://frontaliereticino.ch/fr/articles-suisse/chute-chomage-suisse-deuxieme-trimestre-2026/)
 - [Cicor Plan Efficacite Reduction Emplois](https://frontaliereticino.ch/fr/articles-suisse/cicor-plan-efficacite-reduction-emplois/)
 - [Ciels Encombres Ete 2026](https://frontaliereticino.ch/fr/articles-suisse/ciels-encombres-ete-2026/)
+- [Circulaire 221 Deduction Enfant 2027](https://frontaliereticino.ch/fr/articles-suisse/circulaire-221-deduction-enfant-2027/)
 - [Citoyennete Suisse Travailleurs Frontaliers Exigences](https://frontaliereticino.ch/fr/articles-suisse/citoyennete-suisse-travailleurs-frontaliers-exigences/)
 - [Clariant Victoire Un Milliard](https://frontaliereticino.ch/fr/articles-suisse/clariant-victoire-un-milliard/)
 - [Classement Innovation Suisse](https://frontaliereticino.ch/fr/articles-suisse/classement-innovation-suisse/)
@@ -12214,7 +12215,6 @@
 - [Ungerwax Un Concerto Commentato 2026 10 13](https://frontaliereticino.ch/fr/evenements/berne/interlaken/ungerwax-un-concerto-commentato-2026-10-13/)
 - [Volksschlager Nacht 2026 10 17](https://frontaliereticino.ch/fr/evenements/berne/interlaken/volksschlager-nacht-2026-10-17/)
 - [Walter Und Christine Blatti Im Schlosskeller 2026 11 15](https://frontaliereticino.ch/fr/evenements/berne/interlaken/walter-und-christine-blatti-im-schlosskeller-2026-11-15/)
-- [Iseltwald](https://frontaliereticino.ch/fr/evenements/berne/iseltwald/)
 - [Vortrag Uber Die Wechseljahre 2026 10 20](https://frontaliereticino.ch/fr/evenements/berne/iseltwald/vortrag-uber-die-wechseljahre-2026-10-20/)
 - [Ittigen](https://frontaliereticino.ch/fr/evenements/berne/ittigen/)
 - [Shrizz N Maze Feat Greg Boyer 2026 10 30](https://frontaliereticino.ch/fr/evenements/berne/ittigen/shrizz-n-maze-feat-greg-boyer-2026-10-30/)
@@ -16300,7 +16300,6 @@
 - [Helga Schneider Ich Weiss 2027 05 08](https://frontaliereticino.ch/fr/evenements/lucerne/buchrain/helga-schneider-ich-weiss-2027-05-08/)
 - [Ce Week End](https://frontaliereticino.ch/fr/evenements/lucerne/ce-week-end/)
 - [Cette Semaine](https://frontaliereticino.ch/fr/evenements/lucerne/cette-semaine/)
-- [Ebikon](https://frontaliereticino.ch/fr/evenements/lucerne/ebikon/)
 - [Flohmarkt 2026 10 10](https://frontaliereticino.ch/fr/evenements/lucerne/ebikon/flohmarkt-2026-10-10/)
 - [Oktoberfest Ebikon 2026 10 10](https://frontaliereticino.ch/fr/evenements/lucerne/ebikon/oktoberfest-ebikon-2026-10-10/)
 - [Winter Qi Gong Inseli 2026 10 20](https://frontaliereticino.ch/fr/evenements/lucerne/ebikon/winter-qi-gong-inseli-2026-10-20/)
@@ -19018,6 +19017,7 @@
 - [Page 4](https://frontaliereticino.ch/fr/evenements/tessin/archives/page-4/)
 - [Page 40](https://frontaliereticino.ch/fr/evenements/tessin/archives/page-40/)
 - [Page 41](https://frontaliereticino.ch/fr/evenements/tessin/archives/page-41/)
+- [Page 42](https://frontaliereticino.ch/fr/evenements/tessin/archives/page-42/)
 - [Page 5](https://frontaliereticino.ch/fr/evenements/tessin/archives/page-5/)
 - [Page 6](https://frontaliereticino.ch/fr/evenements/tessin/archives/page-6/)
 - [Page 7](https://frontaliereticino.ch/fr/evenements/tessin/archives/page-7/)
