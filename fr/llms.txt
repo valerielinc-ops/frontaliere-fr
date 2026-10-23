@@ -8,7 +8,7 @@
 - **Name**: Frontaliere Ticino
 - **Language**: French (this file) — also available in Italian (primary), English, German
 - **Type**: Free web application, no registration required
-- **Index Generated**: 2026-10-22
+- **Index Generated**: 2026-10-23
 - **Audience**: Travailleurs frontaliers francophones faisant la navette entre l'Italie et la Suisse (Tessin, Grisons, Valais)
 - **Sources**: See source links and publication dates in the full reference; generating this index does not re-verify those sources.
 
@@ -5765,6 +5765,7 @@
 - [Aides Etudes Valais Guide](https://frontaliereticino.ch/fr/articles-suisse/aides-etudes-valais-guide/)
 - [Aides Sociales Aux Refugies Ukrainiens Avis Partages](https://frontaliereticino.ch/fr/articles-suisse/aides-sociales-aux-refugies-ukrainiens-avis-partages/)
 - [Air Baltic Suppressions Swiss](https://frontaliereticino.ch/fr/articles-suisse/air-baltic-suppressions-swiss/)
+- [Ajustement Rentes Survivants Invalides 2027](https://frontaliereticino.ch/fr/articles-suisse/ajustement-rentes-survivants-invalides-2027/)
 - [Alcon Resultats Q2 2026](https://frontaliereticino.ch/fr/articles-suisse/alcon-resultats-q2-2026/)
 - [Alerte Medecins Frontaliers Tessin](https://frontaliereticino.ch/fr/articles-suisse/alerte-medecins-frontaliers-tessin/)
 - [Alertes Population Cell Broadcast](https://frontaliereticino.ch/fr/articles-suisse/alertes-population-cell-broadcast/)
@@ -16082,7 +16083,6 @@
 - [Westernkurs Mit Julie Hossmann 2026 10 17](https://frontaliereticino.ch/fr/evenements/grisons/scuol/westernkurs-mit-julie-hossmann-2026-10-17/)
 - [Seewis Im Prattigau](https://frontaliereticino.ch/fr/evenements/grisons/seewis-im-prattigau/)
 - [Dankstell Ein Moment Des Innahltens 2026 09 27](https://frontaliereticino.ch/fr/evenements/grisons/seewis-im-prattigau/dankstell-ein-moment-des-innahltens-2026-09-27/)
-- [Sils Im Domleschg](https://frontaliereticino.ch/fr/evenements/grisons/sils-im-domleschg/)
 - [Bike Treff 2026 08 06](https://frontaliereticino.ch/fr/evenements/grisons/sils-im-domleschg/bike-treff-2026-08-06/)
 - [Rennvelo Treff 2026 08 10](https://frontaliereticino.ch/fr/evenements/grisons/sils-im-domleschg/rennvelo-treff-2026-08-10/)
 - [Sils Im Engadin Segl](https://frontaliereticino.ch/fr/evenements/grisons/sils-im-engadin-segl/)
@@ -16526,7 +16526,6 @@
 - [Tanzweekend 2026 10 16](https://frontaliereticino.ch/fr/evenements/lucerne/fluhli/tanzweekend-2026-10-16/)
 - [Theater Deeply In Love 2026 09 25](https://frontaliereticino.ch/fr/evenements/lucerne/fluhli/theater-deeply-in-love-2026-09-25/)
 - [Yoga Sphere Retreat 2026 11 06](https://frontaliereticino.ch/fr/evenements/lucerne/fluhli/yoga-sphere-retreat-2026-11-06/)
-- [Gisikon](https://frontaliereticino.ch/fr/evenements/lucerne/gisikon/)
 - [Wild Wine Goldenits 2026 10 22](https://frontaliereticino.ch/fr/evenements/lucerne/gisikon/wild-wine-goldenits-2026-10-22/)
 - [Greppen](https://frontaliereticino.ch/fr/evenements/lucerne/greppen/)
 - [Castagna Chilbi Greppen 2026 10 25](https://frontaliereticino.ch/fr/evenements/lucerne/greppen/castagna-chilbi-greppen-2026-10-25/)
@@ -19236,6 +19235,7 @@
 - [Page 41](https://frontaliereticino.ch/fr/evenements/tessin/archives/page-41/)
 - [Page 42](https://frontaliereticino.ch/fr/evenements/tessin/archives/page-42/)
 - [Page 43](https://frontaliereticino.ch/fr/evenements/tessin/archives/page-43/)
+- [Page 44](https://frontaliereticino.ch/fr/evenements/tessin/archives/page-44/)
 - [Page 5](https://frontaliereticino.ch/fr/evenements/tessin/archives/page-5/)
 - [Page 6](https://frontaliereticino.ch/fr/evenements/tessin/archives/page-6/)
 - [Page 7](https://frontaliereticino.ch/fr/evenements/tessin/archives/page-7/)
