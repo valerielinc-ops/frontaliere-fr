@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 40240 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 40242 pages.
 
 ### Tax & Salary Calculators (460 pages)
 
@@ -14061,6 +14061,7 @@
 - [Expediteur Casale Sa Lugano Ticino](https://frontaliereticino.ch/fr/trouver-emploi-tessin/expediteur-casale-sa-lugano-ticino/)
 - [Expert Medical Sam Avec Specialisation En Psychiatrie Et Psychotherapie Eoc Ente Ospedaliero Cantonale Bellinzona](https://frontaliereticino.ch/fr/trouver-emploi-tessin/expert-medical-sam-avec-specialisation-en-psychiatrie-et-psychotherapie-eoc-ente-ospedaliero-cantonale-bellinzona/)
 - [Facility Technicien Agie Charmilles Sa Losone](https://frontaliereticino.ch/fr/trouver-emploi-tessin/facility-technicien-agie-charmilles-sa-losone/)
+- [Farmacista Farmacia Internazionale Dr Merloni Chiasso](https://frontaliereticino.ch/fr/trouver-emploi-tessin/farmacista-farmacia-internazionale-dr-merloni-chiasso/)
 - [Finance Accounting Integration Specialist Damiani Group Mendrisio](https://frontaliereticino.ch/fr/trouver-emploi-tessin/finance-accounting-integration-specialist-damiani-group-mendrisio/)
 - [Finance Master Data Specialiste Business Partner Ermenegildo Zegna Group Stabio](https://frontaliereticino.ch/fr/trouver-emploi-tessin/finance-master-data-specialiste-business-partner-ermenegildo-zegna-group-stabio/)
 - [Firmware Embedded Developpeur Delvitech Sa Mendrisio](https://frontaliereticino.ch/fr/trouver-emploi-tessin/firmware-embedded-developpeur-delvitech-sa-mendrisio/)
@@ -14307,7 +14308,6 @@
 - [Pfc Adjoint Au Commerce De Detail Coop Castione Fcce9e](https://frontaliereticino.ch/fr/trouver-emploi-tessin/pfc-adjoint-au-commerce-de-detail-coop-castione-fcce9e/)
 - [Pfc Adjoint Au Commerce De Detail Coop Castione Fe5af9](https://frontaliereticino.ch/fr/trouver-emploi-tessin/pfc-adjoint-au-commerce-de-detail-coop-castione-fe5af9/)
 - [Pharmaceutique](https://frontaliereticino.ch/fr/trouver-emploi-tessin/pharmaceutique/)
-- [Pharmacien Farmacia Internazionale Dr Merloni Chiasso](https://frontaliereticino.ch/fr/trouver-emploi-tessin/pharmacien-farmacia-internazionale-dr-merloni-chiasso/)
 - [Pharmaciens](https://frontaliereticino.ch/fr/trouver-emploi-tessin/pharmaciens/)
 - [Phd Phd En Informatique Interaction Homme Ordinateur Avec L Accent Sur La Validite Et La Facilite D Utilisation Des](https://frontaliereticino.ch/fr/trouver-emploi-tessin/phd-phd-en-informatique-interaction-homme-ordinateur-avec-l-accent-sur-la-validite-et-la-facilite-d-utilisation-des/)
 - [Physiotherapeute Diplome 100 Eoc Ente Ospedaliero Cantonale Novaggio](https://frontaliereticino.ch/fr/trouver-emploi-tessin/physiotherapeute-diplome-100-eoc-ente-ospedaliero-cantonale-novaggio/)
@@ -22936,7 +22936,7 @@
 - [Zukunftige Fuhrungskraft Im Vente Kadernachwuchsprogramm Genossenschaft Migros Zurich Affoltern Am Albis Lnxl6u](https://frontaliereticino.ch/fr/trouver-emploi-zurich/zukunftige-fuhrungskraft-im-vente-kadernachwuchsprogramm-genossenschaft-migros-zurich-affoltern-am-albis-lnxl6u/)
 - [Zukunftige Fuhrungskraft Im Vente Kadernachwuchsprogramm Genossenschaft Migros Zurich Regensdorf Fhibwc](https://frontaliereticino.ch/fr/trouver-emploi-zurich/zukunftige-fuhrungskraft-im-vente-kadernachwuchsprogramm-genossenschaft-migros-zurich-regensdorf-fhibwc/)
 
-### Blog Articles (4495 pages)
+### Blog Articles (4496 pages)
 
 - [Articles Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/)
 - [139 Frontaliers Tessin Special Olympics](https://frontaliereticino.ch/fr/articles-frontalier/139-frontaliers-tessin-special-olympics/)
@@ -23773,6 +23773,7 @@
 - [Chiasso Urbanisme Telecoms](https://frontaliereticino.ch/fr/articles-frontalier/chiasso-urbanisme-telecoms/)
 - [Chiasso Valeur Economique Aggregation](https://frontaliereticino.ch/fr/articles-frontalier/chiasso-valeur-economique-aggregation/)
 - [Chiasso Verde Suffisant](https://frontaliereticino.ch/fr/articles-frontalier/chiasso-verde-suffisant/)
+- [Chiasso Via Motta Emplois](https://frontaliereticino.ch/fr/articles-frontalier/chiasso-via-motta-emplois/)
 - [Chiavenna Grisons Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/chiavenna-grisons-frontalier/)
 - [Chien Mort Voie Ferree Terrain Foot](https://frontaliereticino.ch/fr/articles-frontalier/chien-mort-voie-ferree-terrain-foot/)
 - [Chiesa Valmalenco Grisons Frontalier](https://frontaliereticino.ch/fr/articles-frontalier/chiesa-valmalenco-grisons-frontalier/)
@@ -27479,7 +27480,7 @@
 - [Tredicesima](https://frontaliereticino.ch/fr/glossaire-frontalier/tredicesima/)
 - [Troisieme Pilier](https://frontaliereticino.ch/fr/glossaire-frontalier/troisieme-pilier/)
 
-### Other Pages (12814 pages)
+### Other Pages (12815 pages)
 
 - [Fr](https://frontaliereticino.ch/fr/)
 - [A Propos](https://frontaliereticino.ch/fr/a-propos/)
@@ -29903,6 +29904,7 @@
 - [Sistema Scolastico Canton Obwald Iscrizione E Cicli Fr](https://frontaliereticino.ch/fr/articles-suisse/sistema-scolastico-canton-obwald-iscrizione-e-cicli-fr/)
 - [Sistema Scolastico Canton Zurich Iscrizione E Cicli](https://frontaliereticino.ch/fr/articles-suisse/sistema-scolastico-canton-zurich-iscrizione-e-cicli/)
 - [Situation Salariale Suisse Augmentation 2026](https://frontaliereticino.ch/fr/articles-suisse/situation-salariale-suisse-augmentation-2026/)
+- [Six Mesures Couts Sanitaires](https://frontaliereticino.ch/fr/articles-suisse/six-mesures-couts-sanitaires/)
 - [Skyguide 50 Licenciements Consultation](https://frontaliereticino.ch/fr/articles-suisse/skyguide-50-licenciements-consultation/)
 - [Skyguide Juillet 2026 Record Vols](https://frontaliereticino.ch/fr/articles-suisse/skyguide-juillet-2026-record-vols/)
 - [Skyguide Licenciements 50 Restructuration](https://frontaliereticino.ch/fr/articles-suisse/skyguide-licenciements-50-restructuration/)
