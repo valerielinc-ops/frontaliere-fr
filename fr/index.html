@@ -214,9 +214,10 @@
          demand) must appear only when the visitor clicks "Candidati" on a
          job-board section. Funding Choices calls this twice per page view;
          on the job board the call that carries OFFERWALL is held and released
-         by services/offerwallClickGate.ts. The gate suppresses only the
-         Offerwall message, leaving Google's native AD_BLOCKING recovery and
-         consent messages available. Readable twin of
+         by services/offerwallClickGate.ts. The gate suppresses AD_BLOCKING
+         while leaving consent and other Funding Choices messages available;
+         the first-party recovery offers the application service to visitors.
+         Readable twin of
          FC_JOBBOARD_OFFERWALL_GATE_JS
          (build-plugins/constants.ts); tests/offerwall-click-gate-parity.test.ts
          executes both and pins this path regex to
@@ -349,11 +350,14 @@
         }
         function handleControlledMessaging(message, previous){
           var E = g.MessageTypeEnum || {};
-          // The first call arrives with an empty enum and must proceed at
-          // once: holding it delays the CMP and the display ads. If a later
-          // call is still unclassified, fail closed because the Offerwall
-          // cannot be suppressed by type without its enum value. The live
-          // enum values are strings ("offerwall"); a number is accepted too.
+          if (typeof E.AD_BLOCKING === 'number' || typeof E.AD_BLOCKING === 'string') {
+            previous = mergeDecisions(previous, { allow: false, types: [E.AD_BLOCKING] });
+          }
+          // The first call may arrive before the Offerwall enum and must not
+          // wait: holding it delays the CMP and display ads. If AD_BLOCKING is
+          // already typed, filter only that type even before OFFERWALL is
+          // typed. Later unclassified calls fail closed because the Offerwall
+          // cannot be suppressed by type without its enum value.
           if (typeof E.OFFERWALL !== 'number' && typeof E.OFFERWALL !== 'string') {
             if (g.__ftOfferwallBootstrapComplete) {
               deliver(message, previous, { allow: false });
@@ -543,7 +547,7 @@ g.callbackQueue.push({'CONSENT_DATA_READY':function(){if(typeof window.__tcfapi!
 <script defer data-cfasync="false" src="https://cdn.frontaliereticino.ch/assets/site-support.js"></script>
   <script type="module" crossorigin fetchpriority="high" src="https://cdn.frontaliereticino.ch/assets/index-entry.js"></script>
   <link rel="preload" as="style" crossorigin href="https://cdn.frontaliereticino.ch/assets/index.css" data-clarity-unmask="true"><link rel="stylesheet" crossorigin href="https://cdn.frontaliereticino.ch/assets/index.css" media="print" onload="this.media='all'" data-clarity-unmask="true"><noscript><link rel="stylesheet" crossorigin href="https://cdn.frontaliereticino.ch/assets/index.css" data-clarity-unmask="true"></noscript>
- <meta name="ft-build-id" content="1794729989265">
+ <meta name="ft-build-id" content="1794779009882">
 <!-- Meta Pixel Code -->
 <script defer src="https://cdn.frontaliereticino.ch/assets/meta-pixel-base-code.js"></script>
 <!-- End Meta Pixel Code -->
