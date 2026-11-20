@@ -223,16 +223,16 @@ R : Comparez l’offre réelle après impôts, assurances, trajets et coût de l
 
 ## Page Index (Auto-Generated Summary)
 
-- **Index Generated**: 2026-11-19
-- **Pages in this language**: 47745
+- **Index Generated**: 2026-11-20
+- **Pages in this language**: 47563
 - **Tax & Salary Calculators**: 460 pages
 - **Service Comparators**: 9 pages
 - **Tax & Pension**: 13 pages
 - **Practical Guides**: 20 pages
 - **Life in Ticino**: 334 pages
 - **Statistics**: 10 pages
-- **Job Board**: 26240 pages
+- **Job Board**: 25948 pages
 - **Blog pages, hubs and archives**: 4440 pages
 - **Glossary**: 42 pages
-- **Other Pages**: 16177 pages
+- **Other Pages**: 16287 pages
 - **Full URL index**: [/llms-index.txt](https://frontaliereticino.ch/llms-index.txt)
