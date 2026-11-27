@@ -284,7 +284,8 @@
           w.state = 'held';
           w.release = function(showOfferwall){
             if (w.state !== 'held') return false;
-            var show = showOfferwall !== false;
+            if (showOfferwall !== false && window.__ftFcAdBlockBridge && !window.__ftAdBlock) return false;
+            var show = showOfferwall !== false && !adBlockConfirmed();
             w.state = show ? 'released' : 'suppressed';
             var h = w.held.splice(0);
             for (var i = 0; i < h.length; i++) {
@@ -552,7 +553,7 @@ g.callbackQueue.push({'CONSENT_DATA_READY':function(){if(!tcfApiReady&&typeof wi
 <script defer data-cfasync="false" src="https://cdn.frontaliereticino.ch/assets/site-support.js"></script>
   <script type="module" crossorigin fetchpriority="high" src="https://cdn.frontaliereticino.ch/assets/index-entry.js"></script>
   <link rel="preload" as="style" crossorigin href="https://cdn.frontaliereticino.ch/assets/index.css" data-clarity-unmask="true"><link rel="stylesheet" crossorigin href="https://cdn.frontaliereticino.ch/assets/index.css" media="print" onload="this.media='all'" data-clarity-unmask="true"><noscript><link rel="stylesheet" crossorigin href="https://cdn.frontaliereticino.ch/assets/index.css" data-clarity-unmask="true"></noscript>
- <meta name="ft-build-id" content="1795749771944">
+ <meta name="ft-build-id" content="1795766234874">
 <!-- Meta Pixel Code -->
 <script defer src="https://cdn.frontaliereticino.ch/assets/meta-pixel-base-code.js"></script>
 <!-- End Meta Pixel Code -->
